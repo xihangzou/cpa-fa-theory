@@ -1,5 +1,8 @@
 {
   "status": "PASS",
+  "plan_id": "cpa-fa-theory-jpg-md-20260905",
+  "revision": 2,
+  "revision_note": "T3 inventory staging criterion reconciled with the actual canonical source filenames; graph validation unchanged.",
   "positive_graph_issue_count": 226,
   "negative_graph_checks": [
     {

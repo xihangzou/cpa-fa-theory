@@ -1,6 +1,7 @@
 {
   "plan_id": "cpa-fa-theory-jpg-md-20260905",
-  "revision": 1,
+  "revision": 2,
+  "revision_note": "Revision 2 (2026-09-05): T3 already uses canonical page-NNN.jpg filenames. Its inventory issue now requires byte-identical canonical staging/cache copies without renaming originals; graph, ranges, schema, and other issue scopes are unchanged.",
   "repository": "xihangzou/cpa-fa-theory",
   "visibility": "public",
   "delivery_branch": "main",
@@ -5159,7 +5160,7 @@
         "Ignored canonical image cache (local only)"
       ],
       "acceptance": [
-        "Existing image filenames contain a Japanese prefix and fail the helper's page-NNN.jpg-only input rule. Stage byte-identical renamed copies in ignored project/T3/local-staging/, then ingest to the local ignored canonical cache. Never rename or overwrite the designated originals, and never re-render the existing JPGs.",
+        "Verify that the designated T3 images already satisfy the helper's page-NNN.jpg-only input rule. Stage byte-identical copies with the same canonical names in ignored project/T3/local-staging/, then ingest that staging directory into the ignored project/T3/pages/T3 cache. Preserve the designated originals: never rename, overwrite or re-render them. Record the exact original-to-cache mapping and hashes; if a noncanonical file is encountered, stop and report the source mismatch rather than inventing a rename.",
         "Account for all 344 physical pages; verify source identity/order/dimensions/orientation/legibility and preserve originals. Every source and cached image has its actual SHA-256; no missing/duplicate number or unexpected file is ignored.",
         "Populate sources.json with explicit per-page printed labels (including part/chapter reset), include/exclude reasons, original identity and source-map.json with exact original filename to canonical cache filename. Do not infer a constant printed-page offset.",
         "Populate batches.json from the exact planned ranges. Included pages belong to one batch only. Metadata/blank/divider exclusions require image-backed reasons; chapter dividers with substantive meaning must retain that meaning.",

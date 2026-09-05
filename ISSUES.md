@@ -1,6 +1,6 @@
 # GitHub issue index
 
-Plan `cpa-fa-theory-jpg-md-20260905`, revision 1. Setup snapshot: 5 September 2026. No issue has been executed by this planning task.
+Plan `cpa-fa-theory-jpg-md-20260905`, revision 2. Setup snapshot: 5 September 2026. T3 inventory contract revised to match its canonical source filenames; no conversion issue has been executed.
 
 ## Initially ready
 

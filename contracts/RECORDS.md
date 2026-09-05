@@ -10,7 +10,7 @@ The original helper couples one image-processing task with one section chunk. CS
 
 Each `project/BOOK/sources.json` uses the supplied source/image fields: source ID, kind, origin and SHA-256, edition, optional rendering DPI, and `pages` with `id`, `pdf_page`, `printed_page`, project-relative canonical `image`, SHA-256, width, height, disposition and exclusion reason. `printed_page` is the actual printed label, qualified by source part/chapter where needed. Null means no printed label exists, never not yet checked on an accepted inventory.
 
-`source-map.json` records the exact local original folder/file and immutable baseline digest for each canonical `pages/BOOK/page-NNN.jpg` file. Include repeatable cache restoration instructions and byte-hash verification. Existing JPGs are copied/renamed byte-for-byte into an ignored staging directory because ingest accepts only `page-NNN.jpg` names. Never rename originals. CS alone uses the pinned PDF and records the renderer, version and 300 DPI render settings plus actual generated hashes. No fake future image hashes.
+`source-map.json` records the exact local original folder/file and immutable baseline digest for each canonical `pages/BOOK/page-NNN.jpg` file. Include repeatable cache restoration instructions and byte-hash verification. Existing JPGs are copied byte-for-byte into an ignored staging directory, preserving canonical names when already compatible and using renamed copies only in staging when needed, because ingest accepts only `page-NNN.jpg` names. Never rename originals. CS alone uses the pinned PDF and records the renderer, version and 300 DPI render settings plus actual generated hashes. No fake future image hashes.
 
 `batches.json` is an ordered array. Every row has:
 

@@ -16,7 +16,7 @@ A draft-only or review-only launch overrides the default completion actions. Rea
 
 ## Important source/layout facts
 
-- The three textbooks and two workbooks provide 1,758 existing JPGs. Their prefixed filenames need byte-preserving local staging before using ingest.
+- The three textbooks and two workbooks provide 1,758 existing JPGs. Filename handling is source-specific: verify the helper-compatible page-NNN.jpg rule first, then use byte-preserving local staging with canonical names where needed; never modify designated originals.
 - The compact summary provides only a 350-page PDF. Its inventory issue prepares and validates local JPGs before conversion.
 - Multiple source sections can share one physical page. [JPG-000's contract](contracts/RECORDS.md) retains one page-batch owner and separate section records; conversion cannot begin until the helper implements and proves this safely.
 - Raw source files, OCR scratch text, media and Anki packages are excluded from this public repository. Future Markdown stays under its separate `project/BOOK/` paths.
