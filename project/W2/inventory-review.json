@@ -2,7 +2,7 @@
   "source_id": "W2",
   "status": "pass",
   "reviewed_on": "2026-09-05",
-  "base_revision": "a62d278ae52faba8a97b49e08688e54ce2a466c2",
+  "base_revision": "8fd11caf4d3dfd6f29c584dc279b1199600379df",
   "planning_inputs": {
     "plan_id": "cpa-fa-theory-jpg-md-20260905",
     "plan_revision": 1,
@@ -40,13 +40,13 @@
     "result": "pass"
   },
   "source_filename_check": {
-    "issue_claim": "Japanese-prefix names fail the helper",
+    "issue_claim": "Noncanonical names fail the helper; canonical originals may be used directly",
     "observed_pattern": "page-NNN.jpg",
     "observed_count": 398,
-    "issue_precondition_observed": false,
-    "issue_text_mismatch": "The live issue's Japanese-prefix premise is not present in the verified designated source; no original was renamed or modified.",
+    "issue_precondition_observed": "not_applicable_to_current_source",
+    "issue_text_mismatch": null,
     "staging_action": "Byte-identical ignored staging copies were created anyway and ingested into the ignored canonical cache.",
-    "close_note": "Inventory is ready, but the stale issue wording is recorded for reconciliation before closing this issue."
+    "close_note": "Issue wording was revised to match the verified canonical source names; no source rename was required."
   },
   "inspection_summary": {
     "overview_contact_sheets": 16,
@@ -7158,10 +7158,10 @@
     {
       "id": "W2-SOURCE-ISSUE-NAMING-DRIFT",
       "severity": "note",
-      "status": "documented_not_blocking_inventory",
-      "description": "The issue says the designated images have a Japanese prefix, but all verified originals are already canonical page-NNN.jpg names.",
+      "status": "resolved_by_issue_revision",
+      "description": "The issue wording originally described a Japanese filename prefix, but all verified originals are canonical page-NNN.jpg names; the issue was revised to cover both cases.",
       "evidence": "All 398 actual filenames were enumerated and matched source-catalog.json; no Japanese-prefix filename exists in the designated folder.",
-      "required_resolution": "Reconcile the stale issue wording before closing the issue; no source change is required."
+      "required_resolution": "None; issue wording now matches the verified source state."
     },
     {
       "id": "W2-PRINTED-39-7",
@@ -7176,7 +7176,7 @@
   "semantic_conversion_status": "not_started",
   "chunks_or_merged_markdown_created": false,
   "output_digests": {
-    "project/W2/sources.json": "8d3b322ffd29a3711d1bd6b8be9fe7853fc5577d421c82dc0513e7c348db32ce",
+    "project/W2/sources.json": "85d02fa6fd47f8e9722addfe2880b3984114d8a7f443b29a3deee4d67d64458d",
     "project/W2/source-map.json": "09b1110117e1b0cb717866ece77048fe39ca7f517d06281e6604c2b146729442",
     "project/W2/batches.json": "cbcdbf3bed4e8ffec62ef5f1fc062548c848fa5a9d8b6c7ed2341d7695a9da26"
   },
@@ -7235,8 +7235,8 @@
       "reason": "Inventory issue stops before conversion."
     },
     "source_filename_precondition": {
-      "status": "documented_mismatch",
-      "blocking_for_issue_closure": true
+      "status": "pass",
+      "blocking_for_issue_closure": false
     }
   },
   "conversion_boundary": {
@@ -7244,6 +7244,6 @@
     "fragments_created": false,
     "merged_markdown_created": false,
     "tasks_modified": false,
-    "next_action": "Keep this issue open for the stale naming wording; do not launch conversion from this task."
+    "next_action": "Issue inventory scope is complete; downstream conversion remains a separate manually launched task."
   }
 }

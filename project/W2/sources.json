@@ -19,10 +19,11 @@
     "physical_page_count": 398,
     "source_filename_pattern": "page-NNN.jpg",
     "input_naming": {
-      "issue_expected": "Japanese-prefix JPG filenames rejected by the legacy helper",
+      "issue_expected": "If originals are noncanonical, the legacy helper requires byte-preserving staging copies; canonical originals may be used directly",
       "observed": "All 398 originals are already page-NNN.jpg",
       "helper_compatible": true,
-      "source_drift_documented": true,
+      "source_drift_documented": false,
+      "issue_wording_revised": true,
       "originals_renamed": false,
       "originals_overwritten": false
     },
