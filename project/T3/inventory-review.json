@@ -1,0 +1,4456 @@
+{
+  "source_id": "T3",
+  "issue_id": "JPG-T3-INV",
+  "inventory_contract_revision": 2,
+  "status": "pass",
+  "unresolved_count": 0,
+  "review_scope": "Source inventory, page ownership, printed-page mapping, exclusions, and batch-boundary readiness only. No learner-text conversion or semantic QA was performed.",
+  "review_date": "2026-09-05",
+  "repository_base_sha": "15f290a42d77b6bd9e02b1a019801683fc4a4af5",
+  "source_identity": {
+    "title": "財務会計論テキスト　理論3",
+    "edition": "2024/2025年合格目標",
+    "publication_date": "2023-02-28",
+    "pdf": {
+      "path": "/Users/xihangzou/Study/320_CPA/322_財務理論/01_テキスト/財務会計論テキスト　理論3.pdf",
+      "sha256": "1d9f0124a0c8ef759526decc90a1a410f694e2b7fa992b430fc413e783df85bc",
+      "physical_page_count": 344
+    },
+    "designated_image_folder": "/Users/xihangzou/Study/320_CPA/322_財務理論/images/cpa-fa-theory-textbook-3-jpg",
+    "designated_image_count": 344,
+    "image_inventory_sha256": "8e0709aa6cd2d086d9df18627ae7eb466c20cdb59474bbef26038f03d9d40b24",
+    "catalog_image_inventory_sha256": "af94a7c1f91d1eb56611afc242360566950d6f93d5a6ac7d5271c5e8d3f9d170",
+    "image_inventory_sha256_matches_catalog_entries": true,
+    "catalog_declared_digest_matches_entries": true,
+    "edition_evidence": {
+      "physical_page": 342,
+      "image": "pages/T3/page-342.jpg",
+      "observed_text": "財務会計論 理論 テキスト③ / 2024/2025年合格目標 / 2023年2月28日発行"
+    }
+  },
+  "source_validation": {
+    "canonical_input_rule": "page-NNN.jpg only",
+    "source_names": {
+      "count": 344,
+      "first": "page-001.jpg",
+      "last": "page-344.jpg",
+      "missing": [],
+      "unexpected": [],
+      "noncanonical": []
+    },
+    "catalog_comparison": {
+      "catalog_count": 344,
+      "source_count": 344,
+      "missing": [],
+      "unexpected": [],
+      "hash_mismatches": [],
+      "digest_match": true
+    },
+    "staging_copy": {
+      "count": 344,
+      "byte_identical_to_source": true,
+      "re_rendered": false,
+      "renamed_originals": false
+    },
+    "cache_ingest": {
+      "count": 344,
+      "byte_identical_to_source": true,
+      "hash_mismatches": [],
+      "missing": [],
+      "unexpected": []
+    },
+    "image_decode_and_geometry": {
+      "decoded_pages": 344,
+      "decode_failures": [],
+      "modes": {
+        "RGB": 344
+      },
+      "orientation": {
+        "portrait": 344,
+        "landscape_or_square": 0
+      },
+      "dimension_distribution": [
+        {
+          "width": 1378,
+          "height": 2026,
+          "count": 2
+        },
+        {
+          "width": 1378,
+          "height": 2028,
+          "count": 10
+        },
+        {
+          "width": 1378,
+          "height": 2029,
+          "count": 2
+        },
+        {
+          "width": 1378,
+          "height": 2030,
+          "count": 2
+        },
+        {
+          "width": 1378,
+          "height": 2031,
+          "count": 2
+        },
+        {
+          "width": 1378,
+          "height": 2032,
+          "count": 4
+        },
+        {
+          "width": 1379,
+          "height": 2026,
+          "count": 2
+        },
+        {
+          "width": 1379,
+          "height": 2027,
+          "count": 2
+        },
+        {
+          "width": 1379,
+          "height": 2028,
+          "count": 14
+        },
+        {
+          "width": 1379,
+          "height": 2029,
+          "count": 12
+        },
+        {
+          "width": 1379,
+          "height": 2030,
+          "count": 28
+        },
+        {
+          "width": 1379,
+          "height": 2031,
+          "count": 20
+        },
+        {
+          "width": 1379,
+          "height": 2032,
+          "count": 30
+        },
+        {
+          "width": 1379,
+          "height": 2033,
+          "count": 2
+        },
+        {
+          "width": 1379,
+          "height": 2034,
+          "count": 4
+        },
+        {
+          "width": 1380,
+          "height": 2026,
+          "count": 2
+        },
+        {
+          "width": 1380,
+          "height": 2028,
+          "count": 10
+        },
+        {
+          "width": 1380,
+          "height": 2029,
+          "count": 8
+        },
+        {
+          "width": 1380,
+          "height": 2030,
+          "count": 74
+        },
+        {
+          "width": 1380,
+          "height": 2031,
+          "count": 42
+        },
+        {
+          "width": 1380,
+          "height": 2032,
+          "count": 56
+        },
+        {
+          "width": 1380,
+          "height": 2034,
+          "count": 4
+        },
+        {
+          "width": 1381,
+          "height": 2028,
+          "count": 4
+        },
+        {
+          "width": 1381,
+          "height": 2031,
+          "count": 2
+        },
+        {
+          "width": 1381,
+          "height": 2032,
+          "count": 2
+        },
+        {
+          "width": 1381,
+          "height": 2033,
+          "count": 2
+        },
+        {
+          "width": 1382,
+          "height": 2034,
+          "count": 2
+        }
+      ],
+      "visual_review_result": "All 344 contact-sheet thumbnails were reviewed; all pages are upright portrait images. Full-size metadata pages and all 18 batch start/end pairs were reviewed; no corrupt, missing, or unreadable image was identified."
+    }
+  },
+  "printed_page_mapping": {
+    "method": "Read the actual front-matter markers and chapter-local footer labels from the images; verify each chapter's first and last body label and populate each intervening physical page explicitly. No constant physical-to-printed offset was assumed.",
+    "front_matter": [
+      {
+        "physical_page": 3,
+        "page_id": "T3:003",
+        "printed_page": "①",
+        "image": "pages/T3/page-003.jpg"
+      },
+      {
+        "physical_page": 4,
+        "page_id": "T3:004",
+        "printed_page": "②",
+        "image": "pages/T3/page-004.jpg"
+      },
+      {
+        "physical_page": 5,
+        "page_id": "T3:005",
+        "printed_page": "③",
+        "image": "pages/T3/page-005.jpg"
+      },
+      {
+        "physical_page": 6,
+        "page_id": "T3:006",
+        "printed_page": "④",
+        "image": "pages/T3/page-006.jpg"
+      }
+    ],
+    "chapter_resets": [
+      {
+        "chapter_key": "33",
+        "title": "金融商品に関する会計基準",
+        "chapter_overview_physical_page": 7,
+        "chapter_overview_printed_page": null,
+        "first_body_physical_page": 8,
+        "first_body_printed_page": "㉝－1",
+        "last_body_physical_page": 76,
+        "last_body_printed_page": "㉝－69",
+        "label_sequence": "㉝－1 through ㉝－69; every page label is explicitly stored in sources.json",
+        "section_anchor_physical_pages": [
+          9,
+          10,
+          12,
+          23,
+          25,
+          31,
+          46,
+          48,
+          49,
+          50,
+          67,
+          68,
+          72,
+          76
+        ]
+      },
+      {
+        "chapter_key": "34",
+        "title": "収益認識に関する会計基準",
+        "chapter_overview_physical_page": 77,
+        "chapter_overview_printed_page": null,
+        "first_body_physical_page": 78,
+        "first_body_printed_page": "㉞－1",
+        "last_body_physical_page": 122,
+        "last_body_printed_page": "㉞－45",
+        "label_sequence": "㉞－1 through ㉞－45; every page label is explicitly stored in sources.json",
+        "section_anchor_physical_pages": [
+          78,
+          85,
+          91,
+          94,
+          100,
+          103,
+          106,
+          109,
+          118
+        ]
+      },
+      {
+        "chapter_key": "35",
+        "title": "連結財務諸表に関する会計基準",
+        "chapter_overview_physical_page": 123,
+        "chapter_overview_printed_page": null,
+        "first_body_physical_page": 124,
+        "first_body_printed_page": "㉟－1",
+        "last_body_physical_page": 178,
+        "last_body_printed_page": "㉟－55",
+        "label_sequence": "㉟－1 through ㉟－55; every page label is explicitly stored in sources.json",
+        "section_anchor_physical_pages": [
+          124,
+          127,
+          128,
+          138,
+          155,
+          164,
+          165,
+          169,
+          170,
+          175
+        ]
+      },
+      {
+        "chapter_key": "36",
+        "title": "持分法に関する会計基準",
+        "chapter_overview_physical_page": 179,
+        "chapter_overview_printed_page": null,
+        "first_body_physical_page": 180,
+        "first_body_printed_page": "㊱－1",
+        "last_body_physical_page": 202,
+        "last_body_printed_page": "㊱－23",
+        "label_sequence": "㊱－1 through ㊱－23; every page label is explicitly stored in sources.json",
+        "section_anchor_physical_pages": [
+          180,
+          181,
+          186,
+          188,
+          190,
+          198
+        ]
+      },
+      {
+        "chapter_key": "37",
+        "title": "包括利益の表示に関する会計基準",
+        "chapter_overview_physical_page": 203,
+        "chapter_overview_printed_page": null,
+        "first_body_physical_page": 204,
+        "first_body_printed_page": "㊲－1",
+        "last_body_physical_page": 220,
+        "last_body_printed_page": "㊲－17",
+        "label_sequence": "㊲－1 through ㊲－17; every page label is explicitly stored in sources.json",
+        "section_anchor_physical_pages": [
+          204,
+          210,
+          213,
+          219
+        ]
+      },
+      {
+        "chapter_key": "38",
+        "title": "企業結合に関する会計基準",
+        "chapter_overview_physical_page": 221,
+        "chapter_overview_printed_page": null,
+        "first_body_physical_page": 222,
+        "first_body_printed_page": "㊳－1",
+        "last_body_physical_page": 276,
+        "last_body_printed_page": "㊳－55",
+        "label_sequence": "㊳－1 through ㊳－55; every page label is explicitly stored in sources.json",
+        "section_anchor_physical_pages": [
+          222,
+          224,
+          230,
+          264,
+          267,
+          272,
+          273
+        ]
+      },
+      {
+        "chapter_key": "39",
+        "title": "事業分離等に関する会計基準",
+        "chapter_overview_physical_page": 277,
+        "chapter_overview_printed_page": null,
+        "first_body_physical_page": 278,
+        "first_body_printed_page": "㊴－1",
+        "last_body_physical_page": 316,
+        "last_body_printed_page": "㊴－39",
+        "label_sequence": "㊴－1 through ㊴－39; every page label is explicitly stored in sources.json",
+        "section_anchor_physical_pages": [
+          278,
+          282,
+          288,
+          291,
+          301,
+          306,
+          308,
+          311
+        ]
+      },
+      {
+        "chapter_key": "40",
+        "title": "連結キャッシュ・フロー計算書等の作成基準",
+        "chapter_overview_physical_page": 317,
+        "chapter_overview_printed_page": null,
+        "first_body_physical_page": 318,
+        "first_body_printed_page": "㊵－1",
+        "last_body_physical_page": 340,
+        "last_body_printed_page": "㊵－23",
+        "label_sequence": "㊵－1 through ㊵－23; every page label is explicitly stored in sources.json",
+        "section_anchor_physical_pages": [
+          318,
+          320,
+          322,
+          332,
+          337
+        ]
+      }
+    ],
+    "unlabeled_structural_pages": [
+      {
+        "physical_page": 7,
+        "page_id": "T3:007",
+        "role": "substantive chapter overview/出題実績",
+        "printed_page": null
+      },
+      {
+        "physical_page": 77,
+        "page_id": "T3:077",
+        "role": "substantive chapter overview/出題実績",
+        "printed_page": null
+      },
+      {
+        "physical_page": 123,
+        "page_id": "T3:123",
+        "role": "substantive chapter overview/出題実績",
+        "printed_page": null
+      },
+      {
+        "physical_page": 179,
+        "page_id": "T3:179",
+        "role": "substantive chapter overview/出題実績",
+        "printed_page": null
+      },
+      {
+        "physical_page": 203,
+        "page_id": "T3:203",
+        "role": "substantive chapter overview/出題実績",
+        "printed_page": null
+      },
+      {
+        "physical_page": 221,
+        "page_id": "T3:221",
+        "role": "substantive chapter overview/出題実績",
+        "printed_page": null
+      },
+      {
+        "physical_page": 277,
+        "page_id": "T3:277",
+        "role": "substantive chapter overview/出題実績",
+        "printed_page": null
+      },
+      {
+        "physical_page": 317,
+        "page_id": "T3:317",
+        "role": "substantive chapter overview/出題実績",
+        "printed_page": null
+      }
+    ]
+  },
+  "exclusions": [
+    {
+      "physical_page": 1,
+      "page_id": "T3:001",
+      "image": "pages/T3/page-001.jpg",
+      "printed_page": null,
+      "disposition": "exclude",
+      "image_backed_reason": "表紙。2024年・2025年合格目標、財務会計論テキスト③の識別情報を含むが、学習本文ではないため除外。"
+    },
+    {
+      "physical_page": 2,
+      "page_id": "T3:002",
+      "image": "pages/T3/page-002.jpg",
+      "printed_page": null,
+      "disposition": "exclude",
+      "image_backed_reason": "表紙裏の全面白紙。本文・印刷ラベルなしのため除外。"
+    },
+    {
+      "physical_page": 3,
+      "page_id": "T3:003",
+      "image": "pages/T3/page-003.jpg",
+      "printed_page": "①",
+      "disposition": "exclude",
+      "image_backed_reason": "目次（第33章・第34章）。目次情報と欄外の前付け通し記号のみで、学習本文ではないため除外。"
+    },
+    {
+      "physical_page": 4,
+      "page_id": "T3:004",
+      "image": "pages/T3/page-004.jpg",
+      "printed_page": "②",
+      "disposition": "exclude",
+      "image_backed_reason": "目次（第35章〜第38章）。目次情報と欄外の前付け通し記号のみで、学習本文ではないため除外。"
+    },
+    {
+      "physical_page": 5,
+      "page_id": "T3:005",
+      "image": "pages/T3/page-005.jpg",
+      "printed_page": "③",
+      "disposition": "exclude",
+      "image_backed_reason": "目次（第39章・第40章）。目次情報と欄外の前付け通し記号のみで、学習本文ではないため除外。"
+    },
+    {
+      "physical_page": 6,
+      "page_id": "T3:006",
+      "image": "pages/T3/page-006.jpg",
+      "printed_page": "④",
+      "disposition": "exclude",
+      "image_backed_reason": "MEMO用の白紙。学習本文ではないため除外。"
+    },
+    {
+      "physical_page": 341,
+      "page_id": "T3:341",
+      "image": "pages/T3/page-341.jpg",
+      "printed_page": null,
+      "disposition": "exclude",
+      "image_backed_reason": "本文末尾後の全面白紙。本文・印刷ラベルなしのため除外。"
+    },
+    {
+      "physical_page": 342,
+      "page_id": "T3:342",
+      "image": "pages/T3/page-342.jpg",
+      "printed_page": null,
+      "disposition": "exclude",
+      "image_backed_reason": "奥付。『財務会計論 理論 テキスト③』『2024/2025年合格目標』『2023年2月28日発行』を確認する版・識別情報ページで、学習本文ではないため除外。"
+    },
+    {
+      "physical_page": 343,
+      "page_id": "T3:343",
+      "image": "pages/T3/page-343.jpg",
+      "printed_page": null,
+      "disposition": "exclude",
+      "image_backed_reason": "裏表紙。学習本文ではないため除外。"
+    },
+    {
+      "physical_page": 344,
+      "page_id": "T3:344",
+      "image": "pages/T3/page-344.jpg",
+      "printed_page": null,
+      "disposition": "exclude",
+      "image_backed_reason": "裏表紙後の全面白紙。本文・印刷ラベルなしのため除外。"
+    }
+  ],
+  "page_inspection": [
+    {
+      "id": "T3:001",
+      "physical_page": 1,
+      "image": "pages/T3/page-001.jpg",
+      "printed_page": null,
+      "disposition": "exclude",
+      "inspection_method": "original/cache hash + Pillow decode + full-size image review",
+      "observation": "表紙。2024年・2025年合格目標、財務会計論テキスト③の識別情報を含むが、学習本文ではないため除外。"
+    },
+    {
+      "id": "T3:002",
+      "physical_page": 2,
+      "image": "pages/T3/page-002.jpg",
+      "printed_page": null,
+      "disposition": "exclude",
+      "inspection_method": "original/cache hash + Pillow decode + full-size image review",
+      "observation": "表紙裏の全面白紙。本文・印刷ラベルなしのため除外。"
+    },
+    {
+      "id": "T3:003",
+      "physical_page": 3,
+      "image": "pages/T3/page-003.jpg",
+      "printed_page": "①",
+      "disposition": "exclude",
+      "inspection_method": "original/cache hash + Pillow decode + full-size image review",
+      "observation": "目次（第33章・第34章）。目次情報と欄外の前付け通し記号のみで、学習本文ではないため除外。"
+    },
+    {
+      "id": "T3:004",
+      "physical_page": 4,
+      "image": "pages/T3/page-004.jpg",
+      "printed_page": "②",
+      "disposition": "exclude",
+      "inspection_method": "original/cache hash + Pillow decode + full-size image review",
+      "observation": "目次（第35章〜第38章）。目次情報と欄外の前付け通し記号のみで、学習本文ではないため除外。"
+    },
+    {
+      "id": "T3:005",
+      "physical_page": 5,
+      "image": "pages/T3/page-005.jpg",
+      "printed_page": "③",
+      "disposition": "exclude",
+      "inspection_method": "original/cache hash + Pillow decode + full-size image review",
+      "observation": "目次（第39章・第40章）。目次情報と欄外の前付け通し記号のみで、学習本文ではないため除外。"
+    },
+    {
+      "id": "T3:006",
+      "physical_page": 6,
+      "image": "pages/T3/page-006.jpg",
+      "printed_page": "④",
+      "disposition": "exclude",
+      "inspection_method": "original/cache hash + Pillow decode + full-size image review",
+      "observation": "MEMO用の白紙。学習本文ではないため除外。"
+    },
+    {
+      "id": "T3:007",
+      "physical_page": 7,
+      "image": "pages/T3/page-007.jpg",
+      "printed_page": null,
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review + full-size boundary/label review",
+      "observation": "Substantive chapter overview and examination-history page; retained as the chapter's planned first page."
+    },
+    {
+      "id": "T3:008",
+      "physical_page": 8,
+      "image": "pages/T3/page-008.jpg",
+      "printed_page": "㉝－1",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review + full-size boundary/label review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:009",
+      "physical_page": 9,
+      "image": "pages/T3/page-009.jpg",
+      "printed_page": "㉝－2",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:010",
+      "physical_page": 10,
+      "image": "pages/T3/page-010.jpg",
+      "printed_page": "㉝－3",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:011",
+      "physical_page": 11,
+      "image": "pages/T3/page-011.jpg",
+      "printed_page": "㉝－4",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:012",
+      "physical_page": 12,
+      "image": "pages/T3/page-012.jpg",
+      "printed_page": "㉝－5",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:013",
+      "physical_page": 13,
+      "image": "pages/T3/page-013.jpg",
+      "printed_page": "㉝－6",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:014",
+      "physical_page": 14,
+      "image": "pages/T3/page-014.jpg",
+      "printed_page": "㉝－7",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:015",
+      "physical_page": 15,
+      "image": "pages/T3/page-015.jpg",
+      "printed_page": "㉝－8",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:016",
+      "physical_page": 16,
+      "image": "pages/T3/page-016.jpg",
+      "printed_page": "㉝－9",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:017",
+      "physical_page": 17,
+      "image": "pages/T3/page-017.jpg",
+      "printed_page": "㉝－10",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:018",
+      "physical_page": 18,
+      "image": "pages/T3/page-018.jpg",
+      "printed_page": "㉝－11",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:019",
+      "physical_page": 19,
+      "image": "pages/T3/page-019.jpg",
+      "printed_page": "㉝－12",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:020",
+      "physical_page": 20,
+      "image": "pages/T3/page-020.jpg",
+      "printed_page": "㉝－13",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:021",
+      "physical_page": 21,
+      "image": "pages/T3/page-021.jpg",
+      "printed_page": "㉝－14",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:022",
+      "physical_page": 22,
+      "image": "pages/T3/page-022.jpg",
+      "printed_page": "㉝－15",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:023",
+      "physical_page": 23,
+      "image": "pages/T3/page-023.jpg",
+      "printed_page": "㉝－16",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:024",
+      "physical_page": 24,
+      "image": "pages/T3/page-024.jpg",
+      "printed_page": "㉝－17",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:025",
+      "physical_page": 25,
+      "image": "pages/T3/page-025.jpg",
+      "printed_page": "㉝－18",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:026",
+      "physical_page": 26,
+      "image": "pages/T3/page-026.jpg",
+      "printed_page": "㉝－19",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:027",
+      "physical_page": 27,
+      "image": "pages/T3/page-027.jpg",
+      "printed_page": "㉝－20",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:028",
+      "physical_page": 28,
+      "image": "pages/T3/page-028.jpg",
+      "printed_page": "㉝－21",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:029",
+      "physical_page": 29,
+      "image": "pages/T3/page-029.jpg",
+      "printed_page": "㉝－22",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:030",
+      "physical_page": 30,
+      "image": "pages/T3/page-030.jpg",
+      "printed_page": "㉝－23",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review + full-size boundary/label review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:031",
+      "physical_page": 31,
+      "image": "pages/T3/page-031.jpg",
+      "printed_page": "㉝－24",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review + full-size boundary/label review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:032",
+      "physical_page": 32,
+      "image": "pages/T3/page-032.jpg",
+      "printed_page": "㉝－25",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:033",
+      "physical_page": 33,
+      "image": "pages/T3/page-033.jpg",
+      "printed_page": "㉝－26",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:034",
+      "physical_page": 34,
+      "image": "pages/T3/page-034.jpg",
+      "printed_page": "㉝－27",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:035",
+      "physical_page": 35,
+      "image": "pages/T3/page-035.jpg",
+      "printed_page": "㉝－28",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:036",
+      "physical_page": 36,
+      "image": "pages/T3/page-036.jpg",
+      "printed_page": "㉝－29",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:037",
+      "physical_page": 37,
+      "image": "pages/T3/page-037.jpg",
+      "printed_page": "㉝－30",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:038",
+      "physical_page": 38,
+      "image": "pages/T3/page-038.jpg",
+      "printed_page": "㉝－31",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:039",
+      "physical_page": 39,
+      "image": "pages/T3/page-039.jpg",
+      "printed_page": "㉝－32",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:040",
+      "physical_page": 40,
+      "image": "pages/T3/page-040.jpg",
+      "printed_page": "㉝－33",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:041",
+      "physical_page": 41,
+      "image": "pages/T3/page-041.jpg",
+      "printed_page": "㉝－34",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:042",
+      "physical_page": 42,
+      "image": "pages/T3/page-042.jpg",
+      "printed_page": "㉝－35",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:043",
+      "physical_page": 43,
+      "image": "pages/T3/page-043.jpg",
+      "printed_page": "㉝－36",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:044",
+      "physical_page": 44,
+      "image": "pages/T3/page-044.jpg",
+      "printed_page": "㉝－37",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:045",
+      "physical_page": 45,
+      "image": "pages/T3/page-045.jpg",
+      "printed_page": "㉝－38",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:046",
+      "physical_page": 46,
+      "image": "pages/T3/page-046.jpg",
+      "printed_page": "㉝－39",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:047",
+      "physical_page": 47,
+      "image": "pages/T3/page-047.jpg",
+      "printed_page": "㉝－40",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:048",
+      "physical_page": 48,
+      "image": "pages/T3/page-048.jpg",
+      "printed_page": "㉝－41",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:049",
+      "physical_page": 49,
+      "image": "pages/T3/page-049.jpg",
+      "printed_page": "㉝－42",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review + full-size boundary/label review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:050",
+      "physical_page": 50,
+      "image": "pages/T3/page-050.jpg",
+      "printed_page": "㉝－43",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review + full-size boundary/label review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:051",
+      "physical_page": 51,
+      "image": "pages/T3/page-051.jpg",
+      "printed_page": "㉝－44",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:052",
+      "physical_page": 52,
+      "image": "pages/T3/page-052.jpg",
+      "printed_page": "㉝－45",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:053",
+      "physical_page": 53,
+      "image": "pages/T3/page-053.jpg",
+      "printed_page": "㉝－46",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:054",
+      "physical_page": 54,
+      "image": "pages/T3/page-054.jpg",
+      "printed_page": "㉝－47",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:055",
+      "physical_page": 55,
+      "image": "pages/T3/page-055.jpg",
+      "printed_page": "㉝－48",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:056",
+      "physical_page": 56,
+      "image": "pages/T3/page-056.jpg",
+      "printed_page": "㉝－49",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:057",
+      "physical_page": 57,
+      "image": "pages/T3/page-057.jpg",
+      "printed_page": "㉝－50",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:058",
+      "physical_page": 58,
+      "image": "pages/T3/page-058.jpg",
+      "printed_page": "㉝－51",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:059",
+      "physical_page": 59,
+      "image": "pages/T3/page-059.jpg",
+      "printed_page": "㉝－52",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:060",
+      "physical_page": 60,
+      "image": "pages/T3/page-060.jpg",
+      "printed_page": "㉝－53",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:061",
+      "physical_page": 61,
+      "image": "pages/T3/page-061.jpg",
+      "printed_page": "㉝－54",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:062",
+      "physical_page": 62,
+      "image": "pages/T3/page-062.jpg",
+      "printed_page": "㉝－55",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:063",
+      "physical_page": 63,
+      "image": "pages/T3/page-063.jpg",
+      "printed_page": "㉝－56",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:064",
+      "physical_page": 64,
+      "image": "pages/T3/page-064.jpg",
+      "printed_page": "㉝－57",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:065",
+      "physical_page": 65,
+      "image": "pages/T3/page-065.jpg",
+      "printed_page": "㉝－58",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:066",
+      "physical_page": 66,
+      "image": "pages/T3/page-066.jpg",
+      "printed_page": "㉝－59",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:067",
+      "physical_page": 67,
+      "image": "pages/T3/page-067.jpg",
+      "printed_page": "㉝－60",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:068",
+      "physical_page": 68,
+      "image": "pages/T3/page-068.jpg",
+      "printed_page": "㉝－61",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:069",
+      "physical_page": 69,
+      "image": "pages/T3/page-069.jpg",
+      "printed_page": "㉝－62",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:070",
+      "physical_page": 70,
+      "image": "pages/T3/page-070.jpg",
+      "printed_page": "㉝－63",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:071",
+      "physical_page": 71,
+      "image": "pages/T3/page-071.jpg",
+      "printed_page": "㉝－64",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review + full-size boundary/label review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:072",
+      "physical_page": 72,
+      "image": "pages/T3/page-072.jpg",
+      "printed_page": "㉝－65",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review + full-size boundary/label review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:073",
+      "physical_page": 73,
+      "image": "pages/T3/page-073.jpg",
+      "printed_page": "㉝－66",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:074",
+      "physical_page": 74,
+      "image": "pages/T3/page-074.jpg",
+      "printed_page": "㉝－67",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:075",
+      "physical_page": 75,
+      "image": "pages/T3/page-075.jpg",
+      "printed_page": "㉝－68",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:076",
+      "physical_page": 76,
+      "image": "pages/T3/page-076.jpg",
+      "printed_page": "㉝－69",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review + full-size boundary/label review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:077",
+      "physical_page": 77,
+      "image": "pages/T3/page-077.jpg",
+      "printed_page": null,
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review + full-size boundary/label review",
+      "observation": "Substantive chapter overview and examination-history page; retained as the chapter's planned first page."
+    },
+    {
+      "id": "T3:078",
+      "physical_page": 78,
+      "image": "pages/T3/page-078.jpg",
+      "printed_page": "㉞－1",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review + full-size boundary/label review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:079",
+      "physical_page": 79,
+      "image": "pages/T3/page-079.jpg",
+      "printed_page": "㉞－2",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:080",
+      "physical_page": 80,
+      "image": "pages/T3/page-080.jpg",
+      "printed_page": "㉞－3",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:081",
+      "physical_page": 81,
+      "image": "pages/T3/page-081.jpg",
+      "printed_page": "㉞－4",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:082",
+      "physical_page": 82,
+      "image": "pages/T3/page-082.jpg",
+      "printed_page": "㉞－5",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:083",
+      "physical_page": 83,
+      "image": "pages/T3/page-083.jpg",
+      "printed_page": "㉞－6",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:084",
+      "physical_page": 84,
+      "image": "pages/T3/page-084.jpg",
+      "printed_page": "㉞－7",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:085",
+      "physical_page": 85,
+      "image": "pages/T3/page-085.jpg",
+      "printed_page": "㉞－8",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:086",
+      "physical_page": 86,
+      "image": "pages/T3/page-086.jpg",
+      "printed_page": "㉞－9",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:087",
+      "physical_page": 87,
+      "image": "pages/T3/page-087.jpg",
+      "printed_page": "㉞－10",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:088",
+      "physical_page": 88,
+      "image": "pages/T3/page-088.jpg",
+      "printed_page": "㉞－11",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:089",
+      "physical_page": 89,
+      "image": "pages/T3/page-089.jpg",
+      "printed_page": "㉞－12",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:090",
+      "physical_page": 90,
+      "image": "pages/T3/page-090.jpg",
+      "printed_page": "㉞－13",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:091",
+      "physical_page": 91,
+      "image": "pages/T3/page-091.jpg",
+      "printed_page": "㉞－14",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:092",
+      "physical_page": 92,
+      "image": "pages/T3/page-092.jpg",
+      "printed_page": "㉞－15",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:093",
+      "physical_page": 93,
+      "image": "pages/T3/page-093.jpg",
+      "printed_page": "㉞－16",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:094",
+      "physical_page": 94,
+      "image": "pages/T3/page-094.jpg",
+      "printed_page": "㉞－17",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:095",
+      "physical_page": 95,
+      "image": "pages/T3/page-095.jpg",
+      "printed_page": "㉞－18",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:096",
+      "physical_page": 96,
+      "image": "pages/T3/page-096.jpg",
+      "printed_page": "㉞－19",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:097",
+      "physical_page": 97,
+      "image": "pages/T3/page-097.jpg",
+      "printed_page": "㉞－20",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:098",
+      "physical_page": 98,
+      "image": "pages/T3/page-098.jpg",
+      "printed_page": "㉞－21",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:099",
+      "physical_page": 99,
+      "image": "pages/T3/page-099.jpg",
+      "printed_page": "㉞－22",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review + full-size boundary/label review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:100",
+      "physical_page": 100,
+      "image": "pages/T3/page-100.jpg",
+      "printed_page": "㉞－23",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review + full-size boundary/label review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:101",
+      "physical_page": 101,
+      "image": "pages/T3/page-101.jpg",
+      "printed_page": "㉞－24",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:102",
+      "physical_page": 102,
+      "image": "pages/T3/page-102.jpg",
+      "printed_page": "㉞－25",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:103",
+      "physical_page": 103,
+      "image": "pages/T3/page-103.jpg",
+      "printed_page": "㉞－26",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:104",
+      "physical_page": 104,
+      "image": "pages/T3/page-104.jpg",
+      "printed_page": "㉞－27",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:105",
+      "physical_page": 105,
+      "image": "pages/T3/page-105.jpg",
+      "printed_page": "㉞－28",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:106",
+      "physical_page": 106,
+      "image": "pages/T3/page-106.jpg",
+      "printed_page": "㉞－29",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:107",
+      "physical_page": 107,
+      "image": "pages/T3/page-107.jpg",
+      "printed_page": "㉞－30",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:108",
+      "physical_page": 108,
+      "image": "pages/T3/page-108.jpg",
+      "printed_page": "㉞－31",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:109",
+      "physical_page": 109,
+      "image": "pages/T3/page-109.jpg",
+      "printed_page": "㉞－32",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:110",
+      "physical_page": 110,
+      "image": "pages/T3/page-110.jpg",
+      "printed_page": "㉞－33",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:111",
+      "physical_page": 111,
+      "image": "pages/T3/page-111.jpg",
+      "printed_page": "㉞－34",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:112",
+      "physical_page": 112,
+      "image": "pages/T3/page-112.jpg",
+      "printed_page": "㉞－35",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:113",
+      "physical_page": 113,
+      "image": "pages/T3/page-113.jpg",
+      "printed_page": "㉞－36",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:114",
+      "physical_page": 114,
+      "image": "pages/T3/page-114.jpg",
+      "printed_page": "㉞－37",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:115",
+      "physical_page": 115,
+      "image": "pages/T3/page-115.jpg",
+      "printed_page": "㉞－38",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:116",
+      "physical_page": 116,
+      "image": "pages/T3/page-116.jpg",
+      "printed_page": "㉞－39",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:117",
+      "physical_page": 117,
+      "image": "pages/T3/page-117.jpg",
+      "printed_page": "㉞－40",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:118",
+      "physical_page": 118,
+      "image": "pages/T3/page-118.jpg",
+      "printed_page": "㉞－41",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:119",
+      "physical_page": 119,
+      "image": "pages/T3/page-119.jpg",
+      "printed_page": "㉞－42",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:120",
+      "physical_page": 120,
+      "image": "pages/T3/page-120.jpg",
+      "printed_page": "㉞－43",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:121",
+      "physical_page": 121,
+      "image": "pages/T3/page-121.jpg",
+      "printed_page": "㉞－44",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:122",
+      "physical_page": 122,
+      "image": "pages/T3/page-122.jpg",
+      "printed_page": "㉞－45",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review + full-size boundary/label review",
+      "observation": "Planned in-chapter MEMO page; retained to preserve the exact assigned physical range."
+    },
+    {
+      "id": "T3:123",
+      "physical_page": 123,
+      "image": "pages/T3/page-123.jpg",
+      "printed_page": null,
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review + full-size boundary/label review",
+      "observation": "Substantive chapter overview and examination-history page; retained as the chapter's planned first page."
+    },
+    {
+      "id": "T3:124",
+      "physical_page": 124,
+      "image": "pages/T3/page-124.jpg",
+      "printed_page": "㉟－1",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review + full-size boundary/label review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:125",
+      "physical_page": 125,
+      "image": "pages/T3/page-125.jpg",
+      "printed_page": "㉟－2",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:126",
+      "physical_page": 126,
+      "image": "pages/T3/page-126.jpg",
+      "printed_page": "㉟－3",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:127",
+      "physical_page": 127,
+      "image": "pages/T3/page-127.jpg",
+      "printed_page": "㉟－4",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:128",
+      "physical_page": 128,
+      "image": "pages/T3/page-128.jpg",
+      "printed_page": "㉟－5",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:129",
+      "physical_page": 129,
+      "image": "pages/T3/page-129.jpg",
+      "printed_page": "㉟－6",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:130",
+      "physical_page": 130,
+      "image": "pages/T3/page-130.jpg",
+      "printed_page": "㉟－7",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:131",
+      "physical_page": 131,
+      "image": "pages/T3/page-131.jpg",
+      "printed_page": "㉟－8",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:132",
+      "physical_page": 132,
+      "image": "pages/T3/page-132.jpg",
+      "printed_page": "㉟－9",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:133",
+      "physical_page": 133,
+      "image": "pages/T3/page-133.jpg",
+      "printed_page": "㉟－10",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:134",
+      "physical_page": 134,
+      "image": "pages/T3/page-134.jpg",
+      "printed_page": "㉟－11",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:135",
+      "physical_page": 135,
+      "image": "pages/T3/page-135.jpg",
+      "printed_page": "㉟－12",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:136",
+      "physical_page": 136,
+      "image": "pages/T3/page-136.jpg",
+      "printed_page": "㉟－13",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:137",
+      "physical_page": 137,
+      "image": "pages/T3/page-137.jpg",
+      "printed_page": "㉟－14",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review + full-size boundary/label review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:138",
+      "physical_page": 138,
+      "image": "pages/T3/page-138.jpg",
+      "printed_page": "㉟－15",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review + full-size boundary/label review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:139",
+      "physical_page": 139,
+      "image": "pages/T3/page-139.jpg",
+      "printed_page": "㉟－16",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:140",
+      "physical_page": 140,
+      "image": "pages/T3/page-140.jpg",
+      "printed_page": "㉟－17",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:141",
+      "physical_page": 141,
+      "image": "pages/T3/page-141.jpg",
+      "printed_page": "㉟－18",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:142",
+      "physical_page": 142,
+      "image": "pages/T3/page-142.jpg",
+      "printed_page": "㉟－19",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:143",
+      "physical_page": 143,
+      "image": "pages/T3/page-143.jpg",
+      "printed_page": "㉟－20",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:144",
+      "physical_page": 144,
+      "image": "pages/T3/page-144.jpg",
+      "printed_page": "㉟－21",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:145",
+      "physical_page": 145,
+      "image": "pages/T3/page-145.jpg",
+      "printed_page": "㉟－22",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:146",
+      "physical_page": 146,
+      "image": "pages/T3/page-146.jpg",
+      "printed_page": "㉟－23",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:147",
+      "physical_page": 147,
+      "image": "pages/T3/page-147.jpg",
+      "printed_page": "㉟－24",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:148",
+      "physical_page": 148,
+      "image": "pages/T3/page-148.jpg",
+      "printed_page": "㉟－25",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:149",
+      "physical_page": 149,
+      "image": "pages/T3/page-149.jpg",
+      "printed_page": "㉟－26",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:150",
+      "physical_page": 150,
+      "image": "pages/T3/page-150.jpg",
+      "printed_page": "㉟－27",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:151",
+      "physical_page": 151,
+      "image": "pages/T3/page-151.jpg",
+      "printed_page": "㉟－28",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:152",
+      "physical_page": 152,
+      "image": "pages/T3/page-152.jpg",
+      "printed_page": "㉟－29",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:153",
+      "physical_page": 153,
+      "image": "pages/T3/page-153.jpg",
+      "printed_page": "㉟－30",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:154",
+      "physical_page": 154,
+      "image": "pages/T3/page-154.jpg",
+      "printed_page": "㉟－31",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review + full-size boundary/label review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:155",
+      "physical_page": 155,
+      "image": "pages/T3/page-155.jpg",
+      "printed_page": "㉟－32",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review + full-size boundary/label review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:156",
+      "physical_page": 156,
+      "image": "pages/T3/page-156.jpg",
+      "printed_page": "㉟－33",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:157",
+      "physical_page": 157,
+      "image": "pages/T3/page-157.jpg",
+      "printed_page": "㉟－34",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:158",
+      "physical_page": 158,
+      "image": "pages/T3/page-158.jpg",
+      "printed_page": "㉟－35",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:159",
+      "physical_page": 159,
+      "image": "pages/T3/page-159.jpg",
+      "printed_page": "㉟－36",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:160",
+      "physical_page": 160,
+      "image": "pages/T3/page-160.jpg",
+      "printed_page": "㉟－37",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:161",
+      "physical_page": 161,
+      "image": "pages/T3/page-161.jpg",
+      "printed_page": "㉟－38",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:162",
+      "physical_page": 162,
+      "image": "pages/T3/page-162.jpg",
+      "printed_page": "㉟－39",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:163",
+      "physical_page": 163,
+      "image": "pages/T3/page-163.jpg",
+      "printed_page": "㉟－40",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:164",
+      "physical_page": 164,
+      "image": "pages/T3/page-164.jpg",
+      "printed_page": "㉟－41",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:165",
+      "physical_page": 165,
+      "image": "pages/T3/page-165.jpg",
+      "printed_page": "㉟－42",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:166",
+      "physical_page": 166,
+      "image": "pages/T3/page-166.jpg",
+      "printed_page": "㉟－43",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:167",
+      "physical_page": 167,
+      "image": "pages/T3/page-167.jpg",
+      "printed_page": "㉟－44",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:168",
+      "physical_page": 168,
+      "image": "pages/T3/page-168.jpg",
+      "printed_page": "㉟－45",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:169",
+      "physical_page": 169,
+      "image": "pages/T3/page-169.jpg",
+      "printed_page": "㉟－46",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:170",
+      "physical_page": 170,
+      "image": "pages/T3/page-170.jpg",
+      "printed_page": "㉟－47",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:171",
+      "physical_page": 171,
+      "image": "pages/T3/page-171.jpg",
+      "printed_page": "㉟－48",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:172",
+      "physical_page": 172,
+      "image": "pages/T3/page-172.jpg",
+      "printed_page": "㉟－49",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:173",
+      "physical_page": 173,
+      "image": "pages/T3/page-173.jpg",
+      "printed_page": "㉟－50",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:174",
+      "physical_page": 174,
+      "image": "pages/T3/page-174.jpg",
+      "printed_page": "㉟－51",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:175",
+      "physical_page": 175,
+      "image": "pages/T3/page-175.jpg",
+      "printed_page": "㉟－52",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:176",
+      "physical_page": 176,
+      "image": "pages/T3/page-176.jpg",
+      "printed_page": "㉟－53",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:177",
+      "physical_page": 177,
+      "image": "pages/T3/page-177.jpg",
+      "printed_page": "㉟－54",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:178",
+      "physical_page": 178,
+      "image": "pages/T3/page-178.jpg",
+      "printed_page": "㉟－55",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review + full-size boundary/label review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:179",
+      "physical_page": 179,
+      "image": "pages/T3/page-179.jpg",
+      "printed_page": null,
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review + full-size boundary/label review",
+      "observation": "Substantive chapter overview and examination-history page; retained as the chapter's planned first page."
+    },
+    {
+      "id": "T3:180",
+      "physical_page": 180,
+      "image": "pages/T3/page-180.jpg",
+      "printed_page": "㊱－1",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review + full-size boundary/label review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:181",
+      "physical_page": 181,
+      "image": "pages/T3/page-181.jpg",
+      "printed_page": "㊱－2",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:182",
+      "physical_page": 182,
+      "image": "pages/T3/page-182.jpg",
+      "printed_page": "㊱－3",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:183",
+      "physical_page": 183,
+      "image": "pages/T3/page-183.jpg",
+      "printed_page": "㊱－4",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:184",
+      "physical_page": 184,
+      "image": "pages/T3/page-184.jpg",
+      "printed_page": "㊱－5",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:185",
+      "physical_page": 185,
+      "image": "pages/T3/page-185.jpg",
+      "printed_page": "㊱－6",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:186",
+      "physical_page": 186,
+      "image": "pages/T3/page-186.jpg",
+      "printed_page": "㊱－7",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:187",
+      "physical_page": 187,
+      "image": "pages/T3/page-187.jpg",
+      "printed_page": "㊱－8",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:188",
+      "physical_page": 188,
+      "image": "pages/T3/page-188.jpg",
+      "printed_page": "㊱－9",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:189",
+      "physical_page": 189,
+      "image": "pages/T3/page-189.jpg",
+      "printed_page": "㊱－10",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:190",
+      "physical_page": 190,
+      "image": "pages/T3/page-190.jpg",
+      "printed_page": "㊱－11",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:191",
+      "physical_page": 191,
+      "image": "pages/T3/page-191.jpg",
+      "printed_page": "㊱－12",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:192",
+      "physical_page": 192,
+      "image": "pages/T3/page-192.jpg",
+      "printed_page": "㊱－13",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:193",
+      "physical_page": 193,
+      "image": "pages/T3/page-193.jpg",
+      "printed_page": "㊱－14",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:194",
+      "physical_page": 194,
+      "image": "pages/T3/page-194.jpg",
+      "printed_page": "㊱－15",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:195",
+      "physical_page": 195,
+      "image": "pages/T3/page-195.jpg",
+      "printed_page": "㊱－16",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:196",
+      "physical_page": 196,
+      "image": "pages/T3/page-196.jpg",
+      "printed_page": "㊱－17",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:197",
+      "physical_page": 197,
+      "image": "pages/T3/page-197.jpg",
+      "printed_page": "㊱－18",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:198",
+      "physical_page": 198,
+      "image": "pages/T3/page-198.jpg",
+      "printed_page": "㊱－19",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:199",
+      "physical_page": 199,
+      "image": "pages/T3/page-199.jpg",
+      "printed_page": "㊱－20",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:200",
+      "physical_page": 200,
+      "image": "pages/T3/page-200.jpg",
+      "printed_page": "㊱－21",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:201",
+      "physical_page": 201,
+      "image": "pages/T3/page-201.jpg",
+      "printed_page": "㊱－22",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:202",
+      "physical_page": 202,
+      "image": "pages/T3/page-202.jpg",
+      "printed_page": "㊱－23",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review + full-size boundary/label review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:203",
+      "physical_page": 203,
+      "image": "pages/T3/page-203.jpg",
+      "printed_page": null,
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review + full-size boundary/label review",
+      "observation": "Substantive chapter overview and examination-history page; retained as the chapter's planned first page."
+    },
+    {
+      "id": "T3:204",
+      "physical_page": 204,
+      "image": "pages/T3/page-204.jpg",
+      "printed_page": "㊲－1",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review + full-size boundary/label review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:205",
+      "physical_page": 205,
+      "image": "pages/T3/page-205.jpg",
+      "printed_page": "㊲－2",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:206",
+      "physical_page": 206,
+      "image": "pages/T3/page-206.jpg",
+      "printed_page": "㊲－3",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:207",
+      "physical_page": 207,
+      "image": "pages/T3/page-207.jpg",
+      "printed_page": "㊲－4",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:208",
+      "physical_page": 208,
+      "image": "pages/T3/page-208.jpg",
+      "printed_page": "㊲－5",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:209",
+      "physical_page": 209,
+      "image": "pages/T3/page-209.jpg",
+      "printed_page": "㊲－6",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:210",
+      "physical_page": 210,
+      "image": "pages/T3/page-210.jpg",
+      "printed_page": "㊲－7",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:211",
+      "physical_page": 211,
+      "image": "pages/T3/page-211.jpg",
+      "printed_page": "㊲－8",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:212",
+      "physical_page": 212,
+      "image": "pages/T3/page-212.jpg",
+      "printed_page": "㊲－9",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:213",
+      "physical_page": 213,
+      "image": "pages/T3/page-213.jpg",
+      "printed_page": "㊲－10",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:214",
+      "physical_page": 214,
+      "image": "pages/T3/page-214.jpg",
+      "printed_page": "㊲－11",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:215",
+      "physical_page": 215,
+      "image": "pages/T3/page-215.jpg",
+      "printed_page": "㊲－12",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:216",
+      "physical_page": 216,
+      "image": "pages/T3/page-216.jpg",
+      "printed_page": "㊲－13",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:217",
+      "physical_page": 217,
+      "image": "pages/T3/page-217.jpg",
+      "printed_page": "㊲－14",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:218",
+      "physical_page": 218,
+      "image": "pages/T3/page-218.jpg",
+      "printed_page": "㊲－15",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:219",
+      "physical_page": 219,
+      "image": "pages/T3/page-219.jpg",
+      "printed_page": "㊲－16",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:220",
+      "physical_page": 220,
+      "image": "pages/T3/page-220.jpg",
+      "printed_page": "㊲－17",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review + full-size boundary/label review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:221",
+      "physical_page": 221,
+      "image": "pages/T3/page-221.jpg",
+      "printed_page": null,
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review + full-size boundary/label review",
+      "observation": "Substantive chapter overview and examination-history page; retained as the chapter's planned first page."
+    },
+    {
+      "id": "T3:222",
+      "physical_page": 222,
+      "image": "pages/T3/page-222.jpg",
+      "printed_page": "㊳－1",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review + full-size boundary/label review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:223",
+      "physical_page": 223,
+      "image": "pages/T3/page-223.jpg",
+      "printed_page": "㊳－2",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:224",
+      "physical_page": 224,
+      "image": "pages/T3/page-224.jpg",
+      "printed_page": "㊳－3",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:225",
+      "physical_page": 225,
+      "image": "pages/T3/page-225.jpg",
+      "printed_page": "㊳－4",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:226",
+      "physical_page": 226,
+      "image": "pages/T3/page-226.jpg",
+      "printed_page": "㊳－5",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:227",
+      "physical_page": 227,
+      "image": "pages/T3/page-227.jpg",
+      "printed_page": "㊳－6",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:228",
+      "physical_page": 228,
+      "image": "pages/T3/page-228.jpg",
+      "printed_page": "㊳－7",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:229",
+      "physical_page": 229,
+      "image": "pages/T3/page-229.jpg",
+      "printed_page": "㊳－8",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review + full-size boundary/label review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:230",
+      "physical_page": 230,
+      "image": "pages/T3/page-230.jpg",
+      "printed_page": "㊳－9",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review + full-size boundary/label review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:231",
+      "physical_page": 231,
+      "image": "pages/T3/page-231.jpg",
+      "printed_page": "㊳－10",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:232",
+      "physical_page": 232,
+      "image": "pages/T3/page-232.jpg",
+      "printed_page": "㊳－11",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:233",
+      "physical_page": 233,
+      "image": "pages/T3/page-233.jpg",
+      "printed_page": "㊳－12",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:234",
+      "physical_page": 234,
+      "image": "pages/T3/page-234.jpg",
+      "printed_page": "㊳－13",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:235",
+      "physical_page": 235,
+      "image": "pages/T3/page-235.jpg",
+      "printed_page": "㊳－14",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:236",
+      "physical_page": 236,
+      "image": "pages/T3/page-236.jpg",
+      "printed_page": "㊳－15",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:237",
+      "physical_page": 237,
+      "image": "pages/T3/page-237.jpg",
+      "printed_page": "㊳－16",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:238",
+      "physical_page": 238,
+      "image": "pages/T3/page-238.jpg",
+      "printed_page": "㊳－17",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:239",
+      "physical_page": 239,
+      "image": "pages/T3/page-239.jpg",
+      "printed_page": "㊳－18",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:240",
+      "physical_page": 240,
+      "image": "pages/T3/page-240.jpg",
+      "printed_page": "㊳－19",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:241",
+      "physical_page": 241,
+      "image": "pages/T3/page-241.jpg",
+      "printed_page": "㊳－20",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:242",
+      "physical_page": 242,
+      "image": "pages/T3/page-242.jpg",
+      "printed_page": "㊳－21",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:243",
+      "physical_page": 243,
+      "image": "pages/T3/page-243.jpg",
+      "printed_page": "㊳－22",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:244",
+      "physical_page": 244,
+      "image": "pages/T3/page-244.jpg",
+      "printed_page": "㊳－23",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:245",
+      "physical_page": 245,
+      "image": "pages/T3/page-245.jpg",
+      "printed_page": "㊳－24",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:246",
+      "physical_page": 246,
+      "image": "pages/T3/page-246.jpg",
+      "printed_page": "㊳－25",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:247",
+      "physical_page": 247,
+      "image": "pages/T3/page-247.jpg",
+      "printed_page": "㊳－26",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:248",
+      "physical_page": 248,
+      "image": "pages/T3/page-248.jpg",
+      "printed_page": "㊳－27",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:249",
+      "physical_page": 249,
+      "image": "pages/T3/page-249.jpg",
+      "printed_page": "㊳－28",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review + full-size boundary/label review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:250",
+      "physical_page": 250,
+      "image": "pages/T3/page-250.jpg",
+      "printed_page": "㊳－29",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review + full-size boundary/label review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:251",
+      "physical_page": 251,
+      "image": "pages/T3/page-251.jpg",
+      "printed_page": "㊳－30",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:252",
+      "physical_page": 252,
+      "image": "pages/T3/page-252.jpg",
+      "printed_page": "㊳－31",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:253",
+      "physical_page": 253,
+      "image": "pages/T3/page-253.jpg",
+      "printed_page": "㊳－32",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:254",
+      "physical_page": 254,
+      "image": "pages/T3/page-254.jpg",
+      "printed_page": "㊳－33",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:255",
+      "physical_page": 255,
+      "image": "pages/T3/page-255.jpg",
+      "printed_page": "㊳－34",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:256",
+      "physical_page": 256,
+      "image": "pages/T3/page-256.jpg",
+      "printed_page": "㊳－35",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:257",
+      "physical_page": 257,
+      "image": "pages/T3/page-257.jpg",
+      "printed_page": "㊳－36",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:258",
+      "physical_page": 258,
+      "image": "pages/T3/page-258.jpg",
+      "printed_page": "㊳－37",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:259",
+      "physical_page": 259,
+      "image": "pages/T3/page-259.jpg",
+      "printed_page": "㊳－38",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:260",
+      "physical_page": 260,
+      "image": "pages/T3/page-260.jpg",
+      "printed_page": "㊳－39",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:261",
+      "physical_page": 261,
+      "image": "pages/T3/page-261.jpg",
+      "printed_page": "㊳－40",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:262",
+      "physical_page": 262,
+      "image": "pages/T3/page-262.jpg",
+      "printed_page": "㊳－41",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:263",
+      "physical_page": 263,
+      "image": "pages/T3/page-263.jpg",
+      "printed_page": "㊳－42",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:264",
+      "physical_page": 264,
+      "image": "pages/T3/page-264.jpg",
+      "printed_page": "㊳－43",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:265",
+      "physical_page": 265,
+      "image": "pages/T3/page-265.jpg",
+      "printed_page": "㊳－44",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:266",
+      "physical_page": 266,
+      "image": "pages/T3/page-266.jpg",
+      "printed_page": "㊳－45",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:267",
+      "physical_page": 267,
+      "image": "pages/T3/page-267.jpg",
+      "printed_page": "㊳－46",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:268",
+      "physical_page": 268,
+      "image": "pages/T3/page-268.jpg",
+      "printed_page": "㊳－47",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:269",
+      "physical_page": 269,
+      "image": "pages/T3/page-269.jpg",
+      "printed_page": "㊳－48",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:270",
+      "physical_page": 270,
+      "image": "pages/T3/page-270.jpg",
+      "printed_page": "㊳－49",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:271",
+      "physical_page": 271,
+      "image": "pages/T3/page-271.jpg",
+      "printed_page": "㊳－50",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:272",
+      "physical_page": 272,
+      "image": "pages/T3/page-272.jpg",
+      "printed_page": "㊳－51",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review + full-size boundary/label review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:273",
+      "physical_page": 273,
+      "image": "pages/T3/page-273.jpg",
+      "printed_page": "㊳－52",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review + full-size boundary/label review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:274",
+      "physical_page": 274,
+      "image": "pages/T3/page-274.jpg",
+      "printed_page": "㊳－53",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:275",
+      "physical_page": 275,
+      "image": "pages/T3/page-275.jpg",
+      "printed_page": "㊳－54",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:276",
+      "physical_page": 276,
+      "image": "pages/T3/page-276.jpg",
+      "printed_page": "㊳－55",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review + full-size boundary/label review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:277",
+      "physical_page": 277,
+      "image": "pages/T3/page-277.jpg",
+      "printed_page": null,
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review + full-size boundary/label review",
+      "observation": "Substantive chapter overview and examination-history page; retained as the chapter's planned first page."
+    },
+    {
+      "id": "T3:278",
+      "physical_page": 278,
+      "image": "pages/T3/page-278.jpg",
+      "printed_page": "㊴－1",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review + full-size boundary/label review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:279",
+      "physical_page": 279,
+      "image": "pages/T3/page-279.jpg",
+      "printed_page": "㊴－2",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:280",
+      "physical_page": 280,
+      "image": "pages/T3/page-280.jpg",
+      "printed_page": "㊴－3",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:281",
+      "physical_page": 281,
+      "image": "pages/T3/page-281.jpg",
+      "printed_page": "㊴－4",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:282",
+      "physical_page": 282,
+      "image": "pages/T3/page-282.jpg",
+      "printed_page": "㊴－5",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:283",
+      "physical_page": 283,
+      "image": "pages/T3/page-283.jpg",
+      "printed_page": "㊴－6",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:284",
+      "physical_page": 284,
+      "image": "pages/T3/page-284.jpg",
+      "printed_page": "㊴－7",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:285",
+      "physical_page": 285,
+      "image": "pages/T3/page-285.jpg",
+      "printed_page": "㊴－8",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:286",
+      "physical_page": 286,
+      "image": "pages/T3/page-286.jpg",
+      "printed_page": "㊴－9",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:287",
+      "physical_page": 287,
+      "image": "pages/T3/page-287.jpg",
+      "printed_page": "㊴－10",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:288",
+      "physical_page": 288,
+      "image": "pages/T3/page-288.jpg",
+      "printed_page": "㊴－11",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:289",
+      "physical_page": 289,
+      "image": "pages/T3/page-289.jpg",
+      "printed_page": "㊴－12",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:290",
+      "physical_page": 290,
+      "image": "pages/T3/page-290.jpg",
+      "printed_page": "㊴－13",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:291",
+      "physical_page": 291,
+      "image": "pages/T3/page-291.jpg",
+      "printed_page": "㊴－14",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:292",
+      "physical_page": 292,
+      "image": "pages/T3/page-292.jpg",
+      "printed_page": "㊴－15",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:293",
+      "physical_page": 293,
+      "image": "pages/T3/page-293.jpg",
+      "printed_page": "㊴－16",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:294",
+      "physical_page": 294,
+      "image": "pages/T3/page-294.jpg",
+      "printed_page": "㊴－17",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:295",
+      "physical_page": 295,
+      "image": "pages/T3/page-295.jpg",
+      "printed_page": "㊴－18",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:296",
+      "physical_page": 296,
+      "image": "pages/T3/page-296.jpg",
+      "printed_page": "㊴－19",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:297",
+      "physical_page": 297,
+      "image": "pages/T3/page-297.jpg",
+      "printed_page": "㊴－20",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:298",
+      "physical_page": 298,
+      "image": "pages/T3/page-298.jpg",
+      "printed_page": "㊴－21",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:299",
+      "physical_page": 299,
+      "image": "pages/T3/page-299.jpg",
+      "printed_page": "㊴－22",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:300",
+      "physical_page": 300,
+      "image": "pages/T3/page-300.jpg",
+      "printed_page": "㊴－23",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review + full-size boundary/label review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:301",
+      "physical_page": 301,
+      "image": "pages/T3/page-301.jpg",
+      "printed_page": "㊴－24",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review + full-size boundary/label review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:302",
+      "physical_page": 302,
+      "image": "pages/T3/page-302.jpg",
+      "printed_page": "㊴－25",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:303",
+      "physical_page": 303,
+      "image": "pages/T3/page-303.jpg",
+      "printed_page": "㊴－26",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:304",
+      "physical_page": 304,
+      "image": "pages/T3/page-304.jpg",
+      "printed_page": "㊴－27",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:305",
+      "physical_page": 305,
+      "image": "pages/T3/page-305.jpg",
+      "printed_page": "㊴－28",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:306",
+      "physical_page": 306,
+      "image": "pages/T3/page-306.jpg",
+      "printed_page": "㊴－29",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:307",
+      "physical_page": 307,
+      "image": "pages/T3/page-307.jpg",
+      "printed_page": "㊴－30",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:308",
+      "physical_page": 308,
+      "image": "pages/T3/page-308.jpg",
+      "printed_page": "㊴－31",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:309",
+      "physical_page": 309,
+      "image": "pages/T3/page-309.jpg",
+      "printed_page": "㊴－32",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:310",
+      "physical_page": 310,
+      "image": "pages/T3/page-310.jpg",
+      "printed_page": "㊴－33",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:311",
+      "physical_page": 311,
+      "image": "pages/T3/page-311.jpg",
+      "printed_page": "㊴－34",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:312",
+      "physical_page": 312,
+      "image": "pages/T3/page-312.jpg",
+      "printed_page": "㊴－35",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:313",
+      "physical_page": 313,
+      "image": "pages/T3/page-313.jpg",
+      "printed_page": "㊴－36",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:314",
+      "physical_page": 314,
+      "image": "pages/T3/page-314.jpg",
+      "printed_page": "㊴－37",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:315",
+      "physical_page": 315,
+      "image": "pages/T3/page-315.jpg",
+      "printed_page": "㊴－38",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:316",
+      "physical_page": 316,
+      "image": "pages/T3/page-316.jpg",
+      "printed_page": "㊴－39",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review + full-size boundary/label review",
+      "observation": "Planned in-chapter MEMO page; retained to preserve the exact assigned physical range."
+    },
+    {
+      "id": "T3:317",
+      "physical_page": 317,
+      "image": "pages/T3/page-317.jpg",
+      "printed_page": null,
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review + full-size boundary/label review",
+      "observation": "Substantive chapter overview and examination-history page; retained as the chapter's planned first page."
+    },
+    {
+      "id": "T3:318",
+      "physical_page": 318,
+      "image": "pages/T3/page-318.jpg",
+      "printed_page": "㊵－1",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review + full-size boundary/label review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:319",
+      "physical_page": 319,
+      "image": "pages/T3/page-319.jpg",
+      "printed_page": "㊵－2",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:320",
+      "physical_page": 320,
+      "image": "pages/T3/page-320.jpg",
+      "printed_page": "㊵－3",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:321",
+      "physical_page": 321,
+      "image": "pages/T3/page-321.jpg",
+      "printed_page": "㊵－4",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:322",
+      "physical_page": 322,
+      "image": "pages/T3/page-322.jpg",
+      "printed_page": "㊵－5",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:323",
+      "physical_page": 323,
+      "image": "pages/T3/page-323.jpg",
+      "printed_page": "㊵－6",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:324",
+      "physical_page": 324,
+      "image": "pages/T3/page-324.jpg",
+      "printed_page": "㊵－7",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:325",
+      "physical_page": 325,
+      "image": "pages/T3/page-325.jpg",
+      "printed_page": "㊵－8",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:326",
+      "physical_page": 326,
+      "image": "pages/T3/page-326.jpg",
+      "printed_page": "㊵－9",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:327",
+      "physical_page": 327,
+      "image": "pages/T3/page-327.jpg",
+      "printed_page": "㊵－10",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:328",
+      "physical_page": 328,
+      "image": "pages/T3/page-328.jpg",
+      "printed_page": "㊵－11",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:329",
+      "physical_page": 329,
+      "image": "pages/T3/page-329.jpg",
+      "printed_page": "㊵－12",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:330",
+      "physical_page": 330,
+      "image": "pages/T3/page-330.jpg",
+      "printed_page": "㊵－13",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:331",
+      "physical_page": 331,
+      "image": "pages/T3/page-331.jpg",
+      "printed_page": "㊵－14",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:332",
+      "physical_page": 332,
+      "image": "pages/T3/page-332.jpg",
+      "printed_page": "㊵－15",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:333",
+      "physical_page": 333,
+      "image": "pages/T3/page-333.jpg",
+      "printed_page": "㊵－16",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:334",
+      "physical_page": 334,
+      "image": "pages/T3/page-334.jpg",
+      "printed_page": "㊵－17",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:335",
+      "physical_page": 335,
+      "image": "pages/T3/page-335.jpg",
+      "printed_page": "㊵－18",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:336",
+      "physical_page": 336,
+      "image": "pages/T3/page-336.jpg",
+      "printed_page": "㊵－19",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:337",
+      "physical_page": 337,
+      "image": "pages/T3/page-337.jpg",
+      "printed_page": "㊵－20",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:338",
+      "physical_page": 338,
+      "image": "pages/T3/page-338.jpg",
+      "printed_page": "㊵－21",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:339",
+      "physical_page": 339,
+      "image": "pages/T3/page-339.jpg",
+      "printed_page": "㊵－22",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review",
+      "observation": "Substantive chapter/section body page in the frozen T3 processing range; retained."
+    },
+    {
+      "id": "T3:340",
+      "physical_page": 340,
+      "image": "pages/T3/page-340.jpg",
+      "printed_page": "㊵－23",
+      "disposition": "include",
+      "inspection_method": "original/cache hash + Pillow decode + contact-sheet review + full-size boundary/label review",
+      "observation": "Planned in-chapter MEMO page; retained to preserve the exact assigned physical range."
+    },
+    {
+      "id": "T3:341",
+      "physical_page": 341,
+      "image": "pages/T3/page-341.jpg",
+      "printed_page": null,
+      "disposition": "exclude",
+      "inspection_method": "original/cache hash + Pillow decode + full-size image review",
+      "observation": "本文末尾後の全面白紙。本文・印刷ラベルなしのため除外。"
+    },
+    {
+      "id": "T3:342",
+      "physical_page": 342,
+      "image": "pages/T3/page-342.jpg",
+      "printed_page": null,
+      "disposition": "exclude",
+      "inspection_method": "original/cache hash + Pillow decode + full-size image review",
+      "observation": "奥付。『財務会計論 理論 テキスト③』『2024/2025年合格目標』『2023年2月28日発行』を確認する版・識別情報ページで、学習本文ではないため除外。"
+    },
+    {
+      "id": "T3:343",
+      "physical_page": 343,
+      "image": "pages/T3/page-343.jpg",
+      "printed_page": null,
+      "disposition": "exclude",
+      "inspection_method": "original/cache hash + Pillow decode + full-size image review",
+      "observation": "裏表紙。学習本文ではないため除外。"
+    },
+    {
+      "id": "T3:344",
+      "physical_page": 344,
+      "image": "pages/T3/page-344.jpg",
+      "printed_page": null,
+      "disposition": "exclude",
+      "inspection_method": "original/cache hash + Pillow decode + full-size image review",
+      "observation": "裏表紙後の全面白紙。本文・印刷ラベルなしのため除外。"
+    }
+  ],
+  "chapter_section_evidence": [
+    {
+      "key": "33",
+      "title": "金融商品に関する会計基準",
+      "planned_physical_range": [
+        7,
+        76
+      ],
+      "chapter_overview_image": "pages/T3/page-007.jpg",
+      "section_anchors": [
+        {
+          "physical_page": 9,
+          "section_number": 1
+        },
+        {
+          "physical_page": 10,
+          "section_number": 2
+        },
+        {
+          "physical_page": 12,
+          "section_number": 3
+        },
+        {
+          "physical_page": 23,
+          "section_number": 4
+        },
+        {
+          "physical_page": 25,
+          "section_number": 5
+        },
+        {
+          "physical_page": 31,
+          "section_number": 6
+        },
+        {
+          "physical_page": 46,
+          "section_number": 7
+        },
+        {
+          "physical_page": 48,
+          "section_number": 8
+        },
+        {
+          "physical_page": 49,
+          "section_number": 9
+        },
+        {
+          "physical_page": 50,
+          "section_number": 10
+        },
+        {
+          "physical_page": 67,
+          "section_number": 11
+        },
+        {
+          "physical_page": 68,
+          "section_number": 12
+        },
+        {
+          "physical_page": 72,
+          "section_number": 13
+        },
+        {
+          "physical_page": 76,
+          "section_number": 14
+        }
+      ],
+      "boundary_observation": "Chapter overview is substantive and included; the following page starts the chapter-local printed sequence at -1; the final page label and next chapter overview were checked."
+    },
+    {
+      "key": "34",
+      "title": "収益認識に関する会計基準",
+      "planned_physical_range": [
+        77,
+        122
+      ],
+      "chapter_overview_image": "pages/T3/page-077.jpg",
+      "section_anchors": [
+        {
+          "physical_page": 78,
+          "section_number": 1
+        },
+        {
+          "physical_page": 85,
+          "section_number": 2
+        },
+        {
+          "physical_page": 91,
+          "section_number": 3
+        },
+        {
+          "physical_page": 94,
+          "section_number": 4
+        },
+        {
+          "physical_page": 100,
+          "section_number": 5
+        },
+        {
+          "physical_page": 103,
+          "section_number": 6
+        },
+        {
+          "physical_page": 106,
+          "section_number": 7
+        },
+        {
+          "physical_page": 109,
+          "section_number": 8
+        },
+        {
+          "physical_page": 118,
+          "section_number": 9
+        }
+      ],
+      "boundary_observation": "Chapter overview is substantive and included; the following page starts the chapter-local printed sequence at -1; the final page label and next chapter overview were checked."
+    },
+    {
+      "key": "35",
+      "title": "連結財務諸表に関する会計基準",
+      "planned_physical_range": [
+        123,
+        178
+      ],
+      "chapter_overview_image": "pages/T3/page-123.jpg",
+      "section_anchors": [
+        {
+          "physical_page": 124,
+          "section_number": 1
+        },
+        {
+          "physical_page": 127,
+          "section_number": 2
+        },
+        {
+          "physical_page": 128,
+          "section_number": 3
+        },
+        {
+          "physical_page": 138,
+          "section_number": 4
+        },
+        {
+          "physical_page": 155,
+          "section_number": 5
+        },
+        {
+          "physical_page": 164,
+          "section_number": 6
+        },
+        {
+          "physical_page": 165,
+          "section_number": 7
+        },
+        {
+          "physical_page": 169,
+          "section_number": 8
+        },
+        {
+          "physical_page": 170,
+          "section_number": 9
+        },
+        {
+          "physical_page": 175,
+          "section_number": 10
+        }
+      ],
+      "boundary_observation": "Chapter overview is substantive and included; the following page starts the chapter-local printed sequence at -1; the final page label and next chapter overview were checked."
+    },
+    {
+      "key": "36",
+      "title": "持分法に関する会計基準",
+      "planned_physical_range": [
+        179,
+        202
+      ],
+      "chapter_overview_image": "pages/T3/page-179.jpg",
+      "section_anchors": [
+        {
+          "physical_page": 180,
+          "section_number": 1
+        },
+        {
+          "physical_page": 181,
+          "section_number": 2
+        },
+        {
+          "physical_page": 186,
+          "section_number": 3
+        },
+        {
+          "physical_page": 188,
+          "section_number": 4
+        },
+        {
+          "physical_page": 190,
+          "section_number": 5
+        },
+        {
+          "physical_page": 198,
+          "section_number": 6
+        }
+      ],
+      "boundary_observation": "Chapter overview is substantive and included; the following page starts the chapter-local printed sequence at -1; the final page label and next chapter overview were checked."
+    },
+    {
+      "key": "37",
+      "title": "包括利益の表示に関する会計基準",
+      "planned_physical_range": [
+        203,
+        220
+      ],
+      "chapter_overview_image": "pages/T3/page-203.jpg",
+      "section_anchors": [
+        {
+          "physical_page": 204,
+          "section_number": 1
+        },
+        {
+          "physical_page": 210,
+          "section_number": 2
+        },
+        {
+          "physical_page": 213,
+          "section_number": 3
+        },
+        {
+          "physical_page": 219,
+          "section_number": 4
+        }
+      ],
+      "boundary_observation": "Chapter overview is substantive and included; the following page starts the chapter-local printed sequence at -1; the final page label and next chapter overview were checked."
+    },
+    {
+      "key": "38",
+      "title": "企業結合に関する会計基準",
+      "planned_physical_range": [
+        221,
+        276
+      ],
+      "chapter_overview_image": "pages/T3/page-221.jpg",
+      "section_anchors": [
+        {
+          "physical_page": 222,
+          "section_number": 1
+        },
+        {
+          "physical_page": 224,
+          "section_number": 2
+        },
+        {
+          "physical_page": 230,
+          "section_number": 3
+        },
+        {
+          "physical_page": 264,
+          "section_number": 4
+        },
+        {
+          "physical_page": 267,
+          "section_number": 5
+        },
+        {
+          "physical_page": 272,
+          "section_number": 6
+        },
+        {
+          "physical_page": 273,
+          "section_number": 7
+        }
+      ],
+      "boundary_observation": "Chapter overview is substantive and included; the following page starts the chapter-local printed sequence at -1; the final page label and next chapter overview were checked."
+    },
+    {
+      "key": "39",
+      "title": "事業分離等に関する会計基準",
+      "planned_physical_range": [
+        277,
+        316
+      ],
+      "chapter_overview_image": "pages/T3/page-277.jpg",
+      "section_anchors": [
+        {
+          "physical_page": 278,
+          "section_number": 1
+        },
+        {
+          "physical_page": 282,
+          "section_number": 2
+        },
+        {
+          "physical_page": 288,
+          "section_number": 3
+        },
+        {
+          "physical_page": 291,
+          "section_number": 4
+        },
+        {
+          "physical_page": 301,
+          "section_number": 5
+        },
+        {
+          "physical_page": 306,
+          "section_number": 6
+        },
+        {
+          "physical_page": 308,
+          "section_number": 7
+        },
+        {
+          "physical_page": 311,
+          "section_number": 8
+        }
+      ],
+      "boundary_observation": "Chapter overview is substantive and included; the following page starts the chapter-local printed sequence at -1; the final page label and next chapter overview were checked."
+    },
+    {
+      "key": "40",
+      "title": "連結キャッシュ・フロー計算書等の作成基準",
+      "planned_physical_range": [
+        317,
+        340
+      ],
+      "chapter_overview_image": "pages/T3/page-317.jpg",
+      "section_anchors": [
+        {
+          "physical_page": 318,
+          "section_number": 1
+        },
+        {
+          "physical_page": 320,
+          "section_number": 2
+        },
+        {
+          "physical_page": 322,
+          "section_number": 3
+        },
+        {
+          "physical_page": 332,
+          "section_number": 4
+        },
+        {
+          "physical_page": 337,
+          "section_number": 5
+        }
+      ],
+      "boundary_observation": "Chapter overview is substantive and included; the following page starts the chapter-local printed sequence at -1; the final page label and next chapter overview were checked."
+    }
+  ],
+  "batch_boundary_checks": [
+    {
+      "id": "JPG-T3-INV-BND-JPG-T3-C001",
+      "batch_id": "JPG-T3-C001",
+      "start": {
+        "physical_page": 7,
+        "page_id": "T3:007",
+        "image": "pages/T3/page-007.jpg",
+        "printed_page": null,
+        "image_observation": "第33章の章概要・出題実績表で開始。"
+      },
+      "end": {
+        "physical_page": 30,
+        "page_id": "T3:030",
+        "image": "pages/T3/page-030.jpg",
+        "printed_page": "㉝－23",
+        "image_observation": "㉝－23で第5節の内容がページ内に収まり、次ページは第6節『有価証券』から開始。表・図・例題の未完了継続なし。"
+      },
+      "boundary_checks": [
+        "start and end image are present in the source manifest and canonical cache",
+        "start/end physical IDs agree with the frozen page-plan range",
+        "no table, diagram, question, answer, example, or condition is visibly stranded at the reviewed boundary"
+      ],
+      "status": "pass"
+    },
+    {
+      "id": "JPG-T3-INV-BND-JPG-T3-C002",
+      "batch_id": "JPG-T3-C002",
+      "start": {
+        "physical_page": 31,
+        "page_id": "T3:031",
+        "image": "pages/T3/page-031.jpg",
+        "printed_page": "㉝－24",
+        "image_observation": "第6節『有価証券』の節頭から開始。"
+      },
+      "end": {
+        "physical_page": 49,
+        "page_id": "T3:049",
+        "image": "pages/T3/page-049.jpg",
+        "printed_page": "㉝－42",
+        "image_observation": "㉝－42で第9節『金銭債務』の説明がページ内に収まり、次ページは第10節『ヘッジ会計』から開始。表・図・条件の未完了継続なし。"
+      },
+      "boundary_checks": [
+        "start and end image are present in the source manifest and canonical cache",
+        "start/end physical IDs agree with the frozen page-plan range",
+        "no table, diagram, question, answer, example, or condition is visibly stranded at the reviewed boundary"
+      ],
+      "status": "pass"
+    },
+    {
+      "id": "JPG-T3-INV-BND-JPG-T3-C003",
+      "batch_id": "JPG-T3-C003",
+      "start": {
+        "physical_page": 50,
+        "page_id": "T3:050",
+        "image": "pages/T3/page-050.jpg",
+        "printed_page": "㉝－43",
+        "image_observation": "第10節『ヘッジ会計』の節頭から開始。"
+      },
+      "end": {
+        "physical_page": 71,
+        "page_id": "T3:071",
+        "image": "pages/T3/page-071.jpg",
+        "printed_page": "㉝－64",
+        "image_observation": "㉝－64で第12節『新株予約権付社債』の区分法の説明が完結し、次ページは第13節から開始。計算表・図の未完了継続なし。"
+      },
+      "boundary_checks": [
+        "start and end image are present in the source manifest and canonical cache",
+        "start/end physical IDs agree with the frozen page-plan range",
+        "no table, diagram, question, answer, example, or condition is visibly stranded at the reviewed boundary"
+      ],
+      "status": "pass"
+    },
+    {
+      "id": "JPG-T3-INV-BND-JPG-T3-C004",
+      "batch_id": "JPG-T3-C004",
+      "start": {
+        "physical_page": 72,
+        "page_id": "T3:072",
+        "image": "pages/T3/page-072.jpg",
+        "printed_page": "㉝－65",
+        "image_observation": "第13節『金融商品の消滅に関するその他の論点』の節頭から開始。"
+      },
+      "end": {
+        "physical_page": 76,
+        "page_id": "T3:076",
+        "image": "pages/T3/page-076.jpg",
+        "printed_page": "㉝－69",
+        "image_observation": "㉝－69で第14節『注記事項』の本文・列挙が完結し、次ページは第34章の章概要から開始。列挙・条件の未完了継続なし。"
+      },
+      "boundary_checks": [
+        "start and end image are present in the source manifest and canonical cache",
+        "start/end physical IDs agree with the frozen page-plan range",
+        "no table, diagram, question, answer, example, or condition is visibly stranded at the reviewed boundary"
+      ],
+      "status": "pass"
+    },
+    {
+      "id": "JPG-T3-INV-BND-JPG-T3-C005",
+      "batch_id": "JPG-T3-C005",
+      "start": {
+        "physical_page": 77,
+        "page_id": "T3:077",
+        "image": "pages/T3/page-077.jpg",
+        "printed_page": null,
+        "image_observation": "第34章の章概要・出題実績表で開始。"
+      },
+      "end": {
+        "physical_page": 99,
+        "page_id": "T3:099",
+        "image": "pages/T3/page-099.jpg",
+        "printed_page": "㉞－22",
+        "image_observation": "㉞－22でStep3の例題と仕訳・計算がページ内に収まり、次ページはStep4から開始。例題・計算・条件の未完了継続なし。"
+      },
+      "boundary_checks": [
+        "start and end image are present in the source manifest and canonical cache",
+        "start/end physical IDs agree with the frozen page-plan range",
+        "no table, diagram, question, answer, example, or condition is visibly stranded at the reviewed boundary"
+      ],
+      "status": "pass"
+    },
+    {
+      "id": "JPG-T3-INV-BND-JPG-T3-C006",
+      "batch_id": "JPG-T3-C006",
+      "start": {
+        "physical_page": 100,
+        "page_id": "T3:100",
+        "image": "pages/T3/page-100.jpg",
+        "printed_page": "㉞－23",
+        "image_observation": "第34章第5節Step4の節頭から開始。"
+      },
+      "end": {
+        "physical_page": 122,
+        "page_id": "T3:122",
+        "image": "pages/T3/page-122.jpg",
+        "printed_page": "㉞－45",
+        "image_observation": "㉞－45は計画範囲内のMEMOページで、次ページは第35章の章概要から開始。図表・例題・条件の未完了継続なし。"
+      },
+      "boundary_checks": [
+        "start and end image are present in the source manifest and canonical cache",
+        "start/end physical IDs agree with the frozen page-plan range",
+        "no table, diagram, question, answer, example, or condition is visibly stranded at the reviewed boundary"
+      ],
+      "status": "pass"
+    },
+    {
+      "id": "JPG-T3-INV-BND-JPG-T3-C007",
+      "batch_id": "JPG-T3-C007",
+      "start": {
+        "physical_page": 123,
+        "page_id": "T3:123",
+        "image": "pages/T3/page-123.jpg",
+        "printed_page": null,
+        "image_observation": "第35章の章概要・出題実績表で開始。"
+      },
+      "end": {
+        "physical_page": 137,
+        "page_id": "T3:137",
+        "image": "pages/T3/page-137.jpg",
+        "printed_page": "㉟－14",
+        "image_observation": "㉟－14で第3節の説明と補足がページ内に収まり、次ページは第4節『資本連結』から開始。表・図・条件の未完了継続なし。"
+      },
+      "boundary_checks": [
+        "start and end image are present in the source manifest and canonical cache",
+        "start/end physical IDs agree with the frozen page-plan range",
+        "no table, diagram, question, answer, example, or condition is visibly stranded at the reviewed boundary"
+      ],
+      "status": "pass"
+    },
+    {
+      "id": "JPG-T3-INV-BND-JPG-T3-C008",
+      "batch_id": "JPG-T3-C008",
+      "start": {
+        "physical_page": 138,
+        "page_id": "T3:138",
+        "image": "pages/T3/page-138.jpg",
+        "printed_page": "㉟－15",
+        "image_observation": "第35章第4節『資本連結』の節頭から開始。"
+      },
+      "end": {
+        "physical_page": 154,
+        "page_id": "T3:154",
+        "image": "pages/T3/page-154.jpg",
+        "printed_page": "㉟－31",
+        "image_observation": "㉟－31で非支配株主持分とのれんの関係性に関する例題が完結し、次ページは第5節から開始。例題・計算・図の未完了継続なし。"
+      },
+      "boundary_checks": [
+        "start and end image are present in the source manifest and canonical cache",
+        "start/end physical IDs agree with the frozen page-plan range",
+        "no table, diagram, question, answer, example, or condition is visibly stranded at the reviewed boundary"
+      ],
+      "status": "pass"
+    },
+    {
+      "id": "JPG-T3-INV-BND-JPG-T3-C009",
+      "batch_id": "JPG-T3-C009",
+      "start": {
+        "physical_page": 155,
+        "page_id": "T3:155",
+        "image": "pages/T3/page-155.jpg",
+        "printed_page": "㉟－32",
+        "image_observation": "第35章第5節の節頭から開始。"
+      },
+      "end": {
+        "physical_page": 178,
+        "page_id": "T3:178",
+        "image": "pages/T3/page-178.jpg",
+        "printed_page": "㉟－55",
+        "image_observation": "㉟－55で第10節『連結財務諸表の注記事項』の内容が完結し、次ページは第36章の章概要から開始。表・図・条件の未完了継続なし。"
+      },
+      "boundary_checks": [
+        "start and end image are present in the source manifest and canonical cache",
+        "start/end physical IDs agree with the frozen page-plan range",
+        "no table, diagram, question, answer, example, or condition is visibly stranded at the reviewed boundary"
+      ],
+      "status": "pass"
+    },
+    {
+      "id": "JPG-T3-INV-BND-JPG-T3-C010",
+      "batch_id": "JPG-T3-C010",
+      "start": {
+        "physical_page": 179,
+        "page_id": "T3:179",
+        "image": "pages/T3/page-179.jpg",
+        "printed_page": null,
+        "image_observation": "第36章の章概要・出題実績表で開始。"
+      },
+      "end": {
+        "physical_page": 202,
+        "page_id": "T3:202",
+        "image": "pages/T3/page-202.jpg",
+        "printed_page": "㊱－23",
+        "image_observation": "㊱－23で第5節・第6節の会計処理と注記事項がページ内に収まり、次ページは第37章の章概要から開始。仕訳・表・条件の未完了継続なし。"
+      },
+      "boundary_checks": [
+        "start and end image are present in the source manifest and canonical cache",
+        "start/end physical IDs agree with the frozen page-plan range",
+        "no table, diagram, question, answer, example, or condition is visibly stranded at the reviewed boundary"
+      ],
+      "status": "pass"
+    },
+    {
+      "id": "JPG-T3-INV-BND-JPG-T3-C011",
+      "batch_id": "JPG-T3-C011",
+      "start": {
+        "physical_page": 203,
+        "page_id": "T3:203",
+        "image": "pages/T3/page-203.jpg",
+        "printed_page": null,
+        "image_observation": "第37章の章概要・出題実績表で開始。"
+      },
+      "end": {
+        "physical_page": 220,
+        "page_id": "T3:220",
+        "image": "pages/T3/page-220.jpg",
+        "printed_page": "㊲－17",
+        "image_observation": "㊲－17で2つの計算書方式の表示例と論拠が完結し、次ページは第38章の章概要から開始。表示例・条件の未完了継続なし。"
+      },
+      "boundary_checks": [
+        "start and end image are present in the source manifest and canonical cache",
+        "start/end physical IDs agree with the frozen page-plan range",
+        "no table, diagram, question, answer, example, or condition is visibly stranded at the reviewed boundary"
+      ],
+      "status": "pass"
+    },
+    {
+      "id": "JPG-T3-INV-BND-JPG-T3-C012",
+      "batch_id": "JPG-T3-C012",
+      "start": {
+        "physical_page": 221,
+        "page_id": "T3:221",
+        "image": "pages/T3/page-221.jpg",
+        "printed_page": null,
+        "image_observation": "第38章の章概要・出題実績表で開始。"
+      },
+      "end": {
+        "physical_page": 229,
+        "page_id": "T3:229",
+        "image": "pages/T3/page-229.jpg",
+        "printed_page": "㊳－8",
+        "image_observation": "㊳－8で第2節の説明と第3節へ進む箇条書きが完結し、次ページは第3節から開始。図・例示・条件の未完了継続なし。"
+      },
+      "boundary_checks": [
+        "start and end image are present in the source manifest and canonical cache",
+        "start/end physical IDs agree with the frozen page-plan range",
+        "no table, diagram, question, answer, example, or condition is visibly stranded at the reviewed boundary"
+      ],
+      "status": "pass"
+    },
+    {
+      "id": "JPG-T3-INV-BND-JPG-T3-C013",
+      "batch_id": "JPG-T3-C013",
+      "start": {
+        "physical_page": 230,
+        "page_id": "T3:230",
+        "image": "pages/T3/page-230.jpg",
+        "printed_page": "㊳－9",
+        "image_observation": "第38章第3節『取得の会計処理』の節頭から開始。"
+      },
+      "end": {
+        "physical_page": 249,
+        "page_id": "T3:249",
+        "image": "pages/T3/page-249.jpg",
+        "printed_page": "㊳－28",
+        "image_observation": "㊳－28で取得後費用の例題と特定勘定の具体例がページ内に収まり、次ページは同節の後続小節から開始。例題・仕訳・条件の未完了継続なし。"
+      },
+      "boundary_checks": [
+        "start and end image are present in the source manifest and canonical cache",
+        "start/end physical IDs agree with the frozen page-plan range",
+        "no table, diagram, question, answer, example, or condition is visibly stranded at the reviewed boundary"
+      ],
+      "status": "pass"
+    },
+    {
+      "id": "JPG-T3-INV-BND-JPG-T3-C014",
+      "batch_id": "JPG-T3-C014",
+      "start": {
+        "physical_page": 250,
+        "page_id": "T3:250",
+        "image": "pages/T3/page-250.jpg",
+        "printed_page": "㊳－29",
+        "image_observation": "第38章第3節の後続小節（識別可能資産・負債の時価等）から開始。"
+      },
+      "end": {
+        "physical_page": 272,
+        "page_id": "T3:272",
+        "image": "pages/T3/page-272.jpg",
+        "printed_page": "㊳－51",
+        "image_observation": "㊳－51で第6節『非支配株主との取引』の内容がページ内に収まり、次ページは第7節から開始。図・表・条件の未完了継続なし。"
+      },
+      "boundary_checks": [
+        "start and end image are present in the source manifest and canonical cache",
+        "start/end physical IDs agree with the frozen page-plan range",
+        "no table, diagram, question, answer, example, or condition is visibly stranded at the reviewed boundary"
+      ],
+      "status": "pass"
+    },
+    {
+      "id": "JPG-T3-INV-BND-JPG-T3-C015",
+      "batch_id": "JPG-T3-C015",
+      "start": {
+        "physical_page": 273,
+        "page_id": "T3:273",
+        "image": "pages/T3/page-273.jpg",
+        "printed_page": "㊳－52",
+        "image_observation": "第38章第7節『開示』の節頭から開始。"
+      },
+      "end": {
+        "physical_page": 276,
+        "page_id": "T3:276",
+        "image": "pages/T3/page-276.jpg",
+        "printed_page": "㊳－55",
+        "image_observation": "㊳－55で開示に関する最後の注記事項が完結し、次ページは第39章の章概要から開始。列挙・条件の未完了継続なし。"
+      },
+      "boundary_checks": [
+        "start and end image are present in the source manifest and canonical cache",
+        "start/end physical IDs agree with the frozen page-plan range",
+        "no table, diagram, question, answer, example, or condition is visibly stranded at the reviewed boundary"
+      ],
+      "status": "pass"
+    },
+    {
+      "id": "JPG-T3-INV-BND-JPG-T3-C016",
+      "batch_id": "JPG-T3-C016",
+      "start": {
+        "physical_page": 277,
+        "page_id": "T3:277",
+        "image": "pages/T3/page-277.jpg",
+        "printed_page": null,
+        "image_observation": "第39章の章概要・出題実績表で開始。"
+      },
+      "end": {
+        "physical_page": 300,
+        "page_id": "T3:300",
+        "image": "pages/T3/page-300.jpg",
+        "printed_page": "㊴－23",
+        "image_observation": "㊴－23で第4節の最後の説明・図がページ内に収まり、次ページは第5節から開始。図・条件・例示の未完了継続なし。"
+      },
+      "boundary_checks": [
+        "start and end image are present in the source manifest and canonical cache",
+        "start/end physical IDs agree with the frozen page-plan range",
+        "no table, diagram, question, answer, example, or condition is visibly stranded at the reviewed boundary"
+      ],
+      "status": "pass"
+    },
+    {
+      "id": "JPG-T3-INV-BND-JPG-T3-C017",
+      "batch_id": "JPG-T3-C017",
+      "start": {
+        "physical_page": 301,
+        "page_id": "T3:301",
+        "image": "pages/T3/page-301.jpg",
+        "printed_page": "㊴－24",
+        "image_observation": "第39章第5節の節頭から開始。"
+      },
+      "end": {
+        "physical_page": 316,
+        "page_id": "T3:316",
+        "image": "pages/T3/page-316.jpg",
+        "printed_page": "㊴－39",
+        "image_observation": "㊴－39は計画範囲内のMEMOページで、次ページは第40章の章概要から開始。図・表・条件の未完了継続なし。"
+      },
+      "boundary_checks": [
+        "start and end image are present in the source manifest and canonical cache",
+        "start/end physical IDs agree with the frozen page-plan range",
+        "no table, diagram, question, answer, example, or condition is visibly stranded at the reviewed boundary"
+      ],
+      "status": "pass"
+    },
+    {
+      "id": "JPG-T3-INV-BND-JPG-T3-C018",
+      "batch_id": "JPG-T3-C018",
+      "start": {
+        "physical_page": 317,
+        "page_id": "T3:317",
+        "image": "pages/T3/page-317.jpg",
+        "printed_page": null,
+        "image_observation": "第40章の章概要・出題実績表で開始。"
+      },
+      "end": {
+        "physical_page": 340,
+        "page_id": "T3:340",
+        "image": "pages/T3/page-340.jpg",
+        "printed_page": "㊵－23",
+        "image_observation": "㊵－23は計画範囲内のMEMOページで、次ページは本文末尾後の白紙。表・図・条件の未完了継続なし。"
+      },
+      "boundary_checks": [
+        "start and end image are present in the source manifest and canonical cache",
+        "start/end physical IDs agree with the frozen page-plan range",
+        "no table, diagram, question, answer, example, or condition is visibly stranded at the reviewed boundary"
+      ],
+      "status": "pass"
+    }
+  ],
+  "batch_ownership": {
+    "planned_batch_count": 18,
+    "included_physical_pages": 334,
+    "excluded_metadata_pages": 10,
+    "processing_page_union": 334,
+    "pairwise_intersections": [],
+    "missing_processing_pages": [],
+    "unexpected_processing_pages": [],
+    "all_expected_ranges_match_page_plan": true
+  },
+  "digests": {
+    "sources_json_sha256": "0028aabf949568cfaa1e4bd2de2ac1229783b2109a1eddd33055a1a93c745492",
+    "source_map_json_sha256": "eeda009fce489b73722a12dc7987baeec614e69e6ae23f85db0a75bd52ab563e",
+    "batches_json_sha256": "3f8fab0fe5eea0049490fb17b6be086e5402dc2abf02beea504414df76a06443",
+    "source_catalog_file_sha256": "8358e9cffb068f63df0bdfcc8f99be035e66454ac8710d381f0ff9eb87728079",
+    "page_plan_file_sha256": "997a7280b171df5803c2a3bb7c2ee8764082e01f3bdb03c194b9129fe18d26c9",
+    "source_image_inventory_sha256": "8e0709aa6cd2d086d9df18627ae7eb466c20cdb59474bbef26038f03d9d40b24",
+    "catalog_image_inventory_sha256": "af94a7c1f91d1eb56611afc242360566950d6f93d5a6ac7d5271c5e8d3f9d170",
+    "staging_image_inventory_sha256": "8e0709aa6cd2d086d9df18627ae7eb466c20cdb59474bbef26038f03d9d40b24",
+    "cache_image_inventory_sha256": "8e0709aa6cd2d086d9df18627ae7eb466c20cdb59474bbef26038f03d9d40b24"
+  },
+  "downstream_readiness": {
+    "inventory_ready": true,
+    "conversion_ready_from_this_issue": true,
+    "semantic_qa_status": "not_started",
+    "tasks_json_changed": false,
+    "chunks_created": false,
+    "merged_markdown_created": false,
+    "source_media_committed": false
+  },
+  "anomalies": [],
+  "unresolved_source_questions": []
+}
