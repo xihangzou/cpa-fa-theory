@@ -1,0 +1,28 @@
+{
+  "status": "PASS",
+  "positive_graph_issue_count": 226,
+  "negative_graph_checks": [
+    {
+      "case": "missing dependency",
+      "result": "rejected",
+      "reason": "JPG-000: invalid dependency"
+    },
+    {
+      "case": "unsupported model",
+      "result": "rejected",
+      "reason": "Worker must be Sol or Luna"
+    },
+    {
+      "case": "cycle",
+      "result": "rejected",
+      "reason": "Dependency graph contains a cycle"
+    },
+    {
+      "case": "unordered writer overlap",
+      "result": "rejected",
+      "reason": "Overlapping writers need a dependency: JPG-000 / JPG-T1-INV"
+    }
+  ],
+  "production_pipeline_run": false,
+  "semantic_review_claimed": false
+}

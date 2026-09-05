@@ -1,0 +1,68 @@
+{
+  "status": "PASS",
+  "plan_id": "cpa-fa-theory-jpg-md-20260905",
+  "revision": 1,
+  "issue_count": 226,
+  "ready": [
+    "JPG-000",
+    "JPG-T1-INV",
+    "JPG-T2-INV",
+    "JPG-T3-INV",
+    "JPG-W1-INV",
+    "JPG-W2-INV",
+    "JPG-CS-INV"
+  ],
+  "sources": {
+    "T1": {
+      "physical_pages": 362,
+      "candidate_body_pages": 349,
+      "metadata_only_candidate_pages": 13,
+      "conversion_batches": 28,
+      "chapter_records": 21,
+      "chapter_qa_issues": 10
+    },
+    "T2": {
+      "physical_pages": 450,
+      "candidate_body_pages": 440,
+      "metadata_only_candidate_pages": 10,
+      "conversion_batches": 25,
+      "chapter_records": 12,
+      "chapter_qa_issues": 12
+    },
+    "T3": {
+      "physical_pages": 344,
+      "candidate_body_pages": 334,
+      "metadata_only_candidate_pages": 10,
+      "conversion_batches": 18,
+      "chapter_records": 8,
+      "chapter_qa_issues": 7
+    },
+    "W1": {
+      "physical_pages": 204,
+      "candidate_body_pages": 197,
+      "metadata_only_candidate_pages": 7,
+      "conversion_batches": 22,
+      "chapter_records": 21,
+      "chapter_qa_issues": 6
+    },
+    "W2": {
+      "physical_pages": 398,
+      "candidate_body_pages": 392,
+      "metadata_only_candidate_pages": 6,
+      "conversion_batches": 25,
+      "chapter_records": 21,
+      "chapter_qa_issues": 10
+    },
+    "CS": {
+      "physical_pages": 350,
+      "candidate_body_pages": 339,
+      "metadata_only_candidate_pages": 11,
+      "conversion_batches": 28,
+      "chapter_records": 69,
+      "chapter_qa_issues": 9
+    }
+  },
+  "total_physical_pages": 2108,
+  "production_checked_absent": true,
+  "semantic_conversion_reviewed": false
+}

@@ -1,0 +1,16 @@
+{
+  "plan_id": "cpa-fa-theory-jpg-md-20260905",
+  "revision": 1,
+  "date": "2026-09-05",
+  "repository": "xihangzou/cpa-fa-theory",
+  "visibility": "public",
+  "baseline_branch": "main",
+  "baseline_sha": "7c824a5815e30f2980e33e54745961e1ef1284ee",
+  "working_tree": "clean before setup",
+  "tracked_root": "empty",
+  "existing_issue_count": 0,
+  "existing_pull_request_count": 0,
+  "production_started": false,
+  "workers_launched": 0,
+  "source_semantic_review_completed": false
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "JPGs to Markdown"
+  short_description: "Source-page images to verified structured Markdown"
+  default_prompt: "Use $jpg-to-md to complete only this workflow using my designated sources."

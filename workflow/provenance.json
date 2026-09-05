@@ -1,0 +1,80 @@
+[
+  {
+    "repository_path": "workflow/requirements.txt",
+    "origin": "/Users/xihangzou/Study/320_CPA/322_財務理論/jpg-to-md/requirements.txt",
+    "sha256": "3743e929abade30d6fc3c2fe48c830fc2f6d7c03f830b78d6df43b3519ea1b8f",
+    "role": "user-designated content workflow"
+  },
+  {
+    "repository_path": "workflow/WORKFLOW.md",
+    "origin": "/Users/xihangzou/Study/320_CPA/322_財務理論/jpg-to-md/WORKFLOW.md",
+    "sha256": "38b3db0c97d7d148b714e6d8d6e5003622f991d36f873d870948c782c639dbdb",
+    "role": "user-designated content workflow"
+  },
+  {
+    "repository_path": "workflow/SKILL.md",
+    "origin": "/Users/xihangzou/Study/320_CPA/322_財務理論/jpg-to-md/SKILL.md",
+    "sha256": "8ad7a84c9ee66fc22e395740717f08b97d1abdf528d3e34b7407c6e158842f18",
+    "role": "user-designated content workflow"
+  },
+  {
+    "repository_path": "workflow/agents/openai.yaml",
+    "origin": "/Users/xihangzou/Study/320_CPA/322_財務理論/jpg-to-md/agents/openai.yaml",
+    "sha256": "c01da64b847d5c5c0868616d4c969447e7b3611d6841246447ed3ed452b3a8c3",
+    "role": "user-designated content workflow"
+  },
+  {
+    "repository_path": "workflow/scripts/source_md.py",
+    "origin": "/Users/xihangzou/Study/320_CPA/322_財務理論/jpg-to-md/scripts/source_md.py",
+    "sha256": "eb12705150bf8513b50211125d30b1013c699bebb0a4dc450f35ab53c43888be",
+    "role": "user-designated content workflow"
+  },
+  {
+    "repository_path": "workflow/assets/project-template/sources.json",
+    "origin": "/Users/xihangzou/Study/320_CPA/322_財務理論/jpg-to-md/assets/project-template/sources.json",
+    "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+    "role": "user-designated content workflow"
+  },
+  {
+    "repository_path": "workflow/assets/project-template/tasks.json",
+    "origin": "/Users/xihangzou/Study/320_CPA/322_財務理論/jpg-to-md/assets/project-template/tasks.json",
+    "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+    "role": "user-designated content workflow"
+  },
+  {
+    "repository_path": "workflow/GITHUB_ISSUES.md",
+    "origin": "/Users/xihangzou/Documents/Codex/2026-09-05/github-plugin-github-openai-curated-remote-3/outputs/learning-workflows/jpg-to-md/GITHUB_ISSUES.md",
+    "sha256": "a946c9ad4dfc80dcf54db13a48b5ef8add5267d5a8f523ff0dad25e556b4f7eb",
+    "role": "recovered Version 3 manual issue planning kit; missing in designated local copy"
+  },
+  {
+    "repository_path": "workflow/scripts/plan_repo.py",
+    "origin": "/Users/xihangzou/Documents/Codex/2026-09-05/github-plugin-github-openai-curated-remote-3/outputs/learning-workflows/jpg-to-md/scripts/plan_repo.py",
+    "sha256": "e8bb379808196064f2224667c9197871df4fa074a519ec2c1dc10476883c7262",
+    "role": "recovered Version 3 manual issue planning kit; missing in designated local copy"
+  },
+  {
+    "repository_path": "workflow/scripts/publish_issues.py",
+    "origin": "/Users/xihangzou/Documents/Codex/2026-09-05/github-plugin-github-openai-curated-remote-3/outputs/learning-workflows/jpg-to-md/scripts/publish_issues.py",
+    "sha256": "1f04ac8eac2336df8fd73d80a474e8001fb3fef204e087fc4d2e3bee2daa14c8",
+    "role": "recovered Version 3 manual issue planning kit; missing in designated local copy"
+  },
+  {
+    "repository_path": "workflow/assets/REPO_AGENTS.md",
+    "origin": "/Users/xihangzou/Documents/Codex/2026-09-05/github-plugin-github-openai-curated-remote-3/outputs/learning-workflows/jpg-to-md/assets/REPO_AGENTS.md",
+    "sha256": "bb534908f92b291d8ba9ebfb9b2c05a754a2e9ee7a6849ff1dfbb18db53eb2e7",
+    "role": "recovered Version 3 manual issue planning kit; missing in designated local copy"
+  },
+  {
+    "repository_path": "workflow/assets/ISSUE_TEMPLATE.md",
+    "origin": "/Users/xihangzou/Documents/Codex/2026-09-05/github-plugin-github-openai-curated-remote-3/outputs/learning-workflows/jpg-to-md/assets/ISSUE_TEMPLATE.md",
+    "sha256": "74acc93140fdedb89e337673b64b42e3b2179e3310011ce4062b758956039f1b",
+    "role": "recovered Version 3 manual issue planning kit; missing in designated local copy"
+  },
+  {
+    "repository_path": "workflow/assets/PLAN_TEMPLATE.json",
+    "origin": "/Users/xihangzou/Documents/Codex/2026-09-05/github-plugin-github-openai-curated-remote-3/outputs/learning-workflows/jpg-to-md/assets/PLAN_TEMPLATE.json",
+    "sha256": "5532001d429901673e76c1c51127d6b48fd01da46f08d1440394ebe8d4424bb7",
+    "role": "recovered Version 3 manual issue planning kit; missing in designated local copy"
+  }
+]

@@ -1,0 +1,17 @@
+**/__pycache__/
+**/*.pyc
+.venv/
+.DS_Store
+work/
+**/local-staging/
+**/pages/
+**/sources/
+**/media/
+**/*.pdf
+**/*.jpg
+**/*.jpeg
+**/*.png
+**/*.apkg
+**/*.colpkg
+.env
+.env.*

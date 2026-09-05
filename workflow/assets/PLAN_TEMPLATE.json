@@ -1,0 +1,45 @@
+{
+  "plan_id": "REPLACE-STABLE-PLAN-ID",
+  "repository": "OWNER/REPO",
+  "visibility": "private",
+  "planner": "GPT-6 Astra",
+  "mode": "plan-first-manual-execution",
+  "objective": "REPLACE with this stage objective",
+  "sources": [
+    {
+      "id": "SOURCE1",
+      "location": "REPLACE exact path or stable link",
+      "revision_or_identity": "REPLACE edition/hash/commit or identified prerequisite output",
+      "scope": "REPLACE exact page/section range"
+    }
+  ],
+  "issues": [
+    {
+      "id": "TASK-001",
+      "title": "REPLACE bounded outcome",
+      "goal": "REPLACE observable result",
+      "worker": "GPT-5.6 Sol",
+      "worker_reason": "REPLACE rationale",
+      "depends_on": [],
+      "inputs": [
+        "REPLACE exact inputs"
+      ],
+      "owned_paths": [
+        "project/REPLACE"
+      ],
+      "outputs": [
+        "REPLACE named deliverables"
+      ],
+      "acceptance": [
+        "REPLACE observable pass criteria"
+      ],
+      "verification": [
+        "REPLACE command or reproducible procedure and expected outcome"
+      ],
+      "evidence": [
+        "REPLACE required saved paths/revision and actual check results"
+      ]
+    }
+  ],
+  "delivery_branch": "main"
+}
