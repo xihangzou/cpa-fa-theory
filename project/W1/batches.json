@@ -1,0 +1,1387 @@
+[
+  {
+    "id": "JPG-W1-C001",
+    "source_id": "W1",
+    "physical_range": {
+      "start": 5,
+      "end": 23
+    },
+    "expected_pages": [
+      "W1:005",
+      "W1:006",
+      "W1:007",
+      "W1:008",
+      "W1:009",
+      "W1:010",
+      "W1:011",
+      "W1:012",
+      "W1:013",
+      "W1:014",
+      "W1:015",
+      "W1:016",
+      "W1:017",
+      "W1:018",
+      "W1:019",
+      "W1:020",
+      "W1:021",
+      "W1:022",
+      "W1:023"
+    ],
+    "processing_pages": [
+      "W1:005",
+      "W1:006",
+      "W1:007",
+      "W1:008",
+      "W1:009",
+      "W1:010",
+      "W1:011",
+      "W1:012",
+      "W1:013",
+      "W1:014",
+      "W1:015",
+      "W1:016",
+      "W1:017",
+      "W1:018",
+      "W1:019",
+      "W1:020",
+      "W1:021",
+      "W1:022"
+    ],
+    "fragment": "fragments/JPG-W1-C001.json",
+    "chapter_keys": [
+      "00"
+    ],
+    "chapter_titles": [
+      "序章（問題集の使用・学習案内）"
+    ],
+    "inventory_status": "pass",
+    "excluded_expected_pages": [
+      "W1:023"
+    ],
+    "boundary_review": {
+      "status": "pass",
+      "start": {
+        "physical_page": 5,
+        "image": "pages/W1/page-005.jpg",
+        "printed_page": null,
+        "finding": "開始画像を全画面確認。章見出しまたは新しい問題・解説ブロックから始まり、前バッチから継続する表・図・問題・解答・例・条件の途中ではない。"
+      },
+      "end": {
+        "physical_page": 23,
+        "image": "pages/W1/page-023.jpg",
+        "printed_page": "18",
+        "finding": "物理023は画像上で[MEMO]の空白ページ。実質的な表・図・問題・解答・例・条件はなく、明示的に除外したため境界で内容を分断しない。"
+      },
+      "checked_for": [
+        "table",
+        "diagram",
+        "question",
+        "answer",
+        "example",
+        "condition"
+      ],
+      "stranded_content": false
+    }
+  },
+  {
+    "id": "JPG-W1-C002",
+    "source_id": "W1",
+    "physical_range": {
+      "start": 24,
+      "end": 31
+    },
+    "expected_pages": [
+      "W1:024",
+      "W1:025",
+      "W1:026",
+      "W1:027",
+      "W1:028",
+      "W1:029",
+      "W1:030",
+      "W1:031"
+    ],
+    "processing_pages": [
+      "W1:024",
+      "W1:025",
+      "W1:026",
+      "W1:027",
+      "W1:028",
+      "W1:029",
+      "W1:030",
+      "W1:031"
+    ],
+    "fragment": "fragments/JPG-W1-C002.json",
+    "chapter_keys": [
+      "01"
+    ],
+    "chapter_titles": [
+      "財務会計における基礎概念"
+    ],
+    "inventory_status": "pass",
+    "excluded_expected_pages": [],
+    "boundary_review": {
+      "status": "pass",
+      "start": {
+        "physical_page": 24,
+        "image": "pages/W1/page-024.jpg",
+        "printed_page": "①-1",
+        "finding": "開始画像を全画面確認。章見出しまたは新しい問題・解説ブロックから始まり、前バッチから継続する表・図・問題・解答・例・条件の途中ではない。"
+      },
+      "end": {
+        "physical_page": 31,
+        "image": "pages/W1/page-031.jpg",
+        "printed_page": "①-8",
+        "finding": "終了画像を全画面確認。最後の問題・解説ブロックがページ内で完結しており、表・図・問題・解答・例・条件を次バッチへ分断しない。"
+      },
+      "checked_for": [
+        "table",
+        "diagram",
+        "question",
+        "answer",
+        "example",
+        "condition"
+      ],
+      "stranded_content": false
+    }
+  },
+  {
+    "id": "JPG-W1-C003",
+    "source_id": "W1",
+    "physical_range": {
+      "start": 32,
+      "end": 45
+    },
+    "expected_pages": [
+      "W1:032",
+      "W1:033",
+      "W1:034",
+      "W1:035",
+      "W1:036",
+      "W1:037",
+      "W1:038",
+      "W1:039",
+      "W1:040",
+      "W1:041",
+      "W1:042",
+      "W1:043",
+      "W1:044",
+      "W1:045"
+    ],
+    "processing_pages": [
+      "W1:032",
+      "W1:033",
+      "W1:034",
+      "W1:035",
+      "W1:036",
+      "W1:037",
+      "W1:038",
+      "W1:039",
+      "W1:040",
+      "W1:041",
+      "W1:042",
+      "W1:043",
+      "W1:044",
+      "W1:045"
+    ],
+    "fragment": "fragments/JPG-W1-C003.json",
+    "chapter_keys": [
+      "02"
+    ],
+    "chapter_titles": [
+      "一般原則"
+    ],
+    "inventory_status": "pass",
+    "excluded_expected_pages": [],
+    "boundary_review": {
+      "status": "pass",
+      "start": {
+        "physical_page": 32,
+        "image": "pages/W1/page-032.jpg",
+        "printed_page": "②-1",
+        "finding": "開始画像を全画面確認。章見出しまたは新しい問題・解説ブロックから始まり、前バッチから継続する表・図・問題・解答・例・条件の途中ではない。"
+      },
+      "end": {
+        "physical_page": 45,
+        "image": "pages/W1/page-045.jpg",
+        "printed_page": "②-14",
+        "finding": "終了画像を全画面確認。最後の問題・解説ブロックがページ内で完結しており、表・図・問題・解答・例・条件を次バッチへ分断しない。"
+      },
+      "checked_for": [
+        "table",
+        "diagram",
+        "question",
+        "answer",
+        "example",
+        "condition"
+      ],
+      "stranded_content": false
+    }
+  },
+  {
+    "id": "JPG-W1-C004",
+    "source_id": "W1",
+    "physical_range": {
+      "start": 46,
+      "end": 49
+    },
+    "expected_pages": [
+      "W1:046",
+      "W1:047",
+      "W1:048",
+      "W1:049"
+    ],
+    "processing_pages": [
+      "W1:046",
+      "W1:047",
+      "W1:048",
+      "W1:049"
+    ],
+    "fragment": "fragments/JPG-W1-C004.json",
+    "chapter_keys": [
+      "03"
+    ],
+    "chapter_titles": [
+      "貸借対照表・損益計算書総論"
+    ],
+    "inventory_status": "pass",
+    "excluded_expected_pages": [],
+    "boundary_review": {
+      "status": "pass",
+      "start": {
+        "physical_page": 46,
+        "image": "pages/W1/page-046.jpg",
+        "printed_page": "③-1",
+        "finding": "開始画像を全画面確認。章見出しまたは新しい問題・解説ブロックから始まり、前バッチから継続する表・図・問題・解答・例・条件の途中ではない。"
+      },
+      "end": {
+        "physical_page": 49,
+        "image": "pages/W1/page-049.jpg",
+        "printed_page": "③-4",
+        "finding": "終了画像を全画面確認。最後の問題・解説ブロックがページ内で完結しており、表・図・問題・解答・例・条件を次バッチへ分断しない。"
+      },
+      "checked_for": [
+        "table",
+        "diagram",
+        "question",
+        "answer",
+        "example",
+        "condition"
+      ],
+      "stranded_content": false
+    }
+  },
+  {
+    "id": "JPG-W1-C005",
+    "source_id": "W1",
+    "physical_range": {
+      "start": 50,
+      "end": 61
+    },
+    "expected_pages": [
+      "W1:050",
+      "W1:051",
+      "W1:052",
+      "W1:053",
+      "W1:054",
+      "W1:055",
+      "W1:056",
+      "W1:057",
+      "W1:058",
+      "W1:059",
+      "W1:060",
+      "W1:061"
+    ],
+    "processing_pages": [
+      "W1:050",
+      "W1:051",
+      "W1:052",
+      "W1:053",
+      "W1:054",
+      "W1:055",
+      "W1:056",
+      "W1:057",
+      "W1:058",
+      "W1:059",
+      "W1:060",
+      "W1:061"
+    ],
+    "fragment": "fragments/JPG-W1-C005.json",
+    "chapter_keys": [
+      "04"
+    ],
+    "chapter_titles": [
+      "損益会計"
+    ],
+    "inventory_status": "pass",
+    "excluded_expected_pages": [],
+    "boundary_review": {
+      "status": "pass",
+      "start": {
+        "physical_page": 50,
+        "image": "pages/W1/page-050.jpg",
+        "printed_page": "④-1",
+        "finding": "開始画像を全画面確認。章見出しまたは新しい問題・解説ブロックから始まり、前バッチから継続する表・図・問題・解答・例・条件の途中ではない。"
+      },
+      "end": {
+        "physical_page": 61,
+        "image": "pages/W1/page-061.jpg",
+        "printed_page": "④-12",
+        "finding": "終了画像を全画面確認。最後の問題・解説ブロックがページ内で完結しており、表・図・問題・解答・例・条件を次バッチへ分断しない。"
+      },
+      "checked_for": [
+        "table",
+        "diagram",
+        "question",
+        "answer",
+        "example",
+        "condition"
+      ],
+      "stranded_content": false
+    }
+  },
+  {
+    "id": "JPG-W1-C006",
+    "source_id": "W1",
+    "physical_range": {
+      "start": 62,
+      "end": 65
+    },
+    "expected_pages": [
+      "W1:062",
+      "W1:063",
+      "W1:064",
+      "W1:065"
+    ],
+    "processing_pages": [
+      "W1:062",
+      "W1:063",
+      "W1:064",
+      "W1:065"
+    ],
+    "fragment": "fragments/JPG-W1-C006.json",
+    "chapter_keys": [
+      "05"
+    ],
+    "chapter_titles": [
+      "貸借対照表総論"
+    ],
+    "inventory_status": "pass",
+    "excluded_expected_pages": [],
+    "boundary_review": {
+      "status": "pass",
+      "start": {
+        "physical_page": 62,
+        "image": "pages/W1/page-062.jpg",
+        "printed_page": "⑤-1",
+        "finding": "開始画像を全画面確認。章見出しまたは新しい問題・解説ブロックから始まり、前バッチから継続する表・図・問題・解答・例・条件の途中ではない。"
+      },
+      "end": {
+        "physical_page": 65,
+        "image": "pages/W1/page-065.jpg",
+        "printed_page": "⑤-4",
+        "finding": "終了画像を全画面確認。最後の問題・解説ブロックがページ内で完結しており、表・図・問題・解答・例・条件を次バッチへ分断しない。"
+      },
+      "checked_for": [
+        "table",
+        "diagram",
+        "question",
+        "answer",
+        "example",
+        "condition"
+      ],
+      "stranded_content": false
+    }
+  },
+  {
+    "id": "JPG-W1-C007",
+    "source_id": "W1",
+    "physical_range": {
+      "start": 66,
+      "end": 71
+    },
+    "expected_pages": [
+      "W1:066",
+      "W1:067",
+      "W1:068",
+      "W1:069",
+      "W1:070",
+      "W1:071"
+    ],
+    "processing_pages": [
+      "W1:066",
+      "W1:067",
+      "W1:068",
+      "W1:069",
+      "W1:070",
+      "W1:071"
+    ],
+    "fragment": "fragments/JPG-W1-C007.json",
+    "chapter_keys": [
+      "06"
+    ],
+    "chapter_titles": [
+      "資産会計総論"
+    ],
+    "inventory_status": "pass",
+    "excluded_expected_pages": [],
+    "boundary_review": {
+      "status": "pass",
+      "start": {
+        "physical_page": 66,
+        "image": "pages/W1/page-066.jpg",
+        "printed_page": "⑥-1",
+        "finding": "開始画像を全画面確認。章見出しまたは新しい問題・解説ブロックから始まり、前バッチから継続する表・図・問題・解答・例・条件の途中ではない。"
+      },
+      "end": {
+        "physical_page": 71,
+        "image": "pages/W1/page-071.jpg",
+        "printed_page": "⑥-6",
+        "finding": "終了画像を全画面確認。最後の問題・解説ブロックがページ内で完結しており、表・図・問題・解答・例・条件を次バッチへ分断しない。"
+      },
+      "checked_for": [
+        "table",
+        "diagram",
+        "question",
+        "answer",
+        "example",
+        "condition"
+      ],
+      "stranded_content": false
+    }
+  },
+  {
+    "id": "JPG-W1-C008",
+    "source_id": "W1",
+    "physical_range": {
+      "start": 72,
+      "end": 73
+    },
+    "expected_pages": [
+      "W1:072",
+      "W1:073"
+    ],
+    "processing_pages": [
+      "W1:072",
+      "W1:073"
+    ],
+    "fragment": "fragments/JPG-W1-C008.json",
+    "chapter_keys": [
+      "07"
+    ],
+    "chapter_titles": [
+      "流動資産"
+    ],
+    "inventory_status": "pass",
+    "excluded_expected_pages": [],
+    "boundary_review": {
+      "status": "pass",
+      "start": {
+        "physical_page": 72,
+        "image": "pages/W1/page-072.jpg",
+        "printed_page": "⑦-1",
+        "finding": "開始画像を全画面確認。章見出しまたは新しい問題・解説ブロックから始まり、前バッチから継続する表・図・問題・解答・例・条件の途中ではない。"
+      },
+      "end": {
+        "physical_page": 73,
+        "image": "pages/W1/page-073.jpg",
+        "printed_page": "⑦-2",
+        "finding": "終了画像を全画面確認。最後の問題・解説ブロックがページ内で完結しており、表・図・問題・解答・例・条件を次バッチへ分断しない。"
+      },
+      "checked_for": [
+        "table",
+        "diagram",
+        "question",
+        "answer",
+        "example",
+        "condition"
+      ],
+      "stranded_content": false
+    }
+  },
+  {
+    "id": "JPG-W1-C009",
+    "source_id": "W1",
+    "physical_range": {
+      "start": 74,
+      "end": 83
+    },
+    "expected_pages": [
+      "W1:074",
+      "W1:075",
+      "W1:076",
+      "W1:077",
+      "W1:078",
+      "W1:079",
+      "W1:080",
+      "W1:081",
+      "W1:082",
+      "W1:083"
+    ],
+    "processing_pages": [
+      "W1:074",
+      "W1:075",
+      "W1:076",
+      "W1:077",
+      "W1:078",
+      "W1:079",
+      "W1:080",
+      "W1:081",
+      "W1:082",
+      "W1:083"
+    ],
+    "fragment": "fragments/JPG-W1-C009.json",
+    "chapter_keys": [
+      "08"
+    ],
+    "chapter_titles": [
+      "固定資産"
+    ],
+    "inventory_status": "pass",
+    "excluded_expected_pages": [],
+    "boundary_review": {
+      "status": "pass",
+      "start": {
+        "physical_page": 74,
+        "image": "pages/W1/page-074.jpg",
+        "printed_page": "⑧-1",
+        "finding": "開始画像を全画面確認。章見出しまたは新しい問題・解説ブロックから始まり、前バッチから継続する表・図・問題・解答・例・条件の途中ではない。"
+      },
+      "end": {
+        "physical_page": 83,
+        "image": "pages/W1/page-083.jpg",
+        "printed_page": "⑧-10",
+        "finding": "終了画像を全画面確認。最後の問題・解説ブロックがページ内で完結しており、表・図・問題・解答・例・条件を次バッチへ分断しない。"
+      },
+      "checked_for": [
+        "table",
+        "diagram",
+        "question",
+        "answer",
+        "example",
+        "condition"
+      ],
+      "stranded_content": false
+    }
+  },
+  {
+    "id": "JPG-W1-C010",
+    "source_id": "W1",
+    "physical_range": {
+      "start": 84,
+      "end": 93
+    },
+    "expected_pages": [
+      "W1:084",
+      "W1:085",
+      "W1:086",
+      "W1:087",
+      "W1:088",
+      "W1:089",
+      "W1:090",
+      "W1:091",
+      "W1:092",
+      "W1:093"
+    ],
+    "processing_pages": [
+      "W1:084",
+      "W1:085",
+      "W1:086",
+      "W1:087",
+      "W1:088",
+      "W1:089",
+      "W1:090",
+      "W1:091",
+      "W1:092",
+      "W1:093"
+    ],
+    "fragment": "fragments/JPG-W1-C010.json",
+    "chapter_keys": [
+      "09"
+    ],
+    "chapter_titles": [
+      "繰延資産"
+    ],
+    "inventory_status": "pass",
+    "excluded_expected_pages": [],
+    "boundary_review": {
+      "status": "pass",
+      "start": {
+        "physical_page": 84,
+        "image": "pages/W1/page-084.jpg",
+        "printed_page": "⑨-1",
+        "finding": "開始画像を全画面確認。章見出しまたは新しい問題・解説ブロックから始まり、前バッチから継続する表・図・問題・解答・例・条件の途中ではない。"
+      },
+      "end": {
+        "physical_page": 93,
+        "image": "pages/W1/page-093.jpg",
+        "printed_page": "⑨-10",
+        "finding": "終了画像を全画面確認。最後の問題・解説ブロックがページ内で完結しており、表・図・問題・解答・例・条件を次バッチへ分断しない。"
+      },
+      "checked_for": [
+        "table",
+        "diagram",
+        "question",
+        "answer",
+        "example",
+        "condition"
+      ],
+      "stranded_content": false
+    }
+  },
+  {
+    "id": "JPG-W1-C011",
+    "source_id": "W1",
+    "physical_range": {
+      "start": 94,
+      "end": 103
+    },
+    "expected_pages": [
+      "W1:094",
+      "W1:095",
+      "W1:096",
+      "W1:097",
+      "W1:098",
+      "W1:099",
+      "W1:100",
+      "W1:101",
+      "W1:102",
+      "W1:103"
+    ],
+    "processing_pages": [
+      "W1:094",
+      "W1:095",
+      "W1:096",
+      "W1:097",
+      "W1:098",
+      "W1:099",
+      "W1:100",
+      "W1:101",
+      "W1:102",
+      "W1:103"
+    ],
+    "fragment": "fragments/JPG-W1-C011.json",
+    "chapter_keys": [
+      "10"
+    ],
+    "chapter_titles": [
+      "負債会計"
+    ],
+    "inventory_status": "pass",
+    "excluded_expected_pages": [],
+    "boundary_review": {
+      "status": "pass",
+      "start": {
+        "physical_page": 94,
+        "image": "pages/W1/page-094.jpg",
+        "printed_page": "⑩-1",
+        "finding": "開始画像を全画面確認。章見出しまたは新しい問題・解説ブロックから始まり、前バッチから継続する表・図・問題・解答・例・条件の途中ではない。"
+      },
+      "end": {
+        "physical_page": 103,
+        "image": "pages/W1/page-103.jpg",
+        "printed_page": "⑩-10",
+        "finding": "終了画像を全画面確認。最後の問題・解説ブロックがページ内で完結しており、表・図・問題・解答・例・条件を次バッチへ分断しない。"
+      },
+      "checked_for": [
+        "table",
+        "diagram",
+        "question",
+        "answer",
+        "example",
+        "condition"
+      ],
+      "stranded_content": false
+    }
+  },
+  {
+    "id": "JPG-W1-C012",
+    "source_id": "W1",
+    "physical_range": {
+      "start": 104,
+      "end": 107
+    },
+    "expected_pages": [
+      "W1:104",
+      "W1:105",
+      "W1:106",
+      "W1:107"
+    ],
+    "processing_pages": [
+      "W1:104",
+      "W1:105",
+      "W1:106",
+      "W1:107"
+    ],
+    "fragment": "fragments/JPG-W1-C012.json",
+    "chapter_keys": [
+      "11"
+    ],
+    "chapter_titles": [
+      "資本会計（伝統論）"
+    ],
+    "inventory_status": "pass",
+    "excluded_expected_pages": [],
+    "boundary_review": {
+      "status": "pass",
+      "start": {
+        "physical_page": 104,
+        "image": "pages/W1/page-104.jpg",
+        "printed_page": "⑪-1",
+        "finding": "開始画像を全画面確認。章見出しまたは新しい問題・解説ブロックから始まり、前バッチから継続する表・図・問題・解答・例・条件の途中ではない。"
+      },
+      "end": {
+        "physical_page": 107,
+        "image": "pages/W1/page-107.jpg",
+        "printed_page": "⑪-4",
+        "finding": "終了画像を全画面確認。最後の問題・解説ブロックがページ内で完結しており、表・図・問題・解答・例・条件を次バッチへ分断しない。"
+      },
+      "checked_for": [
+        "table",
+        "diagram",
+        "question",
+        "answer",
+        "example",
+        "condition"
+      ],
+      "stranded_content": false
+    }
+  },
+  {
+    "id": "JPG-W1-C013",
+    "source_id": "W1",
+    "physical_range": {
+      "start": 108,
+      "end": 127
+    },
+    "expected_pages": [
+      "W1:108",
+      "W1:109",
+      "W1:110",
+      "W1:111",
+      "W1:112",
+      "W1:113",
+      "W1:114",
+      "W1:115",
+      "W1:116",
+      "W1:117",
+      "W1:118",
+      "W1:119",
+      "W1:120",
+      "W1:121",
+      "W1:122",
+      "W1:123",
+      "W1:124",
+      "W1:125",
+      "W1:126",
+      "W1:127"
+    ],
+    "processing_pages": [
+      "W1:108",
+      "W1:109",
+      "W1:110",
+      "W1:111",
+      "W1:112",
+      "W1:113",
+      "W1:114",
+      "W1:115",
+      "W1:116",
+      "W1:117",
+      "W1:118",
+      "W1:119",
+      "W1:120",
+      "W1:121",
+      "W1:122",
+      "W1:123",
+      "W1:124",
+      "W1:125",
+      "W1:126",
+      "W1:127"
+    ],
+    "fragment": "fragments/JPG-W1-C013.json",
+    "chapter_keys": [
+      "12"
+    ],
+    "chapter_titles": [
+      "財務会計の概念フレームワーク"
+    ],
+    "inventory_status": "pass",
+    "excluded_expected_pages": [],
+    "boundary_review": {
+      "status": "pass",
+      "start": {
+        "physical_page": 108,
+        "image": "pages/W1/page-108.jpg",
+        "printed_page": "⑫-1",
+        "finding": "開始画像を全画面確認。章見出しまたは新しい問題・解説ブロックから始まり、前バッチから継続する表・図・問題・解答・例・条件の途中ではない。"
+      },
+      "end": {
+        "physical_page": 127,
+        "image": "pages/W1/page-127.jpg",
+        "printed_page": "⑫-20",
+        "finding": "終了画像を全画面確認。最後の問題・解説ブロックがページ内で完結しており、表・図・問題・解答・例・条件を次バッチへ分断しない。"
+      },
+      "checked_for": [
+        "table",
+        "diagram",
+        "question",
+        "answer",
+        "example",
+        "condition"
+      ],
+      "stranded_content": false
+    }
+  },
+  {
+    "id": "JPG-W1-C014",
+    "source_id": "W1",
+    "physical_range": {
+      "start": 128,
+      "end": 149
+    },
+    "expected_pages": [
+      "W1:128",
+      "W1:129",
+      "W1:130",
+      "W1:131",
+      "W1:132",
+      "W1:133",
+      "W1:134",
+      "W1:135",
+      "W1:136",
+      "W1:137",
+      "W1:138",
+      "W1:139",
+      "W1:140",
+      "W1:141",
+      "W1:142",
+      "W1:143",
+      "W1:144",
+      "W1:145",
+      "W1:146",
+      "W1:147",
+      "W1:148",
+      "W1:149"
+    ],
+    "processing_pages": [
+      "W1:128",
+      "W1:129",
+      "W1:130",
+      "W1:131",
+      "W1:132",
+      "W1:133",
+      "W1:134",
+      "W1:135",
+      "W1:136",
+      "W1:137",
+      "W1:138",
+      "W1:139",
+      "W1:140",
+      "W1:141",
+      "W1:142",
+      "W1:143",
+      "W1:144",
+      "W1:145",
+      "W1:146",
+      "W1:147",
+      "W1:148",
+      "W1:149"
+    ],
+    "fragment": "fragments/JPG-W1-C014.json",
+    "chapter_keys": [
+      "12"
+    ],
+    "chapter_titles": [
+      "財務会計の概念フレームワーク"
+    ],
+    "inventory_status": "pass",
+    "excluded_expected_pages": [],
+    "boundary_review": {
+      "status": "pass",
+      "start": {
+        "physical_page": 128,
+        "image": "pages/W1/page-128.jpg",
+        "printed_page": "⑫-21",
+        "finding": "開始画像を全画面確認。章見出しまたは新しい問題・解説ブロックから始まり、前バッチから継続する表・図・問題・解答・例・条件の途中ではない。"
+      },
+      "end": {
+        "physical_page": 149,
+        "image": "pages/W1/page-149.jpg",
+        "printed_page": "⑫-42",
+        "finding": "終了画像を全画面確認。最後の問題・解説ブロックがページ内で完結しており、表・図・問題・解答・例・条件を次バッチへ分断しない。"
+      },
+      "checked_for": [
+        "table",
+        "diagram",
+        "question",
+        "answer",
+        "example",
+        "condition"
+      ],
+      "stranded_content": false
+    }
+  },
+  {
+    "id": "JPG-W1-C015",
+    "source_id": "W1",
+    "physical_range": {
+      "start": 150,
+      "end": 151
+    },
+    "expected_pages": [
+      "W1:150",
+      "W1:151"
+    ],
+    "processing_pages": [
+      "W1:150",
+      "W1:151"
+    ],
+    "fragment": "fragments/JPG-W1-C015.json",
+    "chapter_keys": [
+      "13"
+    ],
+    "chapter_titles": [
+      "会計基準等"
+    ],
+    "inventory_status": "pass",
+    "excluded_expected_pages": [],
+    "boundary_review": {
+      "status": "pass",
+      "start": {
+        "physical_page": 150,
+        "image": "pages/W1/page-150.jpg",
+        "printed_page": "⑬-1",
+        "finding": "開始画像を全画面確認。章見出しまたは新しい問題・解説ブロックから始まり、前バッチから継続する表・図・問題・解答・例・条件の途中ではない。"
+      },
+      "end": {
+        "physical_page": 151,
+        "image": "pages/W1/page-151.jpg",
+        "printed_page": "⑬-2",
+        "finding": "終了画像を全画面確認。最後の問題・解説ブロックがページ内で完結しており、表・図・問題・解答・例・条件を次バッチへ分断しない。"
+      },
+      "checked_for": [
+        "table",
+        "diagram",
+        "question",
+        "answer",
+        "example",
+        "condition"
+      ],
+      "stranded_content": false
+    }
+  },
+  {
+    "id": "JPG-W1-C016",
+    "source_id": "W1",
+    "physical_range": {
+      "start": 152,
+      "end": 165
+    },
+    "expected_pages": [
+      "W1:152",
+      "W1:153",
+      "W1:154",
+      "W1:155",
+      "W1:156",
+      "W1:157",
+      "W1:158",
+      "W1:159",
+      "W1:160",
+      "W1:161",
+      "W1:162",
+      "W1:163",
+      "W1:164",
+      "W1:165"
+    ],
+    "processing_pages": [
+      "W1:152",
+      "W1:153",
+      "W1:154",
+      "W1:155",
+      "W1:156",
+      "W1:157",
+      "W1:158",
+      "W1:159",
+      "W1:160",
+      "W1:161",
+      "W1:162",
+      "W1:163",
+      "W1:164",
+      "W1:165"
+    ],
+    "fragment": "fragments/JPG-W1-C016.json",
+    "chapter_keys": [
+      "14"
+    ],
+    "chapter_titles": [
+      "セグメント情報等の開示に関する会計基準"
+    ],
+    "inventory_status": "pass",
+    "excluded_expected_pages": [],
+    "boundary_review": {
+      "status": "pass",
+      "start": {
+        "physical_page": 152,
+        "image": "pages/W1/page-152.jpg",
+        "printed_page": "⑭-1",
+        "finding": "開始画像を全画面確認。章見出しまたは新しい問題・解説ブロックから始まり、前バッチから継続する表・図・問題・解答・例・条件の途中ではない。"
+      },
+      "end": {
+        "physical_page": 165,
+        "image": "pages/W1/page-165.jpg",
+        "printed_page": "⑭-14",
+        "finding": "終了画像を全画面確認。最後の問題・解説ブロックがページ内で完結しており、表・図・問題・解答・例・条件を次バッチへ分断しない。"
+      },
+      "checked_for": [
+        "table",
+        "diagram",
+        "question",
+        "answer",
+        "example",
+        "condition"
+      ],
+      "stranded_content": false
+    }
+  },
+  {
+    "id": "JPG-W1-C017",
+    "source_id": "W1",
+    "physical_range": {
+      "start": 166,
+      "end": 175
+    },
+    "expected_pages": [
+      "W1:166",
+      "W1:167",
+      "W1:168",
+      "W1:169",
+      "W1:170",
+      "W1:171",
+      "W1:172",
+      "W1:173",
+      "W1:174",
+      "W1:175"
+    ],
+    "processing_pages": [
+      "W1:166",
+      "W1:167",
+      "W1:168",
+      "W1:169",
+      "W1:170",
+      "W1:171",
+      "W1:172",
+      "W1:173",
+      "W1:174",
+      "W1:175"
+    ],
+    "fragment": "fragments/JPG-W1-C017.json",
+    "chapter_keys": [
+      "15"
+    ],
+    "chapter_titles": [
+      "関連当事者の開示に関する会計基準"
+    ],
+    "inventory_status": "pass",
+    "excluded_expected_pages": [],
+    "boundary_review": {
+      "status": "pass",
+      "start": {
+        "physical_page": 166,
+        "image": "pages/W1/page-166.jpg",
+        "printed_page": "⑮-1",
+        "finding": "開始画像を全画面確認。章見出しまたは新しい問題・解説ブロックから始まり、前バッチから継続する表・図・問題・解答・例・条件の途中ではない。"
+      },
+      "end": {
+        "physical_page": 175,
+        "image": "pages/W1/page-175.jpg",
+        "printed_page": "⑮-10",
+        "finding": "終了画像を全画面確認。最後の問題・解説ブロックがページ内で完結しており、表・図・問題・解答・例・条件を次バッチへ分断しない。"
+      },
+      "checked_for": [
+        "table",
+        "diagram",
+        "question",
+        "answer",
+        "example",
+        "condition"
+      ],
+      "stranded_content": false
+    }
+  },
+  {
+    "id": "JPG-W1-C018",
+    "source_id": "W1",
+    "physical_range": {
+      "start": 176,
+      "end": 181
+    },
+    "expected_pages": [
+      "W1:176",
+      "W1:177",
+      "W1:178",
+      "W1:179",
+      "W1:180",
+      "W1:181"
+    ],
+    "processing_pages": [
+      "W1:176",
+      "W1:177",
+      "W1:178",
+      "W1:179",
+      "W1:180",
+      "W1:181"
+    ],
+    "fragment": "fragments/JPG-W1-C018.json",
+    "chapter_keys": [
+      "16"
+    ],
+    "chapter_titles": [
+      "賃貸等不動産の時価等の開示に関する会計基準"
+    ],
+    "inventory_status": "pass",
+    "excluded_expected_pages": [],
+    "boundary_review": {
+      "status": "pass",
+      "start": {
+        "physical_page": 176,
+        "image": "pages/W1/page-176.jpg",
+        "printed_page": "⑯-1",
+        "finding": "開始画像を全画面確認。章見出しまたは新しい問題・解説ブロックから始まり、前バッチから継続する表・図・問題・解答・例・条件の途中ではない。"
+      },
+      "end": {
+        "physical_page": 181,
+        "image": "pages/W1/page-181.jpg",
+        "printed_page": "⑯-6",
+        "finding": "終了画像を全画面確認。最後の問題・解説ブロックがページ内で完結しており、表・図・問題・解答・例・条件を次バッチへ分断しない。"
+      },
+      "checked_for": [
+        "table",
+        "diagram",
+        "question",
+        "answer",
+        "example",
+        "condition"
+      ],
+      "stranded_content": false
+    }
+  },
+  {
+    "id": "JPG-W1-C019",
+    "source_id": "W1",
+    "physical_range": {
+      "start": 182,
+      "end": 183
+    },
+    "expected_pages": [
+      "W1:182",
+      "W1:183"
+    ],
+    "processing_pages": [
+      "W1:182",
+      "W1:183"
+    ],
+    "fragment": "fragments/JPG-W1-C019.json",
+    "chapter_keys": [
+      "17"
+    ],
+    "chapter_titles": [
+      "役員賞与に関する会計基準"
+    ],
+    "inventory_status": "pass",
+    "excluded_expected_pages": [],
+    "boundary_review": {
+      "status": "pass",
+      "start": {
+        "physical_page": 182,
+        "image": "pages/W1/page-182.jpg",
+        "printed_page": "⑰-1",
+        "finding": "開始画像を全画面確認。章見出しまたは新しい問題・解説ブロックから始まり、前バッチから継続する表・図・問題・解答・例・条件の途中ではない。"
+      },
+      "end": {
+        "physical_page": 183,
+        "image": "pages/W1/page-183.jpg",
+        "printed_page": "⑰-2",
+        "finding": "終了画像を全画面確認。最後の問題・解説ブロックがページ内で完結しており、表・図・問題・解答・例・条件を次バッチへ分断しない。"
+      },
+      "checked_for": [
+        "table",
+        "diagram",
+        "question",
+        "answer",
+        "example",
+        "condition"
+      ],
+      "stranded_content": false
+    }
+  },
+  {
+    "id": "JPG-W1-C020",
+    "source_id": "W1",
+    "physical_range": {
+      "start": 184,
+      "end": 189
+    },
+    "expected_pages": [
+      "W1:184",
+      "W1:185",
+      "W1:186",
+      "W1:187",
+      "W1:188",
+      "W1:189"
+    ],
+    "processing_pages": [
+      "W1:184",
+      "W1:185",
+      "W1:186",
+      "W1:187",
+      "W1:188",
+      "W1:189"
+    ],
+    "fragment": "fragments/JPG-W1-C020.json",
+    "chapter_keys": [
+      "18"
+    ],
+    "chapter_titles": [
+      "時価の算定に関する会計基準"
+    ],
+    "inventory_status": "pass",
+    "excluded_expected_pages": [],
+    "boundary_review": {
+      "status": "pass",
+      "start": {
+        "physical_page": 184,
+        "image": "pages/W1/page-184.jpg",
+        "printed_page": "⑱-1",
+        "finding": "開始画像を全画面確認。章見出しまたは新しい問題・解説ブロックから始まり、前バッチから継続する表・図・問題・解答・例・条件の途中ではない。"
+      },
+      "end": {
+        "physical_page": 189,
+        "image": "pages/W1/page-189.jpg",
+        "printed_page": "⑱-6",
+        "finding": "終了画像を全画面確認。最後の問題・解説ブロックがページ内で完結しており、表・図・問題・解答・例・条件を次バッチへ分断しない。"
+      },
+      "checked_for": [
+        "table",
+        "diagram",
+        "question",
+        "answer",
+        "example",
+        "condition"
+      ],
+      "stranded_content": false
+    }
+  },
+  {
+    "id": "JPG-W1-C021",
+    "source_id": "W1",
+    "physical_range": {
+      "start": 190,
+      "end": 193
+    },
+    "expected_pages": [
+      "W1:190",
+      "W1:191",
+      "W1:192",
+      "W1:193"
+    ],
+    "processing_pages": [
+      "W1:190",
+      "W1:191",
+      "W1:192",
+      "W1:193"
+    ],
+    "fragment": "fragments/JPG-W1-C021.json",
+    "chapter_keys": [
+      "19"
+    ],
+    "chapter_titles": [
+      "法人税、住民税及び事業税等に関する会計基準"
+    ],
+    "inventory_status": "pass",
+    "excluded_expected_pages": [],
+    "boundary_review": {
+      "status": "pass",
+      "start": {
+        "physical_page": 190,
+        "image": "pages/W1/page-190.jpg",
+        "printed_page": "⑲-1",
+        "finding": "開始画像を全画面確認。章見出しまたは新しい問題・解説ブロックから始まり、前バッチから継続する表・図・問題・解答・例・条件の途中ではない。"
+      },
+      "end": {
+        "physical_page": 193,
+        "image": "pages/W1/page-193.jpg",
+        "printed_page": "⑲-4",
+        "finding": "終了画像を全画面確認。最後の問題・解説ブロックがページ内で完結しており、表・図・問題・解答・例・条件を次バッチへ分断しない。"
+      },
+      "checked_for": [
+        "table",
+        "diagram",
+        "question",
+        "answer",
+        "example",
+        "condition"
+      ],
+      "stranded_content": false
+    }
+  },
+  {
+    "id": "JPG-W1-C022",
+    "source_id": "W1",
+    "physical_range": {
+      "start": 194,
+      "end": 201
+    },
+    "expected_pages": [
+      "W1:194",
+      "W1:195",
+      "W1:196",
+      "W1:197",
+      "W1:198",
+      "W1:199",
+      "W1:200",
+      "W1:201"
+    ],
+    "processing_pages": [
+      "W1:194",
+      "W1:195",
+      "W1:196",
+      "W1:197",
+      "W1:198",
+      "W1:199",
+      "W1:200",
+      "W1:201"
+    ],
+    "fragment": "fragments/JPG-W1-C022.json",
+    "chapter_keys": [
+      "20"
+    ],
+    "chapter_titles": [
+      "一株当たり当期純利益に関する会計基準"
+    ],
+    "inventory_status": "pass",
+    "excluded_expected_pages": [],
+    "boundary_review": {
+      "status": "pass",
+      "start": {
+        "physical_page": 194,
+        "image": "pages/W1/page-194.jpg",
+        "printed_page": "⑳-1",
+        "finding": "開始画像を全画面確認。章見出しまたは新しい問題・解説ブロックから始まり、前バッチから継続する表・図・問題・解答・例・条件の途中ではない。"
+      },
+      "end": {
+        "physical_page": 201,
+        "image": "pages/W1/page-201.jpg",
+        "printed_page": "⑳-8",
+        "finding": "終了画像を全画面確認。最後の問題・解説ブロックがページ内で完結しており、表・図・問題・解答・例・条件を次バッチへ分断しない。"
+      },
+      "checked_for": [
+        "table",
+        "diagram",
+        "question",
+        "answer",
+        "example",
+        "condition"
+      ],
+      "stranded_content": false
+    }
+  }
+]
