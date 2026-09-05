@@ -1,0 +1,570 @@
+{
+  "batch_id": "JPG-T1-C002",
+  "source_id": "T1",
+  "status": "pass",
+  "reviewed_on": "2026-09-06",
+  "reviewer_model": "GPT-5 (current execution model; no model switch)",
+  "source_revision": {
+    "delivery_branch": "main",
+    "repository_commit": "15f290a42d77b6bd9e02b1a019801683fc4a4af5",
+    "source_catalog": "contracts/source-catalog.json",
+    "source_catalog_sha256": "8358e9cffb068f63df0bdfcc8f99be035e66454ac8710d381f0ff9eb87728079",
+    "page_plan": "contracts/page-plan.json",
+    "page_plan_sha256": "997a7280b171df5803c2a3bb7c2ee8764082e01f3bdb03c194b9129fe18d26c9",
+    "source_manifest": "project/T1/sources.json",
+    "source_manifest_sha256": "760f946d08e1eebf2d79c189103ac2e627f0bb2569dcd80055885fb8b97324cd",
+    "source_map": "project/T1/source-map.json",
+    "source_map_sha256": "3ff42e94bd9f8751f8100c6ff251740a46f67182c468af620438c9768f14b961",
+    "batch_manifest": "project/T1/batches.json",
+    "batch_manifest_sha256": "125ff5fee8f8271b82c3258ced501ed4411b4071b930f08f1ed682e72c2628c4",
+    "inventory_review": "project/T1/inventory-review.json",
+    "inventory_review_sha256": "83e2c59f059ffdec53fcb8fb83a5f1300d5cca0722dcf031db0b459bd7ab8c19",
+    "source_original_root": "/Users/xihangzou/Study/320_CPA/322_財務理論/images/cpa-fa-theory-textbook-1-jpg",
+    "source_pdf": "/Users/xihangzou/Study/320_CPA/322_財務理論/01_テキスト/財務会計論テキスト　理論1.pdf",
+    "source_pdf_sha256": "c09d9d91ce39de787cab04e146719d95b638134399d57112802ffacfa67243f3",
+    "source_image_inventory_sha256": "331ad1ea2ca04d0636c2185b6ab1a8fe5240ebdd3f0c7c546c8703371d497929",
+    "edition": "2024/2025年合格目標",
+    "publication_date": "2023-01-23",
+    "physical_scope": "T1:023-T1:040",
+    "processing_scope": "T1:023-T1:039",
+    "content_authority": "designated existing JPGs only; PDF used only for identity/planning support"
+  },
+  "dependency_commits": [
+    "a2fb2bb829d112522128cdb145523302e9d1e7fd",
+    "1fd8a963ef32e09b5f3f08ecd7d5bb7cc2240a94",
+    "15f290a42d77b6bd9e02b1a019801683fc4a4af5"
+  ],
+  "source_images": [
+    {
+      "page": "T1:023",
+      "printed_page": null,
+      "image": "pages/T1/page-023.jpg",
+      "sha256": "fe8d25a197981b02fa27e3c3bc104968e743afa38e196644f13d650c9d1963f7"
+    },
+    {
+      "page": "T1:024",
+      "printed_page": "①－1",
+      "image": "pages/T1/page-024.jpg",
+      "sha256": "2a22e9f28c7894fc40407eb4535d4a0e2c279f4421cba72aae0432830a92b78c"
+    },
+    {
+      "page": "T1:025",
+      "printed_page": "①－2",
+      "image": "pages/T1/page-025.jpg",
+      "sha256": "e58a80eb012a941b725b967ad5130628cd61fd59ca03b8aa6a0a57ea08642153"
+    },
+    {
+      "page": "T1:026",
+      "printed_page": "①－3",
+      "image": "pages/T1/page-026.jpg",
+      "sha256": "569bbe16dcd8179b4e72a8cd7529ddfde27af51363a57feb61076f134434ca57"
+    },
+    {
+      "page": "T1:027",
+      "printed_page": "①－4",
+      "image": "pages/T1/page-027.jpg",
+      "sha256": "37c74460fe988a22ba3508b99c8e963c2bfea1624e805882dcbb9f8ed8f639cb"
+    },
+    {
+      "page": "T1:028",
+      "printed_page": "①－5",
+      "image": "pages/T1/page-028.jpg",
+      "sha256": "a0b98c910d63ebb427eee0e5ea398863ebf95986576332fd11fdc9ddbee87674"
+    },
+    {
+      "page": "T1:029",
+      "printed_page": "①－6",
+      "image": "pages/T1/page-029.jpg",
+      "sha256": "3d3fb8fb3b259f111c5115956c831d7b467486d7f177da207bc9a54720f01971"
+    },
+    {
+      "page": "T1:030",
+      "printed_page": "①－7",
+      "image": "pages/T1/page-030.jpg",
+      "sha256": "db3bdbe77535e3592b0a7c81010eb8352be54d17f284ed1bcfca385413e43e9c"
+    },
+    {
+      "page": "T1:031",
+      "printed_page": "①－8",
+      "image": "pages/T1/page-031.jpg",
+      "sha256": "d1b11acd243072346d4df25d201187ba7bd1fc727b13dc20400b0bdad99e08e7"
+    },
+    {
+      "page": "T1:032",
+      "printed_page": "①－9",
+      "image": "pages/T1/page-032.jpg",
+      "sha256": "402d850abcc6ab79cd6647c94bf4cdc85aaad955b64e9b1f75cdba826b44dc5f"
+    },
+    {
+      "page": "T1:033",
+      "printed_page": "①－10",
+      "image": "pages/T1/page-033.jpg",
+      "sha256": "18174bc83ac1bd1ebc955ddf3f810772dbc8451c4e29739a71ff7bde527fa8a8"
+    },
+    {
+      "page": "T1:034",
+      "printed_page": "①－11",
+      "image": "pages/T1/page-034.jpg",
+      "sha256": "4ee564becc0e4140dd1353e4415249c748f51c3f5e0ca5a34ce292acfd8727b2"
+    },
+    {
+      "page": "T1:035",
+      "printed_page": "①－12",
+      "image": "pages/T1/page-035.jpg",
+      "sha256": "7981fc1839bdae730d25533517a4c405198e16b67a376a370f20a8f4baf14f94"
+    },
+    {
+      "page": "T1:036",
+      "printed_page": "①－13",
+      "image": "pages/T1/page-036.jpg",
+      "sha256": "683573a949b130fe87d911eb3bcf227291031be69204b96988d6d3c7c1f53df4"
+    },
+    {
+      "page": "T1:037",
+      "printed_page": "①－14",
+      "image": "pages/T1/page-037.jpg",
+      "sha256": "030220791aee62a9c689bcf0903f344ddc4f8748f04e7020f02b026f6543aa01"
+    },
+    {
+      "page": "T1:038",
+      "printed_page": "①－15",
+      "image": "pages/T1/page-038.jpg",
+      "sha256": "9cb3c6477a856b29419f6c41b5be04b9d27b3ba88c4cda4761222768430c115f"
+    },
+    {
+      "page": "T1:039",
+      "printed_page": "①－16",
+      "image": "pages/T1/page-039.jpg",
+      "sha256": "7229d8add7f604e1ea279b320d9daec5136fb1cf5f0ec6bbb912f8626a2452c4"
+    }
+  ],
+  "section_outputs": [
+    {
+      "task": "JPG-T1-C002-S01",
+      "chunk": "project/T1/chunks/JPG-T1-C002/JPG-T1-C002-S01.md",
+      "chunk_sha256": "83bd16ea7d7f79a0591959aa8890637aa01a039acab09f521ee05ed440d2675e"
+    },
+    {
+      "task": "JPG-T1-C002-S02",
+      "chunk": "project/T1/chunks/JPG-T1-C002/JPG-T1-C002-S02.md",
+      "chunk_sha256": "9d0ca5aee347629e98f4074ac31dcc0020506054a676eb449d6aba3a397c9d18"
+    },
+    {
+      "task": "JPG-T1-C002-S03",
+      "chunk": "project/T1/chunks/JPG-T1-C002/JPG-T1-C002-S03.md",
+      "chunk_sha256": "4c8054d7b8e3839c8d879f7664a0a3f087135c615a6f3ba7f282fe2bc81fc3cc"
+    },
+    {
+      "task": "JPG-T1-C002-S04",
+      "chunk": "project/T1/chunks/JPG-T1-C002/JPG-T1-C002-S04.md",
+      "chunk_sha256": "dc4be1d650f7680792ada8cadbb8dcf63a09392c88699f604e397403d301602b"
+    }
+  ],
+  "coverage": [
+    {
+      "page": "T1:023",
+      "status": "pass",
+      "regions": [
+        "JPG-T1-C002-S01; entire substantive chapter divider, chapter title and rating",
+        "JPG-T1-C002-S01; short-answer and essay exam-history tables",
+        "JPG-T1-C002-S01; margins and footer checked; no learner-content omission"
+      ]
+    },
+    {
+      "page": "T1:024",
+      "status": "pass",
+      "regions": [
+        "JPG-T1-C002-S01; 第1節 banner and 1.企業会計の意義",
+        "JPG-T1-C002-S01; 2.会計行為とその構成要素, four-row table and process diagram",
+        "JPG-T1-C002-S01; all text, margins and footer ①－1 checked"
+      ]
+    },
+    {
+      "page": "T1:025",
+      "status": "pass",
+      "regions": [
+        "JPG-T1-C002-S01; 経営成績と財政状態 supplement",
+        "JPG-T1-C002-S01; 3.企業会計の領域 and 財務会計・管理会計 comparison table",
+        "JPG-T1-C002-S01; external/internal example diagram, margins and footer ①－2 checked"
+      ]
+    },
+    {
+      "page": "T1:026",
+      "status": "pass",
+      "regions": [
+        "JPG-T1-C002-S01; 4.主な利害関係者と利害内容",
+        "JPG-T1-C002-S01; shareholder and creditor balance-sheet diagrams, journal entries and characteristics",
+        "JPG-T1-C002-S01; bankruptcy/ideal balance-sheet values, relationship table, investor-set diagram, margins and footer ①－3 checked"
+      ]
+    },
+    {
+      "page": "T1:027",
+      "status": "pass",
+      "regions": [
+        "JPG-T1-C002-S01; 5.財務会計の機能 and (1)利害調整機能",
+        "JPG-T1-C002-S01; 所有と経営の分離 supplement, premise diagram and ①株主と経営者との間の利害調整機能",
+        "JPG-T1-C002-S01; role table, margins and footer ①－4 checked"
+      ]
+    },
+    {
+      "page": "T1:028",
+      "status": "pass",
+      "regions": [
+        "JPG-T1-C002-S01;受託責任 continuation and shareholder-manager conflict explanation",
+        "JPG-T1-C002-S01; profit-and-loss conflict diagram, stakeholder checklist and 財務諸表 purpose",
+        "JPG-T1-C002-S01; 会計責任 and responsibility flow diagram, margins and footer ①－5 checked"
+      ]
+    },
+    {
+      "page": "T1:029",
+      "status": "pass",
+      "regions": [
+        "JPG-T1-C002-S01;②株主と債権者との間の利害調整機能",
+        "JPG-T1-C002-S01; over-distribution journal entry, distributable-amount diagram and 100/80/20 numerical example",
+        "JPG-T1-C002-S01; (2)情報提供機能, margins and footer ①－6 checked"
+      ]
+    },
+    {
+      "page": "T1:030",
+      "status": "pass",
+      "regions": [
+        "JPG-T1-C002-S02; 第2節 banner and 1.会計の分類 hierarchy diagram",
+        "JPG-T1-C002-S02;制度会計 classification, shaded 金融商品取引法会計 study range and 2.制度会計とは",
+        "JPG-T1-C002-S02; no-regulation note, margins and footer ①－7 checked"
+      ]
+    },
+    {
+      "page": "T1:031",
+      "status": "pass",
+      "regions": [
+        "JPG-T1-C002-S02; 3.会社法会計 definition, purpose and function mapping",
+        "JPG-T1-C002-S02; required 計算書類 list and shareholder/creditor protection table",
+        "JPG-T1-C002-S02; margins and footer ①－8 checked"
+      ]
+    },
+    {
+      "page": "T1:032",
+      "status": "pass",
+      "regions": [
+        "JPG-T1-C002-S02; 4.金融商品取引法会計 definition and statutory purpose",
+        "JPG-T1-C002-S02; 金融商品取引法会計と会社法会計の関係 text and unification diagram",
+        "JPG-T1-C002-S02; disclosure制度, financial-statement list, standards/rules hierarchy, margins and footer ①－9 checked"
+      ]
+    },
+    {
+      "page": "T1:033",
+      "status": "pass",
+      "regions": [
+        "JPG-T1-C002-S02; 5.会社法会計と金融商品取引法会計の比較 full comparison table",
+        "JPG-T1-C002-S02; purpose, stakeholder, calculation focus, all disclosure-document sublists and required rules",
+        "JPG-T1-C002-S02; comparison-information row, main-difference list, notes 1-3, margins and footer ①－10 checked"
+      ]
+    },
+    {
+      "page": "T1:034",
+      "status": "pass",
+      "regions": [
+        "JPG-T1-C002-S02; 会社法会計におけるその他の規定 title and introductory text",
+        "JPG-T1-C002-S02; 会社計算規則第3条・第120条・第120条の2・第120条の3 rows",
+        "JPG-T1-C002-S02; 会社法第441条 two-document list and 臨時計算書類 purpose, margins and footer ①－11 checked"
+      ]
+    },
+    {
+      "page": "T1:035",
+      "status": "pass",
+      "regions": [
+        "JPG-T1-C002-S03; 第3節 banner and 1.企業会計原則の意義と性格",
+        "JPG-T1-C002-S03; three source statements and two 企業会計原則のポイント bullets",
+        "JPG-T1-C002-S03; 2.企業会計原則の必要性, GAAP contents, margins and footer ①－12 checked"
+      ]
+    },
+    {
+      "page": "T1:036",
+      "status": "pass",
+      "regions": [
+        "JPG-T1-C002-S03; 会計原則を設定するアプローチ introduction",
+        "JPG-T1-C002-S03; 演繹的・帰納的アプローチ definitions and all stated advantages",
+        "JPG-T1-C002-S03; two construction-flow diagrams, conclusion, margins and footer ①－13 checked"
+      ]
+    },
+    {
+      "page": "T1:037",
+      "status": "pass",
+      "regions": [
+        "JPG-T1-C002-S04; 第4節 banner and 1.会計公準とは",
+        "JPG-T1-C002-S04; 会計理論の構造図, three layers, arrows and depreciation allocation explanation",
+        "JPG-T1-C002-S04; 継続企業 rationale, parenthetical boundary case, margins and footer ①－14 checked"
+      ]
+    },
+    {
+      "page": "T1:038",
+      "status": "pass",
+      "regions": [
+        "JPG-T1-C002-S04; 2.ギルマンの3公準 and (1)企業実体の公準",
+        "JPG-T1-C002-S04; legal/economic entity distinctions, separate-entity diagram and 100万 personal-trip journal entry",
+        "JPG-T1-C002-S04; (2)継続企業の公準, annual-period/timeline diagram, margins and footer ①－15 checked"
+      ]
+    },
+    {
+      "page": "T1:039",
+      "status": "pass",
+      "regions": [
+        "JPG-T1-C002-S04; (3)貨幣的評価の公準 definition with both numbered conditions",
+        "JPG-T1-C002-S04; addition/comparability consequences, non-measurable-element boundary and manager-ability example",
+        "JPG-T1-C002-S04; margins and footer ①－16 checked"
+      ]
+    }
+  ],
+  "page_fidelity_matrix": [
+    {
+      "page": "T1:023",
+      "chunk": "JPG-T1-C002-S01",
+      "sections": [
+        "chapter title",
+        "short-answer exam-history table",
+        "essay exam-history table"
+      ],
+      "result": "pass"
+    },
+    {
+      "page": "T1:024",
+      "chunk": "JPG-T1-C002-S01",
+      "sections": [
+        "1.企業会計の意義",
+        "2.会計行為とその構成要素",
+        "認識・測定・記録・報告 table",
+        "会計行為 flow"
+      ],
+      "result": "pass"
+    },
+    {
+      "page": "T1:025",
+      "chunk": "JPG-T1-C002-S01",
+      "sections": [
+        "経営成績と財政状態",
+        "3.企業会計の領域",
+        "財務会計・管理会計 table",
+        "product-cost example"
+      ],
+      "result": "pass"
+    },
+    {
+      "page": "T1:026",
+      "chunk": "JPG-T1-C002-S01",
+      "sections": [
+        "4.主な利害関係者と利害内容",
+        "株主の立場",
+        "債権者の立場",
+        "倒産時・理想的な貸借対照表",
+        "利害内容 and 投資者"
+      ],
+      "result": "pass"
+    },
+    {
+      "page": "T1:027",
+      "chunk": "JPG-T1-C002-S01",
+      "sections": [
+        "5.財務会計の機能",
+        "(1)利害調整機能",
+        "所有と経営の分離",
+        "①株主と経営者との間の利害調整機能"
+      ],
+      "result": "pass"
+    },
+    {
+      "page": "T1:028",
+      "chunk": "JPG-T1-C002-S01",
+      "sections": [
+        "受託責任 continuation",
+        "株主・経営者利害対立",
+        "会計責任",
+        "財務諸表による報告 flow"
+      ],
+      "result": "pass"
+    },
+    {
+      "page": "T1:029",
+      "chunk": "JPG-T1-C002-S01",
+      "sections": [
+        "②株主と債権者との間の利害調整機能",
+        "分配可能額",
+        "(2)情報提供機能"
+      ],
+      "result": "pass"
+    },
+    {
+      "page": "T1:030",
+      "chunk": "JPG-T1-C002-S02",
+      "sections": [
+        "1.会計の分類",
+        "2.制度会計とは"
+      ],
+      "result": "pass"
+    },
+    {
+      "page": "T1:031",
+      "chunk": "JPG-T1-C002-S02",
+      "sections": [
+        "3.会社法会計"
+      ],
+      "result": "pass"
+    },
+    {
+      "page": "T1:032",
+      "chunk": "JPG-T1-C002-S02",
+      "sections": [
+        "4.金融商品取引法会計",
+        "金融商品取引法会計と会社法会計の関係"
+      ],
+      "result": "pass"
+    },
+    {
+      "page": "T1:033",
+      "chunk": "JPG-T1-C002-S02",
+      "sections": [
+        "5.会社法会計と金融商品取引法会計の比較",
+        "comparison table",
+        "notes 1-3"
+      ],
+      "result": "pass"
+    },
+    {
+      "page": "T1:034",
+      "chunk": "JPG-T1-C002-S02",
+      "sections": [
+        "会社法会計におけるその他の規定",
+        "会社計算規則 provisions",
+        "会社法第441条"
+      ],
+      "result": "pass"
+    },
+    {
+      "page": "T1:035",
+      "chunk": "JPG-T1-C002-S03",
+      "sections": [
+        "1.企業会計原則の意義と性格",
+        "企業会計原則のポイント",
+        "2.企業会計原則の必要性"
+      ],
+      "result": "pass"
+    },
+    {
+      "page": "T1:036",
+      "chunk": "JPG-T1-C002-S03",
+      "sections": [
+        "会計原則を設定するアプローチ",
+        "演繹的アプローチ",
+        "帰納的アプローチ",
+        "construction-flow diagrams"
+      ],
+      "result": "pass"
+    },
+    {
+      "page": "T1:037",
+      "chunk": "JPG-T1-C002-S04",
+      "sections": [
+        "1.会計公準とは",
+        "会計理論の構造図"
+      ],
+      "result": "pass"
+    },
+    {
+      "page": "T1:038",
+      "chunk": "JPG-T1-C002-S04",
+      "sections": [
+        "2.ギルマンの3公準",
+        "(1)企業実体の公準",
+        "(2)継続企業の公準"
+      ],
+      "result": "pass"
+    },
+    {
+      "page": "T1:039",
+      "chunk": "JPG-T1-C002-S04",
+      "sections": [
+        "(3)貨幣的評価の公準"
+      ],
+      "result": "pass"
+    }
+  ],
+  "numerical_checks": [
+    {
+      "page": "T1:026",
+      "check": "倒産時の貸借対照表は資産150、負債200、純資産△50。理想的な貸借対照表は資産200、負債150、純資産50。",
+      "result": "pass"
+    },
+    {
+      "page": "T1:029",
+      "check": "純資産100のうち分配不能80、分配可能20。過度の配当仕訳は（借）繰越利益剰余金××／（貸）現金××。",
+      "result": "pass"
+    },
+    {
+      "page": "T1:038",
+      "check": "企業実体の公準がない場合の個人的旅行100万の企業側仕訳（借）旅費100万／（貸）現金100万。",
+      "result": "pass"
+    }
+  ],
+  "diagram_checks": [
+    {
+      "pages": [
+        "T1:024",
+        "T1:025"
+      ],
+      "check": "会計行為の4段階、財務会計・管理会計の外部報告・内部報告、関係者への流れを文章と表で保持。",
+      "result": "pass"
+    },
+    {
+      "pages": [
+        "T1:026",
+        "T1:027",
+        "T1:028",
+        "T1:029"
+      ],
+      "check": "株主・債権者の立場、会社財産、投資者の包含関係、所有と経営の分離、受託責任、分配可能額の因果関係を保持。",
+      "result": "pass"
+    },
+    {
+      "pages": [
+        "T1:030",
+        "T1:032",
+        "T1:036",
+        "T1:037",
+        "T1:038"
+      ],
+      "check": "会計の分類、会社法会計と金融商品取引法会計の一元化、演繹・帰納の構築手順、会計理論の層構造、企業実体・継続企業の図示内容を保持。",
+      "result": "pass"
+    }
+  ],
+  "question_pair_checks": {
+    "status": "not_applicable",
+    "result": "This theory chapter contains no question-and-answer pair."
+  },
+  "findings": [
+    "All 17 included processing images were reopened at readable/original resolution and compared against the four section chunks, including margins, sidebars, footers, tables, examples, numerical values and diagram-only meaning.",
+    "The four chunks preserve the source chapter/section/topic/subdivision hierarchy without bold, Cloze, Front/Back, integration or card output.",
+    "No source object crosses the physical 039/040 boundary; section 4 completes on T1:039.",
+    "T1:040 is excluded exactly as the inventory records it: a blank chapter-end MEMO page with no learner content."
+  ],
+  "corrections": [
+    "Normalized OCR/PDF spacing artifacts only; wording and source meaning were checked against the designated JPGs.",
+    "Retained the page 033 comparison footnotes and the page 034 statutory provision details rather than collapsing them into a summary.",
+    "Retained the page 026 and page 029 numerical examples and all source journal-entry relationships.",
+    "Re-reviewed and restored source footnote markers, footnote wording, source example labels and parenthetical continuation text on T1:024, T1:025, T1:030, T1:037 and T1:039; no semantic scope changed."
+  ],
+  "excluded_pages": [
+    {
+      "page": "T1:040",
+      "printed_page": "①－17",
+      "image": "pages/T1/page-040.jpg",
+      "sha256": "0cac198f1966d32a58752d2afc558aaecd7ff49d426226ab2bae3ea17e9537c0",
+      "reason": "Blank chapter-end MEMO page with no learner content."
+    }
+  ],
+  "checks": {
+    "numerical": "pass",
+    "diagram": "pass",
+    "false_proposition": "not_applicable"
+  },
+  "unresolved_count": 0,
+  "semantic_boundary": "Structural/hash checks validate scope and consistency; semantic completeness is supported by the recorded page-by-page human image review."
+}

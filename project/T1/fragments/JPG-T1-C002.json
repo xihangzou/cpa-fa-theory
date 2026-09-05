@@ -1,0 +1,223 @@
+{
+  "batch_id": "JPG-T1-C002",
+  "source_id": "T1",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-T1-C002-S01",
+      "batch_id": "JPG-T1-C002",
+      "chapter": "01",
+      "section": "01.1",
+      "title": "第1節 財務会計総論",
+      "expected_pages": [
+        "T1:023",
+        "T1:024",
+        "T1:025",
+        "T1:026",
+        "T1:027",
+        "T1:028",
+        "T1:029"
+      ],
+      "processing_pages": [
+        "T1:023",
+        "T1:024",
+        "T1:025",
+        "T1:026",
+        "T1:027",
+        "T1:028",
+        "T1:029"
+      ],
+      "output": "chunks/JPG-T1-C002/JPG-T1-C002-S01.md",
+      "status": "pass",
+      "locators": [
+        {
+          "page": "T1:023",
+          "printed_page": null,
+          "source_region": "第1章の章扉、短答式・論文式本試験における出題実績表、章評価",
+          "destination_heading": "## 第1節 財務会計総論"
+        },
+        {
+          "page": "T1:024",
+          "printed_page": "①－1",
+          "source_region": "第1節の扉、1.企業会計の意義、2.会計行為とその構成要素、認識・測定・記録・報告の表、流れ図、フッター",
+          "destination_heading": "## 第1節 財務会計総論"
+        },
+        {
+          "page": "T1:025",
+          "printed_page": "①－2",
+          "source_region": "経営成績と財政状態の補足、3.企業会計の領域、財務会計・管理会計の比較表と例示図、フッター",
+          "destination_heading": "## 第1節 財務会計総論"
+        },
+        {
+          "page": "T1:026",
+          "printed_page": "①－3",
+          "source_region": "4.主な利害関係者と利害内容、株主・債権者の貸借対照表・仕訳・特徴、倒産例、利害内容表、投資者の範囲図、フッター",
+          "destination_heading": "## 第1節 財務会計総論"
+        },
+        {
+          "page": "T1:027",
+          "printed_page": "①－4",
+          "source_region": "5.財務会計の機能、(1)利害調整機能、所有と経営の分離の補足・図、①株主と経営者との間の利害調整機能、役割表、フッター",
+          "destination_heading": "## 第1節 財務会計総論"
+        },
+        {
+          "page": "T1:028",
+          "printed_page": "①－5",
+          "source_region": "受託責任の続き、株主と経営者の利害対立図、財務諸表による調整、会計責任、受託責任の流れ図、フッター",
+          "destination_heading": "## 第1節 財務会計総論"
+        },
+        {
+          "page": "T1:029",
+          "printed_page": "①－6",
+          "source_region": "②株主と債権者との間の利害調整機能、分配可能額の図・仕訳・100/80/20の数値例、(2)情報提供機能、フッター",
+          "destination_heading": "## 第1節 財務会計総論"
+        }
+      ],
+      "chunk_sha256": "83bd16ea7d7f79a0591959aa8890637aa01a039acab09f521ee05ed440d2675e"
+    },
+    {
+      "id": "JPG-T1-C002-S02",
+      "batch_id": "JPG-T1-C002",
+      "chapter": "01",
+      "section": "01.2",
+      "title": "第2節 制度会計",
+      "expected_pages": [
+        "T1:030",
+        "T1:031",
+        "T1:032",
+        "T1:033",
+        "T1:034"
+      ],
+      "processing_pages": [
+        "T1:030",
+        "T1:031",
+        "T1:032",
+        "T1:033",
+        "T1:034"
+      ],
+      "output": "chunks/JPG-T1-C002/JPG-T1-C002-S02.md",
+      "status": "pass",
+      "locators": [
+        {
+          "page": "T1:030",
+          "printed_page": "①－7",
+          "source_region": "第2節の扉、1.会計の分類の階層図、制度会計の定義と分類、2.制度会計とは、注記、フッター",
+          "destination_heading": "## 第2節 制度会計"
+        },
+        {
+          "page": "T1:031",
+          "printed_page": "①－8",
+          "source_region": "3.会社法会計、会社法の目的、計算書類、株主・債権者の保護内容表、フッター",
+          "destination_heading": "## 第2節 制度会計"
+        },
+        {
+          "page": "T1:032",
+          "printed_page": "①－9",
+          "source_region": "4.金融商品取引法会計、目的、会社法会計との関係の補足・図、財務諸表と基準・規則の説明、フッター",
+          "destination_heading": "## 第2節 制度会計"
+        },
+        {
+          "page": "T1:033",
+          "printed_page": "①－10",
+          "source_region": "5.会社法会計と金融商品取引法会計の比較、目的・対象・計算重点・作成開示書類・ルール・比較情報の全表、相違点と注1-3",
+          "destination_heading": "## 第2節 制度会計"
+        },
+        {
+          "page": "T1:034",
+          "printed_page": "①－11",
+          "source_region": "会社法会計におけるその他の規定、会社計算規則第3条・第120条・第120条の2・第120条の3、会社法第441条、臨時計算書類の目的、フッター",
+          "destination_heading": "## 第2節 制度会計"
+        }
+      ],
+      "chunk_sha256": "9d0ca5aee347629e98f4074ac31dcc0020506054a676eb449d6aba3a397c9d18"
+    },
+    {
+      "id": "JPG-T1-C002-S03",
+      "batch_id": "JPG-T1-C002",
+      "chapter": "01",
+      "section": "01.3",
+      "title": "第3節 企業会計原則",
+      "expected_pages": [
+        "T1:035",
+        "T1:036"
+      ],
+      "processing_pages": [
+        "T1:035",
+        "T1:036"
+      ],
+      "output": "chunks/JPG-T1-C002/JPG-T1-C002-S03.md",
+      "status": "pass",
+      "locators": [
+        {
+          "page": "T1:035",
+          "printed_page": "①－12",
+          "source_region": "第3節の扉、1.企業会計原則の意義と性格、原則の記述、ポイント、2.企業会計原則の必要性、GAAPの説明、フッター",
+          "destination_heading": "## 第3節 企業会計原則"
+        },
+        {
+          "page": "T1:036",
+          "printed_page": "①－13",
+          "source_region": "会計原則を設定するアプローチ、演繹的・帰納的アプローチの定義と長所の比較表、構築図、結論、フッター",
+          "destination_heading": "## 第3節 企業会計原則"
+        }
+      ],
+      "chunk_sha256": "4c8054d7b8e3839c8d879f7664a0a3f087135c615a6f3ba7f282fe2bc81fc3cc"
+    },
+    {
+      "id": "JPG-T1-C002-S04",
+      "batch_id": "JPG-T1-C002",
+      "chapter": "01",
+      "section": "01.4",
+      "title": "第4節 会計公準",
+      "expected_pages": [
+        "T1:037",
+        "T1:038",
+        "T1:039"
+      ],
+      "processing_pages": [
+        "T1:037",
+        "T1:038",
+        "T1:039"
+      ],
+      "output": "chunks/JPG-T1-C002/JPG-T1-C002-S04.md",
+      "status": "pass",
+      "locators": [
+        {
+          "page": "T1:037",
+          "printed_page": "①－14",
+          "source_region": "第4節の扉、1.会計公準とは、会計理論の構造図、減価償却・費用配分・継続企業の関係、フッター",
+          "destination_heading": "## 第4節 会計公準"
+        },
+        {
+          "page": "T1:038",
+          "printed_page": "①－15",
+          "source_region": "2.ギルマンの3公準、(1)企業実体の公準、企業と株主の区別の図・仕訳、(2)継続企業の公準、会計期間の図、フッター",
+          "destination_heading": "## 第4節 会計公準"
+        },
+        {
+          "page": "T1:039",
+          "printed_page": "①－16",
+          "source_region": "(3)貨幣的評価の公準、統一尺度・評価可能性・比較可能性・加法性、経営者の能力の例、フッター",
+          "destination_heading": "## 第4節 会計公準"
+        }
+      ],
+      "chunk_sha256": "dc4be1d650f7680792ada8cadbb8dcf63a09392c88699f604e397403d301602b"
+    }
+  ],
+  "review": "reviews/JPG-T1-C002.json",
+  "excluded_pages": [
+    {
+      "page": "T1:040",
+      "printed_page": "①－17",
+      "reason": "Blank chapter-end MEMO page with no learner content; excluded exactly as recorded in project/T1/sources.json."
+    }
+  ],
+  "source_scope": {
+    "source_id": "T1",
+    "physical_range": "T1:023-T1:040",
+    "processing_range": "T1:023-T1:039",
+    "chapter": "01",
+    "title": "財務会計における基礎概念",
+    "content_authority": "designated existing JPGs only"
+  }
+}
