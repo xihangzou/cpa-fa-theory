@@ -1,7 +1,7 @@
 {
   "issue": 3,
   "issue_id": "JPG-T2-INV",
-  "status": "PASS",
+  "status": "pass",
   "plan_id": "cpa-fa-theory-jpg-md-20260905",
   "source_page_plan_revision": 1,
   "current_plan_revision": 2,
