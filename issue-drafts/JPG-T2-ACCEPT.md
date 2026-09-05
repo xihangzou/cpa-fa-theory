@@ -9,7 +9,7 @@ Source interpretation, layout contracts and omission review require judgment.
 User launches this issue manually. Do not start another issue or switch models automatically.
 
 # Dependencies
-- JPG-T2-ASSEMBLE
+- https://github.com/xihangzou/cpa-fa-theory/issues/211
 Verify prerequisite outputs are saved and reviewed at the expected repository revision; a closed issue alone is insufficient.
 
 # Source authority

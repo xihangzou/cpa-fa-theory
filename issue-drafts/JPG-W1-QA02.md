@@ -9,13 +9,13 @@ Source interpretation, layout contracts and omission review require judgment.
 User launches this issue manually. Do not start another issue or switch models automatically.
 
 # Dependencies
-- JPG-W1-C005
-- JPG-W1-C006
-- JPG-W1-C007
-- JPG-W1-C008
-- JPG-W1-C009
-- JPG-W1-C010
-- JPG-W1-PILOT-QA
+- https://github.com/xihangzou/cpa-fa-theory/issues/92
+- https://github.com/xihangzou/cpa-fa-theory/issues/93
+- https://github.com/xihangzou/cpa-fa-theory/issues/94
+- https://github.com/xihangzou/cpa-fa-theory/issues/95
+- https://github.com/xihangzou/cpa-fa-theory/issues/96
+- https://github.com/xihangzou/cpa-fa-theory/issues/97
+- https://github.com/xihangzou/cpa-fa-theory/issues/18
 Verify prerequisite outputs are saved and reviewed at the expected repository revision; a closed issue alone is insufficient.
 
 # Source authority

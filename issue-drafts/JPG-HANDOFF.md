@@ -9,12 +9,12 @@ Bounded inventory, checksums, registry aggregation or assembly has deterministic
 User launches this issue manually. Do not start another issue or switch models automatically.
 
 # Dependencies
-- JPG-T1-ACCEPT
-- JPG-T2-ACCEPT
-- JPG-T3-ACCEPT
-- JPG-W1-ACCEPT
-- JPG-W2-ACCEPT
-- JPG-CS-ACCEPT
+- https://github.com/xihangzou/cpa-fa-theory/issues/217
+- https://github.com/xihangzou/cpa-fa-theory/issues/218
+- https://github.com/xihangzou/cpa-fa-theory/issues/219
+- https://github.com/xihangzou/cpa-fa-theory/issues/220
+- https://github.com/xihangzou/cpa-fa-theory/issues/221
+- https://github.com/xihangzou/cpa-fa-theory/issues/225
 Verify prerequisite outputs are saved and reviewed at the expected repository revision; a closed issue alone is insufficient.
 
 # Source authority
