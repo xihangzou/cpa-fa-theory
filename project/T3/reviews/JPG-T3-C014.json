@@ -1,0 +1,444 @@
+{
+  "batch_id": "JPG-T3-C014",
+  "source_id": "T3",
+  "status": "pass",
+  "review_date": "2026-09-07",
+  "reviewer_model": "GPT-5",
+  "source_revision": {
+    "repository_commit": "14c9baef4c3fe48cf690b3e0f07d7454cf535bc0",
+    "source_pdf_sha256": "1d9f0124a0c8ef759526decc90a1a410f694e2b7fa992b430fc413e783df85bc",
+    "source_image_inventory_sha256": "8e0709aa6cd2d086d9df18627ae7eb466c20cdb59474bbef26038f03d9d40b24",
+    "catalog_image_inventory_sha256": "af94a7c1f91d1eb56611afc242360566950d6f93d5a6ac7d5271c5e8d3f9d170",
+    "batch_boundary_review_id": "JPG-T3-INV-BND-JPG-T3-C014"
+  },
+  "source_images": [
+    {
+      "page": "T3:250",
+      "printed_page": "㊳－29",
+      "image": "pages/T3/page-250.jpg",
+      "sha256": "2965a7da910321b125d3b4f1429e74e83c76c8148217b7d9bf7ef4c9f5dd8011"
+    },
+    {
+      "page": "T3:251",
+      "printed_page": "㊳－30",
+      "image": "pages/T3/page-251.jpg",
+      "sha256": "8457d50918b8e73dd68cbddecee08152a7aa390c2ab6426d603c6b52b0f5df7e"
+    },
+    {
+      "page": "T3:252",
+      "printed_page": "㊳－31",
+      "image": "pages/T3/page-252.jpg",
+      "sha256": "0505625cc6b8c3d6bcacd317db36a3b332e56a4382f1419ad88c093379ae5a35"
+    },
+    {
+      "page": "T3:253",
+      "printed_page": "㊳－32",
+      "image": "pages/T3/page-253.jpg",
+      "sha256": "03e484527dde6dd0105c225c389e5ad124c63a0518523ae8c29f185b795c779b"
+    },
+    {
+      "page": "T3:254",
+      "printed_page": "㊳－33",
+      "image": "pages/T3/page-254.jpg",
+      "sha256": "d30c272a5a8b6859732b80f26f1da03d6d6a8f7522400080feca5f7e2a29a8d7"
+    },
+    {
+      "page": "T3:255",
+      "printed_page": "㊳－34",
+      "image": "pages/T3/page-255.jpg",
+      "sha256": "d8a0dba32218d0349c1b7bdb38c178a5598f9bab191addec98446e314a11bd9f"
+    },
+    {
+      "page": "T3:256",
+      "printed_page": "㊳－35",
+      "image": "pages/T3/page-256.jpg",
+      "sha256": "bee0a399186a4cd97d985d61aa3b0c698cdac34fed8632bdc8406ebca37a8c7e"
+    },
+    {
+      "page": "T3:257",
+      "printed_page": "㊳－36",
+      "image": "pages/T3/page-257.jpg",
+      "sha256": "f100ba29fedc7bfcc9ef2adf2fc4eb7ef2e5d4e3e9e4d32fefc485bad8e593cf"
+    },
+    {
+      "page": "T3:258",
+      "printed_page": "㊳－37",
+      "image": "pages/T3/page-258.jpg",
+      "sha256": "adb5d9612306d90eec7665fee1171838b3eae589ffa42e5e2a28e305006287fc"
+    },
+    {
+      "page": "T3:259",
+      "printed_page": "㊳－38",
+      "image": "pages/T3/page-259.jpg",
+      "sha256": "dba282437567f790f8560a0855f45e2aa1bdece2db2977edf3ab563b0bf97f48"
+    },
+    {
+      "page": "T3:260",
+      "printed_page": "㊳－39",
+      "image": "pages/T3/page-260.jpg",
+      "sha256": "d17d91da3a8f54899355c1cc9e77be1942537f7b1ed68af42e54802bf3a3c5c6"
+    },
+    {
+      "page": "T3:261",
+      "printed_page": "㊳－40",
+      "image": "pages/T3/page-261.jpg",
+      "sha256": "eb1cae446bd1d3522f5c729f5a3d81deffebcd20f040783b363ae5205771f904"
+    },
+    {
+      "page": "T3:262",
+      "printed_page": "㊳－41",
+      "image": "pages/T3/page-262.jpg",
+      "sha256": "514f888ba159f34c6e3850a22c7929579ff8ab7824edb5895ca4ca3ec9924bb5"
+    },
+    {
+      "page": "T3:263",
+      "printed_page": "㊳－42",
+      "image": "pages/T3/page-263.jpg",
+      "sha256": "f8ce391745fa9b08da35e40d187b88e0ecc4e39ae6dfb06b242ca450096487cc"
+    },
+    {
+      "page": "T3:264",
+      "printed_page": "㊳－43",
+      "image": "pages/T3/page-264.jpg",
+      "sha256": "f5b5a04dcd6ee4af594f130aea994616de902a7f6861afb28e1fb788fd2a49b9"
+    },
+    {
+      "page": "T3:265",
+      "printed_page": "㊳－44",
+      "image": "pages/T3/page-265.jpg",
+      "sha256": "ab4eae496e4a1a295510f27fef266d75a2172c49f3c6367399e37cf50af43159"
+    },
+    {
+      "page": "T3:266",
+      "printed_page": "㊳－45",
+      "image": "pages/T3/page-266.jpg",
+      "sha256": "153297aeaec7bdd1368186602e90cb622a2d9521f8210d9ecfa3f1920f81159c"
+    },
+    {
+      "page": "T3:267",
+      "printed_page": "㊳－46",
+      "image": "pages/T3/page-267.jpg",
+      "sha256": "9ba90294fe72cfe104c88d2a0e650a331276efa2a56549cfc275cf335cbd696b"
+    },
+    {
+      "page": "T3:268",
+      "printed_page": "㊳－47",
+      "image": "pages/T3/page-268.jpg",
+      "sha256": "2a31cd1a7093c6ddcb6f4233e46ed91837fd45cec9af91c9487ca35914fa3245"
+    },
+    {
+      "page": "T3:269",
+      "printed_page": "㊳－48",
+      "image": "pages/T3/page-269.jpg",
+      "sha256": "4e07e33256ec96494c203c4c5ffbe3c3b57eecce32a55702a420c013d7ec6764"
+    },
+    {
+      "page": "T3:270",
+      "printed_page": "㊳－49",
+      "image": "pages/T3/page-270.jpg",
+      "sha256": "18481794fbbab69df5a93622f10ccb618632a008a310aa47e29cc1559ed645e5"
+    },
+    {
+      "page": "T3:271",
+      "printed_page": "㊳－50",
+      "image": "pages/T3/page-271.jpg",
+      "sha256": "caaea567a5d934f7a867740ab00fd455acf670724e5e222ffc4408a8de02135a"
+    },
+    {
+      "page": "T3:272",
+      "printed_page": "㊳－51",
+      "image": "pages/T3/page-272.jpg",
+      "sha256": "07a4333fa9c24b977cd54630033addb7477acd99ad8028d38c3e67bc43fff5fa"
+    }
+  ],
+  "section_outputs": [
+    {
+      "task": "JPG-T3-C014-S01",
+      "chunk": "project/T3/chunks/JPG-T3-C014/JPG-T3-C014-S01.md",
+      "chunk_sha256": "e7b6c498172965aabe314137a5fb89efeefd9d99aa5f01a5da7f29e3e8908b0c"
+    },
+    {
+      "task": "JPG-T3-C014-S02",
+      "chunk": "project/T3/chunks/JPG-T3-C014/JPG-T3-C014-S02.md",
+      "chunk_sha256": "e287dd23242ebd16ec4cb89c9d3d09313f1d45438db84d46649fd1e0649d106f"
+    },
+    {
+      "task": "JPG-T3-C014-S03",
+      "chunk": "project/T3/chunks/JPG-T3-C014/JPG-T3-C014-S03.md",
+      "chunk_sha256": "b0a97dc3124e51a4ebb133862fedff51ebc9df3a216b882c4118a7757683b372"
+    },
+    {
+      "task": "JPG-T3-C014-S04",
+      "chunk": "project/T3/chunks/JPG-T3-C014/JPG-T3-C014-S04.md",
+      "chunk_sha256": "e32a3a533a77583458943584a3a8d00ca2580ac538f57886f0df8582b72c8ffc"
+    }
+  ],
+  "coverage": [
+    {
+      "page": "T3:250",
+      "status": "pass",
+      "regions": [
+        "本文・見出し・表・仕訳・図の意味・欄外・脚注・フッター"
+      ]
+    },
+    {
+      "page": "T3:251",
+      "status": "pass",
+      "regions": [
+        "本文・見出し・表・仕訳・図の意味・欄外・脚注・フッター"
+      ]
+    },
+    {
+      "page": "T3:252",
+      "status": "pass",
+      "regions": [
+        "本文・見出し・表・仕訳・図の意味・欄外・脚注・フッター"
+      ]
+    },
+    {
+      "page": "T3:253",
+      "status": "pass",
+      "regions": [
+        "本文・見出し・表・仕訳・図の意味・欄外・脚注・フッター"
+      ]
+    },
+    {
+      "page": "T3:254",
+      "status": "pass",
+      "regions": [
+        "本文・見出し・表・仕訳・図の意味・欄外・脚注・フッター"
+      ]
+    },
+    {
+      "page": "T3:255",
+      "status": "pass",
+      "regions": [
+        "本文・見出し・表・仕訳・図の意味・欄外・脚注・フッター"
+      ]
+    },
+    {
+      "page": "T3:256",
+      "status": "pass",
+      "regions": [
+        "本文・見出し・表・仕訳・図の意味・欄外・脚注・フッター"
+      ]
+    },
+    {
+      "page": "T3:257",
+      "status": "pass",
+      "regions": [
+        "本文・見出し・表・仕訳・図の意味・欄外・脚注・フッター"
+      ]
+    },
+    {
+      "page": "T3:258",
+      "status": "pass",
+      "regions": [
+        "本文・見出し・表・仕訳・図の意味・欄外・脚注・フッター"
+      ]
+    },
+    {
+      "page": "T3:259",
+      "status": "pass",
+      "regions": [
+        "本文・見出し・表・仕訳・図の意味・欄外・脚注・フッター"
+      ]
+    },
+    {
+      "page": "T3:260",
+      "status": "pass",
+      "regions": [
+        "本文・見出し・表・仕訳・図の意味・欄外・脚注・フッター"
+      ]
+    },
+    {
+      "page": "T3:261",
+      "status": "pass",
+      "regions": [
+        "本文・見出し・表・仕訳・図の意味・欄外・脚注・フッター"
+      ]
+    },
+    {
+      "page": "T3:262",
+      "status": "pass",
+      "regions": [
+        "本文・見出し・表・仕訳・図の意味・欄外・脚注・フッター"
+      ]
+    },
+    {
+      "page": "T3:263",
+      "status": "pass",
+      "regions": [
+        "本文・見出し・表・仕訳・図の意味・欄外・脚注・フッター"
+      ]
+    },
+    {
+      "page": "T3:264",
+      "status": "pass",
+      "regions": [
+        "本文・見出し・表・仕訳・図の意味・欄外・脚注・フッター"
+      ]
+    },
+    {
+      "page": "T3:265",
+      "status": "pass",
+      "regions": [
+        "本文・見出し・表・仕訳・図の意味・欄外・脚注・フッター"
+      ]
+    },
+    {
+      "page": "T3:266",
+      "status": "pass",
+      "regions": [
+        "本文・見出し・表・仕訳・図の意味・欄外・脚注・フッター"
+      ]
+    },
+    {
+      "page": "T3:267",
+      "status": "pass",
+      "regions": [
+        "本文・見出し・表・仕訳・図の意味・欄外・脚注・フッター"
+      ]
+    },
+    {
+      "page": "T3:268",
+      "status": "pass",
+      "regions": [
+        "本文・見出し・表・仕訳・図の意味・欄外・脚注・フッター"
+      ]
+    },
+    {
+      "page": "T3:269",
+      "status": "pass",
+      "regions": [
+        "本文・見出し・表・仕訳・図の意味・欄外・脚注・フッター"
+      ]
+    },
+    {
+      "page": "T3:270",
+      "status": "pass",
+      "regions": [
+        "本文・見出し・表・仕訳・図の意味・欄外・脚注・フッター"
+      ]
+    },
+    {
+      "page": "T3:271",
+      "status": "pass",
+      "regions": [
+        "本文・見出し・表・仕訳・図の意味・欄外・脚注・フッター"
+      ]
+    },
+    {
+      "page": "T3:272",
+      "status": "pass",
+      "regions": [
+        "本文・見出し・表・仕訳・図の意味・欄外・脚注・フッター"
+      ]
+    }
+  ],
+  "page_fidelity_matrix": [
+    {
+      "pages": [
+        "T3:250",
+        "T3:251",
+        "T3:252",
+        "T3:253",
+        "T3:254",
+        "T3:255",
+        "T3:256",
+        "T3:257",
+        "T3:258",
+        "T3:259",
+        "T3:260",
+        "T3:261",
+        "T3:262",
+        "T3:263",
+        "T3:264",
+        "T3:265",
+        "T3:266",
+        "T3:267",
+        "T3:268",
+        "T3:269",
+        "T3:270",
+        "T3:271",
+        "T3:272"
+      ],
+      "sections": [
+        "第38章第3節〜第6節"
+      ],
+      "result": "pass"
+    }
+  ],
+  "numerical_checks": [
+    {
+      "page": "T3:251",
+      "check": "仮評価額100、負ののれん40、土地60を照合。",
+      "result": "pass"
+    },
+    {
+      "page": "T3:252",
+      "check": "取得原価600、土地300/400、のれん200/100、償却10/5を照合。",
+      "result": "pass"
+    },
+    {
+      "page": "T3:270",
+      "check": "取得原価130、土地80/100、のれん10・残高8、増加資本148、差益18を照合。",
+      "result": "pass"
+    }
+  ],
+  "diagram_checks": [
+    {
+      "pages": [
+        "T3:264",
+        "T3:265"
+      ],
+      "check": "共同支配投資企業、共同支配企業、移転事業、株式対価及び支配判定図を保持。",
+      "result": "pass"
+    },
+    {
+      "pages": [
+        "T3:267",
+        "T3:268",
+        "T3:269",
+        "T3:270",
+        "T3:271"
+      ],
+      "check": "企業集団内再編、個別仕訳、連結修正及び内部取引消去の流れを保持。",
+      "result": "pass"
+    },
+    {
+      "pages": [
+        "T3:272"
+      ],
+      "check": "親会社80%・非支配株主20%の外部取引図と追加取得処理を保持。",
+      "result": "pass"
+    }
+  ],
+  "false_proposition_checks": {
+    "status": "not_applicable",
+    "result": "独立した正誤問題はなく、本文の条件・例外を保持。"
+  },
+  "findings": [
+    "指定23枚のJPGを物理ページ順に再確認し、本文、見出し、表、仕訳、数値例、図式、欄外及びフッターを4チャンクに対応付けた。",
+    "第3節から第6節の定義、区別、条件、例外、理由及び会計処理を保持した。",
+    "図のみで示された関係は、当事者・移転・対価・支配関係・会計結果をテキスト及びコードブロックで明示した。"
+  ],
+  "corrections": [
+    "OCR/PDF由来の空白・文字分割のみを正規化し、金額、条件及び借貸関係を指定JPGと照合した。",
+    "後続ページの内容は補完に使用していない。",
+    "逆取得・株式移転、共同支配判定、連結修正額、非支配株主との取引を省略していない。"
+  ],
+  "checks": {
+    "numerical": "pass",
+    "diagram": "pass",
+    "false_proposition": "not_applicable"
+  },
+  "unresolved_count": 0,
+  "semantic_boundary": "自動検査は構造・範囲・ハッシュを検証し、意味的完全性は指定JPGのページ単位レビューで担保した。",
+  "dependency_commits": [
+    "a2fb2bb829d112522128cdb145523302e9d1e7fd",
+    "cccf7c381768b18116d49e4847dac5df2b01506c",
+    "0034627e759ba83225ae91dbc5cba1c1825ba3a6"
+  ]
+}
+

@@ -1,0 +1,257 @@
+{
+  "batch_id": "JPG-T3-C014",
+  "source_id": "T3",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-T3-C014-S01",
+      "batch_id": "JPG-T3-C014",
+      "chapter": "38",
+      "section": "38.3",
+      "title": "第3節 取得の会計処理",
+      "expected_pages": [
+        "T3:250",
+        "T3:251",
+        "T3:252",
+        "T3:253",
+        "T3:254",
+        "T3:255",
+        "T3:256",
+        "T3:257",
+        "T3:258",
+        "T3:259",
+        "T3:260",
+        "T3:261",
+        "T3:262",
+        "T3:263"
+      ],
+      "processing_pages": [
+        "T3:250",
+        "T3:251",
+        "T3:252",
+        "T3:253",
+        "T3:254",
+        "T3:255",
+        "T3:256",
+        "T3:257",
+        "T3:258",
+        "T3:259",
+        "T3:260",
+        "T3:261",
+        "T3:262",
+        "T3:263"
+      ],
+      "output": "chunks/JPG-T3-C014/JPG-T3-C014-S01.md",
+      "status": "pass",
+      "locators": [
+        {
+          "page": "T3:250",
+          "printed_page": "㊳－29",
+          "source_region": "本文・見出し・表・仕訳・図及び欄外",
+          "destination_heading": "## 第3節 取得の会計処理"
+        },
+        {
+          "page": "T3:251",
+          "printed_page": "㊳－30",
+          "source_region": "本文・見出し・表・仕訳・図及び欄外",
+          "destination_heading": "## 第3節 取得の会計処理"
+        },
+        {
+          "page": "T3:252",
+          "printed_page": "㊳－31",
+          "source_region": "本文・見出し・表・仕訳・図及び欄外",
+          "destination_heading": "## 第3節 取得の会計処理"
+        },
+        {
+          "page": "T3:253",
+          "printed_page": "㊳－32",
+          "source_region": "本文・見出し・表・仕訳・図及び欄外",
+          "destination_heading": "## 第3節 取得の会計処理"
+        },
+        {
+          "page": "T3:254",
+          "printed_page": "㊳－33",
+          "source_region": "本文・見出し・表・仕訳・図及び欄外",
+          "destination_heading": "## 第3節 取得の会計処理"
+        },
+        {
+          "page": "T3:255",
+          "printed_page": "㊳－34",
+          "source_region": "本文・見出し・表・仕訳・図及び欄外",
+          "destination_heading": "## 第3節 取得の会計処理"
+        },
+        {
+          "page": "T3:256",
+          "printed_page": "㊳－35",
+          "source_region": "本文・見出し・表・仕訳・図及び欄外",
+          "destination_heading": "## 第3節 取得の会計処理"
+        },
+        {
+          "page": "T3:257",
+          "printed_page": "㊳－36",
+          "source_region": "本文・見出し・表・仕訳・図及び欄外",
+          "destination_heading": "## 第3節 取得の会計処理"
+        },
+        {
+          "page": "T3:258",
+          "printed_page": "㊳－37",
+          "source_region": "本文・見出し・表・仕訳・図及び欄外",
+          "destination_heading": "## 第3節 取得の会計処理"
+        },
+        {
+          "page": "T3:259",
+          "printed_page": "㊳－38",
+          "source_region": "本文・見出し・表・仕訳・図及び欄外",
+          "destination_heading": "## 第3節 取得の会計処理"
+        },
+        {
+          "page": "T3:260",
+          "printed_page": "㊳－39",
+          "source_region": "本文・見出し・表・仕訳・図及び欄外",
+          "destination_heading": "## 第3節 取得の会計処理"
+        },
+        {
+          "page": "T3:261",
+          "printed_page": "㊳－40",
+          "source_region": "本文・見出し・表・仕訳・図及び欄外",
+          "destination_heading": "## 第3節 取得の会計処理"
+        },
+        {
+          "page": "T3:262",
+          "printed_page": "㊳－41",
+          "source_region": "本文・見出し・表・仕訳・図及び欄外",
+          "destination_heading": "## 第3節 取得の会計処理"
+        },
+        {
+          "page": "T3:263",
+          "printed_page": "㊳－42",
+          "source_region": "本文・見出し・表・仕訳・図及び欄外",
+          "destination_heading": "## 第3節 取得の会計処理"
+        }
+      ],
+      "chunk_sha256": "e7b6c498172965aabe314137a5fb89efeefd9d99aa5f01a5da7f29e3e8908b0c"
+    },
+    {
+      "id": "JPG-T3-C014-S02",
+      "batch_id": "JPG-T3-C014",
+      "chapter": "38",
+      "section": "38.4",
+      "title": "第4節 共同支配企業の形成の会計処理",
+      "expected_pages": [
+        "T3:264",
+        "T3:265",
+        "T3:266"
+      ],
+      "processing_pages": [
+        "T3:264",
+        "T3:265",
+        "T3:266"
+      ],
+      "output": "chunks/JPG-T3-C014/JPG-T3-C014-S02.md",
+      "status": "pass",
+      "locators": [
+        {
+          "page": "T3:264",
+          "printed_page": "㊳－43",
+          "source_region": "本文・見出し・表・仕訳・図及び欄外",
+          "destination_heading": "## 第4節 共同支配企業の形成の会計処理"
+        },
+        {
+          "page": "T3:265",
+          "printed_page": "㊳－44",
+          "source_region": "本文・見出し・表・仕訳・図及び欄外",
+          "destination_heading": "## 第4節 共同支配企業の形成の会計処理"
+        },
+        {
+          "page": "T3:266",
+          "printed_page": "㊳－45",
+          "source_region": "本文・見出し・表・仕訳・図及び欄外",
+          "destination_heading": "## 第4節 共同支配企業の形成の会計処理"
+        }
+      ],
+      "chunk_sha256": "e287dd23242ebd16ec4cb89c9d3d09313f1d45438db84d46649fd1e0649d106f"
+    },
+    {
+      "id": "JPG-T3-C014-S03",
+      "batch_id": "JPG-T3-C014",
+      "chapter": "38",
+      "section": "38.5",
+      "title": "第5節 共通支配下の取引の会計処理",
+      "expected_pages": [
+        "T3:267",
+        "T3:268",
+        "T3:269",
+        "T3:270",
+        "T3:271"
+      ],
+      "processing_pages": [
+        "T3:267",
+        "T3:268",
+        "T3:269",
+        "T3:270",
+        "T3:271"
+      ],
+      "output": "chunks/JPG-T3-C014/JPG-T3-C014-S03.md",
+      "status": "pass",
+      "locators": [
+        {
+          "page": "T3:267",
+          "printed_page": "㊳－46",
+          "source_region": "本文・見出し・表・仕訳・図及び欄外",
+          "destination_heading": "## 第5節 共通支配下の取引の会計処理"
+        },
+        {
+          "page": "T3:268",
+          "printed_page": "㊳－47",
+          "source_region": "本文・見出し・表・仕訳・図及び欄外",
+          "destination_heading": "## 第5節 共通支配下の取引の会計処理"
+        },
+        {
+          "page": "T3:269",
+          "printed_page": "㊳－48",
+          "source_region": "本文・見出し・表・仕訳・図及び欄外",
+          "destination_heading": "## 第5節 共通支配下の取引の会計処理"
+        },
+        {
+          "page": "T3:270",
+          "printed_page": "㊳－49",
+          "source_region": "本文・見出し・表・仕訳・図及び欄外",
+          "destination_heading": "## 第5節 共通支配下の取引の会計処理"
+        },
+        {
+          "page": "T3:271",
+          "printed_page": "㊳－50",
+          "source_region": "本文・見出し・表・仕訳・図及び欄外",
+          "destination_heading": "## 第5節 共通支配下の取引の会計処理"
+        }
+      ],
+      "chunk_sha256": "b0a97dc3124e51a4ebb133862fedff51ebc9df3a216b882c4118a7757683b372"
+    },
+    {
+      "id": "JPG-T3-C014-S04",
+      "batch_id": "JPG-T3-C014",
+      "chapter": "38",
+      "section": "38.6",
+      "title": "第6節 非支配株主との取引",
+      "expected_pages": [
+        "T3:272"
+      ],
+      "processing_pages": [
+        "T3:272"
+      ],
+      "output": "chunks/JPG-T3-C014/JPG-T3-C014-S04.md",
+      "status": "pass",
+      "locators": [
+        {
+          "page": "T3:272",
+          "printed_page": "㊳－51",
+          "source_region": "本文・見出し・表・仕訳・図及び欄外",
+          "destination_heading": "## 第6節 非支配株主との取引"
+        }
+      ],
+      "chunk_sha256": "e32a3a533a77583458943584a3a8d00ca2580ac538f57886f0df8582b72c8ffc"
+    }
+  ],
+  "review": "reviews/JPG-T3-C014.json"
+}
+
