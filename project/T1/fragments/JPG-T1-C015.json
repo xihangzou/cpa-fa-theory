@@ -1,0 +1,105 @@
+{
+  "batch_id": "JPG-T1-C015",
+  "source_id": "T1",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-T1-C015-S01",
+      "batch_id": "JPG-T1-C015",
+      "chapter": "11",
+      "section": "11.1",
+      "title": "第1節 会計主体論",
+      "expected_pages": ["T1:201", "T1:202", "T1:203"],
+      "processing_pages": ["T1:201", "T1:202", "T1:203"],
+      "output": "chunks/JPG-T1-C015/JPG-T1-C015-S01.md",
+      "status": "pass",
+      "chunk_sha256": "e89e65e0ea02d18f4c8dccd568ffa9581c11eefd515b45ccf0192e72b7e85017",
+      "locators": [
+        {"page": "T1:201", "printed_page": null, "source_region": "第11章の章扉、短答式・論文式本試験における出題実績表", "destination_heading": "## 第1節 会計主体論"},
+        {"page": "T1:202", "printed_page": "⑪－1", "source_region": "第1節の扉、会計主体論の定義、資本主理論・企業主体理論の定義と基本原理、企業目線の図解", "destination_heading": "## 第1節 会計主体論"},
+        {"page": "T1:203", "printed_page": "⑪－2", "source_region": "支払利息・支払配当金、利益の帰属、企業実体の公準との関係、資本主理論と企業主体理論のまとめ表", "destination_heading": "## 第1節 会計主体論"}
+      ]
+    },
+    {
+      "id": "JPG-T1-C015-S02",
+      "batch_id": "JPG-T1-C015",
+      "chapter": "11",
+      "section": "11.2",
+      "title": "第2節 贈与剰余金",
+      "expected_pages": ["T1:204", "T1:205", "T1:206", "T1:207", "T1:208"],
+      "processing_pages": ["T1:204", "T1:205", "T1:206", "T1:207", "T1:208"],
+      "output": "chunks/JPG-T1-C015/JPG-T1-C015-S02.md",
+      "status": "pass",
+      "chunk_sha256": "719304ac8c6e296ae3dc0ff97f0d02203dea37e8cae455bb6ce21f8f3d82e045",
+      "locators": [
+        {"page": "T1:204", "printed_page": "⑪－3", "source_region": "第2節の扉、贈与剰余金の定義と具体例、国庫補助金の資本説・利益説", "destination_heading": "## 第2節 贈与剰余金"},
+        {"page": "T1:205", "printed_page": "⑪－4", "source_region": "国庫補助金の会計処理の概要、資本剰余金処理、直接減額方式の定義・例・長短所", "destination_heading": "## 第2節 贈与剰余金"},
+        {"page": "T1:206", "printed_page": "⑪－5", "source_region": "直接減額方式の設例、企業会計原則の表示方法（ア）（イ）、間接控除・直接控除の表示例", "destination_heading": "## 第2節 贈与剰余金"},
+        {"page": "T1:207", "printed_page": "⑪－6", "source_region": "積立金方式の定義・長所・設例、受入れ・決算・翌期決算の仕訳", "destination_heading": "## 第2節 贈与剰余金"},
+        {"page": "T1:208", "printed_page": "⑪－7", "source_region": "繰延収益処理の定義・長短所・設例と各仕訳、5年均等取崩し", "destination_heading": "## 第2節 贈与剰余金"}
+      ]
+    },
+    {
+      "id": "JPG-T1-C015-S03",
+      "batch_id": "JPG-T1-C015",
+      "chapter": "11",
+      "section": "11.3",
+      "title": "第3節 評価替剰余金",
+      "expected_pages": ["T1:209", "T1:210"],
+      "processing_pages": ["T1:209", "T1:210"],
+      "output": "chunks/JPG-T1-C015/JPG-T1-C015-S03.md",
+      "status": "pass",
+      "chunk_sha256": "1a8602cf993812e4fe1137e51c31d7664d83a6afa457b92a1c1eee705e774e8b",
+      "locators": [
+        {"page": "T1:209", "printed_page": "⑪－8", "source_region": "第3節の扉、評価替剰余金と保険差益の定義・具体例、資本説・利益説の論拠", "destination_heading": "## 第3節 評価替剰余金"},
+        {"page": "T1:210", "printed_page": "⑪－9", "source_region": "資本説・利益説の比較図、保険差益と資本維持の補足、実体・実質・名目資本維持の数値例と仕訳", "destination_heading": "## 第3節 評価替剰余金"}
+      ]
+    },
+    {
+      "id": "JPG-T1-C015-S04",
+      "batch_id": "JPG-T1-C015",
+      "chapter": "11",
+      "section": "11.4",
+      "title": "第4節 物価変動会計",
+      "expected_pages": ["T1:211", "T1:212", "T1:213"],
+      "processing_pages": ["T1:211", "T1:212", "T1:213"],
+      "output": "chunks/JPG-T1-C015/JPG-T1-C015-S04.md",
+      "status": "pass",
+      "chunk_sha256": "8ff92fb3dc252f2dc2321512ed72202f4464407e5717dbf39201e582920e8cf7",
+      "locators": [
+        {"page": "T1:211", "printed_page": "⑪－10", "source_region": "第4節の扉、物価変動会計の定義・目的・分類", "destination_heading": "## 第4節 物価変動会計"},
+        {"page": "T1:212", "printed_page": "⑪－11", "source_region": "一般物価変動会計の概要・購買力変動図・特徴表", "destination_heading": "## 第4節 物価変動会計"},
+        {"page": "T1:213", "printed_page": "⑪－12", "source_region": "個別価格変動会計の概要・個別価格変動図・特徴表", "destination_heading": "## 第4節 物価変動会計"}
+      ]
+    },
+    {
+      "id": "JPG-T1-C015-S05",
+      "batch_id": "JPG-T1-C015",
+      "chapter": "11",
+      "section": "11.5",
+      "title": "第5節 資本維持論",
+      "expected_pages": ["T1:214", "T1:215", "T1:216", "T1:217", "T1:218"],
+      "processing_pages": ["T1:214", "T1:215", "T1:216", "T1:217", "T1:218"],
+      "output": "chunks/JPG-T1-C015/JPG-T1-C015-S05.md",
+      "status": "pass",
+      "chunk_sha256": "a3d8baa0fb3418a44f52900d2e4a4c8ac8d35acf5561cd0988bed55528fe814d",
+      "locators": [
+        {"page": "T1:214", "printed_page": "⑪－13", "source_region": "第5節の扉、維持すべき資本の定義・3分類・物価変動会計との関係図", "destination_heading": "## 第5節 資本維持論"},
+        {"page": "T1:215", "printed_page": "⑪－14", "source_region": "取得原価主義会計と名目資本維持の設例、仕訳、T勘定・資本維持の流れ", "destination_heading": "## 第5節 資本維持論"},
+        {"page": "T1:216", "printed_page": "⑪－15", "source_region": "一般物価変動会計と実質資本維持の設例、仕訳、指数1.05による再測定図", "destination_heading": "## 第5節 資本維持論"},
+        {"page": "T1:217", "printed_page": "⑪－16", "source_region": "個別価格変動会計と実体資本維持の設例、仕訳、商品・建物の再評価図", "destination_heading": "## 第5節 資本維持論"},
+        {"page": "T1:218", "printed_page": "⑪－17", "source_region": "物価変動会計のまとめ表と注1から注3", "destination_heading": "## 第5節 資本維持論"}
+      ]
+    }
+  ],
+  "review": "reviews/JPG-T1-C015.json",
+  "excluded_pages": [],
+  "source_scope": {
+    "source_id": "T1",
+    "physical_range": "T1:201-T1:218",
+    "processing_range": "T1:201-T1:218",
+    "chapter": "11",
+    "title": "資本会計（伝統論）",
+    "content_authority": "designated existing JPGs only"
+  }
+}

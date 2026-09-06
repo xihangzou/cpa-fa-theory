@@ -1,0 +1,86 @@
+{
+  "batch_id": "JPG-T1-C015",
+  "source_id": "T1",
+  "status": "pass",
+  "source_images": [
+    {"page": "T1:201", "sha256": "ae751b5ba0415e31b04ee81656bd7b32f7ff9f4a21d65cc16dc8818bc0d51047"},
+    {"page": "T1:202", "sha256": "a03a351779caf1b8924c0836e7c7e949eb1f58c617f208c13066325e2c974d0c"},
+    {"page": "T1:203", "sha256": "34aca4b825de1e3939b8c05c371b4bf61e960b354144205c2a667bebed2f9ad0"},
+    {"page": "T1:204", "sha256": "62de72e4b8516c0cd5815062fd66f5738e4634f04c577af2c1f4d0025831b7da"},
+    {"page": "T1:205", "sha256": "ca05eb72cc1c6e460b3b12178ab9ede5af7bb79545d7ca490c6353d128425715"},
+    {"page": "T1:206", "sha256": "f76dad55a689eef6720a21341a97c84cc9fb37b643a99d3bf9dacd3069300d61"},
+    {"page": "T1:207", "sha256": "c433f8fbade613e36e8ac256db813985abcb49f2e1e88181918219e9840d96de"},
+    {"page": "T1:208", "sha256": "de411752414305a47ac64d8cb82d43ede644663f9631073a759c17c82444421f"},
+    {"page": "T1:209", "sha256": "48be67ae95f66c76e93288983f76cd19a10abe3d915bd0c6a6b0265d37a21161"},
+    {"page": "T1:210", "sha256": "1d70d78d4fb283128d8d7f162b3c048420e53b4702f3a0619f9a092744b4dc3a"},
+    {"page": "T1:211", "sha256": "581c2df5ce52779cd04d2fd98cb13b7a5fa0c18773f3612249176f55c70bf250"},
+    {"page": "T1:212", "sha256": "7577e7313bdc491c2c0a9539a40e74beb620e591f6a37c2c3430682934963b4e"},
+    {"page": "T1:213", "sha256": "0bfefa444526256f5b98d155e881c6ed0c6f695551f6dc59a6283351d2cba8c9"},
+    {"page": "T1:214", "sha256": "5b6366320154488a22475cf8c658a3178e03223b58f497178ad2d602159f3eca"},
+    {"page": "T1:215", "sha256": "7519907ac002c4655ea4f808ab02ecf9d217339a65a133c91e630ff13068611b"},
+    {"page": "T1:216", "sha256": "4271987f31e18cc2123e1a8320c5289973d11ef712adcca6d5c7ab7a34858c98"},
+    {"page": "T1:217", "sha256": "257aec48cc76ba5bbaf43c7658c23d2f33e75d67c177e15cc70ae9804375d540"},
+    {"page": "T1:218", "sha256": "61b6254f83c8e7fd54a61b1c73aa6f2a4b5921a60611fc7f7b16f9b20168a26c"}
+  ],
+  "section_outputs": [
+    {"task": "JPG-T1-C015-S01", "chunk_sha256": "e89e65e0ea02d18f4c8dccd568ffa9581c11eefd515b45ccf0192e72b7e85017"},
+    {"task": "JPG-T1-C015-S02", "chunk_sha256": "719304ac8c6e296ae3dc0ff97f0d02203dea37e8cae455bb6ce21f8f3d82e045"},
+    {"task": "JPG-T1-C015-S03", "chunk_sha256": "1a8602cf993812e4fe1137e51c31d7664d83a6afa457b92a1c1eee705e774e8b"},
+    {"task": "JPG-T1-C015-S04", "chunk_sha256": "8ff92fb3dc252f2dc2321512ed72202f4464407e5717dbf39201e582920e8cf7"},
+    {"task": "JPG-T1-C015-S05", "chunk_sha256": "a3d8baa0fb3418a44f52900d2e4a4c8ac8d35acf5561cd0988bed55528fe814d"}
+  ],
+  "coverage": [
+    {"page": "T1:201", "regions": ["chapter title", "short-answer exam-history table", "essay exam-history table"], "status": "pass", "findings": "Chapter 11 identity, five topic rows, year columns and marked results were retained."},
+    {"page": "T1:202", "regions": ["section 1 definition", "capital proprietary theory", "enterprise entity theory", "enterprise-view diagram"], "status": "pass", "findings": "Definitions, equations, capital-transaction boundaries, and the government/shareholder funding diagram were retained."},
+    {"page": "T1:203", "regions": ["interest/dividend comparison table", "profit attribution", "enterprise postulate distinction", "summary table"], "status": "pass", "findings": "All three supplementary boxes and the six-row comparison summary were retained."},
+    {"page": "T1:204", "regions": ["section 2 definition and examples", "national treasury subsidy essence", "capital/profit theory rationale table"], "status": "pass", "findings": "The definition, two examples, current-treatment note and both rationales were retained."},
+    {"page": "T1:205", "regions": ["four national-subsidy treatments", "capital-surplus method", "direct-reduction method", "example journal entries", "advantages/disadvantages"], "status": "pass", "findings": "The treatment overview, method (1), method (2), 50,000/80,000/16,000 example and pros/cons were retained."},
+    {"page": "T1:206", "regions": ["direct-reduction continuation example", "enterprise accounting principle box", "display methods (a)/(b)", "indirect/direct display tables"], "status": "pass", "findings": "The 6,000 depreciation example, optional-treatment note and both 30,000/24,000 presentation forms were retained."},
+    {"page": "T1:207", "regions": ["reserve-fund method definition", "advantages", "50,000/80,000 example", "three journal-entry stages", "tax-deferment note"], "status": "pass", "findings": "All three stages and the 50,000/16,000/10,000 amounts were retained."},
+    {"page": "T1:208", "regions": ["deferred-income definition", "advantages/disadvantage", "receipt and acquisition entries", "depreciation and reversal entries", "five-year note"], "status": "pass", "findings": "The liability treatment, 50,000/80,000/16,000/10,000 entries and five-year equal reversal were retained."},
+    {"page": "T1:209", "regions": ["section 3 definition and examples", "insurance-difference definition", "1,000/1,200 journal entries", "capital/profit theory rationale table"], "status": "pass", "findings": "The evaluation-surplus definitions, insurance example, amounts and both rationales were retained."},
+    {"page": "T1:210", "regions": ["capital/profit theory comparison diagram", "insurance difference and capital maintenance supplement", "three maintenance positions", "500/200/350/20 numerical example and entries"], "status": "pass", "findings": "The diagram meaning, tax/reacquisition contrast, three maintenance arguments and all three entry patterns were retained."},
+    {"page": "T1:211", "regions": ["section 4 definition", "purpose table", "general/individual classification"], "status": "pass", "findings": "Definition, purpose, financial-statement objective and classification were retained."},
+    {"page": "T1:212", "regions": ["general price-change overview", "100/110 purchasing-power diagram", "car-value boundary", "feature table"], "status": "pass", "findings": "The two-year example, adjustment boundary, current-purchasing-power unit, cost basis and two profit components were retained."},
+    {"page": "T1:213", "regions": ["individual price-change overview", "100/90 revaluation diagram", "currency-value boundary", "feature table"], "status": "pass", "findings": "The time-value explanation, two-year example, adjustment boundary, nominal unit, current-value basis and two profit components were retained."},
+    {"page": "T1:214", "regions": ["section 5 definition", "capital-maintenance scope diagram", "three capital-maintenance concepts", "relationship diagram"], "status": "pass", "findings": "The three definitions and one-to-one relationships with the three accounting models were retained."},
+    {"page": "T1:215", "regions": ["nominal-capital example conditions", "four journal-entry stages", "T-account transitions", "nominal-capital explanation", "process diagram"], "status": "pass", "findings": "The 1,000/1,800/800 example, full-distribution result and nominal-capital flow were retained."},
+    {"page": "T1:216", "regions": ["real-capital example conditions", "four journal-entry stages", "1.05 index diagram", "1,000 to 1,050 and 2,000 to 2,100 examples", "real-capital explanation"], "status": "pass", "findings": "The 50 purchasing-power adjustment, 750 operating profit and real-capital conclusion were retained."},
+    {"page": "T1:217", "regions": ["physical-capital example conditions", "four journal-entry stages", "1,000 to 1,200 and 2,000 to 1,500 examples", "physical-capital explanation"], "status": "pass", "findings": "The 200 holding gain, 600 operating profit and 1,200 replacement-capital conclusion were retained."},
+    {"page": "T1:218", "regions": ["four-row three-column summary table", "notes 1-3"], "status": "pass", "findings": "All measurement units, valuation bases, profit concepts, capital concepts and three footnotes were retained."}
+  ],
+  "findings": [
+    "All 18 designated processing JPGs were reopened at readable resolution and compared against the five section chunks, including margins, chapter/section labels, boxed rules, tables, journal entries, diagrams, examples and exceptions.",
+    "The batch begins with the Chapter 11 opener on T1:201 and ends with the section 5 summary on T1:218; the inventory boundary review records no stranded object or spillover.",
+    "The source contains no question-and-answer or false-proposition layout; that specialized check is not applicable.",
+    "The chunks contain no bold syntax, Cloze syntax, Front/Back fields, integration output or card output.",
+    "No unresolved marker remains; no correction was required after the image comparison."
+  ],
+  "corrections": [],
+  "checks": {
+    "numerical": "pass",
+    "diagram": "pass",
+    "false_proposition": "not_applicable"
+  },
+  "unresolved_count": 0,
+  "excluded_pages": [],
+  "reviewer_model": "current execution model; no model switch",
+  "dependency_commits": [
+    "a2fb2bb829d112522128cdb145523302e9d1e7fd",
+    "1fd8a963ef32e09b5f3f08ecd7d5bb7cc2240a94",
+    "393dc82a64791eb452ea64ccb8cbfc55212718ef",
+    "7507151c638a73a41fc13b9d4c4481c8888307e0"
+  ],
+  "source_revision": {
+    "verified_main_commit": "d0a1dcf9828c9013023645a17b7992533cee4d75",
+    "source_catalog_sha256": "8358e9cffb068f63df0bdfcc8f99be035e66454ac8710d381f0ff9eb87728079",
+    "page_plan_sha256": "997a7280b171df5803c2a3bb7c2ee8764082e01f3bdb03c194b9129fe18d26c9",
+    "source_manifest_sha256": "760f946d08e1eebf2d79c189103ac2e627f0bb2569dcd80055885fb8b97324cd",
+    "source_map_sha256": "3ff42e94bd9f8751f8100c6ff251740a46f67182c468af620438c9768f14b961",
+    "batch_manifest_sha256": "125ff5fee8f8271b82c3258ced501ed4411b4071b930f08f1ed682e72c2628c4",
+    "inventory_review_sha256": "83e2c59f059ffdec53fcb8fb83a5f1300d5cca0722dcf031db0b459bd7ab8c19",
+    "pilot_qa_sha256": "cfd72bc97fc4ac0f8471bad6dc7b925085d1822ff606754b91f1b35f9b3ce694",
+    "source_image_inventory_sha256": "331ad1ea2ca04d0636c2185b6ab1a8fe5240ebdd3f0c7c546c8703371d497929",
+    "source_pdf_sha256": "c09d9d91ce39de787cab04e146719d95b638134399d57112802ffacfa67243f3"
+  }
+}
