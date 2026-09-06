@@ -1,0 +1,84 @@
+{
+  "batch_id": "JPG-T2-C013",
+  "source_id": "T2",
+  "status": "pass",
+  "reviewed_on": "2026-09-06",
+  "reviewer_model": "GPT-5 (current execution model; no model switch)",
+  "delivery_branch": "main",
+  "repository_revision_reviewed": "d66b1a71f944f3976480fca1dbb41ded5e188f26",
+  "source_revision": {
+    "source_id": "T2",
+    "edition": "2024/2025年合格目標",
+    "publication_date": "2023-05-04",
+    "physical_scope": "T2:239-T2:252",
+    "processing_scope": "T2:239-T2:252",
+    "content_authority": "designated existing JPGs only; PDF used only for identity/planning support",
+    "image_folder": "/Users/xihangzou/Study/320_CPA/322_財務理論/images/cpa-fa-theory-textbook-2-jpg",
+    "source_pdf_sha256": "ba4b33c8881021044b6360bfd10899f1b1f882bda3ccc7df3f1f895e9cc55ba5",
+    "source_image_inventory_sha256": "d577500ca271c7d4f0e8a1103b481e38e2494cc9c236d9fe954b35938a9a1c91",
+    "source_manifest_sha256": "35cf038c8b38aa4d44abb1f9a9791db1f51f59e6bac41645e5df53c3b09e12b4",
+    "source_map_sha256": "de4c75bc119b6501ecb1871fccb717cb421c7790d365d0f1eb2ebd493d58ba44",
+    "batch_manifest_sha256": "959f880a026c8b1ca149f12f39fb954b06f86d5600eb0f8207c406139e9546e3",
+    "inventory_review_sha256": "b0f2b10e53d792d7ee563a24810b117c95a09599769fefc3d58138466e6f1384",
+    "pilot_gate_sha256": "712db4eed9c2c6d373d53b85c225c894b3877ed4eb085c4a1be6821d350a4cbc"
+  },
+  "dependency_commits": [
+    "a2fb2bb829d112522128cdb145523302e9d1e7fd",
+    "558bb1e92a2bd7e550af9c2034dc695efde6f19d",
+    "fb4082260d3af7598cb417c2dd83a82cd224dc6d"
+  ],
+  "source_images": [
+    {"page": "T2:239", "printed_page": "㉗-24", "sha256": "ef3fecf8a54cf14a6a40befd16450560473aa50809a030c30ff30cdaa140c2e5"},
+    {"page": "T2:240", "printed_page": "㉗-25", "sha256": "ec82feddde9e6575b4b2f7ae4f6a574ceb8d65a2d47690a39c97953d89051887"},
+    {"page": "T2:241", "printed_page": "㉗-26", "sha256": "08653b6115d0e7be0a919ae307b07f34b5d021681e9dcbd31da7fd7a82ad3364"},
+    {"page": "T2:242", "printed_page": "㉗-27", "sha256": "c9805692acc8f5a59f33cd0b543ffc1caf3d2a6dc51b0c52d23919dfe6584caa"},
+    {"page": "T2:243", "printed_page": "㉗-28", "sha256": "2b97f8372e6753e09edef8901b3267595698b350dcc49b567b2dbd666f104540"},
+    {"page": "T2:244", "printed_page": "㉗-29", "sha256": "d560ae559eb507a1a26ebdd62bf3468d749a7287e00af20caf7e45a4a6215803"},
+    {"page": "T2:245", "printed_page": "㉗-30", "sha256": "5a6bf0b0c4468b6ab7d8e0505a740372b74f44312daaed2fea09fda3ead61a7c"},
+    {"page": "T2:246", "printed_page": "㉗-31", "sha256": "eca92f23f27f077889262a0d0010a3ed04ba0433b234e99ff0ea002c42df2921"},
+    {"page": "T2:247", "printed_page": "㉗-32", "sha256": "79e0d7f37ea51a243203de057d5a9681c529ccc7727776979389e52aa5475d32"},
+    {"page": "T2:248", "printed_page": "㉗-33", "sha256": "0e39bcc7b51638721ae15049a4951278ff1e5835ae62bec2ddd4420fa2f78cae"},
+    {"page": "T2:249", "printed_page": "㉗-34", "sha256": "5371cea4525566e9002bb166149dfe326479b15c44a66e3d0ffdc7a6ea915219"},
+    {"page": "T2:250", "printed_page": "㉗-35", "sha256": "6e23e489d2ef666a7645be4926616db1e5e91ae47cdd4439c272fafb9e70b978"},
+    {"page": "T2:251", "printed_page": "㉗-36", "sha256": "5a5af38431f13aba173eb0b845e37e226bb7a225bf44e629dd4cdf40b5ad3a1e"},
+    {"page": "T2:252", "printed_page": "㉗-37", "sha256": "3ec303e1b4bf3ee5cc734a7f21da42fc7956e2a2d002c7e6b07442f5bf6cdc27"}
+  ],
+  "section_outputs": [
+    {"task": "JPG-T2-C013-S01", "chunk_sha256": "902dc355b24c093eee569ebd499f946146c2ba6236c6b07519338a9c0bec23aa"},
+    {"task": "JPG-T2-C013-S02", "chunk_sha256": "5f76856bd1275bc2a41043dff6bcb1f0572195b65ddf43cac69c15ec5d7a4257"},
+    {"task": "JPG-T2-C013-S03", "chunk_sha256": "c37d9b380300c9efdfe429b1a69cd757ee2f5a663c61ac02419ffc2cb29439d3"},
+    {"task": "JPG-T2-C013-S04", "chunk_sha256": "ab1ba3d1eab6cb421a8a8463c914d5e0607b930d71c7947cd11bbf9970f7a1c8"},
+    {"task": "JPG-T2-C013-S05", "chunk_sha256": "677f5b3986a1c5c9c469cc320a45d3999dd4b99d325deacef4b49becb7c12d22"}
+  ],
+  "coverage": [
+    {"page": "T2:239", "status": "pass", "regions": ["section 5 title and three classifications", "fair-value-unit change rule", "higher-unit-value and lower-unit-value cases"]},
+    {"page": "T2:240", "status": "pass", "regions": ["asymmetric fair-value treatment table", "paradox rationale and formula note", "@750/@80, @90 and @50 examples", "option-count section opener"]},
+    {"page": "T2:241", "status": "pass", "regions": ["unintended option-count change", "intended condition-change rule", "300-to-330 X1-X3 allocation table", "period-change rule and reason supplement"]},
+    {"page": "T2:242", "status": "pass", "regions": ["450 fair-value, 3-to-5-year and 150/50 example", "complex condition changes", "replacement option treatment", "stock split/merge/third-party allotment adjustment"]},
+    {"page": "T2:243", "status": "pass", "regions": ["unlisted-company intrinsic-value exception", "fair-value versus intrinsic-value table", "intrinsic-value definition and diagram"]},
+    {"page": "T2:244", "status": "pass", "regions": ["intrinsic-value problem and no-remeasurement treatment", "public-immediately-after-listing discussion and boundary"]},
+    {"page": "T2:245", "status": "pass", "regions": ["option-grant general rule", "machinery journal-entry pattern", "three cautions", "reliability comparison diagram and contract-date rule"]},
+    {"page": "T2:246", "status": "pass", "regions": ["machinery 5,000 example and entry", "consulting contract and option 8,000/8,200 example and entry"]},
+    {"page": "T2:247", "status": "pass", "regions": ["own-share delivery general rule and machinery entry", "higher-reliability measurement rule", "contract-date valuation table", "reading note for market-price sentence"]},
+    {"page": "T2:248", "status": "pass", "regions": ["seven required note disclosures", "intrinsic-value aggregate disclosure detail", "other own-option/own-share consideration transactions"]},
+    {"page": "T2:249", "status": "pass", "regions": ["2021-01-28 publication note", "advance/post-delivery definitions", "vesting-condition definition", "two accounting timelines"]},
+    {"page": "T2:250", "status": "pass", "regions": ["advance-delivery assumptions", "grant-date no-entry", "X2/3/31 40,500 entry and calculation", "X2/6/30 19,500 entry and calculation"]},
+    {"page": "T2:251", "status": "pass", "regions": ["confiscation treatment", "no-entry and 10-share treasury-share example"]},
+    {"page": "T2:252", "status": "pass", "regions": ["post-delivery assumptions", "X2/3/31 30,375 expense/share-subscription-right entry", "X2/6/30 and X2/7/1 14,625 and 45,000 entries"]}
+  ],
+  "findings": [
+    "All 14 included processing images were reopened at readable full-page resolution and compared with the five section chunks, including margins, sidebars, footnotes, tables, diagrams, formulas, journal entries, examples and boundary headings.",
+    "Physical pages 239-252 are all inventory-approved included pages, with printed labels ㉗-24 through ㉗-37 and no excluded/no-content page in this batch.",
+    "The batch contains the complete section 5 through section 9 material within its owned range; the section 9 discussion continues through physical page 252 and is kept in one ordered section chunk.",
+    "Definitions, distinctions, conditions, exceptions, timing relationships, formulas, units, debit/credit relationships, numerical examples and diagram-only relationships were represented without outside-source supplementation.",
+    "No question-answer or false-proposition layout occurs in this theory batch; false-proposition review is not applicable.",
+    "No source object crosses the physical-page batch boundary at 239-252; all 14 included pages are covered exactly once by section locators and review rows."
+  ],
+  "corrections": [],
+  "unresolved_count": 0,
+  "checks": {
+    "numerical": "pass",
+    "diagram": "pass",
+    "false_proposition": "not_applicable"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "batch_id": "JPG-T2-C013",
+  "source_id": "T2",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-T2-C013-S01",
+      "batch_id": "JPG-T2-C013",
+      "chapter": "27",
+      "section": "27.5",
+      "title": "第5節 ストック・オプションに係る条件変更の会計処理",
+      "expected_pages": ["T2:239", "T2:240", "T2:241", "T2:242"],
+      "processing_pages": ["T2:239", "T2:240", "T2:241", "T2:242"],
+      "output": "chunks/JPG-T2-C013/JPG-T2-C013-S01.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T2:239", "printed_page": "㉗-24", "source_region": "section opener, three condition-change classifications, fair-value-unit rule and cases (1) and (2)", "destination_heading": "## 第5節 ストック・オプションに係る条件変更の会計処理"},
+        {"page": "T2:240", "printed_page": "㉗-25", "source_region": "reason for asymmetric treatment, @750/@80 examples and option-count section opener", "destination_heading": "## 第5節 ストック・オプションに係る条件変更の会計処理"},
+        {"page": "T2:241", "printed_page": "㉗-26", "source_region": "unintended and intended option-count changes, 300-to-330 table, period-change rule and rationale", "destination_heading": "## 第5節 ストック・オプションに係る条件変更の会計処理"},
+        {"page": "T2:242", "printed_page": "㉗-27", "source_region": "450/150/50 period-change example, complex changes, replacement grant and split/merge adjustment", "destination_heading": "## 第5節 ストック・オプションに係る条件変更の会計処理"}
+      ],
+      "chunk_sha256": "902dc355b24c093eee569ebd499f946146c2ba6236c6b07519338a9c0bec23aa"
+    },
+    {
+      "id": "JPG-T2-C013-S02",
+      "batch_id": "JPG-T2-C013",
+      "chapter": "27",
+      "section": "27.6",
+      "title": "第6節 未公開企業における取扱い",
+      "expected_pages": ["T2:243", "T2:244"],
+      "processing_pages": ["T2:243", "T2:244"],
+      "output": "chunks/JPG-T2-C013/JPG-T2-C013-S02.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T2:243", "printed_page": "㉗-28", "source_region": "unlisted-company rule, fair-value/intrinsic-value table, definition and intrinsic-value diagram", "destination_heading": "## 第6節 未公開企業における取扱い"},
+        {"page": "T2:244", "printed_page": "㉗-29", "source_region": "intrinsic-value problem and disclosure treatment, public-immediately-after-listing discussion", "destination_heading": "## 第6節 未公開企業における取扱い"}
+      ],
+      "chunk_sha256": "5f76856bd1275bc2a41043dff6bcb1f0572195b65ddf43cac69c15ec5d7a4257"
+    },
+    {
+      "id": "JPG-T2-C013-S03",
+      "batch_id": "JPG-T2-C013",
+      "chapter": "27",
+      "section": "27.7",
+      "title": "第7節 自社株式オプション及び自社株式を付与又は交付する場合の会計処理",
+      "expected_pages": ["T2:245", "T2:246", "T2:247"],
+      "processing_pages": ["T2:245", "T2:246", "T2:247"],
+      "output": "chunks/JPG-T2-C013/JPG-T2-C013-S03.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T2:245", "printed_page": "㉗-30", "source_region": "option-grant general rule, machinery entry, three cautions and reliability diagram", "destination_heading": "## 第7節 自社株式オプション及び自社株式を付与又は交付する場合の会計処理"},
+        {"page": "T2:246", "printed_page": "㉗-31", "source_region": "machinery 5,000 example and consulting option 8,000/8,200 example", "destination_heading": "## 第7節 自社株式オプション及び自社株式を付与又は交付する場合の会計処理"},
+        {"page": "T2:247", "printed_page": "㉗-32", "source_region": "own-share delivery rule, machinery entry, reliability rule, valuation-date table and reading note", "destination_heading": "## 第7節 自社株式オプション及び自社株式を付与又は交付する場合の会計処理"}
+      ],
+      "chunk_sha256": "c37d9b380300c9efdfe429b1a69cd757ee2f5a663c61ac02419ffc2cb29439d3"
+    },
+    {
+      "id": "JPG-T2-C013-S04",
+      "batch_id": "JPG-T2-C013",
+      "chapter": "27",
+      "section": "27.8",
+      "title": "第8節 開示",
+      "expected_pages": ["T2:248"],
+      "processing_pages": ["T2:248"],
+      "output": "chunks/JPG-T2-C013/JPG-T2-C013-S04.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T2:248", "printed_page": "㉗-33", "source_region": "seven required note disclosures and extension to other own-option/own-share consideration transactions", "destination_heading": "## 第8節 開示"}
+      ],
+      "chunk_sha256": "ab1ba3d1eab6cb421a8a8463c914d5e0607b930d71c7947cd11bbf9970f7a1c8"
+    },
+    {
+      "id": "JPG-T2-C013-S05",
+      "batch_id": "JPG-T2-C013",
+      "chapter": "27",
+      "section": "27.9",
+      "title": "第9節 取締役の報酬等として株式を無償交付する取引",
+      "expected_pages": ["T2:249", "T2:250", "T2:251", "T2:252"],
+      "processing_pages": ["T2:249", "T2:250", "T2:251", "T2:252"],
+      "output": "chunks/JPG-T2-C013/JPG-T2-C013-S05.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T2:249", "printed_page": "㉗-34", "source_region": "publication note, advance/post-delivery definitions, vesting-condition note and timelines", "destination_heading": "## 第9節 取締役の報酬等として株式を無償交付する取引"},
+        {"page": "T2:250", "printed_page": "㉗-35", "source_region": "advance-delivery assumptions, grant-date no-entry, closing-date 40,500 entry and vesting-date 19,500 entry", "destination_heading": "## 第9節 取締役の報酬等として株式を無償交付する取引"},
+        {"page": "T2:251", "printed_page": "㉗-36", "source_region": "confiscation treatment and 10-share no-entry example", "destination_heading": "## 第9節 取締役の報酬等として株式を無償交付する取引"},
+        {"page": "T2:252", "printed_page": "㉗-37", "source_region": "post-delivery assumptions, closing-date 30,375 entry and vesting/issue entries", "destination_heading": "## 第9節 取締役の報酬等として株式を無償交付する取引"}
+      ],
+      "chunk_sha256": "677f5b3986a1c5c9c469cc320a45d3999dd4b99d325deacef4b49becb7c12d22"
+    }
+  ],
+  "review": "reviews/JPG-T2-C013.json"
+}
