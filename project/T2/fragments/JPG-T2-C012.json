@@ -1,0 +1,88 @@
+{
+  "batch_id": "JPG-T2-C012",
+  "source_id": "T2",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-T2-C012-S01",
+      "batch_id": "JPG-T2-C012",
+      "chapter": "27",
+      "section": "27.1",
+      "title": "第1節 本会計基準の概要",
+      "expected_pages": ["T2:215", "T2:216", "T2:217", "T2:218"],
+      "processing_pages": ["T2:215", "T2:216", "T2:217", "T2:218"],
+      "output": "chunks/JPG-T2-C012/JPG-T2-C012-S01.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T2:215", "printed_page": null, "source_region": "chapter opener and short-answer/essay examination-history tables", "destination_heading": "## 第1節 本会計基準の概要"},
+        {"page": "T2:216", "printed_page": "㉗-1", "source_region": "section opener, purpose, employee incentive diagram and former/current treatment comparison", "destination_heading": "## 第1節 本会計基準の概要"},
+        {"page": "T2:217", "printed_page": "㉗-2", "source_region": "terms-definition table from 自社株式オプション through 公正な評価額", "destination_heading": "## 第1節 本会計基準の概要"},
+        {"page": "T2:218", "printed_page": "㉗-3", "source_region": "remaining terms, subset diagram and stock-option transaction timeline", "destination_heading": "## 第1節 本会計基準の概要"}
+      ],
+      "chunk_sha256": "ff409bd29a254123567a224296acca55b66ce1ae66f9f6f84a5073f009a00910"
+    },
+    {
+      "id": "JPG-T2-C012-S02",
+      "batch_id": "JPG-T2-C012",
+      "chapter": "27",
+      "section": "27.2",
+      "title": "第2節 会計基準の適用対象とする範囲",
+      "expected_pages": ["T2:219", "T2:220", "T2:221", "T2:222", "T2:223", "T2:224"],
+      "processing_pages": ["T2:219", "T2:220", "T2:221", "T2:222", "T2:223", "T2:224"],
+      "output": "chunks/JPG-T2-C012/JPG-T2-C012-S02.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T2:219", "printed_page": "㉗-4", "source_region": "scope list of three included transaction types and three transaction diagrams", "destination_heading": "## 第2節 会計基準の適用対象とする範囲"},
+        {"page": "T2:220", "printed_page": "㉗-5", "source_region": "reasons why included transaction types 1, 2 and 3 are in scope", "destination_heading": "## 第2節 会計基準の適用対象とする範囲"},
+        {"page": "T2:221", "printed_page": "㉗-6", "source_region": "parent-company option grant to subsidiary employees, relationship diagram and parent/subsidiary entries", "destination_heading": "## 第2節 会計基準の適用対象とする範囲"},
+        {"page": "T2:222", "printed_page": "㉗-7", "source_region": "six excluded transaction types and explanation of exclusion type 1", "destination_heading": "## 第2節 会計基準の適用対象とする範囲"},
+        {"page": "T2:223", "printed_page": "㉗-8", "source_region": "exclusion types 2 through 4 and consideration/compensation diagram", "destination_heading": "## 第2節 会計基準の適用対象とする範囲"},
+        {"page": "T2:224", "printed_page": "㉗-9", "source_region": "exclusion types 5 and 6, defensive-acquisition numerical scenarios and no-expense conclusion", "destination_heading": "## 第2節 会計基準の適用対象とする範囲"}
+      ],
+      "chunk_sha256": "92978ed63f53731f9d435b2153fe066ea50458e135e9ec7084ed35ac9ddeefc2"
+    },
+    {
+      "id": "JPG-T2-C012-S03",
+      "batch_id": "JPG-T2-C012",
+      "chapter": "27",
+      "section": "27.3",
+      "title": "第3節 ストック・オプションに関する会計処理",
+      "expected_pages": ["T2:225", "T2:226", "T2:227", "T2:228", "T2:229", "T2:230", "T2:231", "T2:232"],
+      "processing_pages": ["T2:225", "T2:226", "T2:227", "T2:228", "T2:229", "T2:230", "T2:231", "T2:232"],
+      "output": "chunks/JPG-T2-C012/JPG-T2-C012-S03.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T2:225", "printed_page": "㉗-10", "source_region": "pre-vesting expense recognition, period allocation and fair-value amount formula", "destination_heading": "## 第3節 ストック・オプションに関する会計処理"},
+        {"page": "T2:226", "printed_page": "㉗-11", "source_region": "fair-value unit rules, measurement timing and reason for grant-date measurement", "destination_heading": "## 第3節 ストック・オプションに関する会計処理"},
+        {"page": "T2:227", "printed_page": "㉗-12", "source_region": "no-remeasurement reason, share-price examples, indirect relationship and equivalence", "destination_heading": "## 第3節 ストック・オプションに関する会計処理"},
+        {"page": "T2:228", "printed_page": "㉗-13", "source_region": "valuation methods, reliability comparison and service-versus-option diagram", "destination_heading": "## 第3節 ストック・オプションに関する会計処理"},
+        {"page": "T2:229", "printed_page": "㉗-14", "source_region": "option-count formula, estimation reliability and revisions before vesting", "destination_heading": "## 第3節 ストック・オプションに関する会計処理"},
+        {"page": "T2:230", "printed_page": "㉗-15", "source_region": "10-person numerical revision example and graded exercise vesting", "destination_heading": "## 第3節 ストック・オプションに関する会計処理"},
+        {"page": "T2:231", "printed_page": "㉗-16", "source_region": "vesting-date determination table for basic and multiple conditions", "destination_heading": "## 第3節 ストック・オプションに関する会計処理"},
+        {"page": "T2:232", "printed_page": "㉗-17", "source_region": "post-vesting exercise/non-exercise entries and timing of profit recognition", "destination_heading": "## 第3節 ストック・オプションに関する会計処理"}
+      ],
+      "chunk_sha256": "2bab97c709b7001cb89fdc0a4884f4e416edd01102d0cb329bcc9bfd8b63b7e6"
+    },
+    {
+      "id": "JPG-T2-C012-S04",
+      "batch_id": "JPG-T2-C012",
+      "chapter": "27",
+      "section": "27.4",
+      "title": "第4節 ストック・オプションの会計処理に関する様々な見解",
+      "expected_pages": ["T2:233", "T2:234", "T2:235", "T2:236", "T2:237", "T2:238"],
+      "processing_pages": ["T2:233", "T2:234", "T2:235", "T2:236", "T2:237", "T2:238"],
+      "output": "chunks/JPG-T2-C012/JPG-T2-C012-S04.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T2:233", "printed_page": "㉗-18", "source_region": "expense-recognition rationale and comparison with consumed supplies", "destination_heading": "## 第4節 ストック・オプションの会計処理に関する様々な見解"},
+        {"page": "T2:234", "printed_page": "㉗-19", "source_region": "three negative views and company-property-outflow objection with diagrams", "destination_heading": "## 第4節 ストック・オプションの会計処理に関する様々な見解"},
+        {"page": "T2:235", "printed_page": "㉗-20", "source_region": "new/old shareholder wealth-transfer objection, numerical example and rebuttal diagrams", "destination_heading": "## 第4節 ストック・オプションの会計処理に関する様々な見解"},
+        {"page": "T2:236", "printed_page": "㉗-21", "source_region": "service-compensation premise objection, measurement-reliability objection and conditional-contract premise", "destination_heading": "## 第4節 ストック・オプションの会計処理に関する様々な見解"},
+        {"page": "T2:237", "printed_page": "㉗-22", "source_region": "reason for correcting expense when rights do not vest, 60-to-57-person example", "destination_heading": "## 第4節 ストック・オプションの会計処理に関する様々な見解"},
+        {"page": "T2:238", "printed_page": "㉗-23", "source_region": "profit rationale for non-exercise lapse, equity reclassification diagram and two current/alternative views", "destination_heading": "## 第4節 ストック・オプションの会計処理に関する様々な見解"}
+      ],
+      "chunk_sha256": "bbf2c7fce891efc25ba8d6145ae193f90a591ef4349f7f49dc05a369f00d1011"
+    }
+  ],
+  "review": "reviews/JPG-T2-C012.json"
+}
