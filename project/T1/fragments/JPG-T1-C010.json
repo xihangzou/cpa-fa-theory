@@ -1,0 +1,40 @@
+{
+  "batch_id": "JPG-T1-C010",
+  "source_id": "T1",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-T1-C010-S01",
+      "batch_id": "JPG-T1-C010",
+      "chapter": "07",
+      "section": "07.1",
+      "title": "第1節 流動資産総論",
+      "expected_pages": ["T1:127", "T1:128", "T1:129"],
+      "processing_pages": ["T1:127", "T1:128", "T1:129"],
+      "output": "chunks/JPG-T1-C010/JPG-T1-C010-S01.md",
+      "status": "pass",
+      "chunk_sha256": "7bac49cb6a71d0c07f9ebe34f5b45d470e39fe850f22f9e83e5514912a5045f0",
+      "locators": [
+        {"page": "T1:127", "printed_page": null, "source_region": "第7章の章扉、章タイトル・評価、短答式および論文式本試験の出題実績表", "destination_heading": "## 第1節 流動資産総論"},
+        {"page": "T1:128", "printed_page": "⑦－1", "source_region": "第1節の扉、1.流動資産の区分に計上される項目、財務諸表等規則の流動資産項目一覧、破産更生債権等の注記、2.流動資産の表示に関する諸論点、(1)現金", "destination_heading": "## 第1節 流動資産総論"},
+        {"page": "T1:129", "printed_page": "⑦－2", "source_region": "(2)預金、(3)受取手形・売掛金等の債権、(4)その他の項目、100分の5基準、関係会社債権の注記、親会社株式の流動・固定区分", "destination_heading": "## 第1節 流動資産総論"}
+      ]
+    },
+    {
+      "id": "JPG-T1-C010-S02",
+      "batch_id": "JPG-T1-C010",
+      "chapter": "07",
+      "section": "07.2",
+      "title": "第2節 棚卸資産",
+      "expected_pages": ["T1:130"],
+      "processing_pages": ["T1:130"],
+      "output": "chunks/JPG-T1-C010/JPG-T1-C010-S02.md",
+      "status": "pass",
+      "chunk_sha256": "24fd2e535aba64c3eab8fd2862df9f86ab7e75296b63b70ff502a92288065998",
+      "locators": [
+        {"page": "T1:130", "printed_page": "⑦－3", "source_region": "第2節の扉、1.棚卸資産の定義、連続意見書の4分類、販売目的・使用目的の例、購買・製造・販売過程の図、棚卸資産評価基準への参照", "destination_heading": "## 第2節 棚卸資産"}
+      ]
+    }
+  ],
+  "review": "reviews/JPG-T1-C010.json"
+}

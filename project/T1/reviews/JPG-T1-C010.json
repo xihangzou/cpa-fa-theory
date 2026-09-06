@@ -1,0 +1,50 @@
+{
+  "batch_id": "JPG-T1-C010",
+  "source_id": "T1",
+  "status": "pass",
+  "source_images": [
+    {"page": "T1:127", "sha256": "c10188eaf7ac885f4e146f9fcaa8a6ded2b60f401a5a3f963a898912dc5dc1f8"},
+    {"page": "T1:128", "sha256": "0b302f605eea0ff010c065427473b8c243081f003d44111bf6b4d57a41c50082"},
+    {"page": "T1:129", "sha256": "332f3d717cc0f18d2450b1fee2c066dc26f3e65335be558fff8fa9606a9d89f7"},
+    {"page": "T1:130", "sha256": "be0471b6ed56627ab0ae91ff178f75dfa22992fdfb94972f57e48ea6bdfac19c"}
+  ],
+  "section_outputs": [
+    {"task": "JPG-T1-C010-S01", "chunk_sha256": "7bac49cb6a71d0c07f9ebe34f5b45d470e39fe850f22f9e83e5514912a5045f0"},
+    {"task": "JPG-T1-C010-S02", "chunk_sha256": "24fd2e535aba64c3eab8fd2862df9f86ab7e75296b63b70ff502a92288065998"}
+  ],
+  "coverage": [
+    {"page": "T1:127", "regions": ["chapter title and ratings", "short-answer exam-history table", "essay exam-history table"], "status": "pass", "findings": "Chapter title, ratings, both exam-history tables and the listed topics were retained."},
+    {"page": "T1:128", "regions": ["section title", "financial-statements-regulation current-asset list", "one-year receivable exception", "cash definition and included instruments", "overdue coupon and undelivered-check treatment"], "status": "pass", "findings": "All twelve listed current-asset categories, the footnote, cash inclusions and the two treatment qualifications were retained."},
+    {"page": "T1:129", "regions": ["deposit definition and one-year maturity rule", "receivable classification", "operating/non-operating receivable distinction", "five-percent disclosure rule", "related-company receivable note", "parent-company-share classification and note exceptions"], "status": "pass", "findings": "All three subsections and the boxed regulatory rules, thresholds, exceptions and current/non-current presentation consequences were retained."},
+    {"page": "T1:130", "regions": ["section title", "inventory definition", "four continuous-opinion-letter categories", "sales-purpose grouping", "examples for each category", "purchase/manufacturing/sales process diagram", "inventory scope conclusion and accounting-standard reference"], "status": "pass", "findings": "The four categories, examples and the process diagram's relationships were represented without adding a figure asset or outside content."}
+  ],
+  "findings": [
+    "All four included processing JPGs were reopened at readable resolution and compared against both section chunks, including margins, chapter/section labels, tables, boxed rules, thresholds, exceptions and the process diagram.",
+    "Physical page 127 is a substantive chapter divider and was retained in the first section chunk, following the accepted T1 pilot convention.",
+    "The section boundary is explicit: page 129 completes 第1節 and page 130 begins 第2節; no example, table, rule or diagram crosses the batch boundary.",
+    "The source contains no question/answer or false-proposition layout; that specialized check is not applicable.",
+    "The chunks use the accepted T1 heading, locator, table and diagram conventions and contain no bold, Cloze, Front/Back, integration or card output."
+  ],
+  "corrections": [],
+  "checks": {"numerical": "pass", "diagram": "pass", "false_proposition": "not_applicable"},
+  "unresolved_count": 0,
+  "excluded_pages": [],
+  "reviewer_model": "current execution model; no model switch",
+  "dependency_commits": [
+    "a2fb2bb829d112522128cdb145523302e9d1e7fd",
+    "1fd8a963ef32e09b5f3f08ecd7d5bb7cc2240a94",
+    "7507151c638a73a41fc13b9d4c4481c8888307e0"
+  ],
+  "source_revision": {
+    "verified_main_commit": "b359f26cee74e29d4893f23b49e4f995808d50f0",
+    "source_catalog_sha256": "8358e9cffb068f63df0bdfcc8f99be035e66454ac8710d381f0ff9eb87728079",
+    "page_plan_sha256": "997a7280b171df5803c2a3bb7c2ee8764082e01f3bdb03c194b9129fe18d26c9",
+    "source_manifest_sha256": "760f946d08e1eebf2d79c189103ac2e627f0bb2569dcd80055885fb8b97324cd",
+    "source_map_sha256": "3ff42e94bd9f8751f8100c6ff251740a46f67182c468af620438c9768f14b961",
+    "batch_manifest_sha256": "125ff5fee8f8271b82c3258ced501ed4411b4071b930f08f1ed682e72c2628c4",
+    "inventory_review_sha256": "83e2c59f059ffdec53fcb8fb83a5f1300d5cca0722dcf031db0b459bd7ab8c19",
+    "pilot_qa_sha256": "cfd72bc97fc4ac0f8471bad6dc7b925085d1822ff606754b91f1b35f9b3ce694",
+    "source_image_inventory_sha256": "331ad1ea2ca04d0636c2185b6ab1a8fe5240ebdd3f0c7c546c8703371d497929",
+    "source_pdf_sha256": "c09d9d91ce39de787cab04e146719d95b638134399d57112802ffacfa67243f3"
+  }
+}
