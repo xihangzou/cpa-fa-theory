@@ -1,0 +1,82 @@
+{
+  "batch_id": "JPG-T1-C027",
+  "source_id": "T1",
+  "status": "pass",
+  "reviewed_on": "2026-09-06",
+  "reviewer_model": "current execution model; no model switch",
+  "source_revision": {
+    "delivery_branch": "main",
+    "repository_commit": "f43951e9c65137ea7f6109d3067ebc137a2b56ba",
+    "source_catalog": "contracts/source-catalog.json",
+    "source_catalog_sha256": "8358e9cffb068f63df0bdfcc8f99be035e66454ac8710d381f0ff9eb87728079",
+    "page_plan": "contracts/page-plan.json",
+    "page_plan_sha256": "997a7280b171df5803c2a3bb7c2ee8764082e01f3bdb03c194b9129fe18d26c9",
+    "source_manifest": "project/T1/sources.json",
+    "source_manifest_sha256": "760f946d08e1eebf2d79c189103ac2e627f0bb256d9cd80055885fb8b97324cd",
+    "source_map": "project/T1/source-map.json",
+    "source_map_sha256": "3ff42e94bd9f8751f8100c6ff251740a46f67182c468af620438c9768f14b961",
+    "batch_manifest": "project/T1/batches.json",
+    "batch_manifest_sha256": "125ff5fee8f8271b82c3258ced501ed4411b4071b930f08f1ed682e72c2628c4",
+    "inventory_review": "project/T1/inventory-review.json",
+    "inventory_review_sha256": "83e2c59f059ffdec53fcb8fb83a5f1300d5cca0722dcf031db0b459bd7ab8c19",
+    "pilot_qa": "project/T1/qa/pilot.json",
+    "pilot_qa_sha256": "cfd72bc97fc4ac0f8471bad6dc7b925085d1822ff606754b91f1b35f9b3ce694",
+    "source_original_root": "/Users/xihangzou/Study/320_CPA/322_財務理論/images/cpa-fa-theory-textbook-1-jpg",
+    "source_pdf": "/Users/xihangzou/Study/320_CPA/322_財務理論/01_テキスト/財務会計論テキスト　理論1.pdf",
+    "source_pdf_sha256": "c09d9d91ce39de787cab04e146719d95b638134399d57112802ffacfa67243f3",
+    "source_image_inventory_sha256": "331ad1ea2ca04d0636c2185b6ab1a8fe5240ebdd3f0c7c546c8703371d497929",
+    "edition": "2024/2025年合格目標",
+    "publication_date": "2023-01-23",
+    "physical_scope": "T1:341-T1:348",
+    "processing_scope": "T1:341-T1:347",
+    "content_authority": "designated existing JPGs only; PDF used only for identity/planning support"
+  },
+  "dependency_commits": [
+    "a2fb2bb829d112522128cdb145523302e9d1e7fd",
+    "1fd8a963ef32e09b5f3f08ecd7d5bb7cc2240a94",
+    "7507151c638a73a41fc13b9d4c4481c8888307e0",
+    "393dc82a64791eb452ea64ccb8cbfc55212718ef"
+  ],
+  "source_images": [
+    {"page": "T1:341", "sha256": "396a17cf13d135aef696706fff95d762ed1b2d5ef9e8e5188dcdb34d73ba0084"},
+    {"page": "T1:342", "sha256": "e469c6d0b6f8c3a2485d1825538bec7e5dafa02be57171c61c79d1a36d9586e0"},
+    {"page": "T1:343", "sha256": "967f225dc53c90b15afdaefd61b716e3168e8db321b0cb6e90abb24be7c702a9"},
+    {"page": "T1:344", "sha256": "89cd6a30c85f49d3e2606d4da53f12c30b15dc110e3d4a8d746cbb0f2b4bea52"},
+    {"page": "T1:345", "sha256": "6beb8af81428251ef78ef945fc81eebcb9885ac9a8c70d326449bee4e2e2f299"},
+    {"page": "T1:346", "sha256": "0b89d6abd6a09b8952bd55281f8cb9b1fed7a25c72bcbce4bee3350af4a26265"},
+    {"page": "T1:347", "sha256": "e4f2b4b8d8d1be368b0bcc73d292dd767774c467393a4d796fca894b49da9ad8"}
+  ],
+  "section_outputs": [
+    {"task": "JPG-T1-C027-S01", "chunk": "project/T1/chunks/JPG-T1-C027/JPG-T1-C027-S01.md", "chunk_sha256": "8f3f33297419c785a22c1e5b4413a77c3e23d8dfe5ffac99517c69cb3b90a5dd"},
+    {"task": "JPG-T1-C027-S02", "chunk": "project/T1/chunks/JPG-T1-C027/JPG-T1-C027-S02.md", "chunk_sha256": "daa7375358be347b590d26d931954053cc1bfa792228aceb80925ca2d0360736"},
+    {"task": "JPG-T1-C027-S03", "chunk": "project/T1/chunks/JPG-T1-C027/JPG-T1-C027-S03.md", "chunk_sha256": "f5420d3cd0049e79e1259fff8aec77efb47726ac430a722e6de2989a25bd4c09"},
+    {"task": "JPG-T1-C027-S04", "chunk": "project/T1/chunks/JPG-T1-C027/JPG-T1-C027-S04.md", "chunk_sha256": "b80205b09bc4ef5e13c518f9107a16f849c1caada62025f581e815bf42df3b00"}
+  ],
+  "coverage": [
+    {"page": "T1:341", "status": "pass", "regions": ["chapter 19 identity and title", "short-answer examination-history table with four topics and 17 I through 22 II columns", "essay examination-history table with four topics and 17 through 22 columns"]},
+    {"page": "T1:342", "status": "pass", "regions": ["section 1 title and rank", "definition table for corporate tax, local corporate tax, resident tax, enterprise tax, income, correction and amended return", "correction/amended-return footnote", "reference table for value-added, capital and income portions of enterprise tax"]},
+    {"page": "T1:343", "status": "pass", "regions": ["section 2 title and accounting treatment for current-year income taxes", "tax classification diagram including income, equalized and value-added/capital portions", "income-statement presentation rule and rank", "two footnotes distinguishing profit-related taxes from operating expenses"]},
+    {"page": "T1:344", "status": "pass", "regions": ["equalized resident-tax supplement and its practical presentation exception", "balance-sheet presentation of unpaid tax and unreceived refunds", "interim-payment example with 1,000 paid, 1,200 annual tax and 600 annual tax cases"]},
+    {"page": "T1:345", "status": "pass", "regions": ["section 3 title", "追徴 and 還付 recognition table with probability/certainty, reasonable-estimate and error-exclusion conditions", "different recognition thresholds and threshold definition", "reason for the phrase 原則として and predecessor guidance reference"]},
+    {"page": "T1:346", "status": "pass", "regions": ["income-statement presentation rules for corrections, additional assessments and refunds", "refund examples 100,000 and negative 1,000, including 99,000 materiality exception", "additional-assessment examples 100,000 and 3,000, including 103,000 materiality exception", "balance-sheet aggregation rule and summary table"]},
+    {"page": "T1:347", "status": "pass", "regions": ["section 4 title", "withholding-income-tax definition under Income Tax Act article 174 and expense presentation exception", "foreign-corporate-tax definition, tax-credit distinction and presentation rule for foreign subsidiary dividends"]}
+  ],
+  "excluded_pages": [
+    {"page": "T1:348", "status": "excluded", "regions": ["chapter-end MEMO page; no learner content"]}
+  ],
+  "findings": [
+    "All seven designated processing JPGs were reopened at readable full resolution and compared with the four section chunks, including chapter/section banners, examination-history tables, margins, boxed supplements, diagrams, footnotes, examples, numeric values, presentation tables and section boundaries.",
+    "The batch is contiguous T1:341-T1:348. Physical page T1:341 begins chapter 19, pages T1:342-T1:347 contain the four sections, and T1:348 is an inventory-backed blank MEMO exclusion.",
+    "The four chunks preserve the source's distinctions between tax types, income-related and size-related taxes, current-year and prior-year adjustments, additional assessments and refunds, and separate versus aggregated presentation.",
+    "Diagram-only content on T1:343 and all presentation examples on T1:344 and T1:346 were verbalized in tables and prose without inventing figures or importing external facts.",
+    "The chunks contain no bold syntax, Cloze syntax, Front/Back fields, integration output or card output. No question/answer or false-proposition layout occurs in this theory batch; that specialized check is not applicable.",
+    "No unresolved marker remains and no correction was required after the image comparison."
+  ],
+  "corrections": [],
+  "checks": {
+    "numerical": "pass",
+    "diagram": "pass",
+    "false_proposition": "not_applicable"
+  },
+  "unresolved_count": 0
+}
