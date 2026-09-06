@@ -1,0 +1,109 @@
+{
+  "batch_id": "JPG-CS-C002",
+  "source_id": "CS",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-CS-C002-S01",
+      "batch_id": "JPG-CS-C002",
+      "chapter": "A01",
+      "section": "A01.1",
+      "title": "第1節 財務会計の機能",
+      "expected_pages": ["CS:008"],
+      "processing_pages": ["CS:008"],
+      "output": "chunks/JPG-CS-C002/JPG-CS-C002-S01.md",
+      "status": "pass",
+      "locators": [
+        {"page": "CS:008", "printed_page": "1", "source_region": "第1節 財務会計の機能、利害調整機能と情報提供機能の定義表", "destination_heading": "## 第1節 財務会計の機能"}
+      ],
+      "chunk_sha256": "c1c1a43a71bdeed164f1b6fdb953c8d95b91ac823d3626ed25f296274299214a"
+    },
+    {
+      "id": "JPG-CS-C002-S02",
+      "batch_id": "JPG-CS-C002",
+      "chapter": "A01",
+      "section": "A01.2",
+      "title": "第2節 会社法会計と金融商品取引法会計",
+      "expected_pages": ["CS:008"],
+      "processing_pages": ["CS:008"],
+      "output": "chunks/JPG-CS-C002/JPG-CS-C002-S02.md",
+      "status": "pass",
+      "locators": [
+        {"page": "CS:008", "printed_page": "1", "source_region": "第2節、制度会計の会社法会計・金融商品取引法会計比較、会社法会計の開示書類、金融商品取引法会計の開示書類、四半期財務諸表の注記", "destination_heading": "## 第2節 会社法会計と金融商品取引法会計"}
+      ],
+      "chunk_sha256": "52df48fe0ba890acf0f2edc8880747bb16c32108b780a5ec11c712440bb1cac2"
+    },
+    {
+      "id": "JPG-CS-C002-S03",
+      "batch_id": "JPG-CS-C002",
+      "chapter": "A01",
+      "section": "A01.3",
+      "title": "第3節 会計基準",
+      "expected_pages": ["CS:009"],
+      "processing_pages": ["CS:009"],
+      "output": "chunks/JPG-CS-C002/JPG-CS-C002-S03.md",
+      "status": "pass",
+      "locators": [
+        {"page": "CS:009", "printed_page": "2", "source_region": "第3節、会計基準の定義・性格、企業会計審議会とASBJの設定主体比較、現在の優先適用と補足", "destination_heading": "## 第3節 会計基準"}
+      ],
+      "chunk_sha256": "901aaca030f465ccf4341b560d4b8d1e8c4b1cb761b876a2a6630dff30985522"
+    },
+    {
+      "id": "JPG-CS-C002-S04",
+      "batch_id": "JPG-CS-C002",
+      "chapter": "A01",
+      "section": "A01.4",
+      "title": "第4節 会計公準",
+      "expected_pages": ["CS:009"],
+      "processing_pages": ["CS:009"],
+      "output": "chunks/JPG-CS-C002/JPG-CS-C002-S04.md",
+      "status": "pass",
+      "locators": [
+        {"page": "CS:009", "printed_page": "2", "source_region": "第4節、企業実体の公準・会計期間の公準（継続企業の公準）・貨幣的測定の公準の内容表と限界", "destination_heading": "## 第4節 会計公準"}
+      ],
+      "chunk_sha256": "bf75b0255a65f7a27b34b523d2d63ad30fcf81ac56e95a7f982ec3b844dc6ddc"
+    },
+    {
+      "id": "JPG-CS-C002-S05",
+      "batch_id": "JPG-CS-C002",
+      "chapter": "A01",
+      "section": "A01.5",
+      "title": "第5節 企業会計原則の一般原則",
+      "expected_pages": ["CS:010", "CS:011"],
+      "processing_pages": ["CS:010", "CS:011"],
+      "output": "chunks/JPG-CS-C002/JPG-CS-C002-S05.md",
+      "status": "pass",
+      "locators": [
+        {"page": "CS:010", "printed_page": "3", "source_region": "第5節、真実性・正規の簿記・資本取引損益取引区分・明瞭性の各原則", "destination_heading": "## 第5節 企業会計原則の一般原則"},
+        {"page": "CS:011", "printed_page": "4", "source_region": "第5節、継続性・保守主義・単一性・重要性の各原則、適用例と簡便処理・簡便表示", "destination_heading": "## 第5節 企業会計原則の一般原則"}
+      ],
+      "chunk_sha256": "79c7a4727c5204a7d98fa3c410f215aa0d764f2d8b81a3c0d33c38543fb1c23f"
+    },
+    {
+      "id": "JPG-CS-C002-S06",
+      "batch_id": "JPG-CS-C002",
+      "chapter": "A01",
+      "section": "A01.6",
+      "title": "第6節 指定国際会計基準と修正国際基準",
+      "expected_pages": ["CS:012", "CS:013"],
+      "processing_pages": ["CS:012", "CS:013"],
+      "output": "chunks/JPG-CS-C002/JPG-CS-C002-S06.md",
+      "status": "pass",
+      "locators": [
+        {"page": "CS:012", "printed_page": "5", "source_region": "第6節、IFRS・IASB・FASB・ASBJ等の用語、コンバージェンス・アドプション・エンドースメント、指定国際会計基準と修正国際基準の任意適用要件", "destination_heading": "## 第6節 指定国際会計基準と修正国際基準"},
+        {"page": "CS:013", "printed_page": "6", "source_region": "第6節、エンドースメントの背景と削除修正項目、適用パターン、留意点、米国基準の任意適用と4基準の乱立", "destination_heading": "## 第6節 指定国際会計基準と修正国際基準"}
+      ],
+      "chunk_sha256": "ca39808912627eda03265b80650ee55acdae383b7e79ce163dbafbca25a2ff9c"
+    }
+  ],
+  "review": "reviews/JPG-CS-C002.json",
+  "excluded_pages": [],
+  "source_scope": {
+    "source_id": "CS",
+    "physical_range": "CS:008-CS:013",
+    "processing_range": "CS:008-CS:013",
+    "chapter": "A01",
+    "title": "財務会計における基礎概念等",
+    "content_authority": "designated existing JPGs only"
+  }
+}

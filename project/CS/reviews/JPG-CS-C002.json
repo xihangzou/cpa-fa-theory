@@ -1,0 +1,92 @@
+{
+  "batch_id": "JPG-CS-C002",
+  "source_id": "CS",
+  "status": "pass",
+  "reviewed_on": "2026-09-06",
+  "reviewer_model": "GPT-5 (current execution model; no model switch)",
+  "source_revision": {
+    "delivery_branch": "main",
+    "repository_commit": "a6e69fbb64cc16aa5800f0aa6a3cf32c7ae449a3",
+    "source_catalog": "contracts/source-catalog.json",
+    "source_catalog_sha256": "8358e9cffb068f63df0bdfcc8f99be035e66454ac8710d381f0ff9eb87728079",
+    "page_plan": "contracts/page-plan.json",
+    "page_plan_sha256": "997a7280b171df5803c2a3bb7c2ee8764082e01f3bdb03c194b9129fe18d26c9",
+    "source_manifest": "project/CS/sources.json",
+    "source_manifest_sha256": "e476a0ecf0d3da9c03ab09e5047bd84f08787320293afb1ebd5cb3fa56ea30bf",
+    "source_map": "project/CS/source-map.json",
+    "source_map_sha256": "a5c16a87078ada3e2e4bb365f854bbb1bb79d0ec0b0298b98f6c2e8a2ad66241",
+    "batch_manifest": "project/CS/batches.json",
+    "batch_manifest_sha256": "19b039f415a8d2ed9bb35198ab5ca2c23cc19f383d5dd3c5f8e161d3b8102a17",
+    "inventory_review": "project/CS/inventory-review.json",
+    "inventory_review_sha256": "165c7463c8324af92bee624fdf3f7998c0d457494390ee7a585406cb4270b859",
+    "source_original_root": "/Users/xihangzou/Study/320_CPA/322_財務理論/03_コントレ",
+    "source_pdf": "/Users/xihangzou/Study/320_CPA/322_財務理論/03_コントレ/財務会計論コンパクトサマリー　短答論点総まとめテキスト　理論.pdf",
+    "source_pdf_sha256": "f76627b0c8e389d094c96ed9a3e8941c1f0a705d55d96dc7d1fd70a84bd7ac39",
+    "source_image_inventory_sha256": null,
+    "edition": "2024/2025年合格目標",
+    "publication_date": "2023-01-23",
+    "physical_scope": "CS:008-CS:013",
+    "processing_scope": "CS:008-CS:013",
+    "content_authority": "designated existing JPGs only; PDF used only for identity/planning support"
+  },
+  "dependency_commits": [
+    "a2fb2bb829d112522128cdb145523302e9d1e7fd",
+    "8fd11caf4d3dfd6f29c584dc279b1199600379df",
+    "a6e69fbb64cc16aa5800f0aa6a3cf32c7ae449a3"
+  ],
+  "source_images": [
+    {"page": "CS:008", "printed_page": "1", "image": "pages/CS/page-008.jpg", "sha256": "6f37bbf17e3e67c6d2febf471c170b6493bd493045bd1e05e9abec70b8ea9f6f"},
+    {"page": "CS:009", "printed_page": "2", "image": "pages/CS/page-009.jpg", "sha256": "fbbca71b6840fe6b569d5dab18e7e10d2d678da0fa180e7dacb46793e1b42d4c"},
+    {"page": "CS:010", "printed_page": "3", "image": "pages/CS/page-010.jpg", "sha256": "851df64f2ed4d12fd75a7bf50e1957812452b9a06e1a8374e1f15b21a6229602"},
+    {"page": "CS:011", "printed_page": "4", "image": "pages/CS/page-011.jpg", "sha256": "2539fd2bc5adcebaaf90c135c42e28f0e11af4a1299e2f3173a479b28ef0b9cd"},
+    {"page": "CS:012", "printed_page": "5", "image": "pages/CS/page-012.jpg", "sha256": "bbc53b4165314da9c69a842b393d99be5a00bd96ef64e85496f19c12c50cb79b"},
+    {"page": "CS:013", "printed_page": "6", "image": "pages/CS/page-013.jpg", "sha256": "aaa4f8fa1a4f42f311fbd7b191a320b74c836987c51e5410300a3e71d52334b8"}
+  ],
+  "section_outputs": [
+    {"task": "JPG-CS-C002-S01", "chunk": "project/CS/chunks/JPG-CS-C002/JPG-CS-C002-S01.md", "chunk_sha256": "c1c1a43a71bdeed164f1b6fdb953c8d95b91ac823d3626ed25f296274299214a"},
+    {"task": "JPG-CS-C002-S02", "chunk": "project/CS/chunks/JPG-CS-C002/JPG-CS-C002-S02.md", "chunk_sha256": "52df48fe0ba890acf0f2edc8880747bb16c32108b780a5ec11c712440bb1cac2"},
+    {"task": "JPG-CS-C002-S03", "chunk": "project/CS/chunks/JPG-CS-C002/JPG-CS-C002-S03.md", "chunk_sha256": "901aaca030f465ccf4341b560d4b8d1e8c4b1cb761b876a2a6630dff30985522"},
+    {"task": "JPG-CS-C002-S04", "chunk": "project/CS/chunks/JPG-CS-C002/JPG-CS-C002-S04.md", "chunk_sha256": "bf75b0255a65f7a27b34b523d2d63ad30fcf81ac56e95a7f982ec3b844dc6ddc"},
+    {"task": "JPG-CS-C002-S05", "chunk": "project/CS/chunks/JPG-CS-C002/JPG-CS-C002-S05.md", "chunk_sha256": "79c7a4727c5204a7d98fa3c410f215aa0d764f2d8b81a3c0d33c38543fb1c23f"},
+    {"task": "JPG-CS-C002-S06", "chunk": "project/CS/chunks/JPG-CS-C002/JPG-CS-C002-S06.md", "chunk_sha256": "ca39808912627eda03265b80650ee55acdae383b7e79ce163dbafbca25a2ff9c"}
+  ],
+  "coverage": [
+    {"page": "CS:008", "status": "pass", "regions": ["JPG-CS-C002-S01; 第1節の見出しと利害調整機能・情報提供機能の定義表", "JPG-CS-C002-S02; 第2節の制度会計比較表、会社法会計開示書類、金融商品取引法会計開示書類、四半期財務諸表の注記", "ページ全体、左右 margins、章ヘッダー、表の全行、網掛け注記、フッターと印刷頁1を確認"]},
+    {"page": "CS:009", "status": "pass", "regions": ["JPG-CS-C002-S03; 会計基準の定義・性格、設定主体比較表、補足注記", "JPG-CS-C002-S04; 3公準の内容表と貨幣的測定の限界", "ページ全体、表の全行、補足文章、章ヘッダー、フッターと印刷頁2を確認"]},
+    {"page": "CS:010", "status": "pass", "regions": ["JPG-CS-C002-S05; 真実性・正規の簿記・資本取引損益取引区分・明瞭性の各原則、定義、位置づけ、注記", "ページ全体、表の全行、網掛け補足、章ヘッダー、フッターと印刷頁3を確認"]},
+    {"page": "CS:011", "status": "pass", "regions": ["JPG-CS-C002-S05; 継続性・保守主義・単一性・重要性の各原則、適用例、簡便な処理と簡便な表示", "ページ全体、各表の全行、箇条書き、網掛け補足、章ヘッダー、フッターと印刷頁4を確認"]},
+    {"page": "CS:012", "status": "pass", "regions": ["JPG-CS-C002-S06; 国際基準用語表、コンバージェンス等の定義、指定・修正国際基準の任意適用要件", "ページ全体、用語表の英語展開、2要件、網掛け部分、章ヘッダー、フッターと印刷頁5を確認"]},
+    {"page": "CS:013", "status": "pass", "regions": ["JPG-CS-C002-S06; エンドースメントの説明、削除修正項目、指定・修正国際基準の適用パターンと留意点、米国基準", "ページ全体、2つの比較表、適用パターン図、数値日付2012年12月31日、章ヘッダー、フッターと印刷頁6を確認"]}
+  ],
+  "page_fidelity_matrix": [
+    {"page": "CS:008", "chunk": "JPG-CS-C002-S01/JPG-CS-C002-S02", "sections": ["第1節の機能定義", "制度会計比較", "会社法会計開示書類", "金融商品取引法会計開示書類", "四半期財務諸表"], "result": "pass"},
+    {"page": "CS:009", "chunk": "JPG-CS-C002-S03/JPG-CS-C002-S04", "sections": ["会計基準", "設定主体", "企業実体の公準", "会計期間の公準", "貨幣的測定の公準"], "result": "pass"},
+    {"page": "CS:010", "chunk": "JPG-CS-C002-S05", "sections": ["真実性", "正規の簿記", "資本取引・損益取引区分", "明瞭性"], "result": "pass"},
+    {"page": "CS:011", "chunk": "JPG-CS-C002-S05", "sections": ["継続性", "保守主義", "単一性", "重要性と簡便処理・簡便表示"], "result": "pass"},
+    {"page": "CS:012", "chunk": "JPG-CS-C002-S06", "sections": ["IFRS/IASB/FASB/ASBJ", "コンバージェンス・アドプション・エンドースメント", "指定・修正国際基準の任意適用"], "result": "pass"},
+    {"page": "CS:013", "chunk": "JPG-CS-C002-S06", "sections": ["エンドースメント", "のれんの非償却", "ノンリサイクリング", "適用パターン", "米国基準の任意適用"], "result": "pass"}
+  ],
+  "numerical_checks": [
+    {"page": "CS:013", "check": "エンドースメント手続の対象時点は2012年12月31日現在と記載され、指定・修正国際基準の適用関係表に反映されている。", "result": "pass"}
+  ],
+  "diagram_checks": [
+    {"pages": ["CS:008", "CS:009"], "check": "会社法会計・金融商品取引法会計の比較、開示書類の分類、会計基準設定主体、3公準の表構造を文章と表で保持。", "result": "pass"},
+    {"pages": ["CS:012", "CS:013"], "check": "指定国際会計基準・修正国際基準の適用パターン、留意点、連結財務諸表作成会社の4基準の関係を表と文章で保持。", "result": "pass"}
+  ],
+  "question_pair_checks": {"status": "not_applicable", "result": "この理論範囲には質問・解答ペアがない。"},
+  "findings": [
+    "指定された6枚の処理画像を読みやすい原寸で再確認し、左右 margins、章ヘッダー、フッター、網掛け補足、表の全行、定義、例、適用要件、英語展開、図表の意味を6つのチャンクと照合した。",
+    "ページ8・9の同一ページ内に複数節があるため、物理ページの処理所有権はバッチに一つのまま、節ごとに別チャンクと領域ロケータを記録した。",
+    "第5節は物理ページ10から11へ、第6節は物理ページ12から13へ連続するが、いずれもバッチ内で完結しており、範囲外への継続はない。",
+    "未解決事項はなく、問題・解答ペア、除外ページ、数値計算仕訳はこの範囲にない。"
+  ],
+  "corrections": [
+    "PDF抽出テキストの文字化け・空白崩れは画像で照合して修正し、画像の見出し・表・定義・注記に合わせた。",
+    "制度会計の開示書類、会計基準設定主体、重要性の原則の適用例、国際基準の適用パターンは一覧の全項目を省略せず保持した。",
+    "ページ12–13の英語正式名称、2012年12月31日、削除又は修正の2項目、ピュアIFRS／エンドースメントIFRSの区別を再確認した。"
+  ],
+  "excluded_pages": [],
+  "checks": {"numerical": "pass", "diagram": "pass", "false_proposition": "not_applicable"},
+  "unresolved_count": 0,
+  "semantic_boundary": "構造・ハッシュ検査は範囲と整合性を検証する。意味の完全性は、指定6画像を用いた記録済みのページ別人手レビューによって裏付けられる。"
+}
