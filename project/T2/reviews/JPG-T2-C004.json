@@ -1,0 +1,646 @@
+{
+  "batch_id": "JPG-T2-C004",
+  "source_id": "T2",
+  "status": "pass",
+  "reviewed_on": "2026-09-06",
+  "reviewer_model": "GPT-5 (current execution model; no model switch)",
+  "source_revision": {
+    "delivery_branch": "main",
+    "repository_commit": "7ead29fbf26fd8d809e78f8c9e53f2045b41f65e",
+    "source_catalog": "contracts/source-catalog.json",
+    "source_catalog_sha256": "8358e9cffb068f63df0bdfcc8f99be035e66454ac8710d381f0ff9eb87728079",
+    "page_plan": "contracts/page-plan.json",
+    "page_plan_sha256": "997a7280b171df5803c2a3bb7c2ee8764082e01f3bdb03c194b9129fe18d26c9",
+    "source_manifest": "project/T2/sources.json",
+    "source_manifest_sha256": "35cf038c8b38aa4d44abb1f9a9791db1f51f59e6bac41645e5df53c3b09e12b4",
+    "source_map": "project/T2/source-map.json",
+    "source_map_sha256": "de4c75bc119b6501ecb1871fccb717cb421c7790d365d0f1eb2ebd493d58ba44",
+    "batch_manifest": "project/T2/batches.json",
+    "batch_manifest_sha256": "959f880a026c8b1ca149f12f39fb954b06f86d5600eb0f8207c406139e9546e3",
+    "inventory_review": "project/T2/inventory-review.json",
+    "inventory_review_sha256": "b0f2b10e53d792d7ee563a24810b117c95a09599769fefc3d58138466e6f1384",
+    "source_original_root": "/Users/xihangzou/Study/320_CPA/322_財務理論/images/cpa-fa-theory-textbook-2-jpg",
+    "source_pdf": "/Users/xihangzou/Study/320_CPA/322_財務理論/01_テキスト/財務会計論テキスト　理論2.pdf",
+    "source_pdf_sha256": "ba4b33c8881021044b6360bfd10899f1b1f882bda3ccc7df3f1f895e9cc55ba5",
+    "source_image_inventory_sha256": "d577500ca271c7d4f0e8a1103b481e38e2494cc9c236d9fe954b35938a9a1c91",
+    "edition": "2024/2025年合格目標",
+    "publication_date": "2023-05-04",
+    "physical_scope": "T2:063-T2:085",
+    "processing_scope": "T2:063-T2:085",
+    "content_authority": "designated existing JPGs only; PDF used only for identity/planning support"
+  },
+  "dependency_commits": [
+    "a2fb2bb829d112522128cdb145523302e9d1e7fd",
+    "558bb1e92a2bd7e550af9c2034dc695efde6f19d",
+    "fb4082260d3af7598cb417c2dd83a82cd224dc6d"
+  ],
+  "source_images": [
+    {
+      "page": "T2:063",
+      "printed_page": null,
+      "image": "pages/T2/page-063.jpg",
+      "sha256": "904849fa7773cbc5c7e2b80d1a4b6e1bd00bdcb838c19a3d0974049a6186c6d3"
+    },
+    {
+      "page": "T2:064",
+      "printed_page": "㉓-1",
+      "image": "pages/T2/page-064.jpg",
+      "sha256": "b14525df55885ee66d93920f29e0b9efbcf259c81497890b9b911ccf6280aaca"
+    },
+    {
+      "page": "T2:065",
+      "printed_page": "㉓-2",
+      "image": "pages/T2/page-065.jpg",
+      "sha256": "77c20d28e739567ec148715fd6330866c81360994784402614aad1718ac5b2bf"
+    },
+    {
+      "page": "T2:066",
+      "printed_page": "㉓-3",
+      "image": "pages/T2/page-066.jpg",
+      "sha256": "c5278d1c86d60ab502dbb592ac9d031fd19abb7131a146df60b9ab43cf82141d"
+    },
+    {
+      "page": "T2:067",
+      "printed_page": "㉓-4",
+      "image": "pages/T2/page-067.jpg",
+      "sha256": "ab5be90ad0e924f4d4dc449c80736c9ab65b14d2f72f62cac800795e2b1cb341"
+    },
+    {
+      "page": "T2:068",
+      "printed_page": "㉓-5",
+      "image": "pages/T2/page-068.jpg",
+      "sha256": "be5bab7ea6d8eff659efc8fcce371c22a671aff100fe87e2c44e99ff45490e1f"
+    },
+    {
+      "page": "T2:069",
+      "printed_page": "㉓-6",
+      "image": "pages/T2/page-069.jpg",
+      "sha256": "3a6e57e6070f96c6243a0d3b405725a19792be8b1dd734f6187494b8ec291f71"
+    },
+    {
+      "page": "T2:070",
+      "printed_page": "㉓-7",
+      "image": "pages/T2/page-070.jpg",
+      "sha256": "3a5e506fd33ac6dc7abfdf08a4bec3ad21cb13a571472d70feae5afbbdf2ae9e"
+    },
+    {
+      "page": "T2:071",
+      "printed_page": "㉓-8",
+      "image": "pages/T2/page-071.jpg",
+      "sha256": "805a761454d41d7de88dd15eb2d77fa619f766a87a126d31511a466a7f30b499"
+    },
+    {
+      "page": "T2:072",
+      "printed_page": "㉓-9",
+      "image": "pages/T2/page-072.jpg",
+      "sha256": "4ad842c0034607f2a2a4b367e2bed005ea839ca31b6b3045845cbc03ba6b21a4"
+    },
+    {
+      "page": "T2:073",
+      "printed_page": "㉓-10",
+      "image": "pages/T2/page-073.jpg",
+      "sha256": "b2b3c0337a9a99b5db16eb738e289377d0fa822bf6cfdd03ac64591ecfd2928b"
+    },
+    {
+      "page": "T2:074",
+      "printed_page": "㉓-11",
+      "image": "pages/T2/page-074.jpg",
+      "sha256": "7ca770325a95c5a9ca6342d0a70d6431ecd730cd59002925bb6aa744575d990a"
+    },
+    {
+      "page": "T2:075",
+      "printed_page": "㉓-12",
+      "image": "pages/T2/page-075.jpg",
+      "sha256": "d49e10560976faac8d56b9078f214d0b8178573753be81c9fa351ed595a83eda"
+    },
+    {
+      "page": "T2:076",
+      "printed_page": "㉓-13",
+      "image": "pages/T2/page-076.jpg",
+      "sha256": "2370928702a858433eae80a3e8cfdca38694214962714505ac1e0838a74c1150"
+    },
+    {
+      "page": "T2:077",
+      "printed_page": "㉓-14",
+      "image": "pages/T2/page-077.jpg",
+      "sha256": "65863ac7d73dfcb407898e865f808c4fd57947b4f59611b532e330c81bfb2bd3"
+    },
+    {
+      "page": "T2:078",
+      "printed_page": "㉓-15",
+      "image": "pages/T2/page-078.jpg",
+      "sha256": "3ca2ed4ecef1d8ab8e06fb7d1f1a3f7db1f75a6bd96fcc3d243924db85007b0c"
+    },
+    {
+      "page": "T2:079",
+      "printed_page": "㉓-16",
+      "image": "pages/T2/page-079.jpg",
+      "sha256": "2ad18ce4173917d3b57921b5b68f436f6f3303a8fbe6d86427b91b14ccff4b72"
+    },
+    {
+      "page": "T2:080",
+      "printed_page": "㉓-17",
+      "image": "pages/T2/page-080.jpg",
+      "sha256": "1bacefc7aa1e59fd9acac1eac8e9c6c1fd3565cc2350b879c282072720981f63"
+    },
+    {
+      "page": "T2:081",
+      "printed_page": "㉓-18",
+      "image": "pages/T2/page-081.jpg",
+      "sha256": "57541747e67ffc063bc10ae8d5fc7c5585cdf39ce50a6040bbd743cb33df7f84"
+    },
+    {
+      "page": "T2:082",
+      "printed_page": "㉓-19",
+      "image": "pages/T2/page-082.jpg",
+      "sha256": "1678b892b245a7f75a098fa5aa5def0f83ffc254684db7cfcea5650123fb9771"
+    },
+    {
+      "page": "T2:083",
+      "printed_page": "㉓-20",
+      "image": "pages/T2/page-083.jpg",
+      "sha256": "4f402cb76e0b209f44646791ddfab69ba8ffd2e57987d1af6a3435dbafce1259"
+    },
+    {
+      "page": "T2:084",
+      "printed_page": "㉓-21",
+      "image": "pages/T2/page-084.jpg",
+      "sha256": "f480eb53dded3015e8dc458f2da30a5487ba4003f695d8823d95e1fb7f11ad32"
+    },
+    {
+      "page": "T2:085",
+      "printed_page": "㉓-22",
+      "image": "pages/T2/page-085.jpg",
+      "sha256": "c392fca302c59ce94191d6f066ec1d1637110fa9fb0fef9e243c37a1ddc34a17"
+    }
+  ],
+  "section_outputs": [
+    {
+      "task": "JPG-T2-C004-S01",
+      "chunk": "project/T2/chunks/JPG-T2-C004/JPG-T2-C004-S01.md",
+      "chunk_sha256": "ad98a14ba353d646cf8109ca9418aceec41f210fb8e9342de7bf9530c9a45198"
+    },
+    {
+      "task": "JPG-T2-C004-S02",
+      "chunk": "project/T2/chunks/JPG-T2-C004/JPG-T2-C004-S02.md",
+      "chunk_sha256": "1be754c8b01d3e8ec6004203fe0ca0a07f7ed908ca08922463c23d1edd991cd9"
+    },
+    {
+      "task": "JPG-T2-C004-S03",
+      "chunk": "project/T2/chunks/JPG-T2-C004/JPG-T2-C004-S03.md",
+      "chunk_sha256": "2f39f569c62658df0281fcc7f4487ed9522e5d98fffa78c3787f8a95b85df0da"
+    },
+    {
+      "task": "JPG-T2-C004-S04",
+      "chunk": "project/T2/chunks/JPG-T2-C004/JPG-T2-C004-S04.md",
+      "chunk_sha256": "71e12aaa4332e43032f9a3d05ad2a6182b8585d44a32c79395db4bc243f1d2ef"
+    },
+    {
+      "task": "JPG-T2-C004-S05",
+      "chunk": "project/T2/chunks/JPG-T2-C004/JPG-T2-C004-S05.md",
+      "chunk_sha256": "eb53719d0b4b3ab2b3170d0f294924cb7f6b177138e6bb58594593f75859eadf"
+    },
+    {
+      "task": "JPG-T2-C004-S06",
+      "chunk": "project/T2/chunks/JPG-T2-C004/JPG-T2-C004-S06.md",
+      "chunk_sha256": "15b42bb0470b47c175a68b15a3596085cb450cb36ce2c5e50328096f32314683"
+    },
+    {
+      "task": "JPG-T2-C004-S07",
+      "chunk": "project/T2/chunks/JPG-T2-C004/JPG-T2-C004-S07.md",
+      "chunk_sha256": "975dc56c3b1c475d2e1f5cf379e89c47e1eb51eaba2d70811779e417ad2712fc"
+    }
+  ],
+  "coverage": [
+    {
+      "page": "T2:063",
+      "status": "pass",
+      "regions": [
+        "章タイトル・短答式/論文式出題実績表・11論点一覧"
+      ]
+    },
+    {
+      "page": "T2:064",
+      "status": "pass",
+      "regions": [
+        "第1節の定義・通常の資本循環と減損時の資本回収",
+        "事業用固定資産の評価・収益性低下・損失繰延べの図",
+        "本文・余白・フッター㉓-1"
+      ]
+    },
+    {
+      "page": "T2:065",
+      "status": "pass",
+      "regions": [
+        "金融商品の時価評価との相違の定義・表",
+        "臨時償却の定義・現行制度上の扱い",
+        "臨時償却と減損処理の共通点・相違点・注記・フッター㉓-2"
+      ]
+    },
+    {
+      "page": "T2:066",
+      "status": "pass",
+      "regions": [
+        "対象資産の分類と対象/非対象の分岐",
+        "資産グループ・減損兆候・割引前C/F判定・回収可能価額・表示開示の6段階フロー",
+        "図・フッター㉓-3"
+      ]
+    },
+    {
+      "page": "T2:067",
+      "status": "pass",
+      "regions": [
+        "対象資産の基本的考え方・他基準で除外される資産",
+        "対象資産の具体例表",
+        "投資不動産の評価に関する2つの考え方・論拠・フッター㉓-4"
+      ]
+    },
+    {
+      "page": "T2:068",
+      "status": "pass",
+      "regions": [
+        "グルーピングの必要性",
+        "最小単位での方法と論拠",
+        "本文・フッター㉓-5"
+      ]
+    },
+    {
+      "page": "T2:069",
+      "status": "pass",
+      "regions": [
+        "資産A/Bの帳簿価額1,000・回収可能価額1,500/800の設例",
+        "グルーピングの継続性",
+        "設例表・本文・フッター㉓-6"
+      ]
+    },
+    {
+      "page": "T2:070",
+      "status": "pass",
+      "regions": [
+        "グルーピングの見直し",
+        "P社事業部X/S社事業部Yの連結例と非連結会社の除外",
+        "減損損失の配分・フッター㉓-7"
+      ]
+    },
+    {
+      "page": "T2:071",
+      "status": "pass",
+      "regions": [
+        "減損の兆候の定義",
+        "企業内部情報・企業外部情報",
+        "兆候判定の理由・実務負担・フッター㉓-8"
+      ]
+    },
+    {
+      "page": "T2:072",
+      "status": "pass",
+      "regions": [
+        "減損の兆候の具体例①～④",
+        "範囲又は方法の変化に関する注記・フッター㉓-9"
+      ]
+    },
+    {
+      "page": "T2:073",
+      "status": "pass",
+      "regions": [
+        "具体例①～④の留意点",
+        "過去2期・事業計画、廃止/再編/処分/転用/遊休",
+        "市場・技術・法律環境の悪化、市場価格50%程度以上下落・フッター㉓-10"
+      ]
+    },
+    {
+      "page": "T2:074",
+      "status": "pass",
+      "regions": [
+        "割引前将来C/Fと帳簿価額の認識判定表",
+        "減損の存在が相当程度確実であること",
+        "減価償却見直しとの順序・フッター㉓-11"
+      ]
+    },
+    {
+      "page": "T2:075",
+      "status": "pass",
+      "regions": [
+        "帳簿価額270、各年C/F100、割引率10%のタイムライン",
+        "割引後249と割引前300の比較",
+        "現行処理の趣旨・フッター㉓-12"
+      ]
+    },
+    {
+      "page": "T2:076",
+      "status": "pass",
+      "regions": [
+        "経済性基準・永久性基準・蓋然性基準の比較表",
+        "1,000/700/1,500の注記例",
+        "我が国の蓋然性基準・フッター㉓-13"
+      ]
+    },
+    {
+      "page": "T2:077",
+      "status": "pass",
+      "regions": [
+        "割引前将来C/Fの見積年限",
+        "土地・長期見積り・20年制限",
+        "主要な資産の定義と年限図・フッター㉓-14"
+      ]
+    },
+    {
+      "page": "T2:078",
+      "status": "pass",
+      "regions": [
+        "20年超の経済的残存使用年数の処理とタイムライン",
+        "1,000、50、40、30、20、10、割引率5%、約1,134の設例・フッター㉓-15"
+      ]
+    },
+    {
+      "page": "T2:079",
+      "status": "pass",
+      "regions": [
+        "主要な資産と構成資産の使用年数が同等以下の場合の図",
+        "正味売却価額200を加算する1,000+200=1,200の設例・フッター㉓-16"
+      ]
+    },
+    {
+      "page": "T2:080",
+      "status": "pass",
+      "regions": [
+        "主要な資産の使用年数が短い場合の図",
+        "正味売却価額120を加算する2,000+120=2,120の設例",
+        "回収可能価額の補足・フッター㉓-17"
+      ]
+    },
+    {
+      "page": "T2:081",
+      "status": "pass",
+      "regions": [
+        "帳簿価額を回収可能価額まで減額する基本処理",
+        "正味売却価額と使用価値の高い方、売却/使用の図",
+        "正味売却価額と使用価値の補足・フッター㉓-18"
+      ]
+    },
+    {
+      "page": "T2:082",
+      "status": "pass",
+      "regions": [
+        "正味売却価額の定義・公正価値・市場価格",
+        "使用価値の定義",
+        "割引率の2方法と適用される具体的な割引率・フッター㉓-19"
+      ]
+    },
+    {
+      "page": "T2:083",
+      "status": "pass",
+      "regions": [
+        "950,000円、220,000円、3%、19,562円、200,438円、8%、566,961円の計算",
+        "認識判定と使用価値算定に用いるC/F見積りの相違表・フッター㉓-20"
+      ]
+    },
+    {
+      "page": "T2:084",
+      "status": "pass",
+      "regions": [
+        "理論的な減損会計の論点①過年度回収額",
+        "論点②過年度減価償却等の修正前帳簿価額・フッター㉓-21"
+      ]
+    },
+    {
+      "page": "T2:085",
+      "status": "pass",
+      "regions": [
+        "X1～X5の取得原価500、C/F500/300/120/50/30、帳簿価額400/300/200/100/0の表",
+        "過年度回収額と減価償却の遅れの説明、理論的処理の図",
+        "C005への継続境界・フッター㉓-22"
+      ]
+    }
+  ],
+  "page_fidelity_matrix": [
+    {
+      "pages": [
+        "T2:063",
+        "T2:064",
+        "T2:065"
+      ],
+      "chunk": "JPG-T2-C004-S01",
+      "sections": [
+        "chapter opener and topic list",
+        "減損の定義",
+        "事業用固定資産の評価",
+        "金融商品との相違",
+        "臨時償却との比較"
+      ],
+      "result": "pass"
+    },
+    {
+      "pages": [
+        "T2:066"
+      ],
+      "chunk": "JPG-T2-C004-S02",
+      "sections": [
+        "six-stage impairment flow",
+        "対象資産",
+        "資産グルーピング",
+        "兆候",
+        "認識判定",
+        "測定",
+        "表示開示"
+      ],
+      "result": "pass"
+    },
+    {
+      "pages": [
+        "T2:067"
+      ],
+      "chunk": "JPG-T2-C004-S03",
+      "sections": [
+        "対象資産の基本的考え方",
+        "除外資産",
+        "対象資産の具体例",
+        "投資不動産の評価"
+      ],
+      "result": "pass"
+    },
+    {
+      "pages": [
+        "T2:068",
+        "T2:069",
+        "T2:070"
+      ],
+      "chunk": "JPG-T2-C004-S04",
+      "sections": [
+        "グルーピングの必要性・方法",
+        "最小単位の設例",
+        "継続性",
+        "連結上の見直し",
+        "減損損失の配分"
+      ],
+      "result": "pass"
+    },
+    {
+      "pages": [
+        "T2:071",
+        "T2:072",
+        "T2:073"
+      ],
+      "chunk": "JPG-T2-C004-S05",
+      "sections": [
+        "兆候の定義と理由",
+        "4つの具体例",
+        "4例の留意点",
+        "市場・技術・法律環境",
+        "50%程度以上の下落"
+      ],
+      "result": "pass"
+    },
+    {
+      "pages": [
+        "T2:074",
+        "T2:075",
+        "T2:076",
+        "T2:077",
+        "T2:078",
+        "T2:079",
+        "T2:080"
+      ],
+      "chunk": "JPG-T2-C004-S06",
+      "sections": [
+        "認識判定",
+        "割引後/割引前C/Fの比較",
+        "3基準",
+        "見積年限",
+        "20年超の例",
+        "構成資産2例"
+      ],
+      "result": "pass"
+    },
+    {
+      "pages": [
+        "T2:081",
+        "T2:082",
+        "T2:083",
+        "T2:084",
+        "T2:085"
+      ],
+      "chunk": "JPG-T2-C004-S07",
+      "sections": [
+        "測定の基本",
+        "回収可能価額",
+        "正味売却価額",
+        "使用価値",
+        "割引率",
+        "理論的な減損会計",
+        "X1-X5設例"
+      ],
+      "result": "pass"
+    }
+  ],
+  "numerical_checks": [
+    {
+      "pages": [
+        "T2:069"
+      ],
+      "check": "資産A/Bの帳簿価額1,000・1,000、回収可能価額1,500・800、合計2,000対2,300を保持した。",
+      "result": "pass"
+    },
+    {
+      "pages": [
+        "T2:075"
+      ],
+      "check": "帳簿価額270、各年C/F100、割引後249、割引前300の比較を保持した。",
+      "result": "pass"
+    },
+    {
+      "pages": [
+        "T2:078",
+        "T2:079",
+        "T2:080"
+      ],
+      "check": "20年超の約1,134、1,000+200=1,200、2,000+120=2,120の関係を保持した。",
+      "result": "pass"
+    },
+    {
+      "pages": [
+        "T2:083"
+      ],
+      "check": "950,000円、各期220,000円、19,562円減額、200,438円、無リスク3%/リスク込み8%、使用価値566,961円を保持した。",
+      "result": "pass"
+    },
+    {
+      "pages": [
+        "T2:085"
+      ],
+      "check": "取得原価500、C/F500/300/120/50/30、帳簿価額400/300/200/100/0及び500+300=800を保持した。",
+      "result": "pass"
+    }
+  ],
+  "diagram_checks": [
+    {
+      "pages": [
+        "T2:064",
+        "T2:065"
+      ],
+      "check": "資本循環、減損時の帳簿価額減額、金融商品時価評価との差、臨時償却との共通点・相違点を本文・表で保持した。",
+      "result": "pass"
+    },
+    {
+      "pages": [
+        "T2:066"
+      ],
+      "check": "対象資産から表示・開示までの6段階フローと分岐を本文・表で保持した。",
+      "result": "pass"
+    },
+    {
+      "pages": [
+        "T2:068",
+        "T2:069",
+        "T2:070"
+      ],
+      "check": "最小グルーピング、A/B設例、連結上のP社/S社の関係、配分の関係を保持した。",
+      "result": "pass"
+    },
+    {
+      "pages": [
+        "T2:076",
+        "T2:077",
+        "T2:078",
+        "T2:079",
+        "T2:080"
+      ],
+      "check": "3基準、20年制限、主要資産と構成資産の3つの年限関係を本文・表・計算で保持した。",
+      "result": "pass"
+    },
+    {
+      "pages": [
+        "T2:081",
+        "T2:082",
+        "T2:083",
+        "T2:085"
+      ],
+      "check": "売却/使用の選択、使用価値の定義と割引率、計算例、X1-X5の曲線・理論的処理の関係を保持した。",
+      "result": "pass"
+    }
+  ],
+  "question_pair_checks": {
+    "status": "not_applicable",
+    "result": "This theory chapter contains no question-and-answer pair."
+  },
+  "findings": [
+    "All 23 included processing images were reopened at readable resolution and compared against the seven section chunks, including margins, sidebars, footers, tables, formulas, numerical examples and diagram-only meaning.",
+    "The chapter opener on T2:063 is included in the first chunk; all other content is assigned in physical-page order to the seven section records.",
+    "T2:085 ends in the middle of section 23.7; the chunk is a bounded continuation and does not read beyond the issue's processing range.",
+    "The designated JPGs are the content authority; the PDF was used only for identity and transcription planning. No PDF-only content was added.",
+    "No question-and-answer pair occurs in this theory chapter."
+  ],
+  "corrections": [
+    "Normalized OCR/PDF spacing artifacts only; terminology, definitions, conditions, exceptions, tables, formulas, numerical examples and diagram relationships were checked against the designated JPGs.",
+    "Converted diagram-only relationships into faithful prose and tables while retaining direction, comparison, conditions and numerical labels.",
+    "Kept the section 23.7 continuation boundary at T2:085 and did not extend the chunk into C005."
+  ],
+  "excluded_pages": [],
+  "checks": {
+    "numerical": "pass",
+    "diagram": "pass",
+    "false_proposition": "not_applicable"
+  },
+  "unresolved_count": 0,
+  "semantic_boundary": "Structural/hash checks validate scope and consistency; semantic completeness is supported by the recorded page-by-page human image review. The designated JPGs are authoritative; the PDF was used only for identity/planning support."
+}

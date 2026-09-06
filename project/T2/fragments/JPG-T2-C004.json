@@ -1,0 +1,138 @@
+{
+  "batch_id": "JPG-T2-C004",
+  "source_id": "T2",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-T2-C004-S01",
+      "batch_id": "JPG-T2-C004",
+      "chapter": "23",
+      "section": "23.1",
+      "title": "第1節 減損会計総論",
+      "expected_pages": ["T2:063", "T2:064", "T2:065"],
+      "processing_pages": ["T2:063", "T2:064", "T2:065"],
+      "output": "chunks/JPG-T2-C004/JPG-T2-C004-S01.md",
+      "status": "pass",
+      "chunk_sha256": "ad98a14ba353d646cf8109ca9418aceec41f210fb8e9342de7bf9530c9a45198",
+      "locators": [
+        {"page": "T2:063", "printed_page": null, "source_region": "第23章の章扉、短答式・論文式本試験の出題実績表、11論点の一覧", "destination_heading": "## 第1節 減損会計総論"},
+        {"page": "T2:064", "printed_page": "㉓-1", "source_region": "第1節扉、固定資産の減損の定義、通常の資本循環と減損時の資本回収、事業用固定資産の評価と収益性低下、損失繰延べの図", "destination_heading": "## 第1節 減損会計総論"},
+        {"page": "T2:065", "printed_page": "㉓-2", "source_region": "金融商品の時価評価との相違の表、臨時償却と減損処理の定義・比較表・注記", "destination_heading": "## 第1節 減損会計総論"}
+      ]
+    },
+    {
+      "id": "JPG-T2-C004-S02",
+      "batch_id": "JPG-T2-C004",
+      "chapter": "23",
+      "section": "23.2",
+      "title": "第2節 減損会計の一連の流れ",
+      "expected_pages": ["T2:066"],
+      "processing_pages": ["T2:066"],
+      "output": "chunks/JPG-T2-C004/JPG-T2-C004-S02.md",
+      "status": "pass",
+      "chunk_sha256": "1be754c8b01d3e8ec6004203fe0ca0a07f7ed908ca08922463c23d1edd991cd9",
+      "locators": [
+        {"page": "T2:066", "printed_page": "㉓-3", "source_region": "第2節扉、対象資産の分類から表示・開示までの6段階フロー、資産区分と対象・非対象の分岐、割引前C/Fと帳簿価額の判定、回収可能価額・減損損失・表示項目", "destination_heading": "## 第2節 減損会計の一連の流れ"}
+      ]
+    },
+    {
+      "id": "JPG-T2-C004-S03",
+      "batch_id": "JPG-T2-C004",
+      "chapter": "23",
+      "section": "23.3",
+      "title": "第3節 減損会計の対象資産",
+      "expected_pages": ["T2:067"],
+      "processing_pages": ["T2:067"],
+      "output": "chunks/JPG-T2-C004/JPG-T2-C004-S03.md",
+      "status": "pass",
+      "chunk_sha256": "2f39f569c62658df0281fcc7f4487ed9522e5d98fffa78c3787f8a95b85df0da",
+      "locators": [
+        {"page": "T2:067", "printed_page": "㉓-4", "source_region": "第3節扉、対象資産の基本的考え方、他基準により除外される資産、対象資産の具体例、投資不動産の評価に関する補足表", "destination_heading": "## 第3節 減損会計の対象資産"}
+      ]
+    },
+    {
+      "id": "JPG-T2-C004-S04",
+      "batch_id": "JPG-T2-C004",
+      "chapter": "23",
+      "section": "23.4",
+      "title": "第4節 資産のグルーピング",
+      "expected_pages": ["T2:068", "T2:069", "T2:070"],
+      "processing_pages": ["T2:068", "T2:069", "T2:070"],
+      "output": "chunks/JPG-T2-C004/JPG-T2-C004-S04.md",
+      "status": "pass",
+      "chunk_sha256": "71e12aaa4332e43032f9a3d05ad2a6182b8585d44a32c79395db4bc243f1d2ef",
+      "locators": [
+        {"page": "T2:068", "printed_page": "㉓-5", "source_region": "第4節扉、グルーピングの必要性、最小単位でのグルーピング方法と論拠", "destination_heading": "## 第4節 資産のグルーピング"},
+        {"page": "T2:069", "printed_page": "㉓-6", "source_region": "最小単位で行わない場合の資産A・Bの帳簿価額1,000・回収価額1,500/800の設例、グルーピングの継続性", "destination_heading": "## 第4節 資産のグルーピング"},
+        {"page": "T2:070", "printed_page": "㉓-7", "source_region": "グルーピングの見直し、P社事業部XとS社事業部Yの連結例、非連結子会社・関連会社の扱い、減損損失の配分", "destination_heading": "## 第4節 資産のグルーピング"}
+      ]
+    },
+    {
+      "id": "JPG-T2-C004-S05",
+      "batch_id": "JPG-T2-C004",
+      "chapter": "23",
+      "section": "23.5",
+      "title": "第5節 減損の兆候",
+      "expected_pages": ["T2:071", "T2:072", "T2:073"],
+      "processing_pages": ["T2:071", "T2:072", "T2:073"],
+      "output": "chunks/JPG-T2-C004/JPG-T2-C004-S05.md",
+      "status": "pass",
+      "chunk_sha256": "eb53719d0b4b3ab2b3170d0f294924cb7f6b177138e6bb58594593f75859eadf",
+      "locators": [
+        {"page": "T2:071", "printed_page": "㉓-8", "source_region": "第5節扉、減損の兆候の定義、企業内部・外部情報、兆候判定の理由", "destination_heading": "## 第5節 減損の兆候"},
+        {"page": "T2:072", "printed_page": "㉓-9", "source_region": "減損の兆候の具体例①～④、使用範囲・方法の変化の注記", "destination_heading": "## 第5節 減損の兆候"},
+        {"page": "T2:073", "printed_page": "㉓-10", "source_region": "具体例①～④の留意点、過去2期・事業計画、廃止・再編・処分・転用・遊休、経営環境の3分類、市場価格50%程度以上の下落", "destination_heading": "## 第5節 減損の兆候"}
+      ]
+    },
+    {
+      "id": "JPG-T2-C004-S06",
+      "batch_id": "JPG-T2-C004",
+      "chapter": "23",
+      "section": "23.6",
+      "title": "第6節 減損損失の認識の判定",
+      "expected_pages": ["T2:074", "T2:075", "T2:076", "T2:077", "T2:078", "T2:079", "T2:080"],
+      "processing_pages": ["T2:074", "T2:075", "T2:076", "T2:077", "T2:078", "T2:079", "T2:080"],
+      "output": "chunks/JPG-T2-C004/JPG-T2-C004-S06.md",
+      "status": "pass",
+      "chunk_sha256": "15b42bb0470b47c175a68b15a3596085cb450cb36ce2c5e50328096f32314683",
+      "locators": [
+        {"page": "T2:074", "printed_page": "㉓-11", "source_region": "第6節扉、割引前将来C/Fと帳簿価額の比較、減損認識の確実性、減価償却見直しとの順序", "destination_heading": "## 第6節 減損損失の認識の判定"},
+        {"page": "T2:075", "printed_page": "㉓-12", "source_region": "帳簿価額270、各年C/F100、割引率10%の割引後249と割引前300の比較、現行処理の趣旨", "destination_heading": "## 第6節 減損損失の認識の判定"},
+        {"page": "T2:076", "printed_page": "㉓-13", "source_region": "経済性基準・永久性基準・蓋然性基準の比較、1,000と700/1,500の注記例、我が国の蓋然性基準", "destination_heading": "## 第6節 減損損失の認識の判定"},
+        {"page": "T2:077", "printed_page": "㉓-14", "source_region": "割引前将来C/Fの見積年限、土地・長期見積り・20年制限、主要な資産の定義", "destination_heading": "## 第6節 減損損失の認識の判定"},
+        {"page": "T2:078", "printed_page": "㉓-15", "source_region": "20年超の経済的残存使用年数、20年経過時点の回収可能価額、1,000・50・40・30・20・10と約1,134の設例", "destination_heading": "## 第6節 減損損失の認識の判定"},
+        {"page": "T2:079", "printed_page": "㉓-16", "source_region": "主要な資産と構成資産の使用年数が同等以下の場合、正味売却価額200を加算する1,000+200=1,200の設例", "destination_heading": "## 第6節 減損損失の認識の判定"},
+        {"page": "T2:080", "printed_page": "㉓-17", "source_region": "主要な資産の使用年数が短い場合、正味売却価額120を加算する2,000+120=2,120の設例、回収可能価額の補足", "destination_heading": "## 第6節 減損損失の認識の判定"}
+      ]
+    },
+    {
+      "id": "JPG-T2-C004-S07",
+      "batch_id": "JPG-T2-C004",
+      "chapter": "23",
+      "section": "23.7",
+      "title": "第7節 減損損失の測定",
+      "expected_pages": ["T2:081", "T2:082", "T2:083", "T2:084", "T2:085"],
+      "processing_pages": ["T2:081", "T2:082", "T2:083", "T2:084", "T2:085"],
+      "output": "chunks/JPG-T2-C004/JPG-T2-C004-S07.md",
+      "status": "pass",
+      "chunk_sha256": "975dc56c3b1c475d2e1f5cf379e89c47e1eb51eaba2d70811779e417ad2712fc",
+      "locators": [
+        {"page": "T2:081", "printed_page": "㉓-18", "source_region": "第7節扉、帳簿価額を回収可能価額まで減額、正味売却価額と使用価値の高い方、売却・使用の図、正味売却価額と使用価値の補足", "destination_heading": "## 第7節 減損損失の測定"},
+        {"page": "T2:082", "printed_page": "㉓-19", "source_region": "正味売却価額の定義、使用価値の定義、割引率の2方法、税引前利率とリスクの反映", "destination_heading": "## 第7節 減損損失の測定"},
+        {"page": "T2:083", "printed_page": "㉓-20", "source_region": "帳簿価額950,000円、C/F220,000円、無リスク3%、19,562円、200,438円、8%、使用価値566,961円の計算、認識判定との相違表", "destination_heading": "## 第7節 減損損失の測定"},
+        {"page": "T2:084", "printed_page": "㉓-21", "source_region": "理論的減損会計の論点①過年度回収額、②過年度減価償却修正前帳簿価額", "destination_heading": "## 第7節 減損損失の測定"},
+        {"page": "T2:085", "printed_page": "㉓-22", "source_region": "X1～X5の取得原価500、C/F500・300・120・50・30、帳簿価額400・300・200・100・0の表、理論的処理の図と説明。次バッチへの継続境界", "destination_heading": "## 第7節 減損損失の測定"}
+      ]
+    }
+  ],
+  "review": "reviews/JPG-T2-C004.json",
+  "excluded_pages": [],
+  "source_scope": {
+    "source_id": "T2",
+    "physical_range": "T2:063-T2:085",
+    "processing_range": "T2:063-T2:085",
+    "chapter": "23",
+    "title": "固定資産の減損に係る会計基準",
+    "content_authority": "designated existing JPGs only"
+  }
+}
