@@ -1,0 +1,96 @@
+{
+  "batch_id": "JPG-T2-C003",
+  "source_id": "T2",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-T2-C003-S01",
+      "batch_id": "JPG-T2-C003",
+      "chapter": "22",
+      "section": "22.1",
+      "title": "第1節 本会計基準の適用範囲及び研究開発費の会計処理",
+      "expected_pages": ["T2:041", "T2:042", "T2:043", "T2:044", "T2:045", "T2:046", "T2:047", "T2:048"],
+      "processing_pages": ["T2:041", "T2:042", "T2:043", "T2:044", "T2:045", "T2:046", "T2:047", "T2:048"],
+      "output": "chunks/JPG-T2-C003/JPG-T2-C003-S01.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T2:041", "printed_page": null, "source_region": "第22章章扉、章タイトル、短答式・論文式本試験の出題実績表", "destination_heading": "## 第1節 本会計基準の適用範囲及び研究開発費の会計処理"},
+        {"page": "T2:042", "printed_page": "㉒-1", "source_region": "第1節扉、研究開発の定義表、研究活動から開発活動への関係、研究開発の具体例", "destination_heading": "## 第1節 本会計基準の適用範囲及び研究開発費の会計処理"},
+        {"page": "T2:043", "printed_page": "㉒-2", "source_region": "委託・受託契約の適用範囲、委託者・受託者の処理、共同研究", "destination_heading": "## 第1節 本会計基準の適用範囲及び研究開発費の会計処理"},
+        {"page": "T2:044", "printed_page": "㉒-3", "source_region": "資源の開発、研究開発に該当するもの・しないもの、開発費と研究開発費の表", "destination_heading": "## 第1節 本会計基準の適用範囲及び研究開発費の会計処理"},
+        {"page": "T2:045", "printed_page": "㉒-4", "source_region": "研究開発費の発生時費用処理、ソフトウェアの研究開発部分、費用処理の論拠①〜③と図", "destination_heading": "## 第1節 本会計基準の適用範囲及び研究開発費の会計処理"},
+        {"page": "T2:046", "printed_page": "㉒-5", "source_region": "研究開発費の資産計上見解、全額資産計上・一定要件・国際財務報告基準", "destination_heading": "## 第1節 本会計基準の適用範囲及び研究開発費の会計処理"},
+        {"page": "T2:047", "printed_page": "㉒-6", "source_region": "研究開発費の具体的会計処理、一般管理費・当期製造費用、注記", "destination_heading": "## 第1節 本会計基準の適用範囲及び研究開発費の会計処理"},
+        {"page": "T2:048", "printed_page": "㉒-7", "source_region": "研究開発費を構成する原価要素、研究目的資産と他目的使用可能資産の処理、数値例・仕訳", "destination_heading": "## 第1節 本会計基準の適用範囲及び研究開発費の会計処理"}
+      ],
+      "chunk_sha256": "70990290a934240f83b29f667029b2b75cd9ef44aacd90615ff62917fd078390"
+    },
+    {
+      "id": "JPG-T2-C003-S02",
+      "batch_id": "JPG-T2-C003",
+      "chapter": "22",
+      "section": "22.2",
+      "title": "第2節 ソフトウェアの分類と会計処理",
+      "expected_pages": ["T2:049", "T2:050", "T2:051", "T2:052", "T2:053", "T2:054", "T2:055"],
+      "processing_pages": ["T2:049", "T2:050", "T2:051", "T2:052", "T2:053", "T2:054", "T2:055"],
+      "output": "chunks/JPG-T2-C003/JPG-T2-C003-S02.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T2:049", "printed_page": "㉒-8", "source_region": "第2節扉、ソフトウェアの意義・具体例、コンテンツとの関係、制作目的別分類", "destination_heading": "## 第2節 ソフトウェアの分類と会計処理"},
+        {"page": "T2:050", "printed_page": "㉒-9", "source_region": "制作目的別の分類図、研究開発目的ソフトウェア、受注制作の処理", "destination_heading": "## 第2節 ソフトウェアの分類と会計処理"},
+        {"page": "T2:051", "printed_page": "㉒-10", "source_region": "市場販売目的ソフトウェア、製品マスター制作過程、研究開発終了時点と補足", "destination_heading": "## 第2節 ソフトウェアの分類と会計処理"},
+        {"page": "T2:052", "printed_page": "㉒-11", "source_region": "研究開発終了後、著しい改良・機能維持、製品としてのソフトウェア制作原価", "destination_heading": "## 第2節 ソフトウェアの分類と会計処理"},
+        {"page": "T2:053", "printed_page": "㉒-12", "source_region": "会計基準の記載内容、市場販売目的ソフトウェアのまとめ表", "destination_heading": "## 第2節 ソフトウェアの分類と会計処理"},
+        {"page": "T2:054", "printed_page": "㉒-13", "source_region": "自社利用ソフトウェアの分類・会計処理・確実性の具体例", "destination_heading": "## 第2節 ソフトウェアの分類と会計処理"},
+        {"page": "T2:055", "printed_page": "㉒-14", "source_region": "自社利用ソフトウェアの基準記載、機器組込みソフトウェア、10万円PCの例と一体処理の論拠", "destination_heading": "## 第2節 ソフトウェアの分類と会計処理"}
+      ],
+      "chunk_sha256": "137f22e19a873407004c9ad437229733c0e7eb4b73b4bf0df5ecce50cf47f3a7"
+    },
+    {
+      "id": "JPG-T2-C003-S03",
+      "batch_id": "JPG-T2-C003",
+      "chapter": "22",
+      "section": "22.3",
+      "title": "第3節 ソフトウェアの減価償却",
+      "expected_pages": ["T2:056", "T2:057"],
+      "processing_pages": ["T2:056", "T2:057"],
+      "output": "chunks/JPG-T2-C003/JPG-T2-C003-S03.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T2:056", "printed_page": "㉒-15", "source_region": "減価償却の概要、見込販売数量・収益による償却、3年・100個・200円の数値例", "destination_heading": "## 第3節 ソフトウェアの減価償却"},
+        {"page": "T2:057", "printed_page": "㉒-16", "source_region": "市場販売目的と自社利用の比較表、見込変更・減損、合理的償却方法、製品マスター制作原価の取扱い", "destination_heading": "## 第3節 ソフトウェアの減価償却"}
+      ],
+      "chunk_sha256": "0191489ca42108909b3181b71da8d49554549f1c6a2d85f3dee12a097ef35f21"
+    },
+    {
+      "id": "JPG-T2-C003-S04",
+      "batch_id": "JPG-T2-C003",
+      "chapter": "22",
+      "section": "22.4",
+      "title": "第4節 ソフトウェアに関するその他の論点",
+      "expected_pages": ["T2:058", "T2:059", "T2:060", "T2:061"],
+      "processing_pages": ["T2:058", "T2:059", "T2:060", "T2:061"],
+      "output": "chunks/JPG-T2-C003/JPG-T2-C003-S04.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T2:058", "printed_page": "㉒-17", "source_region": "第4節扉、無形固定資産区分、資産計上される製品マスター、制作途中のソフトウェア", "destination_heading": "## 第4節 ソフトウェアに関するその他の論点"},
+        {"page": "T2:059", "printed_page": "㉒-18", "source_region": "償却方法の開示、研究開発費の注記、ソフトウェア導入費用の基本的考え方、購入ソフトウェアの設定費用", "destination_heading": "## 第4節 ソフトウェアに関するその他の論点"},
+        {"page": "T2:060", "printed_page": "㉒-19", "source_region": "データコンバート・トレーニング費用、自社仕様変更費用、費用処理と資産計上の区分", "destination_heading": "## 第4節 ソフトウェアに関するその他の論点"},
+        {"page": "T2:061", "printed_page": "㉒-20", "source_region": "大幅なバージョンアップとそれほど大幅でないバージョンアップの区分・会計処理", "destination_heading": "## 第4節 ソフトウェアに関するその他の論点"}
+      ],
+      "chunk_sha256": "9e20d5beb7224a6f9c63c0b166526f6c74c712121017f53965ae308e6f8e6f1b"
+    }
+  ],
+  "review": "reviews/JPG-T2-C003.json",
+  "excluded_pages": [
+    {"page": "T2:062", "printed_page": "㉒-21", "reason": "【MEMO】の空白ページで、章本文・表・図・学習内容がない。"}
+  ],
+  "source_scope": {
+    "source_id": "T2",
+    "physical_range": "T2:041-T2:062",
+    "processing_range": "T2:041-T2:061",
+    "chapter": "22",
+    "title": "研究開発費等に係る会計基準",
+    "content_authority": "designated existing JPGs only"
+  }
+}
