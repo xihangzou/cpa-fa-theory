@@ -1,0 +1,70 @@
+{
+  "batch_id": "JPG-T3-C003",
+  "source_id": "T3",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-T3-C003-S01",
+      "batch_id": "JPG-T3-C003",
+      "chapter": "33",
+      "section": "33.10",
+      "title": "第10節 ヘッジ会計",
+      "expected_pages": ["T3:050", "T3:051", "T3:052", "T3:053", "T3:054", "T3:055", "T3:056", "T3:057", "T3:058", "T3:059", "T3:060", "T3:061", "T3:062", "T3:063", "T3:064", "T3:065", "T3:066"],
+      "processing_pages": ["T3:050", "T3:051", "T3:052", "T3:053", "T3:054", "T3:055", "T3:056", "T3:057", "T3:058", "T3:059", "T3:060", "T3:061", "T3:062", "T3:063", "T3:064", "T3:065", "T3:066"],
+      "output": "chunks/JPG-T3-C003/JPG-T3-C003-S01.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T3:050", "printed_page": "㉝－43", "source_region": "第10節、1.ヘッジ取引の意義と分類、定義・公正価値ヘッジとキャッシュ・フロー・ヘッジの分類、公正価値ヘッジの債券先物例", "destination_heading": "## 第10節 ヘッジ会計"},
+        {"page": "T3:051", "printed_page": "㉝－44", "source_region": "キャッシュ・フロー・ヘッジの金利スワップ例、ヘッジなしとヘッジする場合の将来キャッシュ・フロー比較", "destination_heading": "## 第10節 ヘッジ会計"},
+        {"page": "T3:052", "printed_page": "㉝－45", "source_region": "2.ヘッジ会計の意義と必要性、ヘッジ対象・ヘッジ手段の定義、ヘッジ会計が必要となる損益計上時期のずれ", "destination_heading": "## 第10節 ヘッジ会計"},
+        {"page": "T3:053", "printed_page": "㉝－46", "source_region": "公正価値ヘッジの必要性の設例、売買目的有価証券・債券先物の価格表とX1/X2純損益表、ヘッジ会計が必要な例", "destination_heading": "## 第10節 ヘッジ会計"},
+        {"page": "T3:054", "printed_page": "㉝－47", "source_region": "3.ヘッジ会計が適用されるヘッジ対象、3分類、公正価値ヘッジ・キャッシュ・フロー・ヘッジの対応、満期保有目的債券の例外", "destination_heading": "## 第10節 ヘッジ会計"},
+        {"page": "T3:055", "printed_page": "㉝－48", "source_region": "4.ヘッジ会計を適用するための要件、適用要件の必要性、基本要件、事前テストと事後テスト", "destination_heading": "## 第10節 ヘッジ会計"},
+        {"page": "T3:056", "printed_page": "㉝－49", "source_region": "5.ヘッジ会計の方法、繰延ヘッジの定義・税効果、時価ヘッジとの対応図、繰延ヘッジ損益の表示区分補足", "destination_heading": "## 第10節 ヘッジ会計"},
+        {"page": "T3:057", "printed_page": "㉝－50", "source_region": "時価ヘッジの定義・例外性・その他有価証券への適用、6.金利スワップの取扱い、3つの会計処理", "destination_heading": "## 第10節 ヘッジ会計"},
+        {"page": "T3:058", "printed_page": "㉝－51", "source_region": "金利スワップ時価評価の問題点、100,000借入・金利スワップ900の設例、決算日の全仕訳と現在価値の説明", "destination_heading": "## 第10節 ヘッジ会計"},
+        {"page": "T3:059", "printed_page": "㉝－52", "source_region": "金利スワップ評価差額900を純損益とした場合の非対応、6.(3)繰延ヘッジの全仕訳、6.(4)特例処理の要件と会計処理", "destination_heading": "## 第10節 ヘッジ会計"},
+        {"page": "T3:060", "printed_page": "㉝－53", "source_region": "7.予定取引の意義、2種類、為替予約による輸入取引の設例、直物・先物相場、キャッシュ・フロー・ヘッジ", "destination_heading": "## 第10節 ヘッジ会計"},
+        {"page": "T3:061", "printed_page": "㉝－54", "source_region": "予定取引のヘッジなし処理と独立処理、決算日・取引日の仕訳、予定取引実行時の3処理", "destination_heading": "## 第10節 ヘッジ会計"},
+        {"page": "T3:062", "printed_page": "㉝－55", "source_region": "8.包括ヘッジの取扱い、適用要件の共通相場変動・同様の反応、単一手段と複数対象、損益配分", "destination_heading": "## 第10節 ヘッジ会計"},
+        {"page": "T3:063", "printed_page": "㉝－56", "source_region": "9.ヘッジ会計の中止、2つの中止事由、要件喪失後の繰延処理と有効性評価図", "destination_heading": "## 第10節 ヘッジ会計"},
+        {"page": "T3:064", "printed_page": "㉝－57", "source_region": "ヘッジ中止の設例、2,370取得原価・各時点価格、繰延ヘッジ損益と評価差額金の仕訳、10.終了の開始", "destination_heading": "## 第10節 ヘッジ会計"},
+        {"page": "T3:065", "printed_page": "㉝－58", "source_region": "10.ヘッジ会計の終了、終了事由、終了時の繰延ヘッジ処理、ヘッジ終了の設例と売却時処理", "destination_heading": "## 第10節 ヘッジ会計"},
+        {"page": "T3:066", "printed_page": "㉝－59", "source_region": "ヘッジ終了時の重要な損失への対応、商品価格1,200/1,250/1,400/1,280の設例、有効性判定基準80%〜125%", "destination_heading": "## 第10節 ヘッジ会計"}
+      ],
+      "chunk_sha256": "7c8dec443d584cb09898081f532e303354256eeb2294f104bd496cd30753ddcb"
+    },
+    {
+      "id": "JPG-T3-C003-S02",
+      "batch_id": "JPG-T3-C003",
+      "chapter": "33",
+      "section": "33.11",
+      "title": "第11節 複合金融商品の概要等",
+      "expected_pages": ["T3:067"],
+      "processing_pages": ["T3:067"],
+      "output": "chunks/JPG-T3-C003/JPG-T3-C003-S02.md",
+      "status": "pass",
+      "locators": [{"page": "T3:067", "printed_page": "㉝－60", "source_region": "第11節、複合金融商品の2分類、その他の複合金融商品の原則法・例外法の比較、原則法と例外法の取引例・仕訳・リスク説明", "destination_heading": "## 第11節 複合金融商品の概要等"}],
+      "chunk_sha256": "6e30c537b26d5ba94733a880d4a26da11479d02668a543887cced1bc6923fee9"
+    },
+    {
+      "id": "JPG-T3-C003-S03",
+      "batch_id": "JPG-T3-C003",
+      "chapter": "33",
+      "section": "33.12",
+      "title": "第12節 新株予約権付社債",
+      "expected_pages": ["T3:068", "T3:069", "T3:070", "T3:071"],
+      "processing_pages": ["T3:068", "T3:069", "T3:070", "T3:071"],
+      "output": "chunks/JPG-T3-C003/JPG-T3-C003-S03.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T3:068", "printed_page": "㉝－61", "source_region": "第12節、1.新株予約権付社債の概要と分類、転換社債の特徴、発行会社・取得者の権利行使フローと仕訳", "destination_heading": "## 第12節 新株予約権付社債"},
+        {"page": "T3:069", "printed_page": "㉝－62", "source_region": "2.転換社債型新株予約権付社債、特徴、発行者側の一括法・区分法、権利行使時の発行・自己株式処分の表", "destination_heading": "## 第12節 新株予約権付社債"},
+        {"page": "T3:070", "printed_page": "㉝－63", "source_region": "転換社債型の取得者側処理、一括法の論拠、3.転換社債型以外の発行者側・取得者側の区分法処理", "destination_heading": "## 第12節 新株予約権付社債"},
+        {"page": "T3:071", "printed_page": "㉝－64", "source_region": "転換社債型以外に区分法を採用する論拠、まとめ表、4.区分法の適用方法の発行者側・取得者側の配分方法", "destination_heading": "## 第12節 新株予約権付社債"}
+      ],
+      "chunk_sha256": "f1f4408e26ef4ceded9dbb860eeb17a7aeebda460d9217fc06bb1e1e8f8449f1"
+    }
+  ],
+  "review": "reviews/JPG-T3-C003.json"
+}

@@ -1,0 +1,109 @@
+{
+  "batch_id": "JPG-T3-C003",
+  "source_id": "T3",
+  "status": "pass",
+  "review_date": "2026-09-06",
+  "reviewer_model": "GPT-5",
+  "source_revision": {
+    "repository_commit": "da3599e14040292be828f382f81523da609e4763",
+    "source_pdf_sha256": "1d9f0124a0c8ef759526decc90a1a410f694e2b7fa992b430fc413e783df85bc",
+    "source_image_inventory_sha256": "8e0709aa6cd2d086d9df18627ae7eb466c20cdb59474bbef26038f03d9d40b24",
+    "catalog_image_inventory_sha256": "af94a7c1f91d1eb56611afc242360566950d6f93d5a6ac7d5271c5e8d3f9d170",
+    "batch_boundary_review_id": "JPG-T3-INV-BND-JPG-T3-C003"
+  },
+  "source_images": [
+    {"page":"T3:050","printed_page":"㉝－43","image":"pages/T3/page-050.jpg","sha256":"02fb49793221c4a2303e3b46a2adaa33def5f059a36ef88d50ee06066738ed66"},
+    {"page":"T3:051","printed_page":"㉝－44","image":"pages/T3/page-051.jpg","sha256":"25722bf48e5395200f98f79c58676f9e0d6c25066cbb61e6d7983d64c7ecee95"},
+    {"page":"T3:052","printed_page":"㉝－45","image":"pages/T3/page-052.jpg","sha256":"701b335eac179a95d984faef6a440d2979b21ff9611b5292984a20c90b6d4753"},
+    {"page":"T3:053","printed_page":"㉝－46","image":"pages/T3/page-053.jpg","sha256":"e2ba5e53304415109c407becf32a387b48958d2a28e9a427b8b275f08555ca88"},
+    {"page":"T3:054","printed_page":"㉝－47","image":"pages/T3/page-054.jpg","sha256":"4a6e1148181faf1cb08e72c93a4251153f1ddee06bec132e9fb97af12fb84266"},
+    {"page":"T3:055","printed_page":"㉝－48","image":"pages/T3/page-055.jpg","sha256":"db61051accf52a2812d3ce22f05eb8af94be3092b74e51a5f367ff5ef84afd9c"},
+    {"page":"T3:056","printed_page":"㉝－49","image":"pages/T3/page-056.jpg","sha256":"d555ba08c2df7d708d67b085c14529ef8191cc4dfcf4ade92ec27e61882f0f4e"},
+    {"page":"T3:057","printed_page":"㉝－50","image":"pages/T3/page-057.jpg","sha256":"5ffdc6fa900c59b933e45e4c308fb5b7de236f0e34d80ea6faa1f3caa71cbbc7"},
+    {"page":"T3:058","printed_page":"㉝－51","image":"pages/T3/page-058.jpg","sha256":"4a93253906426dd8cfa65a679b135e9b35aa193a69d0bcf75e137135ee8891bf"},
+    {"page":"T3:059","printed_page":"㉝－52","image":"pages/T3/page-059.jpg","sha256":"d513a55ba267745e695db0880089e085dc95811e956395ee4c326110a7ee221e"},
+    {"page":"T3:060","printed_page":"㉝－53","image":"pages/T3/page-060.jpg","sha256":"09d4f04e0e13f07de150a68c832f529a5b1ab71a6a5ee09b9f97a2481e496209"},
+    {"page":"T3:061","printed_page":"㉝－54","image":"pages/T3/page-061.jpg","sha256":"23f6bf73a27e9b65483ea0e4e67ffd3f49f1178c1a0e6ce517889c250d074de8"},
+    {"page":"T3:062","printed_page":"㉝－55","image":"pages/T3/page-062.jpg","sha256":"50117456da660e0d184b4794987f80fc10a7a2c7ed3e079fa8502bcb77838341"},
+    {"page":"T3:063","printed_page":"㉝－56","image":"pages/T3/page-063.jpg","sha256":"b68099b34e76611faec32f93f18724aa869953cc43e2f4d2c22f932d93137bfe"},
+    {"page":"T3:064","printed_page":"㉝－57","image":"pages/T3/page-064.jpg","sha256":"6a55f1813af4531a0a286688e688de01c2b88f5073824c27d889b5bcec129271"},
+    {"page":"T3:065","printed_page":"㉝－58","image":"pages/T3/page-065.jpg","sha256":"bb1b25349e1fa7e53ab38bf3a99a6e68edd68b1c0e286edd99908101f384b2ca"},
+    {"page":"T3:066","printed_page":"㉝－59","image":"pages/T3/page-066.jpg","sha256":"99f5f5075716cbc89a894aa123564c3b9d1b3e50fcd1151073012111f9657015"},
+    {"page":"T3:067","printed_page":"㉝－60","image":"pages/T3/page-067.jpg","sha256":"beca2662b8874aaf2da865ffd31d8d871037ac49dd5eea60ee5755250fb821bf"},
+    {"page":"T3:068","printed_page":"㉝－61","image":"pages/T3/page-068.jpg","sha256":"17849614986ee7c2590a7e1dc9176a6b034db028ec8c3626d0b5aa0019005ddb"},
+    {"page":"T3:069","printed_page":"㉝－62","image":"pages/T3/page-069.jpg","sha256":"e6a680e045add7d09916e28055d1d55520ed9f7b8b54f7090c6899be21634367"},
+    {"page":"T3:070","printed_page":"㉝－63","image":"pages/T3/page-070.jpg","sha256":"dae0896c96b4b314084f2a0eb61cf48c05fdfb442b802cc172bd4d3f421c69ba"},
+    {"page":"T3:071","printed_page":"㉝－64","image":"pages/T3/page-071.jpg","sha256":"b63a2f711500ff3da59af14ddb4d8dc054d6ff22f8d8f9f3d4d0c2e62f696ecb"}
+  ],
+  "section_outputs": [
+    {"task":"JPG-T3-C003-S01","chunk":"project/T3/chunks/JPG-T3-C003/JPG-T3-C003-S01.md","chunk_sha256":"7c8dec443d584cb09898081f532e303354256eeb2294f104bd496cd30753ddcb"},
+    {"task":"JPG-T3-C003-S02","chunk":"project/T3/chunks/JPG-T3-C003/JPG-T3-C003-S02.md","chunk_sha256":"6e30c537b26d5ba94733a880d4a26da11479d02668a543887cced1bc6923fee9"},
+    {"task":"JPG-T3-C003-S03","chunk":"project/T3/chunks/JPG-T3-C003/JPG-T3-C003-S03.md","chunk_sha256":"f1f4408e26ef4ceded9dbb860eeb17a7aeebda460d9217fc06bb1e1e8f8449f1"}
+  ],
+  "coverage": [
+    {"page":"T3:050","status":"pass","regions":["definition and classification", "fair-value hedge example, prices, 200 loss and 200 profit", "margins and footer checked"]},
+    {"page":"T3:051","status":"pass","regions":["cash-flow hedge example and interest-swap flow", "hedged/unhedged timeline and fixed 400 cash flow", "diagram arrows, margins and footer checked"]},
+    {"page":"T3:052","status":"pass","regions":["hedge-accounting definition", "hedge-target/hedge-instrument table", "necessity diagram and all explanatory text", "margins and footer checked"]},
+    {"page":"T3:053","status":"pass","regions":["two necessity examples", "both price tables and all X1/X2 values", "pure-profit conclusion and diagram boundaries", "margins and footer checked"]},
+    {"page":"T3:054","status":"pass","regions":["three eligible-target categories and examples", "fair-value/cash-flow hedge correspondence", "held-to-maturity exception and rationale", "margins and footer checked"]},
+    {"page":"T3:055","status":"pass","regions":["necessity and basic prerequisite", "pre-test documentation/internal-control alternatives", "post-test effectiveness requirement and timeline", "margins and footer checked"]},
+    {"page":"T3:056","status":"pass","regions":["deferred/fair-value method rule", "deferred hedge definition, tax effect and diagram", "same-category presentation supplement", "margins and footer checked"]},
+    {"page":"T3:057","status":"pass","regions":["fair-value hedge definition and exception", "other-securities-only current treatment", "interest-swap purpose and all three methods", "margins and footer checked"]},
+    {"page":"T3:058","status":"pass","regions":["100,000 borrowing and swap terms", "all three settlement-day journal-entry lines", "1,250/250/900 calculations and present-value diagram", "margins and footer checked"]},
+    {"page":"T3:059","status":"pass","regions":["non-corresponding profit timing", "deferred-hedge journal entries and conclusion", "special-treatment conditions and no-fair-value entry", "margins and footer checked"]},
+    {"page":"T3:060","status":"pass","regions":["two planned-transaction types", "1,000-dollar import example", "four-date spot/forward-rate table and cash-flow hedge diagram", "margins and footer checked"]},
+    {"page":"T3:061","status":"pass","regions":["unhedged and independently hedged journal entries", "4,000/1,000/5,000 amounts and timing conclusion", "three planned-transaction execution treatments", "margins and footer checked"]},
+    {"page":"T3:062","status":"pass","regions":["comprehensive-hedge definition", "common-risk and similar-response conditions", "single-instrument/multiple-target diagram", "allocation rule and margins/footer checked"]},
+    {"page":"T3:063","status":"pass","regions":["two discontinuation cases", "continued versus prohibited deferral", "effectiveness diagram and star-point explanation", "margins and footer checked"]},
+    {"page":"T3:064","status":"pass","regions":["discontinuation example with all five prices", "valuation-difference and deferred-hedge journal entries", "X7/X8 transfer and sale entries", "section 10 start and footer checked"]},
+    {"page":"T3:065","status":"pass","regions":["termination cases and rule", "termination diagram", "termination example values and all journal-entry rows", "margins and footer checked"]},
+    {"page":"T3:066","status":"pass","regions":["important-loss exception", "1,200/1,250/1,400/1,280 example and 150/70 amounts", "80%–125% effectiveness standard and examples", "margins and footer checked"]},
+    {"page":"T3:067","status":"pass","regions":["section 11 two classifications", "principle/exception table", "both composite-product examples, entries and risk rationale", "margins and footer checked"]},
+    {"page":"T3:068","status":"pass","regions":["section 12 overview and classification", "convertible-debenture definition and non-separability", "issuer/acquirer flow diagram and entries", "margins and footer checked"]},
+    {"page":"T3:069","status":"pass","regions":["convertible-type definition and feature box", "issuer accounting one-shot/separation rule", "exercise table for new shares and treasury shares", "margins and footer checked"]},
+    {"page":"T3:070","status":"pass","regions":["acquirer treatment and one-shot rationale", "non-convertible-type issuer separation", "non-convertible-type acquirer separation", "margins and footer checked"]},
+    {"page":"T3:071","status":"pass","regions":["separation-method rationale and footnote", "issuer/acquirer summary table", "three/four separation allocation methods", "margins and footer checked"]}
+  ],
+  "page_fidelity_matrix": [
+    {"pages":["T3:050","T3:051","T3:052","T3:053"],"sections":["hedge meaning, classification, necessity and examples"],"result":"pass"},
+    {"pages":["T3:054","T3:055","T3:056","T3:057"],"sections":["eligible targets, requirements and hedge-accounting methods"],"result":"pass"},
+    {"pages":["T3:058","T3:059"],"sections":["interest swaps, deferred hedge and special treatment"],"result":"pass"},
+    {"pages":["T3:060","T3:061","T3:062"],"sections":["planned transactions and comprehensive hedges"],"result":"pass"},
+    {"pages":["T3:063","T3:064","T3:065","T3:066"],"sections":["discontinuation, termination, important-loss exception and effectiveness"],"result":"pass"},
+    {"pages":["T3:067"],"sections":["composite financial products"],"result":"pass"},
+    {"pages":["T3:068","T3:069","T3:070","T3:071"],"sections":["convertible and other warrant-linked bonds"],"result":"pass"}
+  ],
+  "numerical_checks": [
+    {"pages":["T3:050","T3:051","T3:053"],"check":"Hedge examples preserve 1,000/800, 200 loss/profit, 10,000 loan, 300–500 variable interest and fixed 400 interest, plus 10,000/9,850/8,800 and 9,950/9,830/8,790 tables.","result":"pass"},
+    {"pages":["T3:058","T3:059"],"check":"Interest-swap example preserves 100,000, 2.5%, 2%, 0.5%, 1,250, 250 and 900, including deferred and special-treatment entries.","result":"pass"},
+    {"pages":["T3:060","T3:061"],"check":"Planned-transaction example preserves 1,000 dollars, all four spot/forward rates, 4,000/1,000/5,000 deferred amounts and 120,000 effective purchase cost.","result":"pass"},
+    {"pages":["T3:064","T3:065","T3:066"],"check":"Discontinuation/termination examples preserve 2,370/2,200/2,150/2,045/2,020/1,930/1,970, and important-loss example 1,200/1,250/1,400/1,280 with 150/70/80.","result":"pass"}
+  ],
+  "diagram_checks": [
+    {"pages":["T3:050","T3:051"],"check":"Fair-value and cash-flow hedge timelines preserve offsetting loss/profit, interest-rate movement and fixed-cash-flow meaning.","result":"pass"},
+    {"pages":["T3:056","T3:057","T3:058","T3:059"],"check":"Deferred/fair-value timing, interest-swap cash flows, present-value timing and special treatment are represented with accounting consequences.","result":"pass"},
+    {"pages":["T3:060","T3:061","T3:062"],"check":"Planned-transaction timeline, execution timing and comprehensive-hedge allocation retain all actors, dates and accounting direction.","result":"pass"},
+    {"pages":["T3:063","T3:064","T3:065","T3:066"],"check":"Discontinuation/termination timelines and loss-recognition boundaries retain the source's stop/continue arrows and effectiveness meaning.","result":"pass"},
+    {"pages":["T3:067","T3:068","T3:069","T3:071"],"check":"Composite-product and warrant-linked-bond diagrams/tables are verbalized with separation, exercise, issue/acquisition and allocation consequences.","result":"pass"}
+  ],
+  "false_proposition_checks": {"status":"not_applicable","result":"This theory batch contains no question-and-answer false-proposition set; source exceptions and negative boundaries are explicitly qualified."},
+  "findings": [
+    "All 22 included processing images were reopened at readable resolution and compared with the three section chunks, including margins, sidebars, tables, examples, numerical values, journal entries and diagram-only meaning.",
+    "The section boundary at T3:067 is preserved: section 10 ends at T3:066, section 11 occupies T3:067, and section 12 begins at T3:068.",
+    "The three chunks use the pilot conventions: chapter and section hierarchy, Japanese source titles, separate physical/printed locators, explicit tables/formulas, and no bold, Cloze, Front/Back, integration or card output.",
+    "No raw images, PDF text, web content, other textbook, OCR output or general-knowledge supplement was used as learner-text authority."
+  ],
+  "corrections": [
+    "Normalized source spacing and represented figure meaning as explicit prose, lists and tables while preserving source labels, amounts, journal-entry direction and exceptions.",
+    "Kept the source's distinctions between public-value and cash-flow hedges, deferred and fair-value methods, special interest-swap treatment, discontinuation versus termination, and convertible versus other warrant-linked bonds.",
+    "No unresolved marker, out-of-scope page or unlabelled false statement remains."
+  ],
+  "checks": {"numerical":"pass","diagram":"pass","false_proposition":"not_applicable"},
+  "unresolved_count": 0,
+  "semantic_boundary": "Automatic checks validate schema, scope, ordering and hashes; semantic completeness is supported by the recorded page-by-page image review.",
+  "dependency_commits": [
+    "a2fb2bb829d112522128cdb145523302e9d1e7fd",
+    "cccf7c381768b18116d49e4847dac5df2b01506c",
+    "0034627e759ba83225ae91dbc5cba1c1825ba3a6"
+  ]
+}
