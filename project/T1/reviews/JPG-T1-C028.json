@@ -1,0 +1,87 @@
+{
+  "batch_id": "JPG-T1-C028",
+  "source_id": "T1",
+  "status": "pass",
+  "reviewed_on": "2026-09-06",
+  "reviewer_model": "current execution model; no model switch",
+  "source_revision": {
+    "delivery_branch": "main",
+    "repository_commit": "db52cbe373179efa421c321a7ea5850335d6c922",
+    "source_catalog": "contracts/source-catalog.json",
+    "source_catalog_sha256": "8358e9cffb068f63df0bdfcc8f99be035e66454ac8710d381f0ff9eb87728079",
+    "page_plan": "contracts/page-plan.json",
+    "page_plan_sha256": "997a7280b171df5803c2a3bb7c2ee8764082e01f3bdb03c194b9129fe18d26c9",
+    "source_manifest": "project/T1/sources.json",
+    "source_manifest_sha256": "760f946d08e1eebf2d79c189103ac2e627f0bb2569dcd80055885fb8b97324cd",
+    "source_map": "project/T1/source-map.json",
+    "source_map_sha256": "3ff42e94bd9f8751f8100c6ff251740a46f67182c468af620438c9768f14b961",
+    "batch_manifest": "project/T1/batches.json",
+    "batch_manifest_sha256": "125ff5fee8f8271b82c3258ced501ed4411b4071b930f08f1ed682e72c2628c4",
+    "inventory_review": "project/T1/inventory-review.json",
+    "inventory_review_sha256": "83e2c59f059ffdec53fcb8fb83a5f1300d5cca0722dcf031db0b459bd7ab8c19",
+    "pilot_qa": "project/T1/qa/pilot.json",
+    "pilot_qa_sha256": "cfd72bc97fc4ac0f8471bad6dc7b925085d1822ff606754b91f1b35f9b3ce694",
+    "source_original_root": "/Users/xihangzou/Study/320_CPA/322_財務理論/images/cpa-fa-theory-textbook-1-jpg",
+    "source_pdf": "/Users/xihangzou/Study/320_CPA/322_財務理論/01_テキスト/財務会計論テキスト　理論1.pdf",
+    "source_pdf_sha256": "c09d9d91ce39de787cab04e146719d95b638134399d57112802ffacfa67243f3",
+    "source_image_inventory_sha256": "331ad1ea2ca04d0636c2185b6ab1a8fe5240ebdd3f0c7c546c8703371d497929",
+    "edition": "2024/2025年合格目標",
+    "publication_date": "2023-01-23",
+    "physical_scope": "T1:349-T1:358",
+    "processing_scope": "T1:349-T1:358",
+    "content_authority": "designated existing JPGs only; PDF used only for identity/planning support"
+  },
+  "dependency_commits": [
+    "a2fb2bb829d112522128cdb145523302e9d1e7fd",
+    "1fd8a963ef32e09b5f3f08ecd7d5bb7cc2240a94",
+    "7507151c638a73a41fc13b9d4c4481c8888307e0"
+  ],
+  "source_images": [
+    {"page": "T1:349", "sha256": "ecda4a2413304f25036293d132bf8d06ce4a9ec205cf8e61d166b9eb094d6115"},
+    {"page": "T1:350", "sha256": "d83e8015ed562a78df3d077f5b62d78ca89efebed8b48b97ab1f2d66cca8f49c"},
+    {"page": "T1:351", "sha256": "cfb1fd998a1deb69111899e8ec7b2b6decfdcdb71a52c87b7b55c822aa9c0304"},
+    {"page": "T1:352", "sha256": "7ddd351cfdb17c8d51729db2523c818b8a3472652b61352cd9ecbd4c4270caa2"},
+    {"page": "T1:353", "sha256": "7f9b4e4c6cdd0160c045b49c60135f2e2c126bdc1ede69cc24c6e28c4f3dd238"},
+    {"page": "T1:354", "sha256": "8819fc43eceff2b89019ffe8b23a55efdc1b7d23ddf2ffe5cb1c8bccd397b3a8"},
+    {"page": "T1:355", "sha256": "de93ed86db172d5d9dc2e0df43ad64df5f99ada4f37dcf78da9ba4e3173e917a"},
+    {"page": "T1:356", "sha256": "d4fd86350ebfe529a484b5e97c243bf984d24578836d4b020b4d2c481b860cd9"},
+    {"page": "T1:357", "sha256": "59a766c41fe33faa124e97e85c4285102dd7b68cea26e42ab4dfb64b064919c4"},
+    {"page": "T1:358", "sha256": "7a54055eeca8c1a07d9dc73cfff21044403549d252300f7b1b8e5e7ab3f5e763"}
+  ],
+  "section_outputs": [
+    {"task": "JPG-T1-C028-S01", "chunk": "project/T1/chunks/JPG-T1-C028/JPG-T1-C028-S01.md", "chunk_sha256": "f1bcc2adb92a1fb7f2541e2fc595d3f4cab3e15a8b401df30959b5761fe1a003"},
+    {"task": "JPG-T1-C028-S02", "chunk": "project/T1/chunks/JPG-T1-C028/JPG-T1-C028-S02.md", "chunk_sha256": "fbfaa3afb1ce280f168cf1d3a2e3525e7ec08592ffaec677556020803265a3d0"},
+    {"task": "JPG-T1-C028-S03", "chunk": "project/T1/chunks/JPG-T1-C028/JPG-T1-C028-S03.md", "chunk_sha256": "4c20b55bef12b4c4686c8505d82633222c5c530f65b708c8cb69e0d14867bd27"},
+    {"task": "JPG-T1-C028-S04", "chunk": "project/T1/chunks/JPG-T1-C028/JPG-T1-C028-S04.md", "chunk_sha256": "c2a05e7727e3abea96fb9efab83b32cd2693fa20779682f2789b8f65fd0fb08f"},
+    {"task": "JPG-T1-C028-S05", "chunk": "project/T1/chunks/JPG-T1-C028/JPG-T1-C028-S05.md", "chunk_sha256": "c22dafb93144411d7a56d53c1cdbd3fdf2ee3c2cfaaabc59e4a1052b2bc1f10f"},
+    {"task": "JPG-T1-C028-S06", "chunk": "project/T1/chunks/JPG-T1-C028/JPG-T1-C028-S06.md", "chunk_sha256": "3bce2ea892b3ef299f58230543922298e38cf158892148fb4a65779c1acc564d"}
+  ],
+  "coverage": [
+    {"page": "T1:349", "status": "pass", "regions": ["chapter 20 title and reference", "short-answer examination-history table with the three marked items", "essay examination-history table and six topic rows"]},
+    {"page": "T1:350", "status": "pass", "regions": ["section 1 banner", "purpose", "boundary between calculation standard and accounting treatment", "disclosure scope", "all eight rows of the terminology table", "side labels and section boundary"]},
+    {"page": "T1:351", "status": "pass", "regions": ["section 2 banner", "basic numerator/denominator formula", "loss and consolidated-statement naming", "ordinary-shareholder exclusion", "preferred dividend example", "weighted-average issued and treasury shares", "subsidiary/associate parent-share holding point", "potential-share treatment"]},
+    {"page": "T1:352", "status": "pass", "regions": ["section 3 banner", "dilution definition", "100-yen case table", "60,000-yen loss example with 100 ordinary and 20 potential shares", "loss exception", "adjusted EPS formula"]},
+    {"page": "T1:353", "status": "pass", "regions": ["multiple-potential-share maximum-dilution rule", "A/B/C diagram and cancellation warning", "three no-disclosure cases", "loss disclosure table"]},
+    {"page": "T1:354", "status": "pass", "regions": ["section 4 banner", "warrant dilution condition", "ordinary-average-price versus exercise-price table", "ordinary-share-increase ①−② rule", "treasury-stock method", "period-weighted treatment for warrants extinguished, cancelled or exercised during the period"]},
+    {"page": "T1:355", "status": "pass", "regions": ["section 5 banner", "convertible-security dilution test", "5,000-yen/1,000-share base", "500-yen adjustment with 400-share and 50-share cases", "3.92-yen and 5.23-yen computations", "dilution comparison table"]},
+    {"page": "T1:356", "status": "pass", "regions": ["two categories of net-income adjustment", "6,000-yen/1,000-share/100-share/40-percent example", "convertible-debt interest and tax adjustment", "convertible-preferred-share dividend adjustment", "ordinary-share increase rules for beginning-of-period and during-period issuance"]},
+    {"page": "T1:357", "status": "pass", "regions": ["section 6 banner", "current-period consolidation/split rule", "post-balance-sheet-date rule", "100-to-50 share timeline and retrospective treatment", "accounting-policy/error-correction rule"]},
+    {"page": "T1:358", "status": "pass", "regions": ["no-retrospective-revision rule for prior adjusted EPS", "1,000-yen/1,100-yen/900-yen reference example", "provisional accounting treatment finalization", "two note-disclosure requirements"]}
+  ],
+  "findings": [
+    "All ten designated processing JPGs were reopened at readable full resolution and compared with the six section chunks, including chapter and section banners, side labels, definitions, tables, formulas, numerical examples, diagrams, boundary text and footnotes.",
+    "The batch is contiguous T1:349-T1:358 and all ten pages are inventory-approved include pages; no excluded-page reason is required.",
+    "Physical page T1:349 begins chapter 20 and section 1; sections continue in exact source order through T1:358, with no source object stranded at a section or batch boundary.",
+    "The chunks preserve the calculation numerators and denominators, the ordinary-shareholder exclusions, dilution and loss exceptions, warrant and convertible-security adjustments, the 100-to-50 share-consolidation example, the 1,000/1,100/900 reference example, and the required disclosure cases.",
+    "Diagram and table meaning is verbalized without inventing media: the multiple-potential-share A/B/C maximum-dilution relation and the current/next-period share-consolidation timeline are retained in text.",
+    "The chunks contain no bold syntax, Cloze syntax, Front/Back fields, integration output or card output. No question/answer or false-proposition layout occurs in this theory batch; that specialized check is not applicable.",
+    "No unresolved marker remains and no correction was required after the image comparison."
+  ],
+  "corrections": [],
+  "checks": {
+    "numerical": "pass",
+    "diagram": "pass",
+    "false_proposition": "not_applicable"
+  },
+  "unresolved_count": 0
+}
