@@ -1,0 +1,145 @@
+{
+  "pilot_id": "JPG-T1-PILOT-QA",
+  "status": "pass",
+  "gate_verdict": "PASS",
+  "source_id": "T1",
+  "delivery_branch": "main",
+  "reviewed_on": "2026-09-06",
+  "reviewer_model": "current execution model; no model switch",
+  "scope": {
+    "pilot_batch": "JPG-T1-C002",
+    "physical_scope": "T1:023-T1:040",
+    "processing_scope": "T1:023-T1:039",
+    "included_page_count": 17,
+    "excluded_page_count": 1,
+    "excluded_pages": [
+      {
+        "page": "T1:040",
+        "printed_page": "①－17",
+        "disposition": "exclude",
+        "reason": "Blank chapter-end MEMO page with no learner content."
+      }
+    ]
+  },
+  "source_revision": {
+    "repository": "xihangzou/cpa-fa-theory",
+    "verified_main_commit": "27ade68844c24ac03a6ea2e74193611e1a0357de",
+    "source_catalog": "contracts/source-catalog.json",
+    "source_catalog_sha256": "8358e9cffb068f63df0bdfcc8f99be035e66454ac8710d381f0ff9eb87728079",
+    "page_plan": "contracts/page-plan.json",
+    "page_plan_sha256": "997a7280b171df5803c2a3bb7c2ee8764082e01f3bdb03c194b9129fe18d26c9",
+    "source_manifest": "project/T1/sources.json",
+    "source_manifest_sha256": "760f946d08e1eebf2d79c189103ac2e627f0bb2569dcd80055885fb8b97324cd",
+    "source_map": "project/T1/source-map.json",
+    "source_map_sha256": "3ff42e94bd9f8751f8100c6ff251740a46f67182c468af620438c9768f14b961",
+    "batch_manifest": "project/T1/batches.json",
+    "batch_manifest_sha256": "125ff5fee8f8271b82c3258ced501ed4411b4071b930f08f1ed682e72c2628c4",
+    "inventory_review": "project/T1/inventory-review.json",
+    "inventory_review_sha256": "83e2c59f059ffdec53fcb8fb83a5f1300d5cca0722dcf031db0b459bd7ab8c19",
+    "source_original_root": "/Users/xihangzou/Study/320_CPA/322_財務理論/images/cpa-fa-theory-textbook-1-jpg",
+    "source_pdf_sha256": "c09d9d91ce39de787cab04e146719d95b638134399d57112802ffacfa67243f3",
+    "source_image_inventory_sha256": "331ad1ea2ca04d0636c2185b6ab1a8fe5240ebdd3f0c7c546c8703371d497929",
+    "edition": "2024/2025年合格目標",
+    "publication_date": "2023-01-23",
+    "content_authority": "designated existing JPGs only; PDF used only for identity/planning support"
+  },
+  "dependency_commits": [
+    {
+      "commit": "a2fb2bb829d112522128cdb145523302e9d1e7fd",
+      "role": "JPG-000 helper compatibility"
+    },
+    {
+      "commit": "1fd8a963ef32e09b5f3f08ecd7d5bb7cc2240a94",
+      "role": "T1 source inventory and page ownership"
+    },
+    {
+      "commit": "393dc82a64791eb452ea64ccb8cbfc55212718ef",
+      "role": "JPG-T1-C002 pilot conversion outputs"
+    }
+  ],
+  "reviewed_outputs": [
+    {
+      "task": "JPG-T1-C002-S01",
+      "section": "01.1",
+      "output": "project/T1/chunks/JPG-T1-C002/JPG-T1-C002-S01.md",
+      "pages": "T1:023-T1:029",
+      "sha256": "83bd16ea7d7f79a0591959aa8890637aa01a039acab09f521ee05ed440d2675e"
+    },
+    {
+      "task": "JPG-T1-C002-S02",
+      "section": "01.2",
+      "output": "project/T1/chunks/JPG-T1-C002/JPG-T1-C002-S02.md",
+      "pages": "T1:030-T1:034",
+      "sha256": "9d0ca5aee347629e98f4074ac31dcc0020506054a676eb449d6aba3a397c9d18"
+    },
+    {
+      "task": "JPG-T1-C002-S03",
+      "section": "01.3",
+      "output": "project/T1/chunks/JPG-T1-C002/JPG-T1-C002-S03.md",
+      "pages": "T1:035-T1:036",
+      "sha256": "4c8054d7b8e3839c8d879f7664a0a3f087135c615a6f3ba7f282fe2bc81fc3cc"
+    },
+    {
+      "task": "JPG-T1-C002-S04",
+      "section": "01.4",
+      "output": "project/T1/chunks/JPG-T1-C002/JPG-T1-C002-S04.md",
+      "pages": "T1:037-T1:039",
+      "sha256": "dc4be1d650f7680792ada8cadbb8dcf63a09392c88699f604e397403d301602b"
+    }
+  ],
+  "page_review": [
+    {"page":"T1:023","task":"JPG-T1-C002-S01","result":"pass","positive":"Chapter title, ratings, and both exam-history tables retained.","negative_check":"No learner-content omission; chapter divider is substantive."},
+    {"page":"T1:024","task":"JPG-T1-C002-S01","result":"pass","positive":"Enterprise-accounting definition, four accounting acts, table, and flow diagram retained.","negative_check":"Margins, footer, and section banner checked; no invented content."},
+    {"page":"T1:025","task":"JPG-T1-C002-S01","result":"pass","positive":"Performance/financial-position supplement and financial-vs-management accounting comparison retained.","negative_check":"External/internal reporting example and footer checked."},
+    {"page":"T1:026","task":"JPG-T1-C002-S01","result":"pass","positive":"Shareholder/creditor diagrams, entries, characteristics, 150/200/△50 and 200/150/50 examples retained.","negative_check":"Investor inclusion diagram and margins checked."},
+    {"page":"T1:027","task":"JPG-T1-C002-S01","result":"pass","positive":"Financial-accounting functions, ownership/management separation, premise diagram, and role table retained.","negative_check":"Side material and footer checked; no unresolved boundary."},
+    {"page":"T1:028","task":"JPG-T1-C002-S01","result":"pass","positive":"Entrusted responsibility, conflict example, financial-statement purpose, accounting responsibility, and flow diagram retained.","negative_check":"Diagram-only relationships verbalized without adding claims."},
+    {"page":"T1:029","task":"JPG-T1-C002-S01","result":"pass","positive":"Shareholder/creditor adjustment, distributable-amount diagram and entry, 100/80/20 example, and information function retained.","negative_check":"End-of-section boundary checked; no source object crosses to page 030."},
+    {"page":"T1:030","task":"JPG-T1-C002-S02","result":"pass","positive":"Accounting hierarchy,制度会計 classification, shaded study range, definition, and no-regulation note retained.","negative_check":"Page 030 section boundary and footer checked."},
+    {"page":"T1:031","task":"JPG-T1-C002-S02","result":"pass","positive":"Company-law accounting purpose, calculation-statement list, and shareholder/creditor protection table retained.","negative_check":"Table distinctions preserved; no invented question pairing."},
+    {"page":"T1:032","task":"JPG-T1-C002-S02","result":"pass","positive":"Financial-instruments-law accounting purpose, unification explanation/diagram, disclosure system, statements, and rules hierarchy retained.","negative_check":"Margins, footer, and legal-framework qualifiers checked."},
+    {"page":"T1:033","task":"JPG-T1-C002-S02","result":"pass","positive":"Full comparison table, document lists, main differences, and notes 1–3 retained.","negative_check":"No table row or footnote was collapsed into an unsupported summary."},
+    {"page":"T1:034","task":"JPG-T1-C002-S02","result":"pass","positive":"Company Calculation Rules articles 3/120/120-2/120-3, Companies Act article 441, documents, and purpose retained.","negative_check":"Statutory details and footer checked."},
+    {"page":"T1:035","task":"JPG-T1-C002-S03","result":"pass","positive":"Enterprise Accounting Principles statements, two points, necessity, GAAP meaning, and included standards retained.","negative_check":"No bold/Cloze/card formatting introduced."},
+    {"page":"T1:036","task":"JPG-T1-C002-S03","result":"pass","positive":"Deductive/inductive definitions, advantages, construction diagrams, and source conclusion retained.","negative_check":"Both diagram flows checked against the image."},
+    {"page":"T1:037","task":"JPG-T1-C002-S04","result":"pass","positive":"Accounting-postulate definition, theory-layer diagram, depreciation/cost-allocation/going-concern relation retained.","negative_check":"Parenthetical boundary case and footer checked."},
+    {"page":"T1:038","task":"JPG-T1-C002-S04","result":"pass","positive":"Gilman three postulates, entity postulate, entity diagrams, personal-trip 100万円 entry, and going-concern period diagram retained.","negative_check":"Legal/economic entity distinctions checked."},
+    {"page":"T1:039","task":"JPG-T1-C002-S04","result":"pass","positive":"Monetary-unit postulate’s two conditions, additivity/comparability, non-measurable boundary, and manager-ability example retained.","negative_check":"Section completes before blank MEMO page 040; no spillover."},
+    {"page":"T1:040","task":null,"result":"excluded","positive":"None; page is a blank chapter-end MEMO page.","negative_check":"Inventory exclusion reason confirmed visually; no learner content to convert."}
+  ],
+  "source_specific_conventions": {
+    "headings": "Use # for the chapter, ## for each numbered source section, ### for numbered topics or source supplements, and #### for subdivisions; retain source titles and IDs without flattening sections.",
+    "locators": "Record physical T1:NNN separately from printed ①－N; chapter divider T1:023 has no printed page label, and T1:040 retains its printed label only in the exclusion record.",
+    "tables": "Preserve comparison rows, legal-document lists, footnotes, and numerical relationships as Markdown tables or faithful lists; do not collapse them into generic summaries.",
+    "diagrams": "Verbalize essential arrows, hierarchy, inclusion, causal, and accounting-entry meaning in prose/tables while retaining source locators; do not invent a figure asset.",
+    "accounting_entries": "Retain debit/credit direction, account names, amounts, and intermediate numerical relationships where shown.",
+    "source_authority": "Designated existing JPGs are authoritative; the pinned PDF is identity/planning support only.",
+    "question_layouts": "not_applicable: this theory pilot contains no question-and-answer pair or false-proposition label.",
+    "exclusions": "Blank or metadata-only pages are excluded only with an inventory-backed visual reason; T1:040 is the sole excluded page in this pilot batch."
+  },
+  "semantic_review": {
+    "positive_examples": [
+      "Definitions and distinctions: enterprise accounting, financial/management accounting,制度会計, accounting principles, and Gilman’s three postulates.",
+      "Conditions and exceptions: stakeholder protections, company-law/financial-instruments-law unification, distribution limit, legal/economic entity scope, and monetary measurability.",
+      "Examples and numerical checks: assets 150/liabilities 200/net assets △50; assets 200/liabilities 150/net assets 50; net assets 100 split 80/20; personal trip 100万円 entry.",
+      "Diagram meaning: four accounting acts, external/internal reporting, ownership/management separation, distributable amount, accounting-principle construction, and theory-layer structure."
+    ],
+    "negative_examples": [
+      "No missing substantive page, unresolved marker, stale chunk hash, out-of-batch locator, or section-boundary conflict was found.",
+      "T1:040 is not silently converted: its blank MEMO status and inventory reason are preserved as an explicit exclusion.",
+      "No question/answer or false-proposition layout exists in this theory source, so that acceptance branch is explicitly not applicable."
+    ],
+    "unresolved_count": 0,
+    "corrections_required": false,
+    "corrections_applied": [],
+    "review_evidence": "project/T1/reviews/JPG-T1-C002.json"
+  },
+  "verification": {
+    "check_manifest": "PASS: ./.venv/bin/python workflow/scripts/source_md.py check-manifest project/T1",
+    "check_batch": "PASS: ./.venv/bin/python workflow/scripts/source_md.py check-batch project/T1 --batch JPG-T1-C002",
+    "source_hashes": "PASS: all 362 canonical-cache and original JPG hashes match project/T1/sources.json and source-map.json; designated PDF SHA-256 matches.",
+    "format_guard": "PASS: no bold, Cloze, Front/Back, integration, Anki, or card output in pilot chunks.",
+    "question_pair_check": "NOT_APPLICABLE: theory pilot has no question-and-answer pair.",
+    "status": "All pilot acceptance criteria pass; no scoped content correction is required."
+  }
+}
