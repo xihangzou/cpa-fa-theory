@@ -1,0 +1,100 @@
+{
+  "batch_id": "JPG-T1-C026",
+  "source_id": "T1",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-T1-C026-S01",
+      "batch_id": "JPG-T1-C026",
+      "chapter": "18",
+      "section": "18.1",
+      "title": "第1節 本会計基準の概要",
+      "expected_pages": ["T1:331", "T1:332", "T1:333", "T1:334"],
+      "processing_pages": ["T1:331", "T1:332", "T1:333", "T1:334"],
+      "output": "chunks/JPG-T1-C026/JPG-T1-C026-S01.md",
+      "status": "pass",
+      "chunk_sha256": "e1ed03e0b7850ca9b9ffe9744f4085c1e7ce2fca6d109a357742c10ea7054242",
+      "locators": [
+        {
+          "page": "T1:331",
+          "printed_page": null,
+          "source_region": "第18章章扉、章タイトル、短答式・論文式本試験における出題実績表",
+          "destination_heading": "## 第1節 本会計基準の概要"
+        },
+        {
+          "page": "T1:332",
+          "printed_page": "⑱－1",
+          "source_region": "第1節扉、会計基準公表の背景、開発にあたっての基本的な方針",
+          "destination_heading": "## 第1節 本会計基準の概要"
+        },
+        {
+          "page": "T1:333",
+          "printed_page": "⑱－2",
+          "source_region": "適用範囲、適用対象・適用対象外の表、2つの脚注、適用範囲に関する限定",
+          "destination_heading": "## 第1節 本会計基準の概要"
+        },
+        {
+          "page": "T1:334",
+          "printed_page": "⑱－3",
+          "source_region": "用語の定義表、市場参加者の4要件、観察可能・観察できないインプット、主要市場の仮定脚注",
+          "destination_heading": "## 第1節 本会計基準の概要"
+        }
+      ]
+    },
+    {
+      "id": "JPG-T1-C026-S02",
+      "batch_id": "JPG-T1-C026",
+      "chapter": "18",
+      "section": "18.2",
+      "title": "第2節 時価の算定",
+      "expected_pages": ["T1:335", "T1:336", "T1:337", "T1:338", "T1:339", "T1:340"],
+      "processing_pages": ["T1:335", "T1:336", "T1:337", "T1:338", "T1:339"],
+      "output": "chunks/JPG-T1-C026/JPG-T1-C026-S02.md",
+      "status": "pass",
+      "chunk_sha256": "8598769b031e824afbebff31f66962abca51ef9919f1dc4652bf6c5de30fa5f6",
+      "locators": [
+        {
+          "page": "T1:335",
+          "printed_page": "⑱－4",
+          "source_region": "第2節扉、時価の定義、強制された清算取引・投売りの脚注、時価に関する基本的な考え方",
+          "destination_heading": "## 第2節 時価の算定"
+        },
+        {
+          "page": "T1:336",
+          "printed_page": "⑱－5",
+          "source_region": "入口価格・出口価格の補足、時価の算定における4つのポイント",
+          "destination_heading": "## 第2節 時価の算定"
+        },
+        {
+          "page": "T1:337",
+          "printed_page": "⑱－6",
+          "source_region": "時価の算定単位、評価技法の決定、複数の評価技法、評価技法の継続性",
+          "destination_heading": "## 第2節 時価の算定"
+        },
+        {
+          "page": "T1:338",
+          "printed_page": "⑱－7",
+          "source_region": "3レベルのインプット表、3つの脚注、時価のレベル分類ルール、インプット選択・分類・時価分類の図",
+          "destination_heading": "## 第2節 時価の算定"
+        },
+        {
+          "page": "T1:339",
+          "printed_page": "⑱－8",
+          "source_region": "時価の分類と開示、レベル別注記事項、取引数量・頻度低下時の評価とリスク・プレミアム、負債・払込資本を増加させる金融商品の時価と不履行リスク",
+          "destination_heading": "## 第2節 時価の算定"
+        }
+      ],
+      "excluded_pages": ["T1:340"]
+    }
+  ],
+  "review": "reviews/JPG-T1-C026.json",
+  "excluded_pages": ["T1:340"],
+  "source_scope": {
+    "source_id": "T1",
+    "physical_range": "T1:331-T1:340",
+    "processing_range": "T1:331-T1:339",
+    "chapter": "18",
+    "title": "時価の算定に関する会計基準",
+    "content_authority": "designated existing JPGs only"
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "batch_id": "JPG-T1-C027",
+  "source_id": "T1",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-T1-C027-S01",
+      "batch_id": "JPG-T1-C027",
+      "chapter": "19",
+      "section": "19.1",
+      "title": "第1節 用語の定義",
+      "expected_pages": ["T1:341", "T1:342"],
+      "processing_pages": ["T1:341", "T1:342"],
+      "output": "chunks/JPG-T1-C027/JPG-T1-C027-S01.md",
+      "status": "pass",
+      "locators": [
+        {
+          "page": "T1:341",
+          "printed_page": null,
+          "source_region": "第19章章扉、章タイトル、短答式・論文式本試験における出題実績表",
+          "destination_heading": "## 第1節 用語の定義"
+        },
+        {
+          "page": "T1:342",
+          "printed_page": "⑲－1",
+          "source_region": "第1節の扉、用語の定義表、更正・修正申告の注記、付加価値割・資本割・所得割の参考表",
+          "destination_heading": "## 第1節 用語の定義"
+        }
+      ],
+      "chunk_sha256": "8f3f33297419c785a22c1e5b4413a77c3e23d8dfe5ffac99517c69cb3b90a5dd"
+    },
+    {
+      "id": "JPG-T1-C027-S02",
+      "batch_id": "JPG-T1-C027",
+      "chapter": "19",
+      "section": "19.2",
+      "title": "第2節 当事業年度の所得等に対する法人税、住民税及び事業税等",
+      "expected_pages": ["T1:343", "T1:344"],
+      "processing_pages": ["T1:343", "T1:344"],
+      "output": "chunks/JPG-T1-C027/JPG-T1-C027-S02.md",
+      "status": "pass",
+      "locators": [
+        {
+          "page": "T1:343",
+          "printed_page": "⑲－2",
+          "source_region": "第2節の扉、当事業年度の所得等に対する税の会計処理、損益計算書上の表示及び注記",
+          "destination_heading": "## 第2節 当事業年度の所得等に対する法人税、住民税及び事業税等"
+        },
+        {
+          "page": "T1:344",
+          "printed_page": "⑲－3",
+          "source_region": "住民税均等割の補足、貸借対照表上の表示、未払・未収還付の表示例",
+          "destination_heading": "## 第2節 当事業年度の所得等に対する法人税、住民税及び事業税等"
+        }
+      ],
+      "chunk_sha256": "daa7375358be347b590d26d931954053cc1bfa792228aceb80925ca2d0360736"
+    },
+    {
+      "id": "JPG-T1-C027-S03",
+      "batch_id": "JPG-T1-C027",
+      "chapter": "19",
+      "section": "19.3",
+      "title": "第3節 更正等による追徴及び還付",
+      "expected_pages": ["T1:345", "T1:346"],
+      "processing_pages": ["T1:345", "T1:346"],
+      "output": "chunks/JPG-T1-C027/JPG-T1-C027-S03.md",
+      "status": "pass",
+      "locators": [
+        {
+          "page": "T1:345",
+          "printed_page": "⑲－4",
+          "source_region": "第3節の扉、追徴・還付の認識要件、認識要件の相違、追徴を原則損益計上とする理由",
+          "destination_heading": "## 第3節 更正等による追徴及び還付"
+        },
+        {
+          "page": "T1:346",
+          "printed_page": "⑲－5",
+          "source_region": "損益計算書上の表示、還付・追徴の原則と重要性が乏しい場合の数値例、貸借対照表上の表示とまとめ表",
+          "destination_heading": "## 第3節 更正等による追徴及び還付"
+        }
+      ],
+      "chunk_sha256": "f5420d3cd0049e79e1259fff8aec77efb47726ac430a722e6de2989a25bd4c09"
+    },
+    {
+      "id": "JPG-T1-C027-S04",
+      "batch_id": "JPG-T1-C027",
+      "chapter": "19",
+      "section": "19.4",
+      "title": "第4節 その他の規定",
+      "expected_pages": ["T1:347"],
+      "processing_pages": ["T1:347"],
+      "output": "chunks/JPG-T1-C027/JPG-T1-C027-S04.md",
+      "status": "pass",
+      "locators": [
+        {
+          "page": "T1:347",
+          "printed_page": "⑲－6",
+          "source_region": "第4節の扉、受取利息・受取配当金等に課される源泉所得税、外国法人税の定義及び表示",
+          "destination_heading": "## 第4節 その他の規定"
+        }
+      ],
+      "chunk_sha256": "b80205b09bc4ef5e13c518f9107a16f849c1caada62025f581e815bf42df3b00"
+    }
+  ],
+  "review": "reviews/JPG-T1-C027.json",
+  "excluded_pages": [
+    {
+      "page": "T1:348",
+      "printed_page": "⑲－7",
+      "disposition": "exclude",
+      "reason": "Blank chapter-end MEMO page with no learner content."
+    }
+  ],
+  "source_scope": {
+    "source_id": "T1",
+    "physical_range": "T1:341-T1:348",
+    "processing_range": "T1:341-T1:347",
+    "chapter": "19",
+    "title": "法人税、住民税及び事業税等に関する会計基準",
+    "content_authority": "designated existing JPGs only"
+  }
+}

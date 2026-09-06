@@ -1,0 +1,111 @@
+{
+  "batch_id": "JPG-T1-C028",
+  "source_id": "T1",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-T1-C028-S01",
+      "batch_id": "JPG-T1-C028",
+      "chapter": "20",
+      "section": "20.1",
+      "title": "第1節 一株当たり情報に関する基本事項",
+      "expected_pages": ["T1:349", "T1:350"],
+      "processing_pages": ["T1:349", "T1:350"],
+      "output": "chunks/JPG-T1-C028/JPG-T1-C028-S01.md",
+      "status": "pass",
+      "chunk_sha256": "f1bcc2adb92a1fb7f2541e2fc595d3f4cab3e15a8b401df30959b5761fe1a003",
+      "locators": [
+        {"page": "T1:349", "printed_page": null, "source_region": "第20章章扉、章タイトル、短答式・論文式本試験における出題実績表", "destination_heading": "## 第1節 一株当たり情報に関する基本事項"},
+        {"page": "T1:350", "printed_page": "⑳－1", "source_region": "第1節の扉、目的、本会計基準と会計処理との関係、開示方法、普通株式・普通株主・配当優先株式・優先配当・潜在株式・ワラント・転換証券の用語定義表", "destination_heading": "## 第1節 一株当たり情報に関する基本事項"}
+      ]
+    },
+    {
+      "id": "JPG-T1-C028-S02",
+      "batch_id": "JPG-T1-C028",
+      "chapter": "20",
+      "section": "20.2",
+      "title": "第2節 一株当たり当期純利益の算定",
+      "expected_pages": ["T1:351"],
+      "processing_pages": ["T1:351"],
+      "output": "chunks/JPG-T1-C028/JPG-T1-C028-S02.md",
+      "status": "pass",
+      "chunk_sha256": "fbfaa3afb1ce280f168cf1d3a2e3525e7ec08592ffaec677556020803265a3d0",
+      "locators": [
+        {"page": "T1:351", "printed_page": "⑳－2", "source_region": "第2節の扉、基本算定式、当期純損失の取扱い、分子の算定、期中平均株式数の算定、潜在株式の取扱い", "destination_heading": "## 第2節 一株当たり当期純利益の算定"}
+      ]
+    },
+    {
+      "id": "JPG-T1-C028-S03",
+      "batch_id": "JPG-T1-C028",
+      "chapter": "20",
+      "section": "20.3",
+      "title": "第3節 潜在株式調整後一株当たり当期純利益の基本的な考え方",
+      "expected_pages": ["T1:352", "T1:353"],
+      "processing_pages": ["T1:352", "T1:353"],
+      "output": "chunks/JPG-T1-C028/JPG-T1-C028-S03.md",
+      "status": "pass",
+      "chunk_sha256": "4c20b55bef12b4c4686c8505d82633222c5c530f65b708c8cb69e0d14867bd27",
+      "locators": [
+        {"page": "T1:352", "printed_page": "⑳－3", "source_region": "第3節の扉、希薄化効果の定義、100円のケース比較、当期純損失の60,000円・100株・20株の数値例、算定式", "destination_heading": "## 第3節 潜在株式調整後一株当たり当期純利益の基本的な考え方"},
+        {"page": "T1:353", "printed_page": "⑳－4", "source_region": "潜在株式が複数存在する場合の最大希薄化効果、A・B・Cの図解、開示しない3場合、当期純損失の開示表", "destination_heading": "## 第3節 潜在株式調整後一株当たり当期純利益の基本的な考え方"}
+      ]
+    },
+    {
+      "id": "JPG-T1-C028-S04",
+      "batch_id": "JPG-T1-C028",
+      "chapter": "20",
+      "section": "20.4",
+      "title": "第4節 ワラントが存在する場合",
+      "expected_pages": ["T1:354"],
+      "processing_pages": ["T1:354"],
+      "output": "chunks/JPG-T1-C028/JPG-T1-C028-S04.md",
+      "status": "pass",
+      "chunk_sha256": "c2a05e7727e3abea96fb9efab83b32cd2693fa20779682f2789b8f65fd0fb08f",
+      "locators": [
+        {"page": "T1:354", "printed_page": "⑳－5", "source_region": "第4節の扉、ワラントの希薄化効果の条件表、普通株式増加数の①−②、自己株式方式、期中消滅・消却・行使時の期間対応", "destination_heading": "## 第4節 ワラントが存在する場合"}
+      ]
+    },
+    {
+      "id": "JPG-T1-C028-S05",
+      "batch_id": "JPG-T1-C028",
+      "chapter": "20",
+      "section": "20.5",
+      "title": "第5節 転換証券が存在する場合",
+      "expected_pages": ["T1:355", "T1:356"],
+      "processing_pages": ["T1:355", "T1:356"],
+      "output": "chunks/JPG-T1-C028/JPG-T1-C028-S05.md",
+      "status": "pass",
+      "chunk_sha256": "c22dafb93144411d7a56d53c1cdbd3fdf2ee3c2cfaaabc59e4a1052b2bc1f10f",
+      "locators": [
+        {"page": "T1:355", "printed_page": "⑳－6", "source_region": "第5節の扉、転換証券の希薄化効果、5,000円・1,000株の基準、500円調整額と400株又は50株のケース、判定表", "destination_heading": "## 第5節 転換証券が存在する場合"},
+        {"page": "T1:356", "printed_page": "⑳－7", "source_region": "当期純利益調整額の2項目、6,000円・1,000株・100株・税率40％のケース、新株予約権付社債と転換株式の調整、普通株式増加数の①・②", "destination_heading": "## 第5節 転換証券が存在する場合"}
+      ]
+    },
+    {
+      "id": "JPG-T1-C028-S06",
+      "batch_id": "JPG-T1-C028",
+      "chapter": "20",
+      "section": "20.6",
+      "title": "第6節 その他の論点",
+      "expected_pages": ["T1:357", "T1:358"],
+      "processing_pages": ["T1:357", "T1:358"],
+      "output": "chunks/JPG-T1-C028/JPG-T1-C028-S06.md",
+      "status": "pass",
+      "chunk_sha256": "3bce2ea892b3ef299f58230543922298e38cf158892148fb4a65779c1acc564d",
+      "locators": [
+        {"page": "T1:357", "printed_page": "⑳－8", "source_region": "第6節の扉、株式併合・株式分割の当期処理と貸借対照表日後処理、100株を50株とする表示期間図、会計方針変更・過去の誤謬訂正", "destination_heading": "## 第6節 その他の論点"},
+        {"page": "T1:358", "printed_page": "⑳－9", "source_region": "潜在株式調整後情報の遡及処理、行使価格1,000円・前期平均株価1,100円・当期平均株価900円の例、暫定的会計処理の確定、1株当たり情報の注記2項目", "destination_heading": "## 第6節 その他の論点"}
+      ]
+    }
+  ],
+  "review": "reviews/JPG-T1-C028.json",
+  "excluded_pages": [],
+  "source_scope": {
+    "source_id": "T1",
+    "physical_range": "T1:349-T1:358",
+    "processing_range": "T1:349-T1:358",
+    "chapter": "20",
+    "title": "一株当たり当期純利益に関する会計基準",
+    "content_authority": "designated existing JPGs only"
+  }
+}

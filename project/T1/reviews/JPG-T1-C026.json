@@ -1,0 +1,80 @@
+{
+  "batch_id": "JPG-T1-C026",
+  "source_id": "T1",
+  "status": "pass",
+  "reviewed_on": "2026-09-06",
+  "reviewer_model": "current execution model; no model switch",
+  "source_revision": {
+    "delivery_branch": "main",
+    "repository_commit": "f43951e9c65137ea7f6109d3067ebc137a2b56ba",
+    "source_catalog": "contracts/source-catalog.json",
+    "source_catalog_sha256": "8358e9cffb068f63df0bdfcc8f99be035e66454ac8710d381f0ff9eb87728079",
+    "page_plan": "contracts/page-plan.json",
+    "page_plan_sha256": "997a7280b171df5803c2a3bb7c2ee8764082e01f3bdb03c194b9129fe18d26c9",
+    "source_manifest": "project/T1/sources.json",
+    "source_manifest_sha256": "760f946d08e1eebf2d79c189103ac2e627f0bb2569dcd80055885fb8b97324cd",
+    "source_map": "project/T1/source-map.json",
+    "source_map_sha256": "3ff42e94bd9f8751f8100c6ff251740a46f67182c468af620438c9768f14b961",
+    "batch_manifest": "project/T1/batches.json",
+    "batch_manifest_sha256": "125ff5fee8f8271b82c3258ced501ed4411b4071b930f08f1ed682e72c2628c4",
+    "inventory_review": "project/T1/inventory-review.json",
+    "inventory_review_sha256": "83e2c59f059ffdec53fcb8fb83a5f1300d5cca0722dcf031db0b459bd7ab8c19",
+    "pilot_qa": "project/T1/qa/pilot.json",
+    "pilot_qa_sha256": "cfd72bc97fc4ac0f8471bad6dc7b925085d1822ff606754b91f1b35f9b3ce694",
+    "source_original_root": "/Users/xihangzou/Study/320_CPA/322_財務理論/images/cpa-fa-theory-textbook-1-jpg",
+    "source_pdf": "/Users/xihangzou/Study/320_CPA/322_財務理論/01_テキスト/財務会計論テキスト　理論1.pdf",
+    "source_pdf_sha256": "c09d9d91ce39de787cab04e146719d95b638134399d57112802ffacfa67243f3",
+    "source_image_inventory_sha256": "331ad1ea2ca04d0636c2185b6ab1a8fe5240ebdd3f0c7c546c8703371d497929",
+    "edition": "2024/2025年合格目標",
+    "publication_date": "2023-01-23",
+    "physical_scope": "T1:331-T1:340",
+    "processing_scope": "T1:331-T1:339",
+    "content_authority": "designated existing JPGs only; PDF used only for identity/planning support"
+  },
+  "dependency_commits": [
+    "a2fb2bb829d112522128cdb145523302e9d1e7fd",
+    "1fd8a963ef32e09b5f3f08ecd7d5bb7cc2240a94",
+    "7507151c638a73a41fc13b9d4c4481c8888307e0"
+  ],
+  "source_images": [
+    {"page": "T1:331", "sha256": "b8d80608b9a91fb3f7ebc620b1062fbe0c2d976dc11704639f71b1058651f2b9"},
+    {"page": "T1:332", "sha256": "5be60cc2dc8ba729c168f709b3b6bc91b7401068d3fae01a146a0c1b10990200"},
+    {"page": "T1:333", "sha256": "4ce8f61b5f51f332fe1603d2060f0b21a499c851f581a32ff5ef7ca414fc4aed"},
+    {"page": "T1:334", "sha256": "f245650cb882a08d7dd68a0ee21d38567e5dffe3e253634fa025125c46a6ad52"},
+    {"page": "T1:335", "sha256": "d1e7952fbc5b1a970837cdecb99fbbf7635991d994b45003b31087539251ac45"},
+    {"page": "T1:336", "sha256": "ca4bef82ccdae97839a3c169feb65f5b6a3a5588a426c2b34d20fbf6cefe8b14"},
+    {"page": "T1:337", "sha256": "fb35ebffcb8a0d83d0c087ecdbd7d19589551531d7a6407b996c9c8871b6c02b"},
+    {"page": "T1:338", "sha256": "2943b95570d213712789cc3627648eab6457e383d963dd51c96c109d0e8fb9ae"},
+    {"page": "T1:339", "sha256": "2a49454575e96ab12ecc09d84b28cadb7900119b8a0363658d6f2ec9ac2a8427"}
+  ],
+  "section_outputs": [
+    {"task": "JPG-T1-C026-S01", "chunk": "project/T1/chunks/JPG-T1-C026/JPG-T1-C026-S01.md", "chunk_sha256": "e1ed03e0b7850ca9b9ffe9744f4085c1e7ce2fca6d109a357742c10ea7054242"},
+    {"task": "JPG-T1-C026-S02", "chunk": "project/T1/chunks/JPG-T1-C026/JPG-T1-C026-S02.md", "chunk_sha256": "8598769b031e824afbebff31f66962abca51ef9919f1dc4652bf6c5de30fa5f6"}
+  ],
+  "coverage": [
+    {"page": "T1:331", "status": "pass", "regions": ["chapter 18 identity and title", "short-answer and essay examination-history tables for sections 1 and 2"]},
+    {"page": "T1:332", "status": "pass", "regions": ["section 1 banner", "background to publication", "IASB/FASB guidance context", "ASBJ publication date and purpose", "IFRS 13 adoption policy and Japanese-practice exception"]},
+    {"page": "T1:333", "status": "pass", "regions": ["application scope and two included categories", "trading-inventory rationale", "applicable/non-applicable table", "two exclusion footnotes", "boundary between valuation method and when fair-value measurement is required"]},
+    {"page": "T1:334", "status": "pass", "regions": ["market participant definition and four requirements", "orderly transaction definition and forced-sale exclusions", "principal and most advantageous market definitions", "input definition and observable/unobservable split", "active market definition and principal-market assumption footnote"]},
+    {"page": "T1:335", "status": "pass", "regions": ["section 2 banner", "fair-value definition", "forced liquidation and fire-sale exclusion", "four basic fair-value principles", "two enterprise-specific footnotes"]},
+    {"page": "T1:336", "status": "pass", "regions": ["entry-price and exit-price definitions", "four fair-value calculation points including date, market-participant view, orderly transaction and exit price"]},
+    {"page": "T1:337", "status": "pass", "regions": ["unit of valuation rule and individual-financial-instrument note", "valuation-technique selection and observable-input rule", "multiple-technique range rule", "continuity and accounting-estimate-change treatment"]},
+    {"page": "T1:338", "status": "pass", "regions": ["three-level input hierarchy", "level 1/2/3 definitions and priority", "three examples in footnotes", "fair-value classification by significant input", "lowest-priority rule for multiple significant inputs", "diagram meaning for input selection, level classification and fair-value classification"]},
+    {"page": "T1:339", "status": "pass", "regions": ["disclosure policy and consolidation exception", "three level-total disclosure categories", "valuation-technique/input disclosure and change rationale", "reduced transaction-volume assessment and risk-premium adjustment", "liability/equity-increasing financial instruments", "non-performance risk definition and transfer invariance"]}
+  ],
+  "findings": [
+    "All ten designated batch images were reopened at readable full resolution; pages T1:331-T1:339 contain learner content and T1:340 is a blank MEMO page matching the manifest exclusion.",
+    "The batch has two source section anchors: section 18.1 begins on T1:332 and section 18.2 begins on T1:335. The chapter title and examination-history tables on T1:331 are retained in the first section chunk.",
+    "The section 18.1 chunk preserves the publication background, IFRS 13 adoption policy, Japanese-practice exception, application table, exclusion reasons, all six term definitions, the four market-participant requirements, observable/unobservable input distinction and principal-market assumption.",
+    "The section 18.2 chunk preserves the fair-value definition, exclusion footnote, four basic principles, entry/exit prices, four calculation points, valuation unit, valuation techniques, continuity rule, all three input levels and examples, classification rule, diagram meaning, disclosure requirements, low-volume market treatment, risk-premium adjustment, liability/equity instrument treatment and non-performance risk.",
+    "Tables, footnotes, examination-rank labels, numerical level ordering, qualification distinctions and diagram-only relationships were checked against the images. This theory batch has no question/answer or false-proposition layout; that specialized check is not applicable.",
+    "The chunks contain no bold syntax, Cloze syntax, Front/Back fields, integration output or card output. No unresolved marker remains and no correction was required after the image comparison."
+  ],
+  "corrections": [],
+  "checks": {
+    "numerical": "pass",
+    "diagram": "pass",
+    "false_proposition": "not_applicable"
+  },
+  "unresolved_count": 0
+}
