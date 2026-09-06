@@ -1,0 +1,82 @@
+{
+  "batch_id": "JPG-T1-C020",
+  "source_id": "T1",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-T1-C020-S01",
+      "batch_id": "JPG-T1-C020",
+      "chapter": "13",
+      "section": "13.1",
+      "title": "第1節 我が国における基準設定主体",
+      "expected_pages": ["T1:277", "T1:278"],
+      "processing_pages": ["T1:277", "T1:278"],
+      "output": "chunks/JPG-T1-C020/JPG-T1-C020-S01.md",
+      "status": "pass",
+      "chunk_sha256": "1ef9483bae6a7b7b2fab1092649f7fe929d8c32755a693cb2b2127b42761ec3e",
+      "locators": [
+        {"page": "T1:277", "printed_page": null, "source_region": "第13章章扉、章タイトル、短答式・論文式本試験における出題実績表", "destination_heading": "## 第1節 我が国における基準設定主体"},
+        {"page": "T1:278", "printed_page": "⑬－1", "source_region": "第1節の扉、設定主体の概説、企業会計審議会の定義・代表的基準、ASBJの設立経緯・代表的基準・優先適用と未公表基準の取扱い", "destination_heading": "## 第1節 我が国における基準設定主体"}
+      ]
+    },
+    {
+      "id": "JPG-T1-C020-S02",
+      "batch_id": "JPG-T1-C020",
+      "chapter": "13",
+      "section": "13.2",
+      "title": "第2節 国際財務報告基準（IFRS）の特徴等",
+      "expected_pages": ["T1:279", "T1:280", "T1:281"],
+      "processing_pages": ["T1:279", "T1:280", "T1:281"],
+      "output": "chunks/JPG-T1-C020/JPG-T1-C020-S02.md",
+      "status": "pass",
+      "chunk_sha256": "c16d4a8f0f8c36ae20abd413e078eec2970e1d778e1223df208bc93fa1392355",
+      "locators": [
+        {"page": "T1:279", "printed_page": "⑬－2", "source_region": "第2節の扉、IFRS・IASB・FASB・ASBJ・コンバージェンス・アドプション・エンドースメントの用語定義、原則主義と規則主義の定義・子会社判定例", "destination_heading": "## 第2節 国際財務報告基準（IFRS）の特徴等"},
+        {"page": "T1:280", "printed_page": "⑬－3", "source_region": "原則主義と規則主義の長所・短所・リース操作例、わが国のIFRS任意適用の時期・要件・対象財務諸表・指定国際会計基準の注記", "destination_heading": "## 第2節 国際財務報告基準（IFRS）の特徴等"},
+        {"page": "T1:281", "printed_page": "⑬－4", "source_region": "IFRSへのコンバージェンス／アドプション、連結先行・連単分離の定義と理由、包括利益会計基準、連単分離への批判点", "destination_heading": "## 第2節 国際財務報告基準（IFRS）の特徴等"}
+      ]
+    },
+    {
+      "id": "JPG-T1-C020-S03",
+      "batch_id": "JPG-T1-C020",
+      "chapter": "13",
+      "section": "13.3",
+      "title": "第3節 修正国際基準",
+      "expected_pages": ["T1:282"],
+      "processing_pages": ["T1:282"],
+      "output": "chunks/JPG-T1-C020/JPG-T1-C020-S03.md",
+      "status": "pass",
+      "chunk_sha256": "2d93e1c391a2e8e0862b2f425372b8c83cc9929a9a87d2b784e357a8cb6bbc09",
+      "locators": [
+        {"page": "T1:282", "printed_page": "⑬－5", "source_region": "第3節の扉、修正国際基準の導入経緯・定義、のれんの償却、その他の包括利益のリサイクリング、適用時期等", "destination_heading": "## 第3節 修正国際基準"}
+      ]
+    },
+    {
+      "id": "JPG-T1-C020-S04",
+      "batch_id": "JPG-T1-C020",
+      "chapter": "13",
+      "section": "13.4",
+      "title": "第4節 単体開示の簡素化",
+      "expected_pages": ["T1:283"],
+      "processing_pages": ["T1:283"],
+      "output": "chunks/JPG-T1-C020/JPG-T1-C020-S04.md",
+      "status": "pass",
+      "chunk_sha256": "550c15f0e745af6f4feb3722e407b6c2c2543eef16be3e3bb202f7511b8c879d",
+      "locators": [
+        {"page": "T1:283", "printed_page": "⑬－6", "source_region": "第4節の扉、単体開示簡素化の根拠、特例財務諸表提出会社、注記免除、区分掲記重要性基準の従来・現行比較表、製造原価明細書免除", "destination_heading": "## 第4節 単体開示の簡素化"}
+      ]
+    }
+  ],
+  "review": "reviews/JPG-T1-C020.json",
+  "excluded_pages": [
+    {"page": "T1:284", "printed_page": "⑬－7", "reason": "Blank chapter-end MEMO page with no learner content."}
+  ],
+  "source_scope": {
+    "source_id": "T1",
+    "physical_range": "T1:277-T1:284",
+    "processing_range": "T1:277-T1:283",
+    "chapter": "13",
+    "title": "会計基準等",
+    "content_authority": "designated existing JPGs only"
+  }
+}

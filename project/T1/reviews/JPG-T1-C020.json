@@ -1,0 +1,82 @@
+{
+  "batch_id": "JPG-T1-C020",
+  "source_id": "T1",
+  "status": "pass",
+  "reviewed_on": "2026-09-06",
+  "reviewer_model": "current execution model; no model switch",
+  "source_revision": {
+    "delivery_branch": "main",
+    "repository_commit": "76e4fd8fdc2f851abe534439d294efa0ca7bf1cb",
+    "source_catalog": "contracts/source-catalog.json",
+    "source_catalog_sha256": "8358e9cffb068f63df0bdfcc8f99be035e66454ac8710d381f0ff9eb87728079",
+    "page_plan": "contracts/page-plan.json",
+    "page_plan_sha256": "997a7280b171df5803c2a3bb7c2ee8764082e01f3bdb03c194b9129fe18d26c9",
+    "source_manifest": "project/T1/sources.json",
+    "source_manifest_sha256": "760f946d08e1eebf2d79c189103ac2e627f0bb2569dcd80055885fb8b97324cd",
+    "source_map": "project/T1/source-map.json",
+    "source_map_sha256": "3ff42e94bd9f8751f8100c6ff251740a46f67182c468af620438c9768f14b961",
+    "batch_manifest": "project/T1/batches.json",
+    "batch_manifest_sha256": "125ff5fee8f8271b82c3258ced501ed4411b4071b930f08f1ed682e72c2628c4",
+    "inventory_review": "project/T1/inventory-review.json",
+    "inventory_review_sha256": "83e2c59f059ffdec53fcb8fb83a5f1300d5cca0722dcf031db0b459bd7ab8c19",
+    "pilot_qa": "project/T1/qa/pilot.json",
+    "pilot_qa_sha256": "cfd72bc97fc4ac0f8471bad6dc7b925085d1822ff606754b91f1b35f9b3ce694",
+    "source_original_root": "/Users/xihangzou/Study/320_CPA/322_財務理論/images/cpa-fa-theory-textbook-1-jpg",
+    "source_pdf": "/Users/xihangzou/Study/320_CPA/322_財務理論/01_テキスト/財務会計論テキスト　理論1.pdf",
+    "source_pdf_sha256": "c09d9d91ce39de787cab04e146719d95b638134399d57112802ffacfa67243f3",
+    "source_image_inventory_sha256": "331ad1ea2ca04d0636c2185b6ab1a8fe5240ebdd3f0c7c546c8703371d497929",
+    "edition": "2024/2025年合格目標",
+    "publication_date": "2023-01-23",
+    "physical_scope": "T1:277-T1:284",
+    "processing_scope": "T1:277-T1:283",
+    "content_authority": "designated existing JPGs only; PDF used only for identity/planning support"
+  },
+  "dependency_commits": [
+    "a2fb2bb829d112522128cdb145523302e9d1e7fd",
+    "1fd8a963ef32e09b5f3f08ecd7d5bb7cc2240a94",
+    "393dc82a64791eb452ea64ccb8cbfc55212718ef",
+    "7507151c638a73a41fc13b9d4c4481c8888307e0"
+  ],
+  "source_images": [
+    {"page": "T1:277", "printed_page": null, "image": "pages/T1/page-277.jpg", "sha256": "19d0f3c0f9bd450b3e0599f34bc1809fab4a14109e75ef5c32380c5f4b58c08f"},
+    {"page": "T1:278", "printed_page": "⑬－1", "image": "pages/T1/page-278.jpg", "sha256": "bca73285da1f837c79095f1b288a4bfef9e9d270b6b0b45f7ce6a71e08e75d46"},
+    {"page": "T1:279", "printed_page": "⑬－2", "image": "pages/T1/page-279.jpg", "sha256": "2cd0d7551921b898e0fe61d00bd997a3c0c1f23a22eb51815088a3d9627ceec5"},
+    {"page": "T1:280", "printed_page": "⑬－3", "image": "pages/T1/page-280.jpg", "sha256": "d10014e2c0943c26d7b0e8ffc93f941da61dbf8fee82c853028361a189b2db25"},
+    {"page": "T1:281", "printed_page": "⑬－4", "image": "pages/T1/page-281.jpg", "sha256": "e5b25af505374a8e4888c277581fababb5f01a39949ade124051a8886131c6d8"},
+    {"page": "T1:282", "printed_page": "⑬－5", "image": "pages/T1/page-282.jpg", "sha256": "6e79e42fd6939b27dee1672225a1e9d456878cbd802731e16e9f69d6332d3331"},
+    {"page": "T1:283", "printed_page": "⑬－6", "image": "pages/T1/page-283.jpg", "sha256": "f6cf0dd09ac67fede4ec0f247af529fe8aa23acf087285236a8d0b89f1830abf"}
+  ],
+  "section_outputs": [
+    {"task": "JPG-T1-C020-S01", "chunk": "project/T1/chunks/JPG-T1-C020/JPG-T1-C020-S01.md", "chunk_sha256": "1ef9483bae6a7b7b2fab1092649f7fe929d8c32755a693cb2b2127b42761ec3e"},
+    {"task": "JPG-T1-C020-S02", "chunk": "project/T1/chunks/JPG-T1-C020/JPG-T1-C020-S02.md", "chunk_sha256": "c16d4a8f0f8c36ae20abd413e078eec2970e1d778e1223df208bc93fa1392355"},
+    {"task": "JPG-T1-C020-S03", "chunk": "project/T1/chunks/JPG-T1-C020/JPG-T1-C020-S03.md", "chunk_sha256": "2d93e1c391a2e8e0862b2f425372b8c83cc9929a9a87d2b784e357a8cb6bbc09"},
+    {"task": "JPG-T1-C020-S04", "chunk": "project/T1/chunks/JPG-T1-C020/JPG-T1-C020-S04.md", "chunk_sha256": "550c15f0e745af6f4feb3722e407b6c2c2543eef16be3e3bb202f7511b8c879d"}
+  ],
+  "coverage": [
+    {"page": "T1:277", "status": "pass", "regions": ["chapter title and chapter identity", "short-answer exam-history table", "essay exam-history table"], "findings": "Chapter 13 title and all four topic rows were checked; marked short-answer entries for IFRS and JMIS were retained and no substantive learner content was omitted."},
+    {"page": "T1:278", "status": "pass", "regions": ["section 1 banner and title", "setting-body overview", "企業会計審議会 definition and eight listed standards", "ASBJ establishment history, eight listed standards, precedence and fallback rule"], "findings": "Public/private setter distinctions, dates, lists, priority example and unissued-standard exception were checked against the page."},
+    {"page": "T1:279", "status": "pass", "regions": ["section 2 banner and subsection 1", "seven-term definition table", "principle-based/rule-based definitions", "subsidiary-control numerical example"], "findings": "IFRS, IASB, FASB, ASBJ, convergence, adoption and endorsement meanings were retained; the 40% rule-based contrast with substantive-control IFRS was checked."},
+    {"page": "T1:280", "status": "pass", "regions": ["principle/rule advantages and disadvantages table", "lease-contract manipulation footnote", "optional-application timing", "specific-company two-part requirements", "eligible consolidated and individual statements", "designated-standard and 2013 relaxation footnotes"], "findings": "All comparison rows, thresholds, conditions, exceptions and footnote qualifications were checked; no requirement was broadened."},
+    {"page": "T1:281", "status": "pass", "regions": ["consolidation-first and separation definitions", "comprehensive-income-standard example", "consolidated versus individual role/reason table", "criticism based on individual-statement basis principle"], "findings": "Running header and section boundary were checked; page 281 remains section 2 and its full convergence/adoption material is in S02."},
+    {"page": "T1:282", "status": "pass", "regions": ["section 3 banner and introduction", "JMIS definition and fourth-rule context", "goodwill amortisation and delete/modify footnote", "OCI recycling example and rationale", "application timing and requirements"], "findings": "Both stated JMIS modifications, the available-securities example, net-income rationale and effective-date condition were checked."},
+    {"page": "T1:283", "status": "pass", "regions": ["section 4 banner and legal basis", "special financial-statement filer exception", "note exemptions", "old/current materiality table", "manufacturing-cost-statement exemption"], "findings": "The 1%/5%, 5%/10% thresholds and all three table row groupings were checked; the segment-information condition was retained."}
+  ],
+  "excluded_pages": [
+    {"page": "T1:284", "printed_page": "⑬－7", "status": "excluded", "reason": "Blank chapter-end MEMO page; reopened and confirmed no learner content."}
+  ],
+  "findings": [
+    "All seven included processing JPGs were reopened at readable full resolution and compared with the four section chunks, including margins, running headers, boxed tables, exam-history tables, footnotes, thresholds, dates, examples and section boundaries.",
+    "Physical page 277 is a substantive chapter divider and exam-history page and is retained in S01; physical page 284 is explicitly excluded as the blank MEMO page recorded by inventory.",
+    "The section boundary at physical page 281 was checked against its running header: convergence/adoption remains part of section 2; section 3 starts on physical page 282.",
+    "The chunks contain no bold syntax, Cloze syntax, Front/Back fields, integration output or card output.",
+    "No unresolved marker remains and no correction was required after the image comparison.",
+    "No diagram-only content or question/answer or false-proposition layout appears in this batch; those specialized checks are not applicable."
+  ],
+  "corrections": [],
+  "checks": {
+    "numerical": "pass",
+    "diagram": "not_applicable",
+    "false_proposition": "not_applicable"
+  },
+  "unresolved_count": 0
+}
