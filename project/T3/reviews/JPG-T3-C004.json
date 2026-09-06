@@ -1,0 +1,151 @@
+{
+  "batch_id": "JPG-T3-C004",
+  "source_id": "T3",
+  "status": "pass",
+  "review_date": "2026-09-06",
+  "reviewer_model": "GPT-5",
+  "unresolved_count": 0,
+  "source_revision": {
+    "repository_commit": "69774950743ba7f82c96f89b199a2df89249772a",
+    "source_pdf_sha256": "1d9f0124a0c8ef759526decc90a1a410f694e2b7fa992b430fc413e783df85bc",
+    "source_image_inventory_sha256": "8e0709aa6cd2d086d9df18627ae7eb466c20cdb59474bbef26038f03d9d40b24",
+    "catalog_image_inventory_sha256": "af94a7c1f91d1eb56611afc242360566950d6f93d5a6ac7d5271c5e8d3f9d170",
+    "batch_boundary_review_id": "JPG-T3-INV-BND-JPG-T3-C004"
+  },
+  "dependency_commits": [
+    "a2fb2bb829d112522128cdb145523302e9d1e7fd",
+    "cccf7c381768b18116d49e4847dac5df2b01506c",
+    "0034627e759ba83225ae91dbc5cba1c1825ba3a6"
+  ],
+  "source_images": [
+    {
+      "page": "T3:072",
+      "printed_page": "㉝－65",
+      "image": "pages/T3/page-072.jpg",
+      "sha256": "da38a77b46ce96f0d206f4b5725c6cdc406ff64d9ff44f8071548312b33ae1fc"
+    },
+    {
+      "page": "T3:073",
+      "printed_page": "㉝－66",
+      "image": "pages/T3/page-073.jpg",
+      "sha256": "c2038ea5964f13a8e4268bb4ffe79ddc14fb3b6c00dd573bfc58d7641e63a610"
+    },
+    {
+      "page": "T3:074",
+      "printed_page": "㉝－67",
+      "image": "pages/T3/page-074.jpg",
+      "sha256": "247e45c3899b0cee046e9f2864afc610f8c25bac497349109357362039496fb9"
+    },
+    {
+      "page": "T3:075",
+      "printed_page": "㉝－68",
+      "image": "pages/T3/page-075.jpg",
+      "sha256": "ffab6c13308d5283ba0e9c6c589d300affab62b5c27a02a5f0e1c514713ff8a8"
+    },
+    {
+      "page": "T3:076",
+      "printed_page": "㉝－69",
+      "image": "pages/T3/page-076.jpg",
+      "sha256": "334a9539553221a1ff5e38197d479dda734d814fc8571dc7bd5acb1b526bc827"
+    }
+  ],
+  "section_outputs": [
+    {
+      "task": "JPG-T3-C004-S01",
+      "chunk": "project/T3/chunks/JPG-T3-C004/JPG-T3-C004-S01.md",
+      "chunk_sha256": "d7a1155042930ae53aaa6c47f2584b2ba5dc42f7a0edf5d0ef222ae246fe9354"
+    },
+    {
+      "task": "JPG-T3-C004-S02",
+      "chunk": "project/T3/chunks/JPG-T3-C004/JPG-T3-C004-S02.md",
+      "chunk_sha256": "b5c76b64dc1a117d84c6cb1035a5a0ab80a23da01945a5f044ba84e1620cafb7"
+    }
+  ],
+  "coverage": [
+    {
+      "page": "T3:072",
+      "status": "pass",
+      "regions": [
+        "chapter and section titles, LP definition and use as a debt-liquidation method",
+        "A bank, debtor and investor flow; no direct investor claim and principal/interest pass-through",
+        "LP creditor-side principle method and 5,000 loan / 5,200 investor consideration entries",
+        "margins and footer ㉝－65 checked"
+      ]
+    },
+    {
+      "page": "T3:073",
+      "status": "pass",
+      "regions": [
+        "LP concession rule, risk/economic-benefit approach, risk and benefit examples",
+        "5,000 loan / 5,200 consideration / 200 other operating revenue entry",
+        "debt-assumption definition, debt buyback purpose and issuer-bank-bondholder flow",
+        "margins and footer ㉝－66 checked"
+      ]
+    },
+    {
+      "page": "T3:074",
+      "status": "pass",
+      "regions": [
+        "debt-assumption debtor-side principle method and no-off-balance conclusion",
+        "5,000 bond / 5,100 bank deposit entries",
+        "irrevocable trust, preservation of principal and interest, very-low-recourse concession rule",
+        "5,000 bond / 100 redemption loss / 5,100 cash-deposit entry, bank diagram and footer ㉝－67 checked"
+      ]
+    },
+    {
+      "page": "T3:075",
+      "status": "pass",
+      "regions": [
+        "debt-equity-swap definition and debt-for-share exchange diagram",
+        "ordinary cash repayment versus debt-to-capital accounting and creditor share receipt",
+        "creditor-side extinguishment rule, current-period gain/loss difference and fair-value consideration",
+        "carrying-value definition after allowance and the three debit lines / one credit line, footer ㉝－68 checked"
+      ]
+    },
+    {
+      "page": "T3:076",
+      "status": "pass",
+      "regions": [
+        "section 14 introduction, materiality omission rule and consolidated-versus-separate statement rule",
+        "four financial-instrument-status disclosures",
+        "fair-value disclosure rule and market-price-unavailable equity exception",
+        "level-by-level fair-value breakdown disclosure and footer ㉝－69 checked"
+      ]
+    }
+  ],
+  "findings": [
+    "All five designated images are substantive, upright and legible; no page is excluded inside this batch.",
+    "The diagrams on pages 72–75 were verbalized with the actor directions, legal-versus-economic distinction, no-direct-claim or no-off-balance boundary, and accounting consequence preserved.",
+    "The numerical examples 5,000/5,200, 5,000/5,100 and 100 loss were checked against the images; amounts, units and debit/credit direction are preserved.",
+    "Page 75 preserves the distinction between the debt-equity-swap ordinary repayment entry and the debt-to-capital entry, plus the creditor-side stock-at-acquisition-date-fair-value rule.",
+    "Page 76 is a theory disclosure list, not a question/answer or false-proposition layout; the three disclosure categories and the no-market-price equity exception are preserved."
+  ],
+  "corrections": [],
+  "checks": {
+    "numerical": "pass",
+    "diagram": "pass",
+    "false_proposition": "not_applicable"
+  },
+  "semantic_review": {
+    "positive_examples": [
+      "LP principle and concession methods retain the legal creditor status, risk/economic-benefit test and alternative journal entries.",
+      "Debt assumption retains both the legal first-obligor boundary and the narrow concession condition based on an irrevocable trust and very low recourse.",
+      "Debt-equity swap retains extinguishment, fair-value consideration, allowance offset and loss presentation.",
+      "Note disclosures retain materiality, consolidated/separate presentation, fair-value exceptions and level breakdown."
+    ],
+    "negative_or_boundary_examples": [
+      "An LP investor cannot directly demand principal from the debtor because the original creditor remains the legal creditor.",
+      "Debt assumption is not a legal bond redemption under the principle method even though the issuer is economically released from payment operations.",
+      "The debt-equity-swap diagram distinguishes cash repayment from issuing capital; the creditor's financial-asset extinguishment follows the debtor's extinguishment.",
+      "Market-price-unavailable shares are an exception to fair-value disclosure, with the instrument overview and balance-sheet amount disclosed instead."
+    ],
+    "question_answer_links": {
+      "status": "not_applicable",
+      "reason": "The designated theory pages contain no question-to-answer layout."
+    },
+    "false_proposition_labels": {
+      "status": "not_applicable",
+      "reason": "The designated theory pages contain no false-proposition set."
+    }
+  }
+}

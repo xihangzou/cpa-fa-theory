@@ -1,0 +1,80 @@
+{
+  "batch_id": "JPG-T3-C004",
+  "source_id": "T3",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-T3-C004-S01",
+      "batch_id": "JPG-T3-C004",
+      "chapter": "33",
+      "section": "33.13",
+      "title": "第13節 金融商品の消滅に関するその他の論点",
+      "expected_pages": [
+        "T3:072",
+        "T3:073",
+        "T3:074",
+        "T3:075"
+      ],
+      "processing_pages": [
+        "T3:072",
+        "T3:073",
+        "T3:074",
+        "T3:075"
+      ],
+      "output": "chunks/JPG-T3-C004/JPG-T3-C004-S01.md",
+      "status": "pass",
+      "locators": [
+        {
+          "page": "T3:072",
+          "printed_page": "㉝－65",
+          "source_region": "第13節の節頭、1.ローン・パーティシペーションの定義・利用目的・取引関係、2.(1)原則法の説明と5,000・5,200の仕訳",
+          "destination_heading": "## 第13節 金融商品の消滅に関するその他の論点"
+        },
+        {
+          "page": "T3:073",
+          "printed_page": "㉝－66",
+          "source_region": "1.(2)容認規定、リスクと経済的利益の説明、5,000・5,200の仕訳、2.デット・アサンプションの定義・利用目的・取引関係",
+          "destination_heading": "## 第13節 金融商品の消滅に関するその他の論点"
+        },
+        {
+          "page": "T3:074",
+          "printed_page": "㉝－67",
+          "source_region": "2.(2)デット・アサンプションの債務者側会計処理、原則法・容認規定、5,000・5,100の仕訳と銀行預託の図",
+          "destination_heading": "## 第13節 金融商品の消滅に関するその他の論点"
+        },
+        {
+          "page": "T3:075",
+          "printed_page": "㉝－68",
+          "source_region": "3.デット・エクイティ・スワップの定義・取引図・通常取引との対比、債権者側の消滅認識・時価・貸倒引当金の仕訳",
+          "destination_heading": "## 第13節 金融商品の消滅に関するその他の論点"
+        }
+      ],
+      "chunk_sha256": "d7a1155042930ae53aaa6c47f2584b2ba5dc42f7a0edf5d0ef222ae246fe9354"
+    },
+    {
+      "id": "JPG-T3-C004-S02",
+      "batch_id": "JPG-T3-C004",
+      "chapter": "33",
+      "section": "33.14",
+      "title": "第14節 注記事項",
+      "expected_pages": [
+        "T3:076"
+      ],
+      "processing_pages": [
+        "T3:076"
+      ],
+      "output": "chunks/JPG-T3-C004/JPG-T3-C004-S02.md",
+      "status": "pass",
+      "locators": [
+        {
+          "page": "T3:076",
+          "printed_page": "㉝－69",
+          "source_region": "第14節の節頭、金融商品に係る注記事項の省略条件・連結個別の関係、(1)から(3)の注記事項と市場価格のない株式等の扱い",
+          "destination_heading": "## 第14節 注記事項"
+        }
+      ],
+      "chunk_sha256": "b5c76b64dc1a117d84c6cb1035a5a0ab80a23da01945a5f044ba84e1620cafb7"
+    }
+  ],
+  "review": "reviews/JPG-T3-C004.json"
+}
