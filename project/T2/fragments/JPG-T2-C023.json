@@ -1,0 +1,90 @@
+{
+  "batch_id": "JPG-T2-C023",
+  "source_id": "T2",
+  "status": "pass",
+  "review": "reviews/JPG-T2-C023.json",
+  "tasks": [
+    {
+      "id": "JPG-T2-C023-S01",
+      "batch_id": "JPG-T2-C023",
+      "chapter": "32",
+      "section": "32.1",
+      "title": "第1節 四半期財務諸表の総論",
+      "expected_pages": ["T2:411", "T2:412", "T2:413"],
+      "processing_pages": ["T2:411", "T2:412", "T2:413"],
+      "output": "chunks/JPG-T2-C023/JPG-T2-C023-S01.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T2:411", "printed_page": null, "source_region": "chapter 32 opener; short-answer and essay exam-history tables", "destination_heading": "## 第1節 四半期財務諸表の総論"},
+        {"page": "T2:412", "printed_page": "㉜-1", "source_region": "topics 1 and 2; definition, accounting-period timeline and applicability boundary", "destination_heading": "## 第1節 四半期財務諸表の総論"},
+        {"page": "T2:413", "printed_page": "㉜-2", "source_region": "topic 3 definition table and topic 4(1) consolidated/individual statement scope", "destination_heading": "## 第1節 四半期財務諸表の総論"}
+      ],
+      "chunk_sha256": "b8f8c4f31a218824be53bd1354ba65f217b3034abf74f4896db1f0609d5a752c"
+    },
+    {
+      "id": "JPG-T2-C023-S02",
+      "batch_id": "JPG-T2-C023",
+      "chapter": "32",
+      "section": "32.1",
+      "title": "第1節 四半期財務諸表の総論",
+      "expected_pages": ["T2:414", "T2:415"],
+      "processing_pages": ["T2:414", "T2:415"],
+      "output": "chunks/JPG-T2-C023/JPG-T2-C023-S02.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T2:414", "printed_page": "㉜-3", "source_region": "topic 4(2) quarterly versus annual individual/consolidated statement table and notes", "destination_heading": "## 第1節 四半期財務諸表の総論"},
+        {"page": "T2:415", "printed_page": "㉜-4", "source_region": "topic 4(3) equity-statement alternatives and current treatment; deadline supplement; topic 5(1) opening", "destination_heading": "## 第1節 四半期財務諸表の総論"}
+      ],
+      "chunk_sha256": "58426334509e925e5bb590f3f685673dc8efb185e4de643d924ff0dbc9dfc03a"
+    },
+    {
+      "id": "JPG-T2-C023-S03",
+      "batch_id": "JPG-T2-C023",
+      "chapter": "32",
+      "section": "32.1",
+      "title": "第1節 四半期財務諸表の総論",
+      "expected_pages": ["T2:415", "T2:416", "T2:417"],
+      "processing_pages": ["T2:415", "T2:416", "T2:417"],
+      "output": "chunks/JPG-T2-C023/JPG-T2-C023-S03.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T2:415", "printed_page": "㉜-4", "source_region": "topic 5(1) lower-page opening and comparative-period disclosure boundary", "destination_heading": "## 第1節 四半期財務諸表の総論"},
+        {"page": "T2:416", "printed_page": "㉜-5", "source_region": "topic 5(1) supplement and disclosure-period summary table", "destination_heading": "## 第1節 四半期財務諸表の総論"},
+        {"page": "T2:417", "printed_page": "㉜-6", "source_region": "topics 5(2) and 5(3); cumulative/quarterly P/L example and cash-flow conclusion", "destination_heading": "## 第1節 四半期財務諸表の総論"}
+      ],
+      "chunk_sha256": "ac1c40a247467cb19d5b2a5cf453e92251e5cdf6721ea40e3fbbec8b202d08c3"
+    },
+    {
+      "id": "JPG-T2-C023-S04",
+      "batch_id": "JPG-T2-C023",
+      "chapter": "32",
+      "section": "32.1",
+      "title": "第1節 四半期財務諸表の総論",
+      "expected_pages": ["T2:418", "T2:419", "T2:420"],
+      "processing_pages": ["T2:418", "T2:419", "T2:420"],
+      "output": "chunks/JPG-T2-C023/JPG-T2-C023-S04.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T2:418", "printed_page": "㉜-7", "source_region": "topic 6(1) actualism/predictive conceptual distinction and current Japanese position", "destination_heading": "## 第1節 四半期財務諸表の総論"},
+        {"page": "T2:419", "printed_page": "㉜-8", "source_region": "topic 6(1) definitions, summary boxes and historical transition diagram", "destination_heading": "## 第1節 四半期財務諸表の総論"},
+        {"page": "T2:420", "printed_page": "㉜-9", "source_region": "actualism/predictive numerical illustration, seasonal-variation diagram and prediction-purpose conclusion", "destination_heading": "## 第1節 四半期財務諸表の総論"}
+      ],
+      "chunk_sha256": "92884e91e97fe4ef390d124a680929e0d8b4e52468a3967d46067170a72bbbdc"
+    },
+    {
+      "id": "JPG-T2-C023-S05",
+      "batch_id": "JPG-T2-C023",
+      "chapter": "32",
+      "section": "32.1",
+      "title": "第1節 四半期財務諸表の総論",
+      "expected_pages": ["T2:421"],
+      "processing_pages": ["T2:421"],
+      "output": "chunks/JPG-T2-C023/JPG-T2-C023-S05.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T2:421", "printed_page": "㉜-10", "source_region": "topic 6(2) three arguments supporting actualism", "destination_heading": "## 第1節 四半期財務諸表の総論"}
+      ],
+      "chunk_sha256": "9abc55dbec65aabec44d8ec1329d4da7109c9d06eefabd8431a10b0984c0649d"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "batch_id": "JPG-T2-C023",
+  "source_id": "T2",
+  "status": "pass",
+  "source_images": [
+    {"page": "T2:411", "printed_page": null, "sha256": "0d2cd99eea02f5dad628b0c052323881fc34381674e37d20bf8254cae528dc20"},
+    {"page": "T2:412", "printed_page": "㉜-1", "sha256": "b0f7e6c0b240ef698fbede403c1a7f76baa7598c27366ebe7f3c838183dfad1b"},
+    {"page": "T2:413", "printed_page": "㉜-2", "sha256": "48d2478ba7126737a22e34f39529972682b494f63b4141edf73fb0370f29e475"},
+    {"page": "T2:414", "printed_page": "㉜-3", "sha256": "aef82ca24206529b14743436331cda4d377486e9a9d5dd31f1cc3ed455ed3512"},
+    {"page": "T2:415", "printed_page": "㉜-4", "sha256": "4e8102b489f8861e1527181d8e62ec789760a181536220c508c73f7ee727ccf3"},
+    {"page": "T2:416", "printed_page": "㉜-5", "sha256": "981cb33ee05d4032a4573ea6fdf6d180c4fbc5f41338f241f275afda8651bd67"},
+    {"page": "T2:417", "printed_page": "㉜-6", "sha256": "46800170bb88a59b9d1e8aadbb6cdaa686ed886249d165ef2778b66d522dec9c"},
+    {"page": "T2:418", "printed_page": "㉜-7", "sha256": "85e0fa962169f60e00087875634277a3e45d6724eccb85b9100134a900cf9ac5"},
+    {"page": "T2:419", "printed_page": "㉜-8", "sha256": "385e590fa1fc65bb43e0dfc528c85b8bab40e47bdecf06ed98038ab312d8e154"},
+    {"page": "T2:420", "printed_page": "㉜-9", "sha256": "a5c9f1ef85f881a0e284b542ecfec2dabfa0651a03343d9369d1db949c376d0f"},
+    {"page": "T2:421", "printed_page": "㉜-10", "sha256": "e40e8aa4b8873fc315095fe134ebbc85473bb11fb1d735390c8a86313976e0a1"}
+  ],
+  "section_outputs": [
+    {"task": "JPG-T2-C023-S01", "chunk_sha256": "b8f8c4f31a218824be53bd1354ba65f217b3034abf74f4896db1f0609d5a752c"},
+    {"task": "JPG-T2-C023-S02", "chunk_sha256": "58426334509e925e5bb590f3f685673dc8efb185e4de643d924ff0dbc9dfc03a"},
+    {"task": "JPG-T2-C023-S03", "chunk_sha256": "ac1c40a247467cb19d5b2a5cf453e92251e5cdf6721ea40e3fbbec8b202d08c3"},
+    {"task": "JPG-T2-C023-S04", "chunk_sha256": "92884e91e97fe4ef390d124a680929e0d8b4e52468a3967d46067170a72bbbdc"},
+    {"task": "JPG-T2-C023-S05", "chunk_sha256": "9abc55dbec65aabec44d8ec1329d4da7109c9d06eefabd8431a10b0984c0649d"}
+  ],
+  "coverage": [
+    {"page": "T2:411", "regions": ["chapter title, difficulty markers, reference box, short-answer and essay exam-history tables"], "status": "pass"},
+    {"page": "T2:412", "regions": ["section opener, topic 1 definition and period timeline, topic 2 applicability and non-listed-company boundary"], "status": "pass"},
+    {"page": "T2:413", "regions": ["topic 3 definition table, topic 4 heading and consolidated/individual scope text"], "status": "pass"},
+    {"page": "T2:414", "regions": ["quarterly/annual individual and consolidated statement comparison table, notes 1 and 2, accumulated-depreciation note"], "status": "pass"},
+    {"page": "T2:415", "regions": ["two equity-statement views and arguments, 45-day/3-month deadline table, topic 5(1) disclosure-period rules"], "status": "pass"},
+    {"page": "T2:416", "regions": ["topic 5(1) comparative-period supplement, current/prior disclosure diagram and cumulative-period summary"], "status": "pass"},
+    {"page": "T2:417", "regions": ["topic 5(2) three disclosure views, 110/120/90/130 and 80/70/80/110 example, topic 5(3) cash-flow view"], "status": "pass"},
+    {"page": "T2:418", "regions": ["topic 6(1) actualism/predictive comparison table, 110/120/90/130 and 450/340/110 example, current-rule conclusion"], "status": "pass"},
+    {"page": "T2:419", "regions": ["actualism and predictive definitions, current Japanese position, historical transition diagram"], "status": "pass"},
+    {"page": "T2:420", "regions": ["100/40, 450/270, 1:0.6 and 100/60 example, seasonal-variation and prediction diagrams, topic 6(2) opening"], "status": "pass"},
+    {"page": "T2:421", "regions": ["topic 6(2) three actualism arguments: prediction usefulness, reduced discretion/procedure clarity, and comparability"], "status": "pass"}
+  ],
+  "findings": [
+    "All 11 inventory-approved processing images T2:411-T2:421 were reopened at readable full-page resolution and compared with the five bounded continuation chunks, including margins, tables, timeline diagrams, supplement boxes and the chapter opener.",
+    "The source contains one actual section, 第1節 四半期財務諸表の総論, with numbered topics 1-6; the five chunks preserve the section identity and split only at bounded topic/page regions.",
+    "Page 415 is cited by two tasks within the same owning batch because it contains the end of topic 4 and the beginning of topic 5; no page has another batch owner.",
+    "Numerical checks covered the exam-history counts, 450/340/110 annual estimates, cumulative 320/230/90 and 82% progress, quarterly 110/120/90 revenue and 80/70/80 expense, and the actualism/predictive 100/40/450/270/20/60 example.",
+    "Diagram checks covered the 4/1-3/31 quarterly timeline, statement-scope comparisons, cumulative versus quarter-only disclosure, and the actualism/predictive historical and numerical diagrams.",
+    "No source-derived question/answer or false-proposition layout occurs in this theory batch. No unresolved marker, invented content, out-of-batch locator or unreviewed included page remains."
+  ],
+  "corrections": [],
+  "checks": {"numerical": "pass", "diagram": "pass", "false_proposition": "not_applicable"},
+  "unresolved_count": 0,
+  "reviewer_model": "current execution model; no model switch",
+  "dependency_commits": [
+    "a2fb2bb829d112522128cdb145523302e9d1e7fd",
+    "558bb1e92a2bd7e550af9c2034dc695efde6f19d",
+    "a6e69fbb64cc16aa5800f0aa6a3cf32c7ae449a3"
+  ]
+}
