@@ -1,0 +1,124 @@
+{
+  "batch_id": "JPG-T1-C021",
+  "source_id": "T1",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-T1-C021-S01",
+      "batch_id": "JPG-T1-C021",
+      "chapter": "14",
+      "section": "14.1",
+      "title": "第1節 セグメント情報等に関する基本事項",
+      "expected_pages": ["T1:285", "T1:286"],
+      "processing_pages": ["T1:285", "T1:286"],
+      "output": "chunks/JPG-T1-C021/JPG-T1-C021-S01.md",
+      "status": "pass",
+      "chunk_sha256": "3ae5da2017aa050ae83738a69726e147d9bf41f96f7a9992b3b72997adb30ca2",
+      "locators": [
+        {"page": "T1:285", "printed_page": null, "source_region": "第14章章扉、章タイトル、短答式・論文式本試験における出題実績表", "destination_heading": "## 第1節 セグメント情報等に関する基本事項"},
+        {"page": "T1:286", "printed_page": "⑭－1", "source_region": "第1節の扉、セグメント情報の定義・必要性、合算情報と事業別情報の図解、本会計基準の定める4種類の開示情報", "destination_heading": "## 第1節 セグメント情報等に関する基本事項"}
+      ]
+    },
+    {
+      "id": "JPG-T1-C021-S02",
+      "batch_id": "JPG-T1-C021",
+      "chapter": "14",
+      "section": "14.2",
+      "title": "第2節 マネジメント・アプローチ",
+      "expected_pages": ["T1:287", "T1:288", "T1:289", "T1:290", "T1:291", "T1:292"],
+      "processing_pages": ["T1:287", "T1:288", "T1:289", "T1:290", "T1:291", "T1:292"],
+      "output": "chunks/JPG-T1-C021/JPG-T1-C021-S02.md",
+      "status": "pass",
+      "chunk_sha256": "2cf969ab4de943b6b8e11fd1d657e9ebec71df3ef906771405c746d452d63e64",
+      "locators": [
+        {"page": "T1:287", "printed_page": "⑭－2", "source_region": "第2節の扉、マネジメント・アプローチの意義、事業本部別の内部情報とセグメント情報の図解", "destination_heading": "## 第2節 マネジメント・アプローチ"},
+        {"page": "T1:288", "printed_page": "⑭－3", "source_region": "マネジメント・アプローチの3特徴、組織構造・内部配分・内部報告会計方針の図解", "destination_heading": "## 第2節 マネジメント・アプローチ"},
+        {"page": "T1:289", "printed_page": "⑭－4", "source_region": "従来のセグメント情報の画一性・財務諸表基礎、マネジメント・アプローチとの差異", "destination_heading": "## 第2節 マネジメント・アプローチ"},
+        {"page": "T1:290", "printed_page": "⑭－5", "source_region": "マネジメント・アプローチの長所3点と短所2点", "destination_heading": "## 第2節 マネジメント・アプローチ"},
+        {"page": "T1:291", "printed_page": "⑭－6", "source_region": "概念フレームワークの質的特性の階層図、関連性・比較可能性とマネジメント・アプローチの関係", "destination_heading": "## 第2節 マネジメント・アプローチ"},
+        {"page": "T1:292", "printed_page": "⑭－7", "source_region": "事業活動上の障害の補足、開示免除を認める見解と認めない見解、その論拠", "destination_heading": "## 第2節 マネジメント・アプローチ"}
+      ]
+    },
+    {
+      "id": "JPG-T1-C021-S03",
+      "batch_id": "JPG-T1-C021",
+      "chapter": "14",
+      "section": "14.3",
+      "title": "第3節 本会計基準の適用範囲と基本原則",
+      "expected_pages": ["T1:293"],
+      "processing_pages": ["T1:293"],
+      "output": "chunks/JPG-T1-C021/JPG-T1-C021-S03.md",
+      "status": "pass",
+      "chunk_sha256": "f8f08c98a8c0b886c34502980c01651110ca9c240d68ee98a0690870c479fcaa",
+      "locators": [
+        {"page": "T1:293", "printed_page": "⑭－8", "source_region": "第3節の扉、適用範囲、連結開示時の個別開示不要、基本原則2点、重要性による適用不要の注記", "destination_heading": "## 第3節 本会計基準の適用範囲と基本原則"}
+      ]
+    },
+    {
+      "id": "JPG-T1-C021-S04",
+      "batch_id": "JPG-T1-C021",
+      "chapter": "14",
+      "section": "14.4",
+      "title": "第4節 事業セグメントの識別",
+      "expected_pages": ["T1:294", "T1:295"],
+      "processing_pages": ["T1:294", "T1:295"],
+      "output": "chunks/JPG-T1-C021/JPG-T1-C021-S04.md",
+      "status": "pass",
+      "chunk_sha256": "feb3b907a34d4f3864585033758e1f4e7e71c865ffbffa2f2f155dca5cca4d1c",
+      "locators": [
+        {"page": "T1:294", "printed_page": "⑭－9", "source_region": "第4節の扉、開示までの3段階の流れ、事業セグメントの定義と3要件、最高経営意思決定機関の注記", "destination_heading": "## 第4節 事業セグメントの識別"},
+        {"page": "T1:295", "printed_page": "⑭－10", "source_region": "3要件の図解、未収益事業の扱い、事業セグメントにならない構成単位、複数の区分方法の選択要素", "destination_heading": "## 第4節 事業セグメントの識別"}
+      ]
+    },
+    {
+      "id": "JPG-T1-C021-S05",
+      "batch_id": "JPG-T1-C021",
+      "chapter": "14",
+      "section": "14.5",
+      "title": "第5節 報告セグメントの決定",
+      "expected_pages": ["T1:296", "T1:297", "T1:298", "T1:299", "T1:300", "T1:301", "T1:302"],
+      "processing_pages": ["T1:296", "T1:297", "T1:298", "T1:299", "T1:300", "T1:301", "T1:302"],
+      "output": "chunks/JPG-T1-C021/JPG-T1-C021-S05.md",
+      "status": "pass",
+      "chunk_sha256": "f0bd60e85c4159898f78ea697f69757634031825846f6b0e3fb02f2ea156bdf7",
+      "locators": [
+        {"page": "T1:296", "printed_page": "⑭－11", "source_region": "第5節の扉、集約基準・量的基準の考え方と適用順序のフロー", "destination_heading": "## 第5節 報告セグメントの決定"},
+        {"page": "T1:297", "printed_page": "⑭－12", "source_region": "集約基準3要件、長期的業績の類似性、α・β部品事業部の集約例", "destination_heading": "## 第5節 報告セグメントの決定"},
+        {"page": "T1:298", "printed_page": "⑭－13", "source_region": "量的基準3要件、A〜E事業部の売上高・利益・資産表、売上高基準", "destination_heading": "## 第5節 報告セグメントの決定"},
+        {"page": "T1:299", "printed_page": "⑭－14", "source_region": "A〜E事業部の損益基準・資産基準の計算、最終判定、量的基準例外①", "destination_heading": "## 第5節 報告セグメントの決定"},
+        {"page": "T1:300", "printed_page": "⑭－15", "source_region": "量的基準例外②、75%ルールの具体例、報告セグメント数に上限を設けない補足", "destination_heading": "## 第5節 報告セグメントの決定"},
+        {"page": "T1:301", "printed_page": "⑭－16", "source_region": "その他区分への一括開示、記載例、量的重要性が変化した場合の前年度情報", "destination_heading": "## 第5節 報告セグメントの決定"},
+        {"page": "T1:302", "printed_page": "⑭－17", "source_region": "報告セグメントを決定するまでの一連の流れのフロー図", "destination_heading": "## 第5節 報告セグメントの決定"}
+      ]
+    },
+    {
+      "id": "JPG-T1-C021-S06",
+      "batch_id": "JPG-T1-C021",
+      "chapter": "14",
+      "section": "14.6",
+      "title": "第6節 セグメント情報の開示項目と測定方法",
+      "expected_pages": ["T1:303", "T1:304", "T1:305", "T1:306", "T1:307"],
+      "processing_pages": ["T1:303", "T1:304", "T1:305", "T1:306", "T1:307"],
+      "output": "chunks/JPG-T1-C021/JPG-T1-C021-S06.md",
+      "status": "pass",
+      "chunk_sha256": "9cf5cf577660f017436f1bdb6498f150d3fe4c7bcb73dfadeb5ecffee438fe6b",
+      "locators": [
+        {"page": "T1:303", "printed_page": "⑭－18", "source_region": "第6節の扉、開示項目3点、報告セグメント概要、利益・資産・その他重要項目の導入", "destination_heading": "## 第6節 セグメント情報の開示項目と測定方法"},
+        {"page": "T1:304", "printed_page": "⑭－19", "source_region": "利益・資産に関連するその他重要項目9点、資産関連項目2点、開示例、負債の開示", "destination_heading": "## 第6節 セグメント情報の開示項目と測定方法"},
+        {"page": "T1:305", "printed_page": "⑭－20", "source_region": "測定方法の基本事項、内部報告金額の優先、出荷基準・定額法の例、内部利益・共通営業費の配分例", "destination_heading": "## 第6節 セグメント情報の開示項目と測定方法"},
+        {"page": "T1:306", "printed_page": "⑭－21", "source_region": "測定方法の開示6項目、差異調整の開示5項目、利益情報の選択科目", "destination_heading": "## 第6節 セグメント情報の開示項目と測定方法"},
+        {"page": "T1:307", "printed_page": "⑭－22", "source_region": "組織変更等による区分方法変更、前年度情報の作り直し、実務上困難な場合、遡及処理の補足", "destination_heading": "## 第6節 セグメント情報の開示項目と測定方法"}
+      ]
+    }
+  ],
+  "review": "reviews/JPG-T1-C021.json",
+  "excluded_pages": [],
+  "source_scope": {
+    "source_id": "T1",
+    "physical_range": "T1:285-T1:307",
+    "processing_range": "T1:285-T1:307",
+    "chapter": "14",
+    "title": "セグメント情報等の開示に関する会計基準",
+    "content_authority": "designated existing JPGs only"
+  }
+}
