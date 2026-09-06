@@ -1,0 +1,67 @@
+{
+  "batch_id": "JPG-T1-C022",
+  "source_id": "T1",
+  "status": "pass",
+  "reviewed_on": "2026-09-06",
+  "reviewer_model": "current execution model; no model switch",
+  "source_revision": {
+    "delivery_branch": "main",
+    "repository_commit": "065c57b03980214e12afef4a64b9cc51f710ab95",
+    "source_catalog": "contracts/source-catalog.json",
+    "source_catalog_sha256": "8358e9cffb068f63df0bdfcc8f99be035e66454ac8710d381f0ff9eb87728079",
+    "page_plan": "contracts/page-plan.json",
+    "page_plan_sha256": "997a7280b171df5803c2a3bb7c2ee8764082e01f3bdb03c194b9129fe18d26c9",
+    "source_manifest": "project/T1/sources.json",
+    "source_manifest_sha256": "760f946d08e1eebf2d79c189103ac2e627f0bb2569dcd80055885fb8b97324cd",
+    "source_map": "project/T1/source-map.json",
+    "source_map_sha256": "3ff42e94bd9f8751f8100c6ff251740a46f67182c468af620438c9768f14b961",
+    "batch_manifest": "project/T1/batches.json",
+    "batch_manifest_sha256": "125ff5fee8f8271b82c3258ced501ed4411b4071b930f08f1ed682e72c2628c4",
+    "inventory_review": "project/T1/inventory-review.json",
+    "inventory_review_sha256": "83e2c59f059ffdec53fcb8fb83a5f1300d5cca0722dcf031db0b459bd7ab8c19",
+    "pilot_qa": "project/T1/qa/pilot.json",
+    "pilot_qa_sha256": "cfd72bc97fc4ac0f8471bad6dc7b925085d1822ff606754b91f1b35f9b3ce694",
+    "source_original_root": "/Users/xihangzou/Study/320_CPA/322_財務理論/images/cpa-fa-theory-textbook-1-jpg",
+    "source_pdf": "/Users/xihangzou/Study/320_CPA/322_財務理論/01_テキスト/財務会計論テキスト　理論1.pdf",
+    "source_pdf_sha256": "c09d9d91ce39de787cab04e146719d95b638134399d57112802ffacfa67243f3",
+    "source_image_inventory_sha256": "331ad1ea2ca04d0636c2185b6ab1a8fe5240ebdd3f0c7c546c8703371d497929",
+    "edition": "2024/2025年合格目標",
+    "publication_date": "2023-01-23",
+    "physical_scope": "T1:308-T1:310",
+    "processing_scope": "T1:308-T1:310",
+    "content_authority": "designated existing JPGs only; PDF used only for identity/planning support"
+  },
+  "dependency_commits": [
+    "a2fb2bb829d112522128cdb145523302e9d1e7fd",
+    "1fd8a963ef32e09b5f3f08ecd7d5bb7cc2240a94",
+    "7507151c638a73a41fc13b9d4c4481c8888307e0"
+  ],
+  "source_images": [
+    {"page": "T1:308", "sha256": "077ca283af3d5ff321dca4d2d548f68f3515bfb0fa8be31753065438e37ad14b"},
+    {"page": "T1:309", "sha256": "4ae9c6a3b4f82f3c562db831e14660da8618293208564b1658c68e7f2c490a53"},
+    {"page": "T1:310", "sha256": "b5955227f009593b2f0a8e2d7b63f0b2517c0fff388f9ff86d4e9167c1d44efe"}
+  ],
+  "section_outputs": [
+    {"task": "JPG-T1-C022-S01", "chunk": "project/T1/chunks/JPG-T1-C022/JPG-T1-C022-S01.md", "chunk_sha256": "f0f0c116d86123c0b92f61658362ebdc2030753a1b15cca929424ba195009a4a"}
+  ],
+  "coverage": [
+    {"page": "T1:308", "status": "pass", "regions": ["chapter and section 7 title and introductory scope", "three non-segment-information disclosure categories", "related-information definition, accounting-basis rule and one-segment exception", "product/service definition, source classification rule and 8,300/1,400/100/9,800 example table"]},
+    {"page": "T1:309", "status": "pass", "regions": ["regional-information two disclosure requirements", "major-country separation and classification-basis condition", "4,000/2,700/1,800/1,000/300/9,800 revenue table and customer-location note", "1,720/300/280/400/160/2,860 tangible-fixed-asset table", "major-customer disclosure rule and 2,000 software/electronics example"]},
+    {"page": "T1:310", "status": "pass", "regions": ["fixed-asset impairment-loss segment disclosure rule and financial-statement accounting-basis condition", "importance rationale and unallocated-loss exception", "impairment example with 500/200/50/750 amounts and real-estate note", "goodwill amortisation and unamortised-balance disclosure rule", "future-cash-flow rationale, unallocated-goodwill exception, material negative-goodwill event rule", "goodwill example with 500/50/550 and 1,500/100/1,600 amounts and real-estate note"]}
+  ],
+  "findings": [
+    "All three designated processing JPGs were reopened at readable full resolution and compared with the single section chunk, including the section banner, boxed lists, explanatory paragraphs, margins, tables, notes and section boundaries.",
+    "The batch is contiguous T1:308-T1:310 and all three pages are inventory-approved include pages; no excluded-page reason is required.",
+    "Physical page T1:308 begins section 7 and contains its introduction and topic 1; T1:309 continues topic 1 and completes topic 3; T1:310 begins and completes topics 2 and 3. No content from outside the owned batch was used.",
+    "The chunk preserves the distinction that these disclosures are not segment information and therefore are outside the management approach, all disclosure conditions and exceptions, the classification/accounting-basis rules, the numerical examples, table notes and the future-cash-flow rationale.",
+    "The chunk contains no bold syntax, Cloze syntax, Front/Back fields, integration output or card output. No question/answer or false-proposition layout occurs in this theory batch; that specialized check is not applicable.",
+    "No unresolved marker remains and no correction was required after the image comparison."
+  ],
+  "corrections": [],
+  "checks": {
+    "numerical": "pass",
+    "diagram": "not_applicable",
+    "false_proposition": "not_applicable"
+  },
+  "unresolved_count": 0
+}

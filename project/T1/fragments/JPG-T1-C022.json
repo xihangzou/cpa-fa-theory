@@ -1,0 +1,49 @@
+{
+  "batch_id": "JPG-T1-C022",
+  "source_id": "T1",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-T1-C022-S01",
+      "batch_id": "JPG-T1-C022",
+      "chapter": "14",
+      "section": "14.7",
+      "title": "第7節 その他の開示内容",
+      "expected_pages": ["T1:308", "T1:309", "T1:310"],
+      "processing_pages": ["T1:308", "T1:309", "T1:310"],
+      "output": "chunks/JPG-T1-C022/JPG-T1-C022-S01.md",
+      "status": "pass",
+      "chunk_sha256": "f0f0c116d86123c0b92f61658362ebdc2030753a1b15cca929424ba195009a4a",
+      "locators": [
+        {
+          "page": "T1:308",
+          "printed_page": "⑭－23",
+          "source_region": "第7節の導入、関連情報の開示対象3項目、セグメント情報を開示しない企業にも関連情報の開示が必要な旨、製品及びサービスに関する情報の定義と記載例",
+          "destination_heading": "## 第7節 その他の開示内容"
+        },
+        {
+          "page": "T1:309",
+          "printed_page": "⑭－24",
+          "source_region": "地域に関する情報の開示事項と売上高・有形固定資産の記載例、主要な顧客に関する情報の開示事項と記載例",
+          "destination_heading": "## 第7節 その他の開示内容"
+        },
+        {
+          "page": "T1:310",
+          "printed_page": "⑭－25",
+          "source_region": "固定資産の減損損失に関する報告セグメント別情報、未配分損失の取扱いと記載例、のれんの償却額・未償却残高・重要な負ののれんに関する開示と記載例",
+          "destination_heading": "## 第7節 その他の開示内容"
+        }
+      ]
+    }
+  ],
+  "review": "reviews/JPG-T1-C022.json",
+  "excluded_pages": [],
+  "source_scope": {
+    "source_id": "T1",
+    "physical_range": "T1:308-T1:310",
+    "processing_range": "T1:308-T1:310",
+    "chapter": "14",
+    "title": "セグメント情報等の開示に関する会計基準",
+    "content_authority": "designated existing JPGs only"
+  }
+}
