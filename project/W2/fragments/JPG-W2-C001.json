@@ -1,0 +1,143 @@
+{
+  "batch_id": "JPG-W2-C001",
+  "source_id": "W2",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-W2-C001-S01",
+      "batch_id": "JPG-W2-C001",
+      "chapter": "21",
+      "section": "21.1",
+      "title": "1. 棚卸資産の評価についての考え方",
+      "expected_pages": ["W2:004", "W2:005"],
+      "processing_pages": ["W2:004", "W2:005"],
+      "output": "chunks/JPG-W2-C001/JPG-W2-C001-S01.md",
+      "status": "pass",
+      "locators": [
+        {"page": "W2:004", "printed_page": "21-1", "source_region": "第21章見出し、1.棚卸資産の評価についての考え方、問題1・問題2の問題文", "destination_heading": "## 1. 棚卸資産の評価についての考え方"},
+        {"page": "W2:005", "printed_page": "21-2", "source_region": "問題1・問題2の判定、出典及び解説、余白・欄外・フッター", "destination_heading": "## 1. 棚卸資産の評価についての考え方"}
+      ],
+      "chunk_sha256": "4ad4d8a74a30db8db0e109e58aa8fab933f1ecd9d47b5cd63e26421295055a8c"
+    },
+    {
+      "id": "JPG-W2-C001-S02",
+      "batch_id": "JPG-W2-C001",
+      "chapter": "21",
+      "section": "21.2",
+      "title": "2. 適用範囲／用語の定義",
+      "expected_pages": ["W2:004", "W2:005", "W2:006", "W2:007"],
+      "processing_pages": ["W2:004", "W2:005", "W2:006", "W2:007"],
+      "output": "chunks/JPG-W2-C001/JPG-W2-C001-S02.md",
+      "status": "pass",
+      "locators": [
+        {"page": "W2:004", "printed_page": "21-1", "source_region": "2.適用範囲／用語の定義、問題3から問題7の問題文", "destination_heading": "## 2. 適用範囲／用語の定義"},
+        {"page": "W2:005", "printed_page": "21-2", "source_region": "問題3から問題7の判定、出典及び解説、3.棚卸資産の評価方法の導入", "destination_heading": "## 2. 適用範囲／用語の定義"},
+        {"page": "W2:006", "printed_page": "21-3", "source_region": "問題8・問題9の問題文、3.棚卸資産の評価方法の問題10から問題13の問題文", "destination_heading": "## 2. 適用範囲／用語の定義"},
+        {"page": "W2:007", "printed_page": "21-4", "source_region": "問題8・問題9の判定、出典及び解説、問題10から問題13の解答への境界", "destination_heading": "## 2. 適用範囲／用語の定義"}
+      ],
+      "chunk_sha256": "5bf9b0fb0227448a40e1c5ac28482a368e9d9d500d4f072d480de865e4684c1a"
+    },
+    {
+      "id": "JPG-W2-C001-S03",
+      "batch_id": "JPG-W2-C001",
+      "chapter": "21",
+      "section": "21.3",
+      "title": "3. 棚卸資産の評価方法",
+      "expected_pages": ["W2:006", "W2:007", "W2:008", "W2:009"],
+      "processing_pages": ["W2:006", "W2:007", "W2:008", "W2:009"],
+      "output": "chunks/JPG-W2-C001/JPG-W2-C001-S03.md",
+      "status": "pass",
+      "locators": [
+        {"page": "W2:006", "printed_page": "21-3", "source_region": "3.棚卸資産の評価方法の見出し、問題10から問題13の問題文", "destination_heading": "## 3. 棚卸資産の評価方法"},
+        {"page": "W2:007", "printed_page": "21-4", "source_region": "問題10から問題13の判定、出典及び解説・追加でチェック", "destination_heading": "## 3. 棚卸資産の評価方法"},
+        {"page": "W2:008", "printed_page": "21-5", "source_region": "問題14から問題16の問題文、4.棚卸資産の数量計算の導入", "destination_heading": "## 3. 棚卸資産の評価方法"},
+        {"page": "W2:009", "printed_page": "21-6", "source_region": "問題14から問題16の判定、出典及び解説", "destination_heading": "## 3. 棚卸資産の評価方法"}
+      ],
+      "chunk_sha256": "492b53e9783d4052089b4fca11647ed34aebea986ad66c0b6268c7fae8c0a577"
+    },
+    {
+      "id": "JPG-W2-C001-S04",
+      "batch_id": "JPG-W2-C001",
+      "chapter": "21",
+      "section": "21.4",
+      "title": "4. 棚卸資産の数量計算",
+      "expected_pages": ["W2:008", "W2:009"],
+      "processing_pages": ["W2:008", "W2:009"],
+      "output": "chunks/JPG-W2-C001/JPG-W2-C001-S04.md",
+      "status": "pass",
+      "locators": [
+        {"page": "W2:008", "printed_page": "21-5", "source_region": "4.棚卸資産の数量計算、問題17から問題19の問題文", "destination_heading": "## 4. 棚卸資産の数量計算"},
+        {"page": "W2:009", "printed_page": "21-6", "source_region": "問題17から問題19の判定、出典及び解説・追加でチェック", "destination_heading": "## 4. 棚卸資産の数量計算"}
+      ],
+      "chunk_sha256": "cdfb9e8280df38d07e3799ecdfbd4029cc75b4fda37a9bf65e20045e0e06125d"
+    },
+    {
+      "id": "JPG-W2-C001-S05",
+      "batch_id": "JPG-W2-C001",
+      "chapter": "21",
+      "section": "21.5",
+      "title": "5. 棚卸資産の評価に関する会計処理",
+      "expected_pages": ["W2:010", "W2:011", "W2:012", "W2:013", "W2:014", "W2:015", "W2:016", "W2:017"],
+      "processing_pages": ["W2:010", "W2:011", "W2:012", "W2:013", "W2:014", "W2:015", "W2:016", "W2:017"],
+      "output": "chunks/JPG-W2-C001/JPG-W2-C001-S05.md",
+      "status": "pass",
+      "locators": [
+        {"page": "W2:010", "printed_page": "21-7", "source_region": "5.棚卸資産の評価に関する会計処理、問題20から問題26の問題文", "destination_heading": "## 5. 棚卸資産の評価に関する会計処理"},
+        {"page": "W2:011", "printed_page": "21-8", "source_region": "問題20から問題26の判定、出典及び解説・追加でチェック", "destination_heading": "## 5. 棚卸資産の評価に関する会計処理"},
+        {"page": "W2:012", "printed_page": "21-9", "source_region": "問題27から問題33の問題文", "destination_heading": "## 5. 棚卸資産の評価に関する会計処理"},
+        {"page": "W2:013", "printed_page": "21-10", "source_region": "問題27から問題33の判定、出典及び解説・追加でチェック", "destination_heading": "## 5. 棚卸資産の評価に関する会計処理"},
+        {"page": "W2:014", "printed_page": "21-11", "source_region": "問題34から問題41の問題文", "destination_heading": "## 5. 棚卸資産の評価に関する会計処理"},
+        {"page": "W2:015", "printed_page": "21-12", "source_region": "問題34から問題41の判定、出典及び解説・追加でチェック", "destination_heading": "## 5. 棚卸資産の評価に関する会計処理"},
+        {"page": "W2:016", "printed_page": "21-13", "source_region": "問題42から問題47の問題文、6.トレーディング目的の棚卸資産の導入及び問題48の問題文", "destination_heading": "## 5. 棚卸資産の評価に関する会計処理"},
+        {"page": "W2:017", "printed_page": "21-14", "source_region": "問題42から問題47の判定、出典及び解説、問題48の解答への境界", "destination_heading": "## 5. 棚卸資産の評価に関する会計処理"}
+      ],
+      "chunk_sha256": "f4473fd89b8a5b799073a0eb9d52128e74effdd209fd8b7d5f4c8da5d374f289"
+    },
+    {
+      "id": "JPG-W2-C001-S06",
+      "batch_id": "JPG-W2-C001",
+      "chapter": "21",
+      "section": "21.6",
+      "title": "6. トレーディング目的の棚卸資産",
+      "expected_pages": ["W2:016", "W2:017", "W2:018", "W2:019"],
+      "processing_pages": ["W2:016", "W2:017", "W2:018", "W2:019"],
+      "output": "chunks/JPG-W2-C001/JPG-W2-C001-S06.md",
+      "status": "pass",
+      "locators": [
+        {"page": "W2:016", "printed_page": "21-13", "source_region": "6.トレーディング目的の棚卸資産の見出し及び問題48の問題文", "destination_heading": "## 6. トレーディング目的の棚卸資産"},
+        {"page": "W2:017", "printed_page": "21-14", "source_region": "問題48の判定、出典、解説及び追加でチェック", "destination_heading": "## 6. トレーディング目的の棚卸資産"},
+        {"page": "W2:018", "printed_page": "21-15", "source_region": "問題49の問題文、7.棚卸資産の評価損の表示の導入", "destination_heading": "## 6. トレーディング目的の棚卸資産"},
+        {"page": "W2:019", "printed_page": "21-16", "source_region": "問題49の判定、出典及び解説", "destination_heading": "## 6. トレーディング目的の棚卸資産"}
+      ],
+      "chunk_sha256": "ce57b1b41f23a7fccbed4d8579bf4e917b7cc2f83f2191a682976cb9b72fe7cc"
+    },
+    {
+      "id": "JPG-W2-C001-S07",
+      "batch_id": "JPG-W2-C001",
+      "chapter": "21",
+      "section": "21.7",
+      "title": "7. 棚卸資産の評価損の表示",
+      "expected_pages": ["W2:018", "W2:019", "W2:020", "W2:021"],
+      "processing_pages": ["W2:018", "W2:019", "W2:020", "W2:021"],
+      "output": "chunks/JPG-W2-C001/JPG-W2-C001-S07.md",
+      "status": "pass",
+      "locators": [
+        {"page": "W2:018", "printed_page": "21-15", "source_region": "7.棚卸資産の評価損の表示、問題50から問題54の問題文", "destination_heading": "## 7. 棚卸資産の評価損の表示"},
+        {"page": "W2:019", "printed_page": "21-16", "source_region": "問題50から問題54の判定、出典及び解説・追加でチェック", "destination_heading": "## 7. 棚卸資産の評価損の表示"},
+        {"page": "W2:020", "printed_page": "21-17", "source_region": "問題55から問題58の問題文", "destination_heading": "## 7. 棚卸資産の評価損の表示"},
+        {"page": "W2:021", "printed_page": "21-18", "source_region": "問題55から問題58の判定、出典及び解説", "destination_heading": "## 7. 棚卸資産の評価損の表示"}
+      ],
+      "chunk_sha256": "156340a0f6990e8b014886905bbeb9394b42831f5f2b8378f851eb7edb9f12c6"
+    }
+  ],
+  "review": "reviews/JPG-W2-C001.json",
+  "excluded_pages": [],
+  "source_scope": {
+    "source_id": "W2",
+    "physical_range": "W2:004-W2:021",
+    "processing_range": "W2:004-W2:021",
+    "chapter": "21",
+    "title": "棚卸資産の評価に関する会計基準",
+    "content_authority": "designated existing JPGs only"
+  }
+}
