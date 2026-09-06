@@ -1,0 +1,105 @@
+{
+  "batch_id": "JPG-T1-C011",
+  "source_id": "T1",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-T1-C011-S01",
+      "batch_id": "JPG-T1-C011",
+      "chapter": "08",
+      "section": "08.1",
+      "title": "第1節 固定資産の意義と分類",
+      "expected_pages": ["T1:131", "T1:132"],
+      "processing_pages": ["T1:131", "T1:132"],
+      "output": "chunks/JPG-T1-C011/JPG-T1-C011-S01.md",
+      "status": "pass",
+      "chunk_sha256": "7166fd3fcb5b64265fba832b85e54a87f9c427be977e6fcca0eefee8bb0b18f9",
+      "locators": [
+        {
+          "page": "T1:131",
+          "printed_page": null,
+          "source_region": "第8章の章扉、固定資産の関連テキスト、短答式および論文式本試験における出題実績表",
+          "destination_heading": "## 第1節 固定資産の意義と分類"
+        },
+        {
+          "page": "T1:132",
+          "printed_page": "⑧－1",
+          "source_region": "第1節の扉、1.固定資産の意義と分類の定義・例・繰延資産の扱い・表示分類表、2.有形固定資産の意義と4分類",
+          "destination_heading": "## 第1節 固定資産の意義と分類"
+        }
+      ]
+    },
+    {
+      "id": "JPG-T1-C011-S02",
+      "batch_id": "JPG-T1-C011",
+      "chapter": "08",
+      "section": "08.2",
+      "title": "第2節 有形固定資産各論",
+      "expected_pages": ["T1:133", "T1:134", "T1:135", "T1:136", "T1:137", "T1:138", "T1:139", "T1:140"],
+      "processing_pages": ["T1:133", "T1:134", "T1:135", "T1:136", "T1:137", "T1:138", "T1:139", "T1:140"],
+      "output": "chunks/JPG-T1-C011/JPG-T1-C011-S02.md",
+      "status": "pass",
+      "chunk_sha256": "a44cf6500e1519f11904ce9901788146e3c9689980d3e7b1d71b794e4b4336d3",
+      "locators": [
+        {
+          "page": "T1:133",
+          "printed_page": "⑧－2",
+          "source_region": "第2節の扉、購入取得原価の算定式・値引割戻の扱い、付随費用を算入する2つの根拠",
+          "destination_heading": "## 第2節 有形固定資産各論"
+        },
+        {
+          "page": "T1:134",
+          "printed_page": "⑧－3",
+          "source_region": "自家建設の製造原価、稼働前借入利子の例外・仕訳、算入説の論拠",
+          "destination_heading": "## 第2節 有形固定資産各論"
+        },
+        {
+          "page": "T1:135",
+          "printed_page": "⑧－4",
+          "source_region": "不算入説の比較可能性・恣意性排除・営業外費用の3論拠、自己資金と借入資金の数値例",
+          "destination_heading": "## 第2節 有形固定資産各論"
+        },
+        {
+          "page": "T1:136",
+          "printed_page": "⑧－5",
+          "source_region": "現物出資の公正評価額と仕訳、同種固定資産交換の現行評価と別見解、建物A・建物Bの数値例",
+          "destination_heading": "## 第2節 有形固定資産各論"
+        },
+        {
+          "page": "T1:137",
+          "printed_page": "⑧－6",
+          "source_region": "同種固定資産交換で帳簿価額を採用する4つの論拠と、各論拠の図示関係",
+          "destination_heading": "## 第2節 有形固定資産各論"
+        },
+        {
+          "page": "T1:138",
+          "printed_page": "⑧－7",
+          "source_region": "異種資産交換の時価評価・投資継続性の不存在・仕訳、贈与固定資産の公正評価と理由",
+          "destination_heading": "## 第2節 有形固定資産各論"
+        },
+        {
+          "page": "T1:139",
+          "printed_page": "⑧－8",
+          "source_region": "原価即事実説と原価即価値説の定義・比較表、無償・廉価・高価取得と同種交換の数値例",
+          "destination_heading": "## 第2節 有形固定資産各論"
+        },
+        {
+          "page": "T1:140",
+          "printed_page": "⑧－9",
+          "source_region": "資本的支出と収益的支出の定義・会計処理、収益費用対応の説明、取得形態別取得原価のまとめ表",
+          "destination_heading": "## 第2節 有形固定資産各論"
+        }
+      ]
+    }
+  ],
+  "review": "reviews/JPG-T1-C011.json",
+  "excluded_pages": [],
+  "source_scope": {
+    "source_id": "T1",
+    "physical_range": "T1:131-T1:140",
+    "processing_range": "T1:131-T1:140",
+    "chapter": "08",
+    "title": "固定資産",
+    "content_authority": "designated existing JPGs only"
+  }
+}

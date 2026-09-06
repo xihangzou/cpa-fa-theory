@@ -1,0 +1,67 @@
+{
+  "batch_id": "JPG-T1-C011",
+  "source_id": "T1",
+  "status": "pass",
+  "source_images": [
+    {"page": "T1:131", "sha256": "f2173d14dc6887edf34ec086709243a136cf6da044acf0fcabc9ffdbae3be61f"},
+    {"page": "T1:132", "sha256": "f662bea064e1188b953c5290be5eb176cb4dec57e056f778e8279fc9d8fedb0a"},
+    {"page": "T1:133", "sha256": "1e19b9f1555b8dfb748281fea86127c034ca7c7661d346136cecbf7c26f770d6"},
+    {"page": "T1:134", "sha256": "8872a00f78be73cd0c3359c2121c69ffb6c329a6e796ea30fa9fbe7a0adcd0c5"},
+    {"page": "T1:135", "sha256": "02ef4b7c7a12e10947c5f765dad00ffd294b1a836c650fb93611d784e4f4e7f6"},
+    {"page": "T1:136", "sha256": "782d3d8e3fa7ad5c57e4ba24de3c8c37f92a6c7bde3b66fe493077b46d34ae8a"},
+    {"page": "T1:137", "sha256": "224875d04952aec6c84441cea1ab8eaf315797b6961722695f33a903f7d26116"},
+    {"page": "T1:138", "sha256": "beec0ad829bbdb068e9f0733e44353217c3cfab6019d8b305ad97db750b065cc"},
+    {"page": "T1:139", "sha256": "8d88f49d917fc1ebf75a17e409e19bf9ee1e3be1ad4c8abca12998601174415e"},
+    {"page": "T1:140", "sha256": "df3e2ac0637d1f92234574334e16a11ea82afa1d6d14ea2866b41140e5ad976d"}
+  ],
+  "section_outputs": [
+    {"task": "JPG-T1-C011-S01", "chunk_sha256": "7166fd3fcb5b64265fba832b85e54a87f9c427be977e6fcca0eefee8bb0b18f9"},
+    {"task": "JPG-T1-C011-S02", "chunk_sha256": "a44cf6500e1519f11904ce9901788146e3c9689980d3e7b1d71b794e4b4336d3"}
+  ],
+  "coverage": [
+    {"page": "T1:131", "regions": ["chapter title, related calculation-text references, short-answer exam-history table, essay exam-history table"], "status": "pass", "findings": "Chapter identity, cross-references, all six topic rows, year columns and marked results were retained."},
+    {"page": "T1:132", "regions": ["section 1 definition and examples", "繰延資産 exclusion", "fixed-asset presentation classification table", "section 2 definition and four-part classification"], "status": "pass", "findings": "The definition, examples, exclusion, nine classification rows and four distinctions were retained."},
+    {"page": "T1:133", "regions": ["section introduction", "purchase acquisition-cost rule", "formula", "discount/rebate treatment", "two reasons for including incidental costs"], "status": "pass", "findings": "The acquisition formula and both expense-matching/economic-value rationales were retained."},
+    {"page": "T1:134", "regions": ["self-construction manufacturing-cost rule", "pre-operation borrowing-interest exception", "pre/post-operation treatment diagram", "journal-entry examples", "capitalized-interest and expensed-interest views"], "status": "pass", "findings": "The rule, exception, timing distinction and both journal-entry forms were represented."},
+    {"page": "T1:135", "regions": ["comparability argument", "1,000千円 and 100千円 interest example", "arbitrariness argument and loan-use diagram", "finance-cost argument"], "status": "pass", "findings": "All three non-capitalization arguments and the numerical/diagram relationships were retained."},
+    {"page": "T1:136", "regions": ["in-kind contribution fair-value rule and journal entries", "same-kind exchange current rule", "alternative fair-value view", "建物A/建物B valuation and journal entries"], "status": "pass", "findings": "The two contribution patterns, exchange valuation alternatives and 1,000/1,200 example were retained."},
+    {"page": "T1:137", "regions": ["four arguments for transferor book value", "same-value exchange diagram", "cash-exchange realization diagram", "same-kind/same-use continuity diagram", "unrecovered-expenditure diagram"], "status": "pass", "findings": "All four arguments and the diagram-only relationships were verbalized without adding a conclusion outside the image."},
+    {"page": "T1:138", "regions": ["different-kind exchange rule and rationale", "1,200 fair value, 1,000 book value journal entries", "gift acquisition fair-value rule", "zero-cost versus economic-value explanation"], "status": "pass", "findings": "The securities-sale/deferred-purchase logic, journal entries, gift gain treatment and presentation rationale were retained."},
+    {"page": "T1:139", "regions": ["fact and value theories of cost", "definition/comparison table", "uncompensated, cheap and expensive acquisition examples", "same-kind exchange comparison", "general treatment and exception"], "status": "pass", "findings": "Both theories, all four comparison cases and the general/partial narrow-cost conclusion were retained."},
+    {"page": "T1:140", "regions": ["capital and revenue expenditure table", "future-revenue matching explanation", "appropriate matching conclusion", "acquisition-form summary table"], "status": "pass", "findings": "Definitions, examples, timing of expense recognition and all five acquisition forms were retained."}
+  ],
+  "findings": [
+    "All ten designated processing JPGs were reopened at readable resolution and compared against the two section chunks, including margins, chapter/section labels, boxed rules, tables, journal entries, diagrams, examples and exceptions.",
+    "The batch begins with the Chapter 8 divider on T1:131 and ends after the acquisition-cost summary on T1:140; the inventory boundary review records no stranded object or spillover.",
+    "The source contains no question-and-answer or false-proposition layout; that specialized check is not applicable.",
+    "The chunks contain no bold syntax, Cloze syntax, Front/Back fields, integration output or card output.",
+    "No unresolved marker remains; no correction was required after the image comparison."
+  ],
+  "corrections": [],
+  "checks": {
+    "numerical": "pass",
+    "diagram": "pass",
+    "false_proposition": "not_applicable"
+  },
+  "unresolved_count": 0,
+  "excluded_pages": [],
+  "reviewer_model": "current execution model; no model switch",
+  "dependency_commits": [
+    "a2fb2bb829d112522128cdb145523302e9d1e7fd",
+    "1fd8a963ef32e09b5f3f08ecd7d5bb7cc2240a94",
+    "393dc82a64791eb452ea64ccb8cbfc55212718ef",
+    "7507151c638a73a41fc13b9d4c4481c8888307e0"
+  ],
+  "source_revision": {
+    "verified_main_commit": "850d8fbe92260543f75575b837a43053c177aa2e",
+    "source_catalog_sha256": "8358e9cffb068f63df0bdfcc8f99be035e66454ac8710d381f0ff9eb87728079",
+    "page_plan_sha256": "997a7280b171df5803c2a3bb7c2ee8764082e01f3bdb03c194b9129fe18d26c9",
+    "source_manifest_sha256": "760f946d08e1eebf2d79c189103ac2e627f0bb2569dcd80055885fb8b97324cd",
+    "source_map_sha256": "3ff42e94bd9f8751f8100c6ff251740a46f67182c468af620438c9768f14b961",
+    "batch_manifest_sha256": "125ff5fee8f8271b82c3258ced501ed4411b4071b930f08f1ed682e72c2628c4",
+    "inventory_review_sha256": "83e2c59f059ffdec53fcb8fb83a5f1300d5cca0722dcf031db0b459bd7ab8c19",
+    "pilot_qa_sha256": "cfd72bc97fc4ac0f8471bad6dc7b925085d1822ff606754b91f1b35f9b3ce694",
+    "source_image_inventory_sha256": "331ad1ea2ca04d0636c2185b6ab1a8fe5240ebdd3f0c7c546c8703371d497929",
+    "source_pdf_sha256": "c09d9d91ce39de787cab04e146719d95b638134399d57112802ffacfa67243f3"
+  }
+}
