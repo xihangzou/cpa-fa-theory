@@ -1,0 +1,81 @@
+{
+  "batch_id": "JPG-T1-C017",
+  "source_id": "T1",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-T1-C017-S01",
+      "batch_id": "JPG-T1-C017",
+      "chapter": "12",
+      "section": "12.4",
+      "title": "第4節 財務諸表の構成要素",
+      "expected_pages": [
+        "T1:236",
+        "T1:237",
+        "T1:238",
+        "T1:239",
+        "T1:240",
+        "T1:241",
+        "T1:242",
+        "T1:243",
+        "T1:244",
+        "T1:245",
+        "T1:246",
+        "T1:247",
+        "T1:248",
+        "T1:249",
+        "T1:250",
+        "T1:251"
+      ],
+      "processing_pages": [
+        "T1:236",
+        "T1:237",
+        "T1:238",
+        "T1:239",
+        "T1:240",
+        "T1:241",
+        "T1:242",
+        "T1:243",
+        "T1:244",
+        "T1:245",
+        "T1:246",
+        "T1:247",
+        "T1:248",
+        "T1:249",
+        "T1:250",
+        "T1:251"
+      ],
+      "output": "chunks/JPG-T1-C017/JPG-T1-C017-S01.md",
+      "status": "pass",
+      "locators": [
+        {"page":"T1:236","printed_page":"⑫－17","source_region":"第4節の扉、1.節の基本内容、2.(1)貸借対照表と損益計算書、2.(2)構成要素、2.(3)一般的制約","destination_heading":"## 第4節 財務諸表の構成要素"},
+        {"page":"T1:237","printed_page":"⑫－18","source_region":"補足 各構成要素相互の関連の説明と関係図","destination_heading":"## 第4節 財務諸表の構成要素"},
+        {"page":"T1:238","printed_page":"⑫－19","source_region":"3.構成要素の定義、資産の定義と3要件","destination_heading":"## 第4節 財務諸表の構成要素"},
+        {"page":"T1:239","printed_page":"⑫－20","source_region":"自己創設のれん、繰延資産の補足と図","destination_heading":"## 第4節 財務諸表の構成要素"},
+        {"page":"T1:240","printed_page":"⑫－21","source_region":"負債の定義、義務、製品保証引当金・修繕引当金の補足","destination_heading":"## 第4節 財務諸表の構成要素"},
+        {"page":"T1:241","printed_page":"⑫－22","source_region":"純資産・株主資本の定義と区分表、収益の定義と新株予約権失効例","destination_heading":"## 第4節 財務諸表の構成要素"},
+        {"page":"T1:242","printed_page":"⑫－23","source_region":"収益の投資リスクからの解放、建物を対価とする取引、事業拘束資産と非拘束資産の補足","destination_heading":"## 第4節 財務諸表の構成要素"},
+        {"page":"T1:243","printed_page":"⑫－24","source_region":"費用の定義、その他有価証券評価差額のリサイクル例、費用のリスク解放と期間帰属","destination_heading":"## 第4節 財務諸表の構成要素"},
+        {"page":"T1:244","printed_page":"⑫－25","source_region":"収益と利得・費用と損失の補足、純利益の定義、現行制度との相違表と連結損益計算書図","destination_heading":"## 第4節 財務諸表の構成要素"},
+        {"page":"T1:245","printed_page":"⑫－26","source_region":"包括利益の定義、純資産変動図、直接的取引の典型例","destination_heading":"## 第4節 財務諸表の構成要素"},
+        {"page":"T1:246","printed_page":"⑫－27","source_region":"4.(1)包括利益、期首期末純資産差額の数値例と仕訳、直接取引の数値例","destination_heading":"## 第4節 財務諸表の構成要素"},
+        {"page":"T1:247","printed_page":"⑫－28","source_region":"4.(2)貸借対照表と損益計算書の連携（クリーン・サープラス関係）と数値例","destination_heading":"## 第4節 財務諸表の構成要素"},
+        {"page":"T1:248","printed_page":"⑫－29","source_region":"4.(3)非連携、その他有価証券評価差額の数値例、4.(4)包括利益による連携確保","destination_heading":"## 第4節 財務諸表の構成要素"},
+        {"page":"T1:249","printed_page":"⑫－30","source_region":"その他の包括利益による連携確保の説明、5.包括利益と純利益の定義表","destination_heading":"## 第4節 財務諸表の構成要素"},
+        {"page":"T1:250","printed_page":"⑫－31","source_region":"包括利益と純利益の相違点、番号①～⑤の関係図・計算式・具体例","destination_heading":"## 第4節 財務諸表の構成要素"},
+        {"page":"T1:251","printed_page":"⑫－32","source_region":"純利益130・包括利益220の具体例、純利益と包括利益の並立、測定制約","destination_heading":"## 第4節 財務諸表の構成要素"}
+      ],
+      "chunk_sha256": "cde6a3c72dea7008dd27ba7d949b0c027ee320f760942c49ac4fafc133af06e7"
+    }
+  ],
+  "review": "reviews/JPG-T1-C017.json",
+  "excluded_pages": [],
+  "source_scope": {
+    "source_id": "T1",
+    "physical_range": "T1:236-T1:251",
+    "processing_range": "T1:236-T1:251",
+    "chapter": "12",
+    "title": "財務会計の概念フレームワーク",
+    "content_authority": "designated existing JPGs only"
+  }
+}
