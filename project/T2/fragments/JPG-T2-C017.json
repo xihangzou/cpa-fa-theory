@@ -1,0 +1,54 @@
+{
+  "batch_id": "JPG-T2-C017",
+  "source_id": "T2",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-T2-C017-S01",
+      "batch_id": "JPG-T2-C017",
+      "chapter": "29",
+      "section": "29.4",
+      "title": "第4節 繰延税金等の計上方法",
+      "expected_pages": ["T2:315", "T2:316", "T2:317", "T2:318", "T2:319", "T2:320", "T2:321", "T2:322", "T2:323", "T2:324", "T2:325", "T2:326", "T2:327", "T2:328", "T2:329"],
+      "processing_pages": ["T2:315", "T2:316", "T2:317", "T2:318", "T2:319", "T2:320", "T2:321", "T2:322", "T2:323", "T2:324", "T2:325", "T2:326", "T2:327", "T2:328", "T2:329"],
+      "output": "chunks/JPG-T2-C017/JPG-T2-C017-S01.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T2:315", "printed_page": "㉙-18", "source_region": "section 4 opener; balance-sheet classification and the two classification rationales", "destination_heading": "## 第4節 繰延税金等の計上方法"},
+        {"page": "T2:316", "printed_page": "㉙-19", "source_region": "cash-flow timing diagram for the current classification and same-taxpayer offsetting", "destination_heading": "## 第4節 繰延税金等の計上方法"},
+        {"page": "T2:317", "printed_page": "㉙-20", "source_region": "recognition limit at difference occurrence; 60/100/40% recoverability example and journal entry", "destination_heading": "## 第4節 繰延税金等の計上方法"},
+        {"page": "T2:318", "printed_page": "㉙-21", "source_region": "recoverability rule; 70/100/40% example and periodic review premise", "destination_heading": "## 第4節 繰延税金等の計上方法"},
+        {"page": "T2:319", "printed_page": "㉙-22", "source_region": "need for periodic review; 60 and 100 profit scenarios; three recoverability criteria", "destination_heading": "## 第4節 繰延税金等の計上方法"},
+        {"page": "T2:320", "printed_page": "㉙-23", "source_region": "review accounting treatment and 400/500/40% pre-adjustment-taxable-income example", "destination_heading": "## 第4節 繰延税金等の計上方法"},
+        {"page": "T2:321", "printed_page": "㉙-24", "source_region": "deferred-tax-liability payment criteria and profit/loss pattern example", "destination_heading": "## 第4節 繰延税金等の計上方法"},
+        {"page": "T2:322", "printed_page": "㉙-25", "source_region": "tax-adjustment presentation and 40/60/200 allowance example yielding 56", "destination_heading": "## 第4節 繰延税金等の計上方法"},
+        {"page": "T2:323", "printed_page": "㉙-26", "source_region": "cases where no tax adjustment arises; other-securities fair-value example", "destination_heading": "## 第4節 繰延税金等の計上方法"},
+        {"page": "T2:324", "printed_page": "㉙-27", "source_region": "consolidated exception; applicable tax rate, enacted-law timing, statutory effective-rate formula and no-discounting rationale", "destination_heading": "## 第4節 繰延税金等の計上方法"},
+        {"page": "T2:325", "printed_page": "㉙-28", "source_region": "rate-change rule, two exceptions, and subsidiary fair-value difference treatment", "destination_heading": "## 第4節 繰延税金等の計上方法"},
+        {"page": "T2:326", "printed_page": "㉙-29", "source_region": "rate-change journal-entry cases: ordinary, subsidiary land and other-securities difference", "destination_heading": "## 第4節 繰延税金等の計上方法"},
+        {"page": "T2:327", "printed_page": "㉙-30", "source_region": "reserve treatment, rate-change treatment, and 200 compression-reserve example", "destination_heading": "## 第4節 繰延税金等の計上方法"},
+        {"page": "T2:328", "printed_page": "㉙-31", "source_region": "land revaluation difference definition and treatment table", "destination_heading": "## 第4節 繰延税金等の計上方法"},
+        {"page": "T2:329", "printed_page": "㉙-32", "source_region": "land revaluation 1,000 to 1,500 sale and impairment journal-entry cases", "destination_heading": "## 第4節 繰延税金等の計上方法"}
+      ],
+      "chunk_sha256": "5e72e89b4b926aa7663d9021a8b115cb4673588743d26b9c087d0905e067d4a6"
+    },
+    {
+      "id": "JPG-T2-C017-S02",
+      "batch_id": "JPG-T2-C017",
+      "chapter": "29",
+      "section": "29.5",
+      "title": "第5節 税効果会計に関する注記事項",
+      "expected_pages": ["T2:330", "T2:331", "T2:332"],
+      "processing_pages": ["T2:330", "T2:331", "T2:332"],
+      "output": "chunks/JPG-T2-C017/JPG-T2-C017-S02.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T2:330", "printed_page": "㉙-33", "source_region": "four required disclosure items; valuation-allowance presentation and 800/600/1,200 example", "destination_heading": "## 第5節 税効果会計に関する注記事項"},
+        {"page": "T2:331", "printed_page": "㉙-34", "source_region": "tax-loss valuation-allowance classification, 10,800/2,400/4,300 example and required tax-loss disclosures", "destination_heading": "## 第5節 税効果会計に関する注記事項"},
+        {"page": "T2:332", "printed_page": "㉙-35", "source_region": "tax-rate difference disclosure formula, 5% omission rule and 2,000/200/400/30% example", "destination_heading": "## 第5節 税効果会計に関する注記事項"}
+      ],
+      "chunk_sha256": "499045df94bf4b33b582c3d42452099413d465204f6903bcfeaf320732ed1585"
+    }
+  ],
+  "review": "reviews/JPG-T2-C017.json"
+}
