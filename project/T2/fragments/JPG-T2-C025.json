@@ -1,0 +1,40 @@
+{
+  "batch_id": "JPG-T2-C025",
+  "source_id": "T2",
+  "status": "pass",
+  "review": "reviews/JPG-T2-C025.json",
+  "tasks": [
+    {
+      "id": "JPG-T2-C025-S01",
+      "batch_id": "JPG-T2-C025",
+      "chapter": "32",
+      "section": "32.5",
+      "title": "第5節 注記事項",
+      "expected_pages": ["T2:443", "T2:444", "T2:445"],
+      "processing_pages": ["T2:443", "T2:444", "T2:445"],
+      "output": "chunks/JPG-T2-C025/JPG-T2-C025-S01.md",
+      "status": "pass",
+      "locators": [
+        {
+          "page": "T2:443",
+          "printed_page": "㉜-32",
+          "source_region": "第5節 opener; basic approach and concrete note requirements (1)-(7) including segment information (1)-(3)",
+          "destination_heading": "## 第5節 注記事項"
+        },
+        {
+          "page": "T2:444",
+          "printed_page": "㉜-33",
+          "source_region": "segment information (4)-(8); revenue disaggregation; note requirements (8)-(18); business-combination and business-separation disclosures",
+          "destination_heading": "## 第5節 注記事項"
+        },
+        {
+          "page": "T2:445",
+          "printed_page": "㉜-34",
+          "source_region": "note requirements (19)-(22); simplification and optional-disclosure supplement table and list",
+          "destination_heading": "## 第5節 注記事項"
+        }
+      ],
+      "chunk_sha256": "217f9a32550622e9474255e485fb093f2a031a4f29d2156c88dab986abf62528"
+    }
+  ]
+}
