@@ -1,0 +1,58 @@
+{
+  "batch_id": "JPG-T1-C008",
+  "source_id": "T1",
+  "status": "pass",
+  "source_images": [
+    {"page": "T1:107", "sha256": "973c7c8884240d94f83837cfbabb1e4ee9bf247edd0abf3b881cc9102844353a"},
+    {"page": "T1:108", "sha256": "9474cdc62341fbd7bd0cb7bace04c9d4a2de54efe56353568e20cb7680a10f5f"},
+    {"page": "T1:109", "sha256": "0467d9589dbdd2bf25e557faeae8f7660179af7199acd4d9a195d00411dff55e"},
+    {"page": "T1:110", "sha256": "701535c66816d82e995cc20105bf0366e92777cb583b172c504bcffbff56f49c"},
+    {"page": "T1:111", "sha256": "5ddb0c894695bc742493cd78b64dea261630e7957129898593b773ab025c27c3"}
+  ],
+  "section_outputs": [
+    {"task": "JPG-T1-C008-S01", "chunk_sha256": "d035771a04be966848955b571460e9330a45ca6b692f45d64a86ac50b027c9ab"}
+  ],
+  "coverage": [
+    {"page": "T1:107", "regions": ["chapter divider and short-answer exam-history table", "chapter divider and essay exam-history table"], "status": "pass", "findings": "Both tables and the single listed topic were retained; no marks were present in the source cells."},
+    {"page": "T1:108", "regions": ["section title and introduction", "gross-principle quoted rule", "gross-principle reason and offset examples", "current/fixed/net-assets classification quoted rule"], "status": "pass", "findings": "Retained the balance equation, the two gross-principle examples, and every classification level."},
+    {"page": "T1:109", "regions": ["current/fixed classification rationale", "investor ratio bullets", "case 1 and case 2 liquidity diagram", "item-classification quoted rule", "normal operating cycle and one-year criteria table", "bankruptcy/reorganization receivable exception"], "status": "pass", "findings": "Retained the safe/dangerous case distinction, criteria definitions, manufacturing-cycle example and exception."},
+    {"page": "T1:110", "regions": ["criterion application-order diagram", "normal/non-normal cycle and one-year examples", "items outside both criteria table", "inventory/fixed-asset supplemental rule"], "status": "pass", "findings": "Retained the precedence of the normal operating cycle criterion, the one-year boundary, both exceptions and the full supplementary inventory rule."},
+    {"page": "T1:111", "regions": ["liquidity-order quoted rule", "liquidity/fixedness comparison table", "current default and utility-company exception", "two order diagrams and liquidity interpretation"], "status": "pass", "findings": "Retained both definitions, asset/liability ordering, the rationale for the current method and the electricity/gas exception."}
+  ],
+  "findings": [
+    "All five included processing JPGs were reopened at readable resolution and compared against the section chunk, including margins, chapter/section labels, boxed rules, tables, diagrams and exceptions.",
+    "Page 107 contains only chapter/exam-history metadata and was retained because it is substantive chapter context in the batch contract.",
+    "The section is bounded by the chapter opener on physical page 107 and the blank MEMO page on physical page 112; no example, table, diagram or condition crosses the batch boundary.",
+    "The source contains no question/answer or false-proposition layout; that specialized check is not applicable.",
+    "The chunk uses source-faithful Japanese terminology and preserves the relationships shown by the current/fixed cases, criterion-order flow, and liquidity/fixedness diagrams in prose and tables."
+  ],
+  "corrections": [],
+  "checks": {
+    "numerical": "pass",
+    "diagram": "pass",
+    "false_proposition": "not_applicable"
+  },
+  "unresolved_count": 0,
+  "excluded_pages": [
+    {"page": "T1:112", "sha256": "5c31e35564a1fe5b400519057d4db042c4de234d42755e9050768b8a27e0e5bf", "printed_page": "⑤－5", "reason": "Blank chapter-end MEMO page with no learner content."}
+  ],
+  "reviewer_model": "current execution model; no model switch",
+  "dependency_commits": [
+    "a2fb2bb829d112522128cdb145523302e9d1e7fd",
+    "1fd8a963ef32e09b5f3f08ecd7d5bb7cc2240a94",
+    "393dc82a64791eb452ea64ccb8cbfc55212718ef",
+    "7507151c638a73a41fc13b9d4c4481c8888307e0"
+  ],
+  "source_revision": {
+    "verified_main_commit": "0cf3f033a4a62d673a9bb63bb2c7d38760beb781",
+    "source_catalog_sha256": "8358e9cffb068f63df0bdfcc8f99be035e66454ac8710d381f0ff9eb87728079",
+    "page_plan_sha256": "997a7280b171df5803c2a3bb7c2ee8764082e01f3bdb03c194b9129fe18d26c9",
+    "source_manifest_sha256": "760f946d08e1eebf2d79c189103ac2e627f0bb2569dcd80055885fb8b97324cd",
+    "source_map_sha256": "3ff42e94bd9f8751f8100c6ff251740a46f67182c468af620438c9768f14b961",
+    "batch_manifest_sha256": "125ff5fee8f8271b82c3258ced501ed4411b4071b930f08f1ed682e72c2628c4",
+    "inventory_review_sha256": "83e2c59f059ffdec53fcb8fb83a5f1300d5cca0722dcf031db0b459bd7ab8c19",
+    "pilot_qa_sha256": "cfd72bc97fc4ac0f8471bad6dc7b925085d1822ff606754b91f1b35f9b3ce694",
+    "source_image_inventory_sha256": "331ad1ea2ca04d0636c2185b6ab1a8fe5240ebdd3f0c7c546c8703371d497929",
+    "source_pdf_sha256": "c09d9d91ce39de787cab04e146719d95b638134399d57112802ffacfa67243f3"
+  }
+}

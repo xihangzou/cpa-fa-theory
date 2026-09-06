@@ -1,0 +1,38 @@
+{
+  "batch_id": "JPG-T1-C008",
+  "source_id": "T1",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-T1-C008-S01",
+      "batch_id": "JPG-T1-C008",
+      "chapter": "05",
+      "section": "05.1",
+      "title": "第1節 貸借対照表の表示・作成",
+      "expected_pages": ["T1:107", "T1:108", "T1:109", "T1:110", "T1:111"],
+      "processing_pages": ["T1:107", "T1:108", "T1:109", "T1:110", "T1:111"],
+      "output": "chunks/JPG-T1-C008/JPG-T1-C008-S01.md",
+      "status": "pass",
+      "chunk_sha256": "d035771a04be966848955b571460e9330a45ca6b692f45d64a86ac50b027c9ab",
+      "locators": [
+        {"page": "T1:107", "printed_page": null, "source_region": "第5章の章扉、章タイトル・評価、短答式および論文式本試験における出題実績表", "destination_heading": "## 第1節 貸借対照表の表示・作成"},
+        {"page": "T1:108", "printed_page": "⑤－1", "source_region": "第1節の扉、導入、1.総額主義の原則の規定・理由・相殺例、2.貸借対照表の区分表示の規定", "destination_heading": "## 第1節 貸借対照表の表示・作成"},
+        {"page": "T1:109", "printed_page": "⑤－2", "source_region": "区分表示の投資家分析図（ケース1・ケース2）、3.科目の分類の規定、正常営業循環基準と一年基準の定義・表、破産更生債権等の例", "destination_heading": "## 第1節 貸借対照表の表示・作成"},
+        {"page": "T1:110", "printed_page": "⑤－3", "source_region": "正常営業循環基準と一年基準の適用順序図・説明、適用されない経過勘定項目と繰延資産の表、棚卸資産と固定資産の表示区分の補足", "destination_heading": "## 第1節 貸借対照表の表示・作成"},
+        {"page": "T1:111", "printed_page": "⑤－4", "source_region": "4.貸借対照表の配列の規定、流動性配列法・固定性配列法の定義・現行取扱い表、両配列の図と財務流動性の説明", "destination_heading": "## 第1節 貸借対照表の表示・作成"}
+      ]
+    }
+  ],
+  "review": "reviews/JPG-T1-C008.json",
+  "excluded_pages": [
+    {"page": "T1:112", "printed_page": "⑤－5", "reason": "Blank chapter-end MEMO page with no learner content."}
+  ],
+  "source_scope": {
+    "source_id": "T1",
+    "physical_range": "T1:107-T1:112",
+    "processing_range": "T1:107-T1:111",
+    "chapter": "05",
+    "title": "貸借対照表総論",
+    "content_authority": "designated existing JPGs only"
+  }
+}
