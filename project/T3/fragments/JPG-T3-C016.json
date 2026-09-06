@@ -1,0 +1,264 @@
+{
+  "batch_id": "JPG-T3-C016",
+  "source_id": "T3",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-T3-C016-S01",
+      "batch_id": "JPG-T3-C016",
+      "chapter": "39",
+      "section": "39.1",
+      "title": "第1節 本会計基準における基本的な考え方",
+      "expected_pages": [
+        "T3:277",
+        "T3:278",
+        "T3:279",
+        "T3:280",
+        "T3:281"
+      ],
+      "processing_pages": [
+        "T3:277",
+        "T3:278",
+        "T3:279",
+        "T3:280",
+        "T3:281"
+      ],
+      "output": "chunks/JPG-T3-C016/JPG-T3-C016-S01.md",
+      "status": "pass",
+      "chunk_sha256": "78a9888fcf41822340b54937b91c56797b2f24bc40b2c9bf5ac656fcd8fe2aa1",
+      "locators": [
+        {
+          "page": "T3:277",
+          "printed_page": null,
+          "source_region": "章タイトル、重要度、財務計算テキスト対応、短答式・論文式本試験の出題実績表",
+          "destination_heading": "## 第1節 本会計基準における基本的な考え方"
+        },
+        {
+          "page": "T3:278",
+          "printed_page": "㊴－1",
+          "source_region": "第1節見出し、基準の規定範囲3項目、事業・事業分離・分離元企業・分離先企業・事業分離日・事業分離年度の定義表、事業分離と企業結合の関係図",
+          "destination_heading": "## 第1節 本会計基準における基本的な考え方"
+        },
+        {
+          "page": "T3:279",
+          "printed_page": "㊴－2",
+          "source_region": "2.(1)一般的な会計処理、現金等の場合と現金等以外の場合の取引図・仕訳、2.(2)企業結合会計基準の考え方",
+          "destination_heading": "## 第1節 本会計基準における基本的な考え方"
+        },
+        {
+          "page": "T3:280",
+          "printed_page": "㊴－3",
+          "source_region": "2.(3)持分の継続と投資の継続・清算の関係、概念図",
+          "destination_heading": "## 第1節 本会計基準における基本的な考え方"
+        },
+        {
+          "page": "T3:281",
+          "printed_page": "㊴－4",
+          "source_region": "2.(4)投資の清算・継続の一般的会計処理、時価・帳簿価額の比較、120・100・140の数値例、まとめ表",
+          "destination_heading": "## 第1節 本会計基準における基本的な考え方"
+        }
+      ]
+    },
+    {
+      "id": "JPG-T3-C016-S02",
+      "batch_id": "JPG-T3-C016",
+      "chapter": "39",
+      "section": "39.2",
+      "title": "第2節 事業分離における分離元企業の会計処理",
+      "expected_pages": [
+        "T3:282",
+        "T3:283",
+        "T3:284",
+        "T3:285",
+        "T3:286",
+        "T3:287"
+      ],
+      "processing_pages": [
+        "T3:282",
+        "T3:283",
+        "T3:284",
+        "T3:285",
+        "T3:286",
+        "T3:287"
+      ],
+      "output": "chunks/JPG-T3-C016/JPG-T3-C016-S02.md",
+      "status": "pass",
+      "chunk_sha256": "c9a73517abb85e26ea424ae3dcc27a337bbae307705e515d33a9579f76909ef2",
+      "locators": [
+        {
+          "page": "T3:282",
+          "printed_page": "㊴－5",
+          "source_region": "第2節見出し、1.(1)投資が清算されたとみる場合・通常の場合の定義、仕訳、継続的関与の例",
+          "destination_heading": "## 第2節 事業分離における分離元企業の会計処理"
+        },
+        {
+          "page": "T3:283",
+          "printed_page": "㊴－6",
+          "source_region": "補足「事業投資に係る利益計算」、リスクからの解放、重要な継続的関与を金融取引とする仕訳・図",
+          "destination_heading": "## 第2節 事業分離における分離元企業の会計処理"
+        },
+        {
+          "page": "T3:284",
+          "printed_page": "㊴－7",
+          "source_region": "1.(2)投資が継続しているとみる場合、株式対価、子会社・関連会社株式、マイナス差額の負債計上と仕訳",
+          "destination_heading": "## 第2節 事業分離における分離元企業の会計処理"
+        },
+        {
+          "page": "T3:285",
+          "printed_page": "㊴－8",
+          "source_region": "投資の継続・清算の具体的判断、対価の種類と支配の区別、(3)移転事業の資産・負債の帳簿価額の合理的区分図",
+          "destination_heading": "## 第2節 事業分離における分離元企業の会計処理"
+        },
+        {
+          "page": "T3:286",
+          "printed_page": "㊴－9",
+          "source_region": "2.支出額の当期費用処理、3.受取対価の時価、現金・現金以外の比較表と仕訳、株価基準",
+          "destination_heading": "## 第2節 事業分離における分離元企業の会計処理"
+        },
+        {
+          "page": "T3:287",
+          "printed_page": "㊴－10",
+          "source_region": "4.移転損益の特別損益表示、5.会計処理の分類、第3〜5節への対応、分離元・分離先の関係表と例外",
+          "destination_heading": "## 第2節 事業分離における分離元企業の会計処理"
+        }
+      ]
+    },
+    {
+      "id": "JPG-T3-C016-S03",
+      "batch_id": "JPG-T3-C016",
+      "chapter": "39",
+      "section": "39.3",
+      "title": "第3節 受取対価が現金等の財産のみである場合",
+      "expected_pages": [
+        "T3:288",
+        "T3:289",
+        "T3:290"
+      ],
+      "processing_pages": [
+        "T3:288",
+        "T3:289",
+        "T3:290"
+      ],
+      "output": "chunks/JPG-T3-C016/JPG-T3-C016-S03.md",
+      "status": "pass",
+      "chunk_sha256": "d35d2a3286dc50bceecd36275e49b8938deb551ce9124633ef1867d6eae29dc0",
+      "locators": [
+        {
+          "page": "T3:288",
+          "printed_page": "㊴－11",
+          "source_region": "第3節の分類3類型、1.子会社を分離先企業とする場合、個別財務諸表の帳簿価額処理、共通支配下の仕訳と注記",
+          "destination_heading": "## 第3節 受取対価が現金等の財産のみである場合"
+        },
+        {
+          "page": "T3:289",
+          "printed_page": "㊴－12",
+          "source_region": "1.(2)連結財務諸表の未実現損益消去、2.関連会社の場合、個別財務諸表の時価処理と仕訳",
+          "destination_heading": "## 第3節 受取対価が現金等の財産のみである場合"
+        },
+        {
+          "page": "T3:290",
+          "printed_page": "㊴－13",
+          "source_region": "2.(2)持分法による未実現損益消去、3.子会社・関連会社以外の場合の時価処理、移転損益、連結消去なし",
+          "destination_heading": "## 第3節 受取対価が現金等の財産のみである場合"
+        }
+      ]
+    },
+    {
+      "id": "JPG-T3-C016-S04",
+      "batch_id": "JPG-T3-C016",
+      "chapter": "39",
+      "section": "39.4",
+      "title": "第4節 受取対価が分離先企業の株式のみである場合",
+      "expected_pages": [
+        "T3:291",
+        "T3:292",
+        "T3:293",
+        "T3:294",
+        "T3:295",
+        "T3:296",
+        "T3:297",
+        "T3:298",
+        "T3:299",
+        "T3:300"
+      ],
+      "processing_pages": [
+        "T3:291",
+        "T3:292",
+        "T3:293",
+        "T3:294",
+        "T3:295",
+        "T3:296",
+        "T3:297",
+        "T3:298",
+        "T3:299",
+        "T3:300"
+      ],
+      "output": "chunks/JPG-T3-C016/JPG-T3-C016-S04.md",
+      "status": "pass",
+      "chunk_sha256": "512106700333671b36f2674f400a8705135c7ccbe6df49005f1efef6f9e03191",
+      "locators": [
+        {
+          "page": "T3:291",
+          "printed_page": "㊴－14",
+          "source_region": "第4節の分類3類型、1.(1)新たに子会社となる場合、個別処理、逆取得、図",
+          "destination_heading": "## 第4節 受取対価が分離先企業の株式のみである場合"
+        },
+        {
+          "page": "T3:292",
+          "printed_page": "㊴－15",
+          "source_region": "1.(1)連結処理、60%議決権の設例、簿価250・時価280・事業X時価300・S社簿価150/時価180・S社時価200、のれん12と資本剰余金20",
+          "destination_heading": "## 第4節 受取対価が分離先企業の株式のみである場合"
+        },
+        {
+          "page": "T3:293",
+          "printed_page": "㊴－16",
+          "source_region": "1.(2)既所有から子会社、個別の追加取得原価、連結上の時価評価・段階取得損益・のれん・資本剰余金",
+          "destination_heading": "## 第4節 受取対価が分離先企業の株式のみである場合"
+        },
+        {
+          "page": "T3:294",
+          "printed_page": "㊴－17",
+          "source_region": "1.(3)既存子会社株式の追加取得、個別・連結処理、資本剰余金、のれんを生じない点",
+          "destination_heading": "## 第4節 受取対価が分離先企業の株式のみである場合"
+        },
+        {
+          "page": "T3:295",
+          "printed_page": "㊴－18",
+          "source_region": "2.(1)新たに関連会社となる場合、個別処理、持分法ののれん・持分変動差額、重要性の例外",
+          "destination_heading": "## 第4節 受取対価が分離先企業の株式のみである場合"
+        },
+        {
+          "page": "T3:296",
+          "printed_page": "㊴－19",
+          "source_region": "関連会社化の2見解、100%から20%への図、清算見解の理由、現行の継続見解、間接的事業投資・一行連結・支配要件の限界",
+          "destination_heading": "## 第4節 受取対価が分離先企業の株式のみである場合"
+        },
+        {
+          "page": "T3:297",
+          "printed_page": "㊴－20",
+          "source_region": "2.(2)既所有から関連会社、個別・持分法ののれん/持分変動差額",
+          "destination_heading": "## 第4節 受取対価が分離先企業の株式のみである場合"
+        },
+        {
+          "page": "T3:298",
+          "printed_page": "㊴－21",
+          "source_region": "2.(3)既存関連会社株式の追加取得、個別・持分法の追加取得持分と持分変動差額",
+          "destination_heading": "## 第4節 受取対価が分離先企業の株式のみである場合"
+        },
+        {
+          "page": "T3:299",
+          "printed_page": "㊴－22",
+          "source_region": "3.子会社・関連会社以外、時価での投資有価証券・移転損益仕訳、100%から5%への例と投資清算",
+          "destination_heading": "## 第4節 受取対価が分離先企業の株式のみである場合"
+        },
+        {
+          "page": "T3:300",
+          "printed_page": "㊴－23",
+          "source_region": "3.分離先企業が子会社や関連会社以外となる場合、移転損益認識、株式時価・移転事業時価の比較、100%から5%への持分減少図、投資清算の結論",
+          "destination_heading": "## 第4節 受取対価が分離先企業の株式のみである場合"
+        }
+      ]
+    }
+  ],
+  "review": "reviews/JPG-T3-C016.json"
+}

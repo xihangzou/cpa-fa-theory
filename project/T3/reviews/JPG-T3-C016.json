@@ -1,0 +1,453 @@
+{
+  "batch_id": "JPG-T3-C016",
+  "source_id": "T3",
+  "status": "pass",
+  "unresolved_count": 0,
+  "reviewer_model": "GPT-5 (current execution)",
+  "review_date": "2026-09-07",
+  "source_revision": {
+    "repository_commit": "a7a464149e07553b62466286da03d7119c95084c",
+    "source_pdf_sha256": "1d9f0124a0c8ef759526decc90a1a410f694e2b7fa992b430fc413e783df85bc",
+    "source_image_inventory_sha256": "8e0709aa6cd2d086d9df18627ae7eb466c20cdb59474bbef26038f03d9d40b24",
+    "catalog_image_inventory_sha256": "af94a7c1f91d1eb56611afc242360566950d6f93d5a6ac7d5271c5e8d3f9d170",
+    "batch_boundary_review_id": "JPG-T3-INV-BND-JPG-T3-C016"
+  },
+  "dependency_commits": [
+    "a2fb2bb829d112522128cdb145523302e9d1e7fd",
+    "cccf7c381768b18116d49e4847dac5df2b01506c",
+    "0034627e759ba83225ae91dbc5cba1c1825ba3a6",
+    "a5ef6597e2184c32b0bbe8197aebbfb93d97f710"
+  ],
+  "source_images": [
+    {
+      "page": "T3:277",
+      "printed_page": null,
+      "image": "pages/T3/page-277.jpg",
+      "sha256": "727450c31743200b9c7209729c1b91a6ff9e92b1e1fee1d466b4bd464b67f333"
+    },
+    {
+      "page": "T3:278",
+      "printed_page": "㊴－1",
+      "image": "pages/T3/page-278.jpg",
+      "sha256": "e5cbb14ce1d035927274ae4322de46a17669dc471804394c1789553cc61cefdf"
+    },
+    {
+      "page": "T3:279",
+      "printed_page": "㊴－2",
+      "image": "pages/T3/page-279.jpg",
+      "sha256": "da0445a09e59314ed9a46bb8f75549b8dff203ef80b3de3920d1275f818fc835"
+    },
+    {
+      "page": "T3:280",
+      "printed_page": "㊴－3",
+      "image": "pages/T3/page-280.jpg",
+      "sha256": "29ae34c794b9336517df2cea38c824fba928d21d8854990cd4fb99cff1e71778"
+    },
+    {
+      "page": "T3:281",
+      "printed_page": "㊴－4",
+      "image": "pages/T3/page-281.jpg",
+      "sha256": "5c6b9cf39712e4ae9538fb2abd01552fdd7ed4990c74e5e334235b1b47462d1f"
+    },
+    {
+      "page": "T3:282",
+      "printed_page": "㊴－5",
+      "image": "pages/T3/page-282.jpg",
+      "sha256": "a52d60706d8a3e7d080e04e8b04035bfb4c6df86f40cf1988bbaeafd18bd6d0d"
+    },
+    {
+      "page": "T3:283",
+      "printed_page": "㊴－6",
+      "image": "pages/T3/page-283.jpg",
+      "sha256": "c6d62913bc7cc862b0fd43ee78abaeab6c061a65acbf314eff9bf73de30fdbd9"
+    },
+    {
+      "page": "T3:284",
+      "printed_page": "㊴－7",
+      "image": "pages/T3/page-284.jpg",
+      "sha256": "bb0760e32b398ad5cbe366bd9453d448148f8d6e0455263265627f3dd91408a7"
+    },
+    {
+      "page": "T3:285",
+      "printed_page": "㊴－8",
+      "image": "pages/T3/page-285.jpg",
+      "sha256": "44f09df6d27d9849fac3776d3d6da342662127c4b693de61fd6c8d479853833c"
+    },
+    {
+      "page": "T3:286",
+      "printed_page": "㊴－9",
+      "image": "pages/T3/page-286.jpg",
+      "sha256": "3a6ec9dbfbc93754c68d01838b095495e7cc82aa2e2bfde5e4a2af0136582189"
+    },
+    {
+      "page": "T3:287",
+      "printed_page": "㊴－10",
+      "image": "pages/T3/page-287.jpg",
+      "sha256": "603ee4a8a17c11d0abb6e774931ed2c145e489cfa142f5daa1ce8e516c856586"
+    },
+    {
+      "page": "T3:288",
+      "printed_page": "㊴－11",
+      "image": "pages/T3/page-288.jpg",
+      "sha256": "778e39b00d3a24f7f60822c8e6aba888410d62ec529af9fc6c5a70bb2fd32353"
+    },
+    {
+      "page": "T3:289",
+      "printed_page": "㊴－12",
+      "image": "pages/T3/page-289.jpg",
+      "sha256": "1e1255d7dd8c5cc7edcc30ef10aacc7424480bec81577a17e1d78c1ff3e9b1ea"
+    },
+    {
+      "page": "T3:290",
+      "printed_page": "㊴－13",
+      "image": "pages/T3/page-290.jpg",
+      "sha256": "8920e6ea71bbbae3c9c5989591ff72a823050c28415af6f7982ac7ead1a2deb8"
+    },
+    {
+      "page": "T3:291",
+      "printed_page": "㊴－14",
+      "image": "pages/T3/page-291.jpg",
+      "sha256": "8ad68ca5edb66bc627d62ade8fa110e4ef55f283143bee641b963bcfdfcdd038"
+    },
+    {
+      "page": "T3:292",
+      "printed_page": "㊴－15",
+      "image": "pages/T3/page-292.jpg",
+      "sha256": "f55a93a8adaae2a699b4fa9eba26d7cbbc91afa58cd68ff6d39859ac407c3ff2"
+    },
+    {
+      "page": "T3:293",
+      "printed_page": "㊴－16",
+      "image": "pages/T3/page-293.jpg",
+      "sha256": "4b5d7890be3bb00c7b985885718159cf75f796ec424278394430436a21ab8e6b"
+    },
+    {
+      "page": "T3:294",
+      "printed_page": "㊴－17",
+      "image": "pages/T3/page-294.jpg",
+      "sha256": "036df68fc0cad4b47eaeeee3f1c4144ba0116aeb2f9a673a0e2a5bdd438e44ab"
+    },
+    {
+      "page": "T3:295",
+      "printed_page": "㊴－18",
+      "image": "pages/T3/page-295.jpg",
+      "sha256": "bd8d05177a5f73b092362a6ee2c4ded8f85144a1b3a449eb8a49d4b9da65843a"
+    },
+    {
+      "page": "T3:296",
+      "printed_page": "㊴－19",
+      "image": "pages/T3/page-296.jpg",
+      "sha256": "7a2ce0592aeaf1822bfadc63407c999160e4aab1ba7400aaf32db1941d9d47d7"
+    },
+    {
+      "page": "T3:297",
+      "printed_page": "㊴－20",
+      "image": "pages/T3/page-297.jpg",
+      "sha256": "456ddd2f40acc3513b2c50c5164ea0faf9a50b052f908f26adf57efeae3d8084"
+    },
+    {
+      "page": "T3:298",
+      "printed_page": "㊴－21",
+      "image": "pages/T3/page-298.jpg",
+      "sha256": "6e85d00ca6ec6b877935af4e6f5c811137d674f76382ab72a14c7f784f4a1eb9"
+    },
+    {
+      "page": "T3:299",
+      "printed_page": "㊴－22",
+      "image": "pages/T3/page-299.jpg",
+      "sha256": "09b0ad776b1b4aaf2e1b31e815bd4497bcf4418485ae55dab552015223ae3d29"
+    },
+    {
+      "page": "T3:300",
+      "printed_page": "㊴－23",
+      "image": "pages/T3/page-300.jpg",
+      "sha256": "61c6627ad3d6f2b85d1aaa7cd86c1db5cfbec82b75ce33e1983c0f06dcd3e47f"
+    }
+  ],
+  "section_outputs": [
+    {
+      "task": "JPG-T3-C016-S01",
+      "chunk": "project/T3/chunks/JPG-T3-C016/JPG-T3-C016-S01.md",
+      "chunk_sha256": "78a9888fcf41822340b54937b91c56797b2f24bc40b2c9bf5ac656fcd8fe2aa1"
+    },
+    {
+      "task": "JPG-T3-C016-S02",
+      "chunk": "project/T3/chunks/JPG-T3-C016/JPG-T3-C016-S02.md",
+      "chunk_sha256": "c9a73517abb85e26ea424ae3dcc27a337bbae307705e515d33a9579f76909ef2"
+    },
+    {
+      "task": "JPG-T3-C016-S03",
+      "chunk": "project/T3/chunks/JPG-T3-C016/JPG-T3-C016-S03.md",
+      "chunk_sha256": "d35d2a3286dc50bceecd36275e49b8938deb551ce9124633ef1867d6eae29dc0"
+    },
+    {
+      "task": "JPG-T3-C016-S04",
+      "chunk": "project/T3/chunks/JPG-T3-C016/JPG-T3-C016-S04.md",
+      "chunk_sha256": "512106700333671b36f2674f400a8705135c7ccbe6df49005f1efef6f9e03191"
+    }
+  ],
+  "page_fidelity_matrix": [
+    {
+      "pages": [
+        "T3:277",
+        "T3:278",
+        "T3:279",
+        "T3:280",
+        "T3:281"
+      ],
+      "sections": [
+        "第1節 本会計基準における基本的な考え方"
+      ],
+      "result": "pass"
+    },
+    {
+      "pages": [
+        "T3:282",
+        "T3:283",
+        "T3:284",
+        "T3:285",
+        "T3:286",
+        "T3:287"
+      ],
+      "sections": [
+        "第2節 事業分離における分離元企業の会計処理"
+      ],
+      "result": "pass"
+    },
+    {
+      "pages": [
+        "T3:288",
+        "T3:289",
+        "T3:290"
+      ],
+      "sections": [
+        "第3節 受取対価が現金等の財産のみである場合"
+      ],
+      "result": "pass"
+    },
+    {
+      "pages": [
+        "T3:291",
+        "T3:292",
+        "T3:293",
+        "T3:294",
+        "T3:295",
+        "T3:296",
+        "T3:297",
+        "T3:298",
+        "T3:299",
+        "T3:300"
+      ],
+      "sections": [
+        "第4節 受取対価が分離先企業の株式のみである場合"
+      ],
+      "result": "pass"
+    }
+  ],
+  "coverage": [
+    {
+      "page": "T3:277",
+      "status": "pass",
+      "regions": [
+        "章タイトル、重要度、財務計算テキスト対応、短答式・論文式本試験の出題実績表",
+        "本文、表・図、数値、仕訳、欄外、脚注相当表示、ページ境界をチャンクと照合"
+      ]
+    },
+    {
+      "page": "T3:278",
+      "status": "pass",
+      "regions": [
+        "第1節見出し、基準の規定範囲3項目、事業・事業分離・分離元企業・分離先企業・事業分離日・事業分離年度の定義表、事業分離と企業結合の関係図",
+        "本文、表・図、数値、仕訳、欄外、脚注相当表示、ページ境界をチャンクと照合"
+      ]
+    },
+    {
+      "page": "T3:279",
+      "status": "pass",
+      "regions": [
+        "2.(1)一般的な会計処理、現金等の場合と現金等以外の場合の取引図・仕訳、2.(2)企業結合会計基準の考え方",
+        "本文、表・図、数値、仕訳、欄外、脚注相当表示、ページ境界をチャンクと照合"
+      ]
+    },
+    {
+      "page": "T3:280",
+      "status": "pass",
+      "regions": [
+        "2.(3)持分の継続と投資の継続・清算の関係、概念図",
+        "本文、表・図、数値、仕訳、欄外、脚注相当表示、ページ境界をチャンクと照合"
+      ]
+    },
+    {
+      "page": "T3:281",
+      "status": "pass",
+      "regions": [
+        "2.(4)投資の清算・継続の一般的会計処理、時価・帳簿価額の比較、120・100・140の数値例、まとめ表",
+        "本文、表・図、数値、仕訳、欄外、脚注相当表示、ページ境界をチャンクと照合"
+      ]
+    },
+    {
+      "page": "T3:282",
+      "status": "pass",
+      "regions": [
+        "第2節見出し、1.(1)投資が清算されたとみる場合・通常の場合の定義、仕訳、継続的関与の例",
+        "本文、表・図、数値、仕訳、欄外、脚注相当表示、ページ境界をチャンクと照合"
+      ]
+    },
+    {
+      "page": "T3:283",
+      "status": "pass",
+      "regions": [
+        "補足「事業投資に係る利益計算」、リスクからの解放、重要な継続的関与を金融取引とする仕訳・図",
+        "本文、表・図、数値、仕訳、欄外、脚注相当表示、ページ境界をチャンクと照合"
+      ]
+    },
+    {
+      "page": "T3:284",
+      "status": "pass",
+      "regions": [
+        "1.(2)投資が継続しているとみる場合、株式対価、子会社・関連会社株式、マイナス差額の負債計上と仕訳",
+        "本文、表・図、数値、仕訳、欄外、脚注相当表示、ページ境界をチャンクと照合"
+      ]
+    },
+    {
+      "page": "T3:285",
+      "status": "pass",
+      "regions": [
+        "投資の継続・清算の具体的判断、対価の種類と支配の区別、(3)移転事業の資産・負債の帳簿価額の合理的区分図",
+        "本文、表・図、数値、仕訳、欄外、脚注相当表示、ページ境界をチャンクと照合"
+      ]
+    },
+    {
+      "page": "T3:286",
+      "status": "pass",
+      "regions": [
+        "2.支出額の当期費用処理、3.受取対価の時価、現金・現金以外の比較表と仕訳、株価基準",
+        "本文、表・図、数値、仕訳、欄外、脚注相当表示、ページ境界をチャンクと照合"
+      ]
+    },
+    {
+      "page": "T3:287",
+      "status": "pass",
+      "regions": [
+        "4.移転損益の特別損益表示、5.会計処理の分類、第3〜5節への対応、分離元・分離先の関係表と例外",
+        "本文、表・図、数値、仕訳、欄外、脚注相当表示、ページ境界をチャンクと照合"
+      ]
+    },
+    {
+      "page": "T3:288",
+      "status": "pass",
+      "regions": [
+        "第3節の分類3類型、1.子会社を分離先企業とする場合、個別財務諸表の帳簿価額処理、共通支配下の仕訳と注記",
+        "本文、表・図、数値、仕訳、欄外、脚注相当表示、ページ境界をチャンクと照合"
+      ]
+    },
+    {
+      "page": "T3:289",
+      "status": "pass",
+      "regions": [
+        "1.(2)連結財務諸表の未実現損益消去、2.関連会社の場合、個別財務諸表の時価処理と仕訳",
+        "本文、表・図、数値、仕訳、欄外、脚注相当表示、ページ境界をチャンクと照合"
+      ]
+    },
+    {
+      "page": "T3:290",
+      "status": "pass",
+      "regions": [
+        "2.(2)持分法による未実現損益消去、3.子会社・関連会社以外の場合の時価処理、移転損益、連結消去なし",
+        "本文、表・図、数値、仕訳、欄外、脚注相当表示、ページ境界をチャンクと照合"
+      ]
+    },
+    {
+      "page": "T3:291",
+      "status": "pass",
+      "regions": [
+        "第4節の分類3類型、1.(1)新たに子会社となる場合、個別処理、逆取得、図",
+        "本文、表・図、数値、仕訳、欄外、脚注相当表示、ページ境界をチャンクと照合"
+      ]
+    },
+    {
+      "page": "T3:292",
+      "status": "pass",
+      "regions": [
+        "1.(1)連結処理、60%議決権の設例、簿価250・時価280・事業X時価300・S社簿価150/時価180・S社時価200、のれん12と資本剰余金20",
+        "本文、表・図、数値、仕訳、欄外、脚注相当表示、ページ境界をチャンクと照合"
+      ]
+    },
+    {
+      "page": "T3:293",
+      "status": "pass",
+      "regions": [
+        "1.(2)既所有から子会社、個別の追加取得原価、連結上の時価評価・段階取得損益・のれん・資本剰余金",
+        "本文、表・図、数値、仕訳、欄外、脚注相当表示、ページ境界をチャンクと照合"
+      ]
+    },
+    {
+      "page": "T3:294",
+      "status": "pass",
+      "regions": [
+        "1.(3)既存子会社株式の追加取得、個別・連結処理、資本剰余金、のれんを生じない点",
+        "本文、表・図、数値、仕訳、欄外、脚注相当表示、ページ境界をチャンクと照合"
+      ]
+    },
+    {
+      "page": "T3:295",
+      "status": "pass",
+      "regions": [
+        "2.(1)新たに関連会社となる場合、個別処理、持分法ののれん・持分変動差額、重要性の例外",
+        "本文、表・図、数値、仕訳、欄外、脚注相当表示、ページ境界をチャンクと照合"
+      ]
+    },
+    {
+      "page": "T3:296",
+      "status": "pass",
+      "regions": [
+        "関連会社化の2見解、100%から20%への図、清算見解の理由、現行の継続見解、間接的事業投資・一行連結・支配要件の限界",
+        "本文、表・図、数値、仕訳、欄外、脚注相当表示、ページ境界をチャンクと照合"
+      ]
+    },
+    {
+      "page": "T3:297",
+      "status": "pass",
+      "regions": [
+        "2.(2)既所有から関連会社、個別・持分法ののれん/持分変動差額",
+        "本文、表・図、数値、仕訳、欄外、脚注相当表示、ページ境界をチャンクと照合"
+      ]
+    },
+    {
+      "page": "T3:298",
+      "status": "pass",
+      "regions": [
+        "2.(3)既存関連会社株式の追加取得、個別・持分法の追加取得持分と持分変動差額",
+        "本文、表・図、数値、仕訳、欄外、脚注相当表示、ページ境界をチャンクと照合"
+      ]
+    },
+    {
+      "page": "T3:299",
+      "status": "pass",
+      "regions": [
+        "3.子会社・関連会社以外、時価での投資有価証券・移転損益仕訳、100%から5%への例と投資清算",
+        "本文、表・図、数値、仕訳、欄外、脚注相当表示、ページ境界をチャンクと照合"
+      ]
+    },
+    {
+      "page": "T3:300",
+      "status": "pass",
+      "regions": [
+        "3.分離先企業が子会社や関連会社以外となる場合、時価評価・移転損益仕訳、100%から5%への持分減少図と投資清算の説明",
+        "本文、表・図、数値、仕訳、欄外、脚注相当表示、ページ境界をチャンクと照合"
+      ]
+    }
+  ],
+  "findings": [
+    "指定された24画像をすべて再確認し、本文、表、仕訳、数値、図、余白、欄外の重要度表示、脚注相当表示、ページ番号およびセクション境界を対応するチャンクと照合した。",
+    "第39章の章見出しと第1節から第4節までの階層を保持し、事業分離・投資の継続/清算・共通支配下・持分法・パーチェス法の区別、数値設例、時価・帳簿価額、仕訳および図の意味を記録した。",
+    "ページ277の出題実績表、ページ278の用語定義表、ページ291-293の60%設例、ページ296-297の関連会社化の2見解、ページ300の5%持分例を含め、図だけに依存する意味を文章・表・仕訳に置き換えた。",
+    "ページ300の第4節第3項は当該ページで完結し、次のセクションへの継続はない。範囲外画像を内容補完に使用していない。"
+  ],
+  "corrections": [],
+  "checks": {
+    "numerical": "pass",
+    "diagram": "pass",
+    "false_proposition": "not_applicable"
+  }
+}
