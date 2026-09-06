@@ -1,0 +1,102 @@
+{
+  "batch_id": "JPG-T3-C018",
+  "source_id": "T3",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-T3-C018-S01",
+      "batch_id": "JPG-T3-C018",
+      "chapter": "40",
+      "section": "40.1",
+      "title": "第1節 キャッシュ・フロー計算書総論",
+      "expected_pages": ["T3:317", "T3:318", "T3:319"],
+      "processing_pages": ["T3:317", "T3:318", "T3:319"],
+      "output": "chunks/JPG-T3-C018/JPG-T3-C018-S01.md",
+      "status": "pass",
+      "chunk_sha256": "0f50f3152e4309ae89f515ff7965f46b991ef5e3bd6182a584b640b68ea8c1f8",
+      "locators": [
+        {"page": "T3:317", "printed_page": null, "source_region": "第40章の章題、重要度、財務計算テキスト5の対応章、短答式・論文式の出題実績表", "destination_heading": "## 第1節 キャッシュ・フロー計算書総論"},
+        {"page": "T3:318", "printed_page": "㊵－1", "source_region": "第1節見出し、キャッシュ・フロー計算書の作成目的と位置づけ、作成基準の準用関係、必要性①企業の支払能力の把握", "destination_heading": "## 第1節 キャッシュ・フロー計算書総論"},
+        {"page": "T3:319", "printed_page": "㊵－2", "source_region": "必要性②企業の資金獲得能力の評価、③企業間の比較可能性の確保、補足「キャッシュ・フロー計算書と損益計算書」", "destination_heading": "## 第1節 キャッシュ・フロー計算書総論"}
+      ]
+    },
+    {
+      "id": "JPG-T3-C018-S02",
+      "batch_id": "JPG-T3-C018",
+      "chapter": "40",
+      "section": "40.2",
+      "title": "第2節 資金の範囲",
+      "expected_pages": ["T3:320", "T3:321"],
+      "processing_pages": ["T3:320", "T3:321"],
+      "output": "chunks/JPG-T3-C018/JPG-T3-C018-S02.md",
+      "status": "pass",
+      "chunk_sha256": "7ae9645920eabe9fa0b88b5405f0578f013c97c094422c26ad936af0bac7a5e5",
+      "locators": [
+        {"page": "T3:320", "printed_page": "㊵－3", "source_region": "第2節見出し、資金の範囲、現金、現金同等物、資金の範囲の図と具体例", "destination_heading": "## 第2節 資金の範囲"},
+        {"page": "T3:321", "printed_page": "㊵－4", "source_region": "従来の資金収支表の問題点、資金の範囲の開示、3か月基準の補足、資金の範囲の継続性と遡及適用", "destination_heading": "## 第2節 資金の範囲"}
+      ]
+    },
+    {
+      "id": "JPG-T3-C018-S03",
+      "batch_id": "JPG-T3-C018",
+      "chapter": "40",
+      "section": "40.3",
+      "title": "第3節 キャッシュ・フロー計算書の表示",
+      "expected_pages": ["T3:322", "T3:323", "T3:324", "T3:325", "T3:326", "T3:327", "T3:328", "T3:329", "T3:330", "T3:331"],
+      "processing_pages": ["T3:322", "T3:323", "T3:324", "T3:325", "T3:326", "T3:327", "T3:328", "T3:329", "T3:330", "T3:331"],
+      "output": "chunks/JPG-T3-C018/JPG-T3-C018-S03.md",
+      "status": "pass",
+      "chunk_sha256": "27b15396a017fe09a150fb3f55ac747795cfee23ce07d9278dce9c5e5a59597f",
+      "locators": [
+        {"page": "T3:322", "printed_page": "㊵－5", "source_region": "第3節見出し、3区分、営業活動によるキャッシュ・フローの定義と3類型", "destination_heading": "## 第3節 キャッシュ・フロー計算書の表示"},
+        {"page": "T3:323", "printed_page": "㊵－6", "source_region": "小計欄の意義と1,500・△980・△130・△120・270・△65・△120・85の例、前渡金・営業保証金、手形割引", "destination_heading": "## 第3節 キャッシュ・フロー計算書の表示"},
+        {"page": "T3:324", "printed_page": "㊵－7", "source_region": "投資活動・財務活動の定義と表示項目", "destination_heading": "## 第3節 キャッシュ・フロー計算書の表示"},
+        {"page": "T3:325", "printed_page": "㊵－8", "source_region": "取引の性格の判定、事業目的・決済条件の具体例、現金及び現金同等物に係る換算差額", "destination_heading": "## 第3節 キャッシュ・フロー計算書の表示"},
+        {"page": "T3:326", "printed_page": "㊵－9", "source_region": "利息及び配当金の第1法・第2法、表示区分表、利益250と営業C/F150又は200・財務C/F△50の論拠例", "destination_heading": "## 第3節 キャッシュ・フロー計算書の表示"},
+        {"page": "T3:327", "printed_page": "㊵－10", "source_region": "法人税等の表示区分、課税所得1,000の理論配分と税率40%の例、小計欄の下に表示する論拠、事業税", "destination_heading": "## 第3節 キャッシュ・フロー計算書の表示"},
+        {"page": "T3:328", "printed_page": "㊵－11", "source_region": "直接法・間接法の選択、定義、双方の表示例", "destination_heading": "## 第3節 キャッシュ・フロー計算書の表示"},
+        {"page": "T3:329", "printed_page": "㊵－12", "source_region": "直接法・間接法の長所短所、投資・財務活動の総額表示と短期回転項目の純額表示、1億円の貸付回収100回の例", "destination_heading": "## 第3節 キャッシュ・フロー計算書の表示"},
+        {"page": "T3:330", "printed_page": "㊵－13", "source_region": "特殊な取扱い、借手・貸手のリース料、当座借越の負の現金同等物又は財務活動処理", "destination_heading": "## 第3節 キャッシュ・フロー計算書の表示"},
+        {"page": "T3:331", "printed_page": "㊵－14", "source_region": "資金が増減しない取引、先物契約等の表示区分、資産除去債務の履行と重要な非資金取引注記", "destination_heading": "## 第3節 キャッシュ・フロー計算書の表示"}
+      ]
+    },
+    {
+      "id": "JPG-T3-C018-S04",
+      "batch_id": "JPG-T3-C018",
+      "chapter": "40",
+      "section": "40.4",
+      "title": "第4節 連結キャッシュ・フロー計算書",
+      "expected_pages": ["T3:332", "T3:333", "T3:334", "T3:335", "T3:336"],
+      "processing_pages": ["T3:332", "T3:333", "T3:334", "T3:335", "T3:336"],
+      "output": "chunks/JPG-T3-C018/JPG-T3-C018-S04.md",
+      "status": "pass",
+      "chunk_sha256": "85aee002e8b71963378042dbce80231f55c09e39c33fb5a831e08607d363b665",
+      "locators": [
+        {"page": "T3:332", "printed_page": "㊵－15", "source_region": "第4節見出し、原則法・簡便法、連結会社相互間のキャッシュ・フローの相殺消去", "destination_heading": "## 第4節 連結キャッシュ・フロー計算書"},
+        {"page": "T3:333", "printed_page": "㊵－16", "source_region": "表示科目の組替、連結会社振出しの受取手形の割引、子会社配当、持分法適用会社からの受取配当金", "destination_heading": "## 第4節 連結キャッシュ・フロー計算書"},
+        {"page": "T3:334", "printed_page": "㊵－17", "source_region": "連結範囲変動を伴う子会社株式取得・売却、現金控除、取得関連費用、事業譲受け7,700・現金3,000・純額4,700の設例", "destination_heading": "## 第4節 連結キャッシュ・フロー計算書"},
+        {"page": "T3:335", "printed_page": "㊵－18", "source_region": "連結範囲変動を伴わない子会社株式取得・売却、非支配株主との取引、連結追加・連結除外の記載期間", "destination_heading": "## 第4節 連結キャッシュ・フロー計算書"},
+        {"page": "T3:336", "printed_page": "㊵－19", "source_region": "在外子会社のキャッシュ・フローの換算方法と期中平均相場・決算時相場・発生時相場の表", "destination_heading": "## 第4節 連結キャッシュ・フロー計算書"}
+      ]
+    },
+    {
+      "id": "JPG-T3-C018-S05",
+      "batch_id": "JPG-T3-C018",
+      "chapter": "40",
+      "section": "40.5",
+      "title": "第5節 キャッシュ・フロー計算書に関するその他の論点",
+      "expected_pages": ["T3:337", "T3:338", "T3:339", "T3:340"],
+      "processing_pages": ["T3:337", "T3:338", "T3:339", "T3:340"],
+      "output": "chunks/JPG-T3-C018/JPG-T3-C018-S05.md",
+      "status": "pass",
+      "chunk_sha256": "c646c093bc78ac879a7cb294a6fb07859a553411b96a1319fba7418e378efaf8",
+      "locators": [
+        {"page": "T3:337", "printed_page": "㊵－20", "source_region": "第5節見出し、非資金取引の定義・注記要件・4例、部分的にキャッシュ・フローを伴う取引", "destination_heading": "## 第5節 キャッシュ・フロー計算書に関するその他の論点"},
+        {"page": "T3:338", "printed_page": "㊵－21", "source_region": "純額表示、第三者活動を反映する3例、重要性の乏しい項目、社債発行費・株式交付費の500,000・480,000・5,000例", "destination_heading": "## 第5節 キャッシュ・フロー計算書に関するその他の論点"},
+        {"page": "T3:339", "printed_page": "㊵－22", "source_region": "資金の範囲等の注記事項5項目、現金及び現金同等物1,497の調整表", "destination_heading": "## 第5節 キャッシュ・フロー計算書に関するその他の論点"},
+        {"page": "T3:340", "printed_page": "㊵－23", "source_region": "空白のMEMOページ。学習本文なし。", "destination_heading": "## 第5節 キャッシュ・フロー計算書に関するその他の論点"}
+      ]
+    }
+  ],
+  "review": "reviews/JPG-T3-C018.json"
+}

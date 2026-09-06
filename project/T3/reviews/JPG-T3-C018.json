@@ -1,0 +1,117 @@
+{
+  "batch_id": "JPG-T3-C018",
+  "source_id": "T3",
+  "status": "pass",
+  "unresolved_count": 0,
+  "reviewer_model": "GPT-5 (current execution)",
+  "review_date": "2026-09-07",
+  "source_revision": {
+    "repository_commit": "117874231bdc7324c0e9a4b4ed0e994740d8e58d",
+    "source_pdf_sha256": "1d9f0124a0c8ef759526decc90a1a410f694e2b7fa992b430fc413e783df85bc",
+    "source_image_inventory_sha256": "8e0709aa6cd2d086d9df18627ae7eb466c20cdb59474bbef26038f03d9d40b24",
+    "catalog_image_inventory_sha256": "af94a7c1f91d1eb56611afc242360566950d6f93d5a6ac7d5271c5e8d3f9d170",
+    "batch_boundary_review_id": "JPG-T3-INV-BND-JPG-T3-C018"
+  },
+  "dependency_commits": [
+    "a2fb2bb829d112522128cdb145523302e9d1e7fd",
+    "cccf7c381768b18116d49e4847dac5df2b01506c",
+    "0034627e759ba83225ae91dbc5cba1c1825ba3a6",
+    "a5ef6597e2184c32b0bbe8197aebbfb93d97f710"
+  ],
+  "source_images": [
+    {"page": "T3:317", "printed_page": null, "image": "pages/T3/page-317.jpg", "sha256": "2a2c8e5bbbeb53f00a1439c1278ae9f715780c2a4cd2cb9160e5266795c7a303"},
+    {"page": "T3:318", "printed_page": "㊵－1", "image": "pages/T3/page-318.jpg", "sha256": "4f6e21cb83cc620e812d7967a4bd0033841114775cfea07d4e40cc6841a48fef"},
+    {"page": "T3:319", "printed_page": "㊵－2", "image": "pages/T3/page-319.jpg", "sha256": "f7f75d68114ef24fc9c8c542f93937e5a2e521d298fd36c77e180837dde8e524"},
+    {"page": "T3:320", "printed_page": "㊵－3", "image": "pages/T3/page-320.jpg", "sha256": "4e4a36d6e0163bd87a4de25012e4e3227e52206d04fc94a20b65e4bb9ce15a75"},
+    {"page": "T3:321", "printed_page": "㊵－4", "image": "pages/T3/page-321.jpg", "sha256": "f6c58d30f397c796a97e9fbea93f733f31ce1b71200a13b1e7ea4ef0171b6926"},
+    {"page": "T3:322", "printed_page": "㊵－5", "image": "pages/T3/page-322.jpg", "sha256": "6c7614c53af92f2d0a0dcb74f84b16117bff6fcadbcd3c188907680ef9e42a13"},
+    {"page": "T3:323", "printed_page": "㊵－6", "image": "pages/T3/page-323.jpg", "sha256": "e7cfc2d32e3a2afd2495e0b94ae60c970e6aaa34f6fba5fb9eb23be4ce823593"},
+    {"page": "T3:324", "printed_page": "㊵－7", "image": "pages/T3/page-324.jpg", "sha256": "1f3466400f1d9eb09c091c92ffbd0826e8a81e671c137ee436a934e4c8d76413"},
+    {"page": "T3:325", "printed_page": "㊵－8", "image": "pages/T3/page-325.jpg", "sha256": "de11265fb464fa90a80d0b9638518075d433ba72a8ae6b9949bd07b692c64981"},
+    {"page": "T3:326", "printed_page": "㊵－9", "image": "pages/T3/page-326.jpg", "sha256": "303937c861408d985a355f5b70fdcfaf20c24ef732914d0587d2e25353e4f2db"},
+    {"page": "T3:327", "printed_page": "㊵－10", "image": "pages/T3/page-327.jpg", "sha256": "c9e3333e1ce91eb696f64e6320354ffea879b37d4a615759a3c3ed5f3f189421"},
+    {"page": "T3:328", "printed_page": "㊵－11", "image": "pages/T3/page-328.jpg", "sha256": "996f77bcde42e7455deae32277cf350c338bd6d6ac45d897a07542552f91de13"},
+    {"page": "T3:329", "printed_page": "㊵－12", "image": "pages/T3/page-329.jpg", "sha256": "755ab7637105c3c324992d2b455137116c98874a13f221cb7c9927847d257f6d"},
+    {"page": "T3:330", "printed_page": "㊵－13", "image": "pages/T3/page-330.jpg", "sha256": "c0f82c0084e6d23206f03a009a994fe10dbdb8dc2f139e4e89bb004b386e41ed"},
+    {"page": "T3:331", "printed_page": "㊵－14", "image": "pages/T3/page-331.jpg", "sha256": "ae9bfccf6fcbe94940db4a2a5e320c7856b16004092630f05c242bc5e397733e"},
+    {"page": "T3:332", "printed_page": "㊵－15", "image": "pages/T3/page-332.jpg", "sha256": "7d0a2e761d3f9ae8c08cbee7fed273050a8675495e111a2915439e01dad7d623"},
+    {"page": "T3:333", "printed_page": "㊵－16", "image": "pages/T3/page-333.jpg", "sha256": "f4b991fd947d31b43e4a3196ef6b22df7a3d26191ac513b24794019dd149d9fb"},
+    {"page": "T3:334", "printed_page": "㊵－17", "image": "pages/T3/page-334.jpg", "sha256": "880aec6272bfeee270972bd61d998835f9a70b064a1167f934c45a393a7541e6"},
+    {"page": "T3:335", "printed_page": "㊵－18", "image": "pages/T3/page-335.jpg", "sha256": "2e48560815c687161fc399e61ecac118fc5a64713b17c3eb2af4faf75d3b3887"},
+    {"page": "T3:336", "printed_page": "㊵－19", "image": "pages/T3/page-336.jpg", "sha256": "ea0280ef5de5401d544f69b300dfd0e603b91d2f44a980d8d57d6bbca071594f"},
+    {"page": "T3:337", "printed_page": "㊵－20", "image": "pages/T3/page-337.jpg", "sha256": "e1431f0c875b0952a3653d8babf3da130dbf9ac7795ee9357f195a7dd1b9c357"},
+    {"page": "T3:338", "printed_page": "㊵－21", "image": "pages/T3/page-338.jpg", "sha256": "bf00732fbbfe56e28255482880d9228edf31c15d14d00789739d3efffe2aa90c"},
+    {"page": "T3:339", "printed_page": "㊵－22", "image": "pages/T3/page-339.jpg", "sha256": "bda9dfaabe5353cbe9432888d94e7cbafc74a35085b59ada25edeaa3a4d72fc5"},
+    {"page": "T3:340", "printed_page": "㊵－23", "image": "pages/T3/page-340.jpg", "sha256": "bbc15bdbc100f97ee25604b71a406c9e600a0533bc3012135d4c6bb149542c53"}
+  ],
+  "section_outputs": [
+    {"task": "JPG-T3-C018-S01", "chunk": "project/T3/chunks/JPG-T3-C018/JPG-T3-C018-S01.md", "chunk_sha256": "0f50f3152e4309ae89f515ff7965f46b991ef5e3bd6182a584b640b68ea8c1f8"},
+    {"task": "JPG-T3-C018-S02", "chunk": "project/T3/chunks/JPG-T3-C018/JPG-T3-C018-S02.md", "chunk_sha256": "7ae9645920eabe9fa0b88b5405f0578f013c97c094422c26ad936af0bac7a5e5"},
+    {"task": "JPG-T3-C018-S03", "chunk": "project/T3/chunks/JPG-T3-C018/JPG-T3-C018-S03.md", "chunk_sha256": "27b15396a017fe09a150fb3f55ac747795cfee23ce07d9278dce9c5e5a59597f"},
+    {"task": "JPG-T3-C018-S04", "chunk": "project/T3/chunks/JPG-T3-C018/JPG-T3-C018-S04.md", "chunk_sha256": "85aee002e8b71963378042dbce80231f55c09e39c33fb5a831e08607d363b665"},
+    {"task": "JPG-T3-C018-S05", "chunk": "project/T3/chunks/JPG-T3-C018/JPG-T3-C018-S05.md", "chunk_sha256": "c646c093bc78ac879a7cb294a6fb07859a553411b96a1319fba7418e378efaf8"}
+  ],
+  "page_fidelity_matrix": [
+    {"pages": ["T3:317", "T3:318", "T3:319"], "section": "40.1", "result": "pass", "finding": "Chapter overview, standards relationship, three usefulness points, opinion-versus-fact distinction and all boxed examples were represented."},
+    {"pages": ["T3:320", "T3:321"], "section": "40.2", "result": "pass", "finding": "Cash/cash-equivalent definitions, both conditions, examples, legacy-funds problems, disclosure, three-month convention and continuity/restatement were represented."},
+    {"pages": ["T3:322", "T3:323", "T3:324", "T3:325", "T3:326", "T3:327", "T3:328", "T3:329", "T3:330", "T3:331"], "section": "40.3", "result": "pass", "finding": "Three classifications, subtotal, classification criteria, interest/dividend alternatives, tax display, direct/indirect methods, gross/net rules and special treatments were represented."},
+    {"pages": ["T3:332", "T3:333", "T3:334", "T3:335", "T3:336"], "section": "40.4", "result": "pass", "finding": "Principle/convenience methods, eliminations, reclassifications, subsidiary transactions, numerical acquisition example, consolidation-period rule and foreign-subsidiary FX table were represented."},
+    {"pages": ["T3:337", "T3:338", "T3:339"], "section": "40.5", "result": "pass", "finding": "Non-cash definitions/examples, partial cash boundary, net presentation rules, 500,000/480,000/5,000 example and five disclosure items with 1,472/△100/125/1,497 reconciliation were represented."},
+    {"pages": ["T3:340"], "section": null, "result": "pass", "finding": "Blank MEMO page; no learner-text content. Recorded as no-content coverage and not assigned to a section chunk."}
+  ],
+  "coverage": [
+    {"page": "T3:317", "status": "pass", "chunks": ["JPG-T3-C018-S01"], "regions": ["chapter title", "importance", "cross-textbook references", "short-answer and essay examination-history tables"]},
+    {"page": "T3:318", "status": "pass", "chunks": ["JPG-T3-C018-S01"], "regions": ["section title", "purpose", "four-standard relationship diagram", "necessity: payment ability"]},
+    {"page": "T3:319", "status": "pass", "chunks": ["JPG-T3-C018-S01"], "regions": ["fund-earning ability", "comparability", "opinion/fact supplement", "margin and boxed explanatory content"]},
+    {"page": "T3:320", "status": "pass", "chunks": ["JPG-T3-C018-S02"], "regions": ["cash definition", "cash-equivalent definition", "examples", "scope diagram"]},
+    {"page": "T3:321", "status": "pass", "chunks": ["JPG-T3-C018-S02"], "regions": ["legacy funds-statement problem table", "disclosure", "three-month supplement", "continuity and retrospective application"]},
+    {"page": "T3:322", "status": "pass", "chunks": ["JPG-T3-C018-S03"], "regions": ["three sections", "operating-flow definition", "three operating-flow classes"]},
+    {"page": "T3:323", "status": "pass", "chunks": ["JPG-T3-C018-S03"], "regions": ["subtotal diagram and 1,500/△980/△130/△120/270/△65/△120/85 example", "advance payments", "commercial guarantees", "bill discounting"]},
+    {"page": "T3:324", "status": "pass", "chunks": ["JPG-T3-C018-S03"], "regions": ["investing-flow definition and six examples", "financing-flow definition and five examples"]},
+    {"page": "T3:325", "status": "pass", "chunks": ["JPG-T3-C018-S03"], "regions": ["stronger-relationship classification rule", "business-purpose example", "settlement-condition example", "translation difference"]},
+    {"page": "T3:326", "status": "pass", "chunks": ["JPG-T3-C018-S03"], "regions": ["interest/dividend two-method table", "continuous application", "250 profit and C/F comparison diagram"]},
+    {"page": "T3:327", "status": "pass", "chunks": ["JPG-T3-C018-S03"], "regions": ["tax display", "1,000 taxable income and 40% allocation diagram", "subtotal rationale", "business-tax exception"]},
+    {"page": "T3:328", "status": "pass", "chunks": ["JPG-T3-C018-S03"], "regions": ["direct and indirect methods", "definition table", "both presentation examples"]},
+    {"page": "T3:329", "status": "pass", "chunks": ["JPG-T3-C018-S03"], "regions": ["pros/cons table", "gross/net display rules", "1億円貸付・回収100回 example"]},
+    {"page": "T3:330", "status": "pass", "chunks": ["JPG-T3-C018-S03"], "regions": ["lessee lease table", "lessor supplement", "overdraft alternatives"]},
+    {"page": "T3:331", "status": "pass", "chunks": ["JPG-T3-C018-S03"], "regions": ["non-cash-flow transactions", "derivative/forward classification", "asset-retirement-obligation rationale and disclosure"]},
+    {"page": "T3:332", "status": "pass", "chunks": ["JPG-T3-C018-S04"], "regions": ["principle/convenience diagrams", "intercompany elimination"]},
+    {"page": "T3:333", "status": "pass", "chunks": ["JPG-T3-C018-S04"], "regions": ["reclassification example", "subsidiary dividends", "equity-method dividends"]},
+    {"page": "T3:334", "status": "pass", "chunks": ["JPG-T3-C018-S04"], "regions": ["consolidation-scope change rule", "cash deduction", "acquisition-cost classification", "7,700/3,000/4,700 example"]},
+    {"page": "T3:335", "status": "pass", "chunks": ["JPG-T3-C018-S04"], "regions": ["no-scope-change rule", "non-controlling interest transactions", "consolidation period"]},
+    {"page": "T3:336", "status": "pass", "chunks": ["JPG-T3-C018-S04"], "regions": ["foreign-subsidiary currency conversion table", "average/end-of-period/transaction-date rates"]},
+    {"page": "T3:337", "status": "pass", "chunks": ["JPG-T3-C018-S05"], "regions": ["non-cash definition", "four important examples", "partial cash boundary"]},
+    {"page": "T3:338", "status": "pass", "chunks": ["JPG-T3-C018-S05"], "regions": ["net presentation cases", "three third-party examples", "500,000/480,000/5,000 table"]},
+    {"page": "T3:339", "status": "pass", "chunks": ["JPG-T3-C018-S05"], "regions": ["five disclosure items", "1,472/△100/125/1,497 reconciliation"]},
+    {"page": "T3:340", "status": "pass", "chunks": [], "regions": ["blank MEMO leaf; no-content reason recorded"]}
+  ],
+  "semantic_checks": {
+    "definitions_distinctions_conditions_exceptions": "pass",
+    "tables_numerical_values_intermediate_calculations": "pass",
+    "diagram_only_meaning": "pass; relationship diagrams were verbalized as ordered flows/tables",
+    "margins_sidebars_footnotes": "pass; boxed supplements, notes and example boundaries were reviewed",
+    "question_answer_pair_review": "not_applicable; this theory batch contains no question/answer or false-proposition layout",
+    "unresolved_markers": 0,
+    "source_scope": "Only T3 physical pages 317-340 were processed; no outside source page was used to fill a gap."
+  },
+  "findings": [
+    "All 24 assigned source images were reopened at readable resolution and compared with the five section chunks.",
+    "All definitions, distinctions, conditions, exceptions, examples, tables, numerical values, calculation relationships and diagram-only relationships were represented without outside-source supplementation.",
+    "T3:340 / ㊵－23 is a blank MEMO page; it has no learner-text content and is covered as no-content in the S05 task and page matrix."
+  ],
+  "corrections": [],
+  "checks": {
+    "numerical": "pass",
+    "diagram": "pass",
+    "false_proposition": "not_applicable"
+  },
+  "limits": "Structural helper checks do not prove semantic completeness; this PASS is based on the page-by-page image review recorded above plus the saved source hashes and scoped output hashes. Raw source JPG/PDF files remain local and were not committed.",
+  "reviewed_output_paths": [
+    "project/T3/chunks/JPG-T3-C018/JPG-T3-C018-S01.md",
+    "project/T3/chunks/JPG-T3-C018/JPG-T3-C018-S02.md",
+    "project/T3/chunks/JPG-T3-C018/JPG-T3-C018-S03.md",
+    "project/T3/chunks/JPG-T3-C018/JPG-T3-C018-S04.md",
+    "project/T3/chunks/JPG-T3-C018/JPG-T3-C018-S05.md",
+    "project/T3/fragments/JPG-T3-C018.json"
+  ]
+}
