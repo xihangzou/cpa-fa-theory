@@ -1,0 +1,77 @@
+{
+  "batch_id": "JPG-T2-C006",
+  "source_id": "T2",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-T2-C006-S01",
+      "batch_id": "JPG-T2-C006",
+      "chapter": "24",
+      "section": "24.1",
+      "title": "第1節 退職給付及び本会計基準の概要",
+      "expected_pages": ["T2:101", "T2:102", "T2:103", "T2:104"],
+      "processing_pages": ["T2:101", "T2:102", "T2:103", "T2:104"],
+      "output": "chunks/JPG-T2-C006/JPG-T2-C006-S01.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T2:101", "printed_page": null, "source_region": "第24章扉、章タイトル、短答式・論文式本試験の出題実績表", "destination_heading": "## 第1節 退職給付及び本会計基準の概要"},
+        {"page": "T2:102", "printed_page": "㉔-1", "source_region": "第1節扉、退職給付の定義と賃金後払説・功績報償説・生活保障説、退職給付の分類①支払方法・②支給主体", "destination_heading": "## 第1節 退職給付及び本会計基準の概要"},
+        {"page": "T2:103", "printed_page": "㉔-2", "source_region": "分類③運用リスク、確定拠出型・確定給付型、本会計基準の適用範囲、支払方法と運用方法の対応、役員部分", "destination_heading": "## 第1節 退職給付及び本会計基準の概要"},
+        {"page": "T2:104", "printed_page": "㉔-3", "source_region": "厚生年金基金の加算部分・代行部分、適用財務諸表、従来と現行の取扱い、発生主義の図", "destination_heading": "## 第1節 退職給付及び本会計基準の概要"}
+      ],
+      "chunk_sha256": "de59cff1b7d3f8f4491a81df87d2a40e8089562d41c718a8c0cf517678f4c39d"
+    },
+    {
+      "id": "JPG-T2-C006-S02",
+      "batch_id": "JPG-T2-C006",
+      "chapter": "24",
+      "section": "24.2",
+      "title": "第2節 退職給付債務の算定",
+      "expected_pages": ["T2:105", "T2:106", "T2:107", "T2:108", "T2:109", "T2:110", "T2:111", "T2:112", "T2:113", "T2:114"],
+      "processing_pages": ["T2:105", "T2:106", "T2:107", "T2:108", "T2:109", "T2:110", "T2:111", "T2:112", "T2:113", "T2:114"],
+      "output": "chunks/JPG-T2-C006/JPG-T2-C006-S02.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T2:105", "printed_page": "㉔-4", "source_region": "第2節扉、退職給付債務算定の全体図、退職給付見込額の意義と算定方法", "destination_heading": "## 第2節 退職給付債務の算定"},
+        {"page": "T2:106", "printed_page": "㉔-5", "source_region": "予想される昇給、変動要因を考慮する理由、給与500万円・将来給与1,000万円・見込額3,000万円/4,200万円の図、退職給付見込額の算定補足", "destination_heading": "## 第2節 退職給付債務の算定"},
+        {"page": "T2:107", "printed_page": "㉔-6", "source_region": "退職率・死亡率、異常値の除外、早期割増退職金の対象外処理", "destination_heading": "## 第2節 退職給付債務の算定"},
+        {"page": "T2:108", "printed_page": "㉔-7", "source_region": "各期の発生額の前提、期間定額基準の定義・公式・図、給付算定式基準と後加重給付の補正", "destination_heading": "## 第2節 退職給付債務の算定"},
+        {"page": "T2:109", "printed_page": "㉔-8", "source_region": "給付算定式基準の計算例①、10年超400・20年以上500、40/10の配分と図", "destination_heading": "## 第2節 退職給付債務の算定"},
+        {"page": "T2:110", "printed_page": "㉔-9", "source_region": "給付算定式基準の計算例②、10年超100・20年以上500、25/10の補正配分と図", "destination_heading": "## 第2節 退職給付債務の算定"},
+        {"page": "T2:111", "printed_page": "㉔-10", "source_region": "期間定額基準と給付算定式基準の選択適用、前者の見解の根拠と配分図", "destination_heading": "## 第2節 退職給付債務の算定"},
+        {"page": "T2:112", "printed_page": "㉔-11", "source_region": "後者の見解の根拠、A社の退職一時金400/900・25年の数値例、期間定額36と給付算定式40/50/0の比較", "destination_heading": "## 第2節 退職給付債務の算定"},
+        {"page": "T2:113", "printed_page": "㉔-12", "source_region": "割引計算、退職給付債務の定義と図、割引現在価値の根拠、適用する割引率", "destination_heading": "## 第2節 退職給付債務の算定"},
+        {"page": "T2:114", "printed_page": "㉔-13", "source_region": "従来の割引率規定、割引期間、割引率と支払見込期間、退職給付債務を計算する単位", "destination_heading": "## 第2節 退職給付債務の算定"}
+      ],
+      "chunk_sha256": "9dbf72e0ed048c09496d50bd37eb7c395054b6febcbe042bdd1519406fd3f0d4"
+    },
+    {
+      "id": "JPG-T2-C006-S03",
+      "batch_id": "JPG-T2-C006",
+      "chapter": "24",
+      "section": "24.3",
+      "title": "第3節 退職一時金制度と企業年金制度",
+      "expected_pages": ["T2:115", "T2:116", "T2:117", "T2:118"],
+      "processing_pages": ["T2:115", "T2:116", "T2:117", "T2:118"],
+      "output": "chunks/JPG-T2-C006/JPG-T2-C006-S03.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T2:115", "printed_page": "㉔-14", "source_region": "第3節扉、退職一時金制度の退職給付費用公式、勤務費用・利息費用・退職給付費用、退職給付引当金公式", "destination_heading": "## 第3節 退職一時金制度と企業年金制度"},
+        {"page": "T2:116", "printed_page": "㉔-15", "source_region": "企業年金制度、年金資産の定義4要件、年金資産の範囲、時価評価、業務経理・未収掛金・剰余金", "destination_heading": "## 第3節 退職一時金制度と企業年金制度"},
+        {"page": "T2:117", "printed_page": "㉔-16", "source_region": "企業年金制度の退職給付費用公式、期待運用収益の定義・公式・控除理由、退職給付引当金公式と控除根拠", "destination_heading": "## 第3節 退職一時金制度と企業年金制度"},
+        {"page": "T2:118", "printed_page": "㉔-17", "source_region": "退職給付信託の定義・イメージ、年金資産該当要件、非該当の場合、具体的会計処理と簿価1,000・時価3,000の仕訳", "destination_heading": "## 第3節 退職一時金制度と企業年金制度"}
+      ],
+      "chunk_sha256": "2a4b1961fa393df3a86baff1b6fd6a873fa867015f7dc3b469fe95e07c273520"
+    }
+  ],
+  "review": "reviews/JPG-T2-C006.json",
+  "excluded_pages": [],
+  "source_scope": {
+    "source_id": "T2",
+    "physical_range": "T2:101-T2:118",
+    "processing_range": "T2:101-T2:118",
+    "chapter": "24",
+    "title": "退職給付に関する会計基準",
+    "content_authority": "designated existing JPGs only"
+  }
+}
