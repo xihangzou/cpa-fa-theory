@@ -1,0 +1,35 @@
+{
+  "batch_id": "JPG-T1-C024",
+  "source_id": "T1",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-T1-C024-S01",
+      "batch_id": "JPG-T1-C024",
+      "chapter": "16",
+      "section": "16.1",
+      "title": "第1節 本会計基準の具体的な内容",
+      "expected_pages": ["T1:323", "T1:324", "T1:325", "T1:326"],
+      "processing_pages": ["T1:323", "T1:324", "T1:325", "T1:326"],
+      "output": "chunks/JPG-T1-C024/JPG-T1-C024-S01.md",
+      "status": "pass",
+      "chunk_sha256": "f8aeaf4df375bc88a8464c73358120f2ee9a4f258b7cdd6c7fcba0fdbc075e36",
+      "locators": [
+        {"page": "T1:323", "printed_page": null, "source_region": "第16章章扉、章タイトル、短答式・論文式本試験における出題実績表", "destination_heading": "## 第1節 本会計基準の具体的な内容"},
+        {"page": "T1:324", "printed_page": "⑯－1", "source_region": "第1節の扉、適用範囲、時価及び賃貸等不動産の定義、賃貸収益目的とキャピタル・ゲイン目的の例、対象不動産と対象外不動産の区分", "destination_heading": "## 第1節 本会計基準の具体的な内容"},
+        {"page": "T1:325", "printed_page": "⑯－2", "source_region": "適用対象資産4項目の範囲と理由、適用対象外資産3項目の範囲と理由、棚卸資産のトレーディング目的に関する注記", "destination_heading": "## 第1節 本会計基準の具体的な内容"},
+        {"page": "T1:326", "printed_page": "⑯－3", "source_region": "部分使用不動産の取扱い、通常の場合と賃貸部分が小さい場合の2ケース、注記事項4項目、120百万円及び貸借対照表計上額・時価の注記例と注記1・2", "destination_heading": "## 第1節 本会計基準の具体的な内容"}
+      ]
+    }
+  ],
+  "review": "reviews/JPG-T1-C024.json",
+  "excluded_pages": [],
+  "source_scope": {
+    "source_id": "T1",
+    "physical_range": "T1:323-T1:326",
+    "processing_range": "T1:323-T1:326",
+    "chapter": "16",
+    "title": "賃貸等不動産の時価等の開示に関する会計基準",
+    "content_authority": "designated existing JPGs only"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "batch_id": "JPG-T1-C024",
+  "source_id": "T1",
+  "status": "pass",
+  "reviewed_on": "2026-09-06",
+  "reviewer_model": "GPT-5 current execution model; no model switch",
+  "source_revision": {
+    "delivery_branch": "main",
+    "repository_commit": "e25416380e0396ce26f42ac93464c066f8719995",
+    "source_catalog": "contracts/source-catalog.json",
+    "source_catalog_sha256": "8358e9cffb068f63df0bdfcc8f99be035e66454ac8710d381f0ff9eb87728079",
+    "page_plan": "contracts/page-plan.json",
+    "page_plan_sha256": "997a7280b171df5803c2a3bb7c2ee8764082e01f3bdb03c194b9129fe18d26c9",
+    "source_manifest": "project/T1/sources.json",
+    "source_manifest_sha256": "760f946d08e1eebf2d79c189103ac2e627f0bb2569dcd80055885fb8b97324cd",
+    "source_map": "project/T1/source-map.json",
+    "source_map_sha256": "3ff42e94bd9f8751f8100c6ff251740a46f67182c468af620438c9768f14b961",
+    "batch_manifest": "project/T1/batches.json",
+    "batch_manifest_sha256": "125ff5fee8f8271b82c3258ced501ed4411b4071b930f08f1ed682e72c2628c4",
+    "inventory_review": "project/T1/inventory-review.json",
+    "inventory_review_sha256": "83e2c59f059ffdec53fcb8fb83a5f1300d5cca0722dcf031db0b459bd7ab8c19",
+    "pilot_qa": "project/T1/qa/pilot.json",
+    "pilot_qa_sha256": "cfd72bc97fc4ac0f8471bad6dc7b925085d1822ff606754b91f1b35f9b3ce694",
+    "source_original_root": "/Users/xihangzou/Study/320_CPA/322_財務理論/images/cpa-fa-theory-textbook-1-jpg",
+    "source_pdf": "/Users/xihangzou/Study/320_CPA/322_財務理論/01_テキスト/財務会計論テキスト　理論1.pdf",
+    "source_pdf_sha256": "c09d9d91ce39de787cab04e146719d95b638134399d57112802ffacfa67243f3",
+    "source_image_inventory_sha256": "331ad1ea2ca04d0636c2185b6ab1a8fe5240ebdd3f0c7c546c8703371d497929",
+    "edition": "2024/2025年合格目標",
+    "publication_date": "2023-01-23",
+    "physical_scope": "T1:323-T1:326",
+    "processing_scope": "T1:323-T1:326",
+    "content_authority": "designated existing JPGs only; PDF used only for identity/planning support"
+  },
+  "dependency_commits": [
+    "a2fb2bb829d112522128cdb145523302e9d1e7fd",
+    "1fd8a963ef32e09b5f3f08ecd7d5bb7cc2240a94",
+    "7507151c638a73a41fc13b9d4c4481c8888307e0"
+  ],
+  "source_images": [
+    {"page": "T1:323", "sha256": "e07362e695e5f3a7ebea5ec816f1e5b47785737821289707a21dc3d397e170cc"},
+    {"page": "T1:324", "sha256": "9dbbe0582251c118817098791ae85db414e9a261bc99282a8d360b812fd2f16a"},
+    {"page": "T1:325", "sha256": "c84b4826dd7c1a7f53ef56d1ce04b217c86f81df82be4e16805e8bcbd82b8a6e"},
+    {"page": "T1:326", "sha256": "ff464660bc0ee4b96ffd7a5d8d32190f74cf5366dca98604e1f5a2cfcfe45971"}
+  ],
+  "section_outputs": [
+    {"task": "JPG-T1-C024-S01", "chunk": "project/T1/chunks/JPG-T1-C024/JPG-T1-C024-S01.md", "chunk_sha256": "f8aeaf4df375bc88a8464c73358120f2ee9a4f258b7cdd6c7fcba0fdbc075e36"}
+  ],
+  "coverage": [
+    {"page": "T1:323", "status": "pass", "regions": ["chapter title and chapter 16 identity", "short-answer exam-history table showing 20Ⅰ: 4 and 22Ⅰ: 1 for topic 1", "essay exam-history table with no recorded result"]},
+    {"page": "T1:324", "status": "pass", "regions": ["section 1 title and topic 1 heading", "application scope and consolidated-versus-individual disclosure rule", "fair-value definition", "investment-property definition and finance-lease lessor exclusion", "rental-income and capital-gain examples with 1億/3億, 20億/25億/5億 amounts", "four-way fixed-asset use distinction and factory/store/hotel-golf-course/head-office examples"]},
+    {"page": "T1:325", "status": "pass", "regions": ["topic 2 heading", "four categories of applicable assets with reasons", "three categories of excluded assets with reasons and lessee qualification", "inventory footnote on trading-purpose fair-value measurement"]},
+    {"page": "T1:326", "status": "pass", "regions": ["topic 3 scope paragraph", "normal and small-rental-part diagrams and their disclosure consequences", "topic 4 four required disclosures, materiality exception and classification option", "120百万円 note example", "3,050/240/3,290/3,550百万円 table", "560百万円 acquisition, 310百万円 disposal and appraisal-standard note"]}
+  ],
+  "findings": [
+    "All four designated processing JPGs were reopened at readable full resolution and compared with the single section chunk, including page margins, chapter and section labels, boxed definitions, sidebars, diagrams, disclosure list, table values and footnotes.",
+    "The physical-page batch is contiguous T1:323-T1:326 and all pages are inventory-approved include pages; no excluded-page reason is required.",
+    "Physical page T1:323 is a chapter opener without a printed page label and is retained in the section chunk; T1:324 begins the section body and T1:326 completes topic 4. No content from outside the owned batch was used.",
+    "The chunk preserves the definitions, application and exclusion conditions, future-use cases, partial-use diagrams, materiality exception, four required disclosures, appraisal-method note and all source numerical examples.",
+    "The chunk contains no bold syntax, Cloze syntax, Front/Back fields, integration output or card output. No question/answer or false-proposition layout occurs in this theory batch; that specialized check is not applicable.",
+    "No unresolved marker remains and no correction was required after the image comparison."
+  ],
+  "corrections": [],
+  "checks": {
+    "numerical": "pass",
+    "diagram": "pass",
+    "false_proposition": "not_applicable"
+  },
+  "unresolved_count": 0
+}
