@@ -1,0 +1,65 @@
+{
+  "batch_id": "JPG-T3-C007",
+  "source_id": "T3",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-T3-C007-S01",
+      "batch_id": "JPG-T3-C007",
+      "chapter": "35",
+      "section": "35.1",
+      "title": "第1節 連結財務諸表と連結基礎概念",
+      "expected_pages": ["T3:123", "T3:124", "T3:125", "T3:126"],
+      "processing_pages": ["T3:123", "T3:124", "T3:125", "T3:126"],
+      "output": "chunks/JPG-T3-C007/JPG-T3-C007-S01.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T3:123", "printed_page": null, "source_region": "第35章タイトル、短答式及び論文式本試験の出題実績表", "destination_heading": "## 第1節 連結財務諸表と連結基礎概念"},
+        {"page": "T3:124", "printed_page": "㉟－1", "source_region": "第1節見出し、連結財務諸表の作成目的、連結基礎概念、親会社説と経済的単一体説の定義及び比較表", "destination_heading": "## 第1節 連結財務諸表と連結基礎概念"},
+        {"page": "T3:125", "printed_page": "㉟－2", "source_region": "親会社説の従来の取扱い、本会計基準の取扱い、IFRSとの国際的調和、連結基礎概念と会計主体論の補足", "destination_heading": "## 第1節 連結財務諸表と連結基礎概念"},
+        {"page": "T3:126", "printed_page": "㉟－3", "source_region": "親会社説と経済的単一体説により異なる資産負債評価、のれん、非支配株主持分、持分変動、未実現損益、当期純利益及び欠損負担の比較表", "destination_heading": "## 第1節 連結財務諸表と連結基礎概念"}
+      ],
+      "chunk_sha256": "63135812a02d211347ac3dccfff690814a45a68a2bd8e149d82099996ce5126e"
+    },
+    {
+      "id": "JPG-T3-C007-S02",
+      "batch_id": "JPG-T3-C007",
+      "chapter": "35",
+      "section": "35.2",
+      "title": "第2節 連結財務諸表の一般原則",
+      "expected_pages": ["T3:127"],
+      "processing_pages": ["T3:127"],
+      "output": "chunks/JPG-T3-C007/JPG-T3-C007-S02.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T3:127", "printed_page": "㉟－4", "source_region": "第2節見出し、4つの一般原則、重要性の原則、個別財務諸表基準性の原則の意味、個別財務諸表から連結財務諸表への関係及び修正要否", "destination_heading": "## 第2節 連結財務諸表の一般原則"}
+      ],
+      "chunk_sha256": "51aca8cd06b2b011cab712422928d28aa687581b5cf3198ba6fc725e7f458bc7"
+    },
+    {
+      "id": "JPG-T3-C007-S03",
+      "batch_id": "JPG-T3-C007",
+      "chapter": "35",
+      "section": "35.3",
+      "title": "第3節 連結財務諸表の一般基準",
+      "expected_pages": ["T3:128", "T3:129", "T3:130", "T3:131", "T3:132", "T3:133", "T3:134", "T3:135", "T3:136", "T3:137"],
+      "processing_pages": ["T3:128", "T3:129", "T3:130", "T3:131", "T3:132", "T3:133", "T3:134", "T3:135", "T3:136", "T3:137"],
+      "output": "chunks/JPG-T3-C007/JPG-T3-C007-S03.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T3:128", "printed_page": "㉟－5", "source_region": "第3節見出し、一般基準の3項目、連結の範囲、持株基準と支配力基準、子会社判定の基本", "destination_heading": "## 第3節 連結財務諸表の一般基準"},
+        {"page": "T3:129", "printed_page": "㉟－6", "source_region": "具体的な子会社の判定、親会社・子会社の定義、議決権40％以上50％以下の場合の5要件、判定フローの前半", "destination_heading": "## 第3節 連結財務諸表の一般基準"},
+        {"page": "T3:130", "printed_page": "㉟－7", "source_region": "子会社判定フローの後半、子会社判定のまとめ、共同支配企業及び投資企業・金融機関の補足、連結の範囲の原則と除外", "destination_heading": "## 第3節 連結財務諸表の一般基準"},
+        {"page": "T3:131", "printed_page": "㉟－8", "source_region": "連結除外及び重要性の乏しい子会社、所有割合算定の補足、自己株式・相互持合株式の取扱い", "destination_heading": "## 第3節 連結財務諸表の一般基準"},
+        {"page": "T3:132", "printed_page": "㉟－9", "source_region": "連結の範囲から外れる企業の具体例、支配が一時的な子会社、判断を著しく誤らせるおそれのある子会社、重要性の乏しい子会社及びまとめのフロー", "destination_heading": "## 第3節 連結財務諸表の一般基準"},
+        {"page": "T3:133", "printed_page": "㉟－10", "source_region": "所有割合の算定式、自己株式及び相互保有の数値例、特別目的会社と連結の範囲、ノンリコース債務の表示", "destination_heading": "## 第3節 連結財務諸表の一般基準"},
+        {"page": "T3:134", "printed_page": "㉟－11", "source_region": "ノンリコース債務に対応する資産の注記、連結会社の定義、子会社判定と連結基礎概念、連結決算日の導入", "destination_heading": "## 第3節 連結財務諸表の一般基準"},
+        {"page": "T3:135", "printed_page": "㉟－12", "source_region": "連結決算日の定義、決算期の異なる子会社の原則法・例外法及び3か月以内の数値・時系列図", "destination_heading": "## 第3節 連結財務諸表の一般基準"},
+        {"page": "T3:136", "printed_page": "㉟－13", "source_region": "子会社の決算日が異なる場合の設例、連結決算日、親会社及び子会社の会計方針、現行制度の統一原則と定額法の図", "destination_heading": "## 第3節 連結財務諸表の一般基準"},
+        {"page": "T3:137", "printed_page": "㉟－14", "source_region": "従来の連結原則における取扱い、同一環境・同一性質取引の統一理由、会計方針統一の留意点", "destination_heading": "## 第3節 連結財務諸表の一般基準"}
+      ],
+      "chunk_sha256": "4a2aba57cbdcd7f16747d8dc051a2f8cd5e9da4ed3bb1ebf59390622305fa478"
+    }
+  ],
+  "review": "reviews/JPG-T3-C007.json"
+}

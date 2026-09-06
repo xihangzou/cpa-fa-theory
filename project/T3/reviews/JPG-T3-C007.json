@@ -1,0 +1,90 @@
+{
+  "batch_id": "JPG-T3-C007",
+  "source_id": "T3",
+  "status": "pass",
+  "review_date": "2026-09-06",
+  "reviewer_model": "GPT-5",
+  "source_revision": {
+    "repository_commit": "8591fe20d95d4e10679c5372705fc546b2fdf471",
+    "source_pdf_sha256": "1d9f0124a0c8ef759526decc90a1a410f694e2b7fa992b430fc413e783df85bc",
+    "source_image_inventory_sha256": "8e0709aa6cd2d086d9df18627ae7eb466c20cdb59474bbef26038f03d9d40b24",
+    "catalog_image_inventory_sha256": "af94a7c1f91d1eb56611afc242360566950d6f93d5a6ac7d5271c5e8d3f9d170",
+    "batch_boundary_review_id": "JPG-T3-INV-BND-JPG-T3-C007"
+  },
+  "source_images": [
+    {"page": "T3:123", "printed_page": null, "image": "pages/T3/page-123.jpg", "sha256": "31a82127e774af648ef327d5172b8b222f67ef20ab135182c549f404b80bf2f6"},
+    {"page": "T3:124", "printed_page": "㉟－1", "image": "pages/T3/page-124.jpg", "sha256": "971e9a559e3ab50e036942e19f6b6beebcfbd58eaecb0355ec1a3cf7ae040614"},
+    {"page": "T3:125", "printed_page": "㉟－2", "image": "pages/T3/page-125.jpg", "sha256": "529c53b8c31f3174ddbafb6b915c03ae022ed4fc04e7bbf6268c59a2e28a9ed7"},
+    {"page": "T3:126", "printed_page": "㉟－3", "image": "pages/T3/page-126.jpg", "sha256": "84fa166b2cb25db3e9b6b187dda426bb1aa1d9a7c75457722e31fadd7f97dcaf"},
+    {"page": "T3:127", "printed_page": "㉟－4", "image": "pages/T3/page-127.jpg", "sha256": "13af97c23f80164dc98af0673208840ff3c3b9ecfac555d8907a392e186cf436"},
+    {"page": "T3:128", "printed_page": "㉟－5", "image": "pages/T3/page-128.jpg", "sha256": "c35bc3a7374413d16c5e183fb558996497e3e395a901ad30898d9e639103bd63"},
+    {"page": "T3:129", "printed_page": "㉟－6", "image": "pages/T3/page-129.jpg", "sha256": "53312564af9042457c8f36ae91c04e9e1bb7373c55924a317caeb5bafd390cb8"},
+    {"page": "T3:130", "printed_page": "㉟－7", "image": "pages/T3/page-130.jpg", "sha256": "849bac8860e532988a87d62eed16f9a6005870cec92e0afdee19accb7bf2398a"},
+    {"page": "T3:131", "printed_page": "㉟－8", "image": "pages/T3/page-131.jpg", "sha256": "8d6bb5656f9d3e51e014742c938581580a676e3da2d0b1f7971df85cc6f5b88d"},
+    {"page": "T3:132", "printed_page": "㉟－9", "image": "pages/T3/page-132.jpg", "sha256": "c5f3939912f621fc7b2b444fee870328eceddf5ed6620b87732d57d830bf0789"},
+    {"page": "T3:133", "printed_page": "㉟－10", "image": "pages/T3/page-133.jpg", "sha256": "bd2d6cc04e77c6fac3561b752a8b554149ae568c4b1a89795ab5a39487540879"},
+    {"page": "T3:134", "printed_page": "㉟－11", "image": "pages/T3/page-134.jpg", "sha256": "89dae051894e1b7921a50ac2dce58fdd9d8bf43c01acc3b17bbfe4dd1eff404f"},
+    {"page": "T3:135", "printed_page": "㉟－12", "image": "pages/T3/page-135.jpg", "sha256": "87c1200f6a2ad64d70db89102999e89415c8fd83754f97be4b1d7fb0c5cb54f4"},
+    {"page": "T3:136", "printed_page": "㉟－13", "image": "pages/T3/page-136.jpg", "sha256": "acf942419458fbadf06e183e2f6abaccc641a6d8c6e71032b4a53e501dba210b"},
+    {"page": "T3:137", "printed_page": "㉟－14", "image": "pages/T3/page-137.jpg", "sha256": "b6a7200afed44f02deec9825dcc6091803e8a0b07a27e979f7370bf42db6b04b"}
+  ],
+  "section_outputs": [
+    {"task": "JPG-T3-C007-S01", "chunk": "project/T3/chunks/JPG-T3-C007/JPG-T3-C007-S01.md", "chunk_sha256": "63135812a02d211347ac3dccfff690814a45a68a2bd8e149d82099996ce5126e"},
+    {"task": "JPG-T3-C007-S02", "chunk": "project/T3/chunks/JPG-T3-C007/JPG-T3-C007-S02.md", "chunk_sha256": "51aca8cd06b2b011cab712422928d28aa687581b5cf3198ba6fc725e7f458bc7"},
+    {"task": "JPG-T3-C007-S03", "chunk": "project/T3/chunks/JPG-T3-C007/JPG-T3-C007-S03.md", "chunk_sha256": "4a2aba57cbdcd7f16747d8dc051a2f8cd5e9da4ed3bb1ebf59390622305fa478"}
+  ],
+  "coverage": [
+    {"page": "T3:123", "status": "pass", "regions": ["chapter title, short-answer and essay examination-history tables, row labels, values, margins and footer"]},
+    {"page": "T3:124", "status": "pass", "regions": ["section 1 heading and purpose definition", "disclosure transition from individual to consolidated information", "parent-company and economic-single-entity concepts, two comparison tables, margins and footer ㉟－1"]},
+    {"page": "T3:125", "status": "pass", "regions": ["traditional parent-company view and footnote", "平成25年改正基準, IFRS and international comparability", "mixed theoretical basis and accounting-entity supplement, margins and footer ㉟－2"]},
+    {"page": "T3:126", "status": "pass", "regions": ["seven-row parent-company/economic-single-entity comparison table, shaded current-treatment cells, labels, margins and footer ㉟－3"]},
+    {"page": "T3:127", "status": "pass", "regions": ["section 2 heading and four-principle table", "importance-principle footnote and individual-statement basis rule", "individual-to-consolidated relationship diagram, correction boundary, margins and footer ㉟－4"]},
+    {"page": "T3:128", "status": "pass", "regions": ["section 3 introduction", "ownership and control criteria table", "subsidiary judgment topics 1 and 2, percentages, exceptions and footer ㉟－5"]},
+    {"page": "T3:129", "status": "pass", "regions": ["definition of parent and subsidiary", "control-by-40-to-50-percent criteria 1-5", "P/S/X and P/S/bankruptcy examples", "ten-step judgment flow including all YES/NO branches, margins and footer ㉟－6"]},
+    {"page": "T3:130", "status": "pass", "regions": ["judgment summary table for >50%, 40-50% and <40% holdings", "joint-control and investment-company supplements", "consolidation-scope rules and exceptions, margins and footer ㉟－7"]},
+    {"page": "T3:131", "status": "pass", "regions": ["ownership-ratio and reciprocal-holding supplements", "subsidiary/consolidation boundary, section 2 heading and first-year-end rule content, margins and footer ㉟－8"]},
+    {"page": "T3:132", "status": "pass", "regions": ["three consolidation-exclusion examples", "temporary control, misleading-consolidation risk and materiality factors", "summary flow from subsidiary judgment to consolidation scope, margins and footer ㉟－9"]},
+    {"page": "T3:133", "status": "pass", "regions": ["voting-right ownership formula and definition of exercisable votes", "treasury-share and reciprocal-holding examples with 51.6% and 50.5% calculations", "special-purpose-company presumption, asset-transfer diagram, margins and footer ㉟－10"]},
+    {"page": "T3:134", "status": "pass", "regions": ["non-recourse debt flow and repayment-source qualification", "asset-note requirement, consolidated-company definition", "parent-company/economic-single-entity interpretation and topic 5, margins and footer ㉟－11"]},
+    {"page": "T3:135", "status": "pass", "regions": ["consolidated reporting date definition", "principle and exception table for different subsidiary year-ends", "3-month boundary and principle/exception timeline diagrams, margins and footer ㉟－12"]},
+    {"page": "T3:136", "status": "pass", "regions": ["12/31 and 6/30 year-end cases with 3/31 consolidated date", "parent/subsidiary accounting-policy unification rule", "same-environment machinery diagram and materiality exception, margins and footer ㉟－13"]},
+    {"page": "T3:137", "status": "pass", "regions": ["traditional 'as much as possible' parent unification rationale", "same-environment/same-nature transaction boundary", "three accounting-policy unification cautions, margins and footer ㉟－14"]}
+  ],
+  "page_fidelity_matrix": [
+    {"pages": ["T3:123", "T3:124", "T3:125", "T3:126"], "sections": ["chapter overview", "連結財務諸表と連結基礎概念", "parent-company/economic-single-entity comparison"], "result": "pass"},
+    {"pages": ["T3:127"], "sections": ["連結財務諸表の一般原則", "four general principles", "individual-statement basis"], "result": "pass"},
+    {"pages": ["T3:128", "T3:129", "T3:130", "T3:131", "T3:132", "T3:133", "T3:134"], "sections": ["連結の範囲", "subsidiary judgment", "consolidation exclusions", "ownership-ratio calculation", "special-purpose company"], "result": "pass"},
+    {"pages": ["T3:135", "T3:136", "T3:137"], "sections": ["連結決算日", "different subsidiary year-ends", "parent/subsidiary accounting policies"], "result": "pass"}
+  ],
+  "numerical_checks": [
+    {"page": "T3:123", "check": "The examination-history tables preserve the visible 17-22 short-answer and essay counts and row labels.", "result": "pass"},
+    {"page": "T3:133", "check": "The ownership examples preserve 48/(100-7) ≒ 51.6% and 45/(100-11) ≒ 50.5%, including the reasons treasury and reciprocal shares are excluded from exercisable voting rights.", "result": "pass"},
+    {"page": "T3:135", "check": "The 3-month exception is preserved: a 12/31 subsidiary statement may support a 3/31 consolidation, while a 6/30 subsidiary must prepare a normal 3/31-equivalent closing.", "result": "pass"}
+  ],
+  "diagram_checks": [
+    {"pages": ["T3:129", "T3:130", "T3:132"], "check": "The subsidiary-judgment flow retains the exclusion gates, 50%/40% thresholds, close-relationship and consent voting rights, board, contract, financing and inferred-control branches, and the consolidation-scope exception flow.", "result": "pass"},
+    {"pages": ["T3:133", "T3:134"], "check": "The special-purpose-company asset-transfer and non-recourse-debt diagrams retain the actors, asset operation, financing, repayment source and separate disclosure consequence.", "result": "pass"},
+    {"pages": ["T3:135", "T3:136"], "check": "The reporting-date and accounting-policy diagrams retain parent/subsidiary dates, the 3-month boundary, required re-closing, and policy-unification direction.", "result": "pass"}
+  ],
+  "false_proposition_checks": {"status": "not_applicable", "result": "This theory batch contains no question-and-answer false-proposition set. The source's exception and exclusion boundaries remain explicitly qualified."},
+  "findings": [
+    "All 15 included processing images were reopened at readable resolution and compared with the three section chunks, including margins, sidebars, footers, tables, formulas, percentages, examples, exceptions and diagram-only meaning.",
+    "The three chunks preserve chapter and section hierarchy without bold, Cloze, Front/Back, integration or card output.",
+    "Physical page 123 is a chapter-overview page with no printed-page label and is retained in section 35.1; the first section anchor is physical page 124, the second is 127, and the third is 128. The batch ends at physical page 137 within section 35.3; the next planned section anchor is physical page 138 and is outside this issue.",
+    "The dense subsidiary-judgment flow, ownership-ratio examples, special-purpose-company diagrams, non-recourse-liability flow, reporting-date timelines and accounting-policy diagram were converted into explicit actors, thresholds, branches, formulas, dates and consequences. No raw media is required for comprehension of the retained content.",
+    "No excluded or no-content page occurs inside T3:123-T3:137; the inventory-approved batch ledger marks all 15 pages as processing pages."
+  ],
+  "corrections": [
+    "Normalized source spacing and represented shaded comparison tables and diagrams as structured Markdown while preserving source thresholds, labels, percentages, dates, exceptions and accounting consequences.",
+    "Retained the distinction between parent-company and economic-single-entity concepts, the current control criterion, 40%-50% and below-40% subsidiary tests, consolidation exclusions, ownership-ratio denominator rules, special-purpose-company treatment, 3-month reporting-date exception and accounting-policy unification boundary.",
+    "No outside page, book, web source, OCR text or general-knowledge supplement was used to fill content; the designated T3 JPGs remained the authority."
+  ],
+  "checks": {"numerical": "pass", "diagram": "pass", "false_proposition": "not_applicable"},
+  "unresolved_count": 0,
+  "semantic_boundary": "Automatic checks validate schema, scope, ordering and hashes; semantic completeness is supported by the recorded page-by-page image review.",
+  "dependency_commits": [
+    "a2fb2bb829d112522128cdb145523302e9d1e7fd",
+    "cccf7c381768b18116d49e4847dac5df2b01506c",
+    "0034627e759ba83225ae91dbc5cba1c1825ba3a6"
+  ]
+}
