@@ -1,0 +1,90 @@
+{
+  "batch_id": "JPG-T2-C021",
+  "source_id": "T2",
+  "status": "pass",
+  "unresolved_count": 0,
+  "delivery_branch": "main",
+  "repository_revision_reviewed": "e0f98fdce2598263f8f821a1a6b109fe69cab5dc",
+  "dependency_commits": [
+    "a2fb2bb829d112522128cdb145523302e9d1e7fd",
+    "558bb1e92a2bd7e550af9c2034dc695efde6f19d",
+    "fb4082260d3af7598cb417c2dd83a82cd224dc6d"
+  ],
+  "source_images": [
+    {"page":"T2:381","printed_page":null,"sha256":"c3bce52c0cb44807f181458c01c89bb2ac7244f747f9776540b0746e89f4c589"},
+    {"page":"T2:382","printed_page":"㉛-1","sha256":"961f2a3785d4333fa0a2e440694027d52ec4f08fbdec9c8921ea8bb475ab8dbc"},
+    {"page":"T2:383","printed_page":"㉛-2","sha256":"65e7923acd9158f76193ae1971a5e7597b209d38928010993a149f955d1978ac"},
+    {"page":"T2:384","printed_page":"㉛-3","sha256":"5eaac3a76b35600b43213e8ffb744f126d431efd7902b46226bf4b9670c1417d"},
+    {"page":"T2:385","printed_page":"㉛-4","sha256":"7025eceb735cb658e7f2850c1aaac5215597d19cd9963bb158d5e96ed3981229"},
+    {"page":"T2:386","printed_page":"㉛-5","sha256":"3e6a48ffbd23b664047f0e128f8fea42687d3d29b2b88864a449b087ffe4635c"},
+    {"page":"T2:387","printed_page":"㉛-6","sha256":"e5d319b2ceb812fc0aee295a53c13f4d9df3694a5fe421d83fdc97e287cdfe07"},
+    {"page":"T2:388","printed_page":"㉛-7","sha256":"ca9a853dc72af134694109bc03137fc4ca698ba23fc830139572029e187c5a77"},
+    {"page":"T2:389","printed_page":"㉛-8","sha256":"51dfbad22a9b3996c1a1d993a29f97f7082b245afea312229514c717e5433b7d"},
+    {"page":"T2:390","printed_page":"㉛-9","sha256":"c7c7298335c1a89552b658e6701ab90e10ace5b31d787801af47fc86f6e2746c"},
+    {"page":"T2:391","printed_page":"㉛-10","sha256":"012b96afbeaea2c50d0f1251a6b6dab5b8f80b8dc25d484206d483b9d391b829"},
+    {"page":"T2:392","printed_page":"㉛-11","sha256":"560e3a15015c9ded4a1c8f62a870ecdb033023f615d521d9c304d6f95a61508d"},
+    {"page":"T2:393","printed_page":"㉛-12","sha256":"1c2532aece282f453e591e56919254505d9d07a122330dee404ca50ae0646794"},
+    {"page":"T2:394","printed_page":"㉛-13","sha256":"086e31ebcb4753ace80688ee102185c3be75885cbc92574fabac0665474789c4"},
+    {"page":"T2:395","printed_page":"㉛-14","sha256":"be8badfe1513e2c079d3ee240695522c4c6b8a8c12f7b58d368508dfe3aa5714"},
+    {"page":"T2:396","printed_page":"㉛-15","sha256":"6076a6b6da4fd4aa4611314669afffa6311891d6262640508a923032d7bd330e"},
+    {"page":"T2:397","printed_page":"㉛-16","sha256":"b8ba6d49370caf0b3a24f6de981076cbe5abf917e5b92f7b9e8c012bc4564f02"},
+    {"page":"T2:398","printed_page":"㉛-17","sha256":"0765a778c91d274e637c4955c4cc7523ab30b809e2223ab59c1c211294ddeebe"},
+    {"page":"T2:399","printed_page":"㉛-18","sha256":"fec08b7234e69710c46bb83de0404a95a8390f105179e9f00781b4249e24642e"},
+    {"page":"T2:400","printed_page":"㉛-19","sha256":"253cd66d11f1ff88fe1f692706a71108aaf17a1856545d9cbcdfb5824f69abe7"}
+  ],
+  "excluded_pages": [],
+  "section_outputs": [
+    {"task":"JPG-T2-C021-S01","chunk_sha256":"dd0c19aaa1a5b6cc20dc2fa3d65e3f35bf4ab42451e0d291170a8b9ea6464d64"},
+    {"task":"JPG-T2-C021-S02","chunk_sha256":"ab47d2056209ce35df69663dc1bb9cbd81ae54f3496a97549781c3a0750e32e4"},
+    {"task":"JPG-T2-C021-S03","chunk_sha256":"b781952549cd377204e3cd6af1f8bbe4c4339dd312be62f36e920d7edd0ad4ec"},
+    {"task":"JPG-T2-C021-S04","chunk_sha256":"b56fae4f0759941fcb0c55456ee7fcdf9cd12e9e23009be52ab21916e383aaf0"}
+  ],
+  "coverage": [
+    {"page":"T2:381","regions":["chapter opener","short-answer exam-history table","essay exam-history table"],"status":"pass"},
+    {"page":"T2:382","regions":["prior-period disclosure premise","traditional-treatment problem","average-cost versus FIFO example","operating-profit and non-comparability diagrams"],"status":"pass"},
+    {"page":"T2:383","regions":["retroactive processing definition","standard-publication effects","A-company/B-company comparison table and diagram"],"status":"pass"},
+    {"page":"T2:384","regions":["accounting policy","presentation method","accounting estimate","error definitions and notes","policy/presentation and error diagrams"],"status":"pass"},
+    {"page":"T2:385","regions":["accounting change definitions","policy/presentation/estimate examples","error correction distinction","retroactive application/reclassification/restatement definitions"],"status":"pass"},
+    {"page":"T2:386","regions":["four-way treatment summary","consolidated and individual financial statements","two views on individual statements"],"status":"pass"},
+    {"page":"T2:387","regions":["materiality rule","quantitative and qualitative criteria","error and presentation materiality supplement"],"status":"pass"},
+    {"page":"T2:388","regions":["policy-change classification","standard amendment and voluntary change","reasonable-reason requirements"],"status":"pass"},
+    {"page":"T2:389","regions":["standard-amendment treatment","transitional-treatment rule","voluntary-change retroactive treatment","X3 effective-date timeline"],"status":"pass"},
+    {"page":"T2:390","regions":["three cases not treated as policy change","materiality increase","new fact","consolidation-scope change","cash-flow presentation cautions"],"status":"pass"},
+    {"page":"T2:391","regions":["detailed retroactive processing","oldest-period opening balance","each-period impact","statement-of-changes-in-equity supplements"],"status":"pass"},
+    {"page":"T2:392","regions":["retroactive-application timeline","20 cumulative-impact example","opening retained-earnings treatment","alternative current-profit view and selected rationale"],"status":"pass"},
+    {"page":"T2:393","regions":["simple retroactive-application image","20 opening impact and 120 post-processing balance","cumulative-impact treatment"],"status":"pass"},
+    {"page":"T2:394","regions":["impracticability definition","missing historical information","historical management intent","time-lapse information distinction"],"status":"pass"},
+    {"page":"T2:395","regions":["partial-retrospective possible case","partial-retrospective impossible case","inventory and retained-earnings timelines"],"status":"pass"},
+    {"page":"T2:396","regions":["policy-change note requirements","standard-amendment versus other-change comparison table","past-period impact note point"],"status":"pass"},
+    {"page":"T2:397","regions":["past-period impact-note supplement","unapplied accounting-standard note","three required disclosures and consolidated/individual exception"],"status":"pass"},
+    {"page":"T2:398","regions":["presentation-method continuous application","two exceptions","reclassification principle and no-transitional-treatment note"],"status":"pass"},
+    {"page":"T2:399","regions":["long-term-loan receivable 4,500/other 6,000 reclassification example","impracticable reclassification treatment"],"status":"pass"},
+    {"page":"T2:400","regions":["four presentation-change disclosures","individual-statement substitute disclosure"],"status":"pass"}
+  ],
+  "findings": [
+    "All 20 inventory-approved processing images T2:381-T2:400 were reopened at readable full-page resolution and compared with the four section chunks, including margins, sidebars, tables, timelines, examples, numerical values and diagram-only relationships.",
+    "The batch is complete: all 20 expected pages are included and no metadata-only or blank exclusion occurs inside this range.",
+    "The four chunks preserve the chapter opener, sections 31.1 through 31.4, definitions, distinctions, conditions, exceptions, timing rules, disclosure requirements and the source's example relationships without adding external facts or downstream card syntax.",
+    "Numerical checks covered operating profit 1,000/1,500/1,400, the 20 cumulative-impact and 120 post-processing balances, and the 4,500 long-term-loan/6,000 other/1,500 residual reclassification example.",
+    "Diagram checks covered the prior/current financial-statement comparison, A-company/B-company comparison, policy-change timelines, partial-retrospective timelines, cumulative-impact presentation and reclassification example.",
+    "No true/false proposition layout occurs in this theory batch; false-proposition review is not applicable. No unresolved marker, invented content or out-of-batch locator remains."
+  ],
+  "corrections": [],
+  "checks": {
+    "numerical": "pass",
+    "diagram": "pass",
+    "false_proposition": "not_applicable"
+  },
+  "verification": {
+    "json_fragment": "pass",
+    "json_review": "pass",
+    "source_image_sha256": "20/20 computed from designated T2 JPGs; all match project/T2/sources.json",
+    "semantic_full_page_review": "pass",
+    "unresolved_marker_scan": "pass",
+    "scoped_diff_check": "pass",
+    "check_batch": "pass (./.venv/bin/python workflow/scripts/source_md.py check-batch project/T2 --batch JPG-T2-C021)",
+    "repository_tests": "31/31 passed (./.venv/bin/python -m unittest discover -s workflow/tests -v)"
+  },
+  "reviewed_on": "2026-09-06",
+  "reviewer_model": "current execution model; no model switch"
+}

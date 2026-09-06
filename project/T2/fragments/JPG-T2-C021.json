@@ -1,0 +1,84 @@
+{
+  "batch_id": "JPG-T2-C021",
+  "review": "reviews/JPG-T2-C021.json",
+  "source_id": "T2",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-T2-C021-S01",
+      "batch_id": "JPG-T2-C021",
+      "chapter": "31",
+      "section": "31.1",
+      "title": "第1節 会計方針の変更等があった場合の従来の取扱い",
+      "chunk_sha256": "dd0c19aaa1a5b6cc20dc2fa3d65e3f35bf4ab42451e0d291170a8b9ea6464d64",
+      "expected_pages": ["T2:381", "T2:382", "T2:383"],
+      "processing_pages": ["T2:381", "T2:382", "T2:383"],
+      "output": "chunks/JPG-T2-C021/JPG-T2-C021-S01.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T2:381", "printed_page": null, "source_region": "chapter 31 opener; short-answer and essay exam-history tables", "destination_heading": "## 第1節 会計方針の変更等があった場合の従来の取扱い"},
+        {"page": "T2:382", "printed_page": "㉛-1", "source_region": "第1節;従来の取扱いの問題点;前期・当期の棚卸資産評価方法の比較例と財務諸表図", "destination_heading": "## 第1節 会計方針の変更等があった場合の従来の取扱い"},
+        {"page": "T2:383", "printed_page": "㉛-2", "source_region": "本会計基準の必要性;遡及処理の定義、公表効果、A社・B社の企業間比較可能性の参考図", "destination_heading": "## 第1節 会計方針の変更等があった場合の従来の取扱い"}
+      ]
+    },
+    {
+      "id": "JPG-T2-C021-S02",
+      "batch_id": "JPG-T2-C021",
+      "chapter": "31",
+      "section": "31.2",
+      "title": "第2節 本会計基準の基本事項",
+      "chunk_sha256": "ab47d2056209ce35df69663dc1bb9cbd81ae54f3496a97549781c3a0750e32e4",
+      "expected_pages": ["T2:384", "T2:385", "T2:386", "T2:387"],
+      "processing_pages": ["T2:384", "T2:385", "T2:386", "T2:387"],
+      "output": "chunks/JPG-T2-C021/JPG-T2-C021-S02.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T2:384", "printed_page": "㉛-3", "source_region": "第2節;会計方針・表示方法・会計上の見積り・誤謬の定義、注記と関係図", "destination_heading": "## 第2節 本会計基準の基本事項"},
+        {"page": "T2:385", "printed_page": "㉛-4", "source_region": "変更、会計方針、表示方法、会計上の見積り、誤謬の訂正、遡及適用・組替え・修正再表示の定義", "destination_heading": "## 第2節 本会計基準の基本事項"},
+        {"page": "T2:386", "printed_page": "㉛-5", "source_region": "遡及処理のまとめ;連結・個別財務諸表への適用;個別財務諸表の二つの見解", "destination_heading": "## 第2節 本会計基準の基本事項"},
+        {"page": "T2:387", "printed_page": "㉛-6", "source_region": "重要性の量的・質的判断基準と誤謬・表示方法の重要性に関する補足", "destination_heading": "## 第2節 本会計基準の基本事項"}
+      ]
+    },
+    {
+      "id": "JPG-T2-C021-S03",
+      "batch_id": "JPG-T2-C021",
+      "chapter": "31",
+      "section": "31.3",
+      "title": "第3節 会計方針の変更の取扱い",
+      "chunk_sha256": "b781952549cd377204e3cd6af1f8bbe4c4339dd312be62f36e920d7edd0ad4ec",
+      "expected_pages": ["T2:388", "T2:389", "T2:390", "T2:391", "T2:392", "T2:393", "T2:394", "T2:395", "T2:396", "T2:397"],
+      "processing_pages": ["T2:388", "T2:389", "T2:390", "T2:391", "T2:392", "T2:393", "T2:394", "T2:395", "T2:396", "T2:397"],
+      "output": "chunks/JPG-T2-C021/JPG-T2-C021-S03.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T2:388", "printed_page": "㉛-7", "source_region": "第3節;会計方針の変更の分類;会計基準等の改正・自発的変更;正当な理由の要件", "destination_heading": "## 第3節 会計方針の変更の取扱い"},
+        {"page": "T2:389", "printed_page": "㉛-8", "source_region": "原則的取扱い;会計基準等の改正に伴う変更と経過的取扱い;自発的変更", "destination_heading": "## 第3節 会計方針の変更の取扱い"},
+        {"page": "T2:390", "printed_page": "㉛-9", "source_region": "会計方針の変更に該当しない三事例;キャッシュ・フロー計算書の変更に関する注意点", "destination_heading": "## 第3節 会計方針の変更の取扱い"},
+        {"page": "T2:391", "printed_page": "㉛-10", "source_region": "原則的取扱いの分類と具体例;経過的取扱いの有無によるタイムライン", "destination_heading": "## 第3節 会計方針の変更の取扱い"},
+        {"page": "T2:392", "printed_page": "㉛-11", "source_region": "遡及適用の具体処理;最古の表示期間の期首残高と各期間への影響;株主資本等変動計算書の表示補足", "destination_heading": "## 第3節 会計方針の変更の取扱い"},
+        {"page": "T2:393", "printed_page": "㉛-12", "source_region": "遡及適用の簡単なイメージ;20の累積的影響額;期首利益剰余金に含める見解", "destination_heading": "## 第3節 会計方針の変更の取扱い"},
+        {"page": "T2:394", "printed_page": "㉛-13", "source_region": "実務上不可能な場合の三類型;仕入単価、経営者意図、情報の客観的区別の例", "destination_heading": "## 第3節 会計方針の変更の取扱い"},
+        {"page": "T2:395", "printed_page": "㉛-14", "source_region": "部分的遡及適用の可否による二つの具体的取扱い;先入先出法のタイムラインと累積的影響額", "destination_heading": "## 第3節 会計方針の変更の取扱い"},
+        {"page": "T2:396", "printed_page": "㉛-15", "source_region": "会計方針変更の注記事項;会計基準等の改正に伴う変更とその他の変更の比較表", "destination_heading": "## 第3節 会計方針の変更の取扱い"},
+        {"page": "T2:397", "printed_page": "㉛-16", "source_region": "過去の期間に関する影響額の注記;未適用の会計基準等の注記事項と三つの開示事項", "destination_heading": "## 第3節 会計方針の変更の取扱い"}
+      ]
+    },
+    {
+      "id": "JPG-T2-C021-S04",
+      "batch_id": "JPG-T2-C021",
+      "chapter": "31",
+      "section": "31.4",
+      "title": "第4節 表示方法の変更の取扱い",
+      "chunk_sha256": "b56fae4f0759941fcb0c55456ee7fcdf9cd12e9e23009be52ab21916e383aaf0",
+      "expected_pages": ["T2:398", "T2:399", "T2:400"],
+      "processing_pages": ["T2:398", "T2:399", "T2:400"],
+      "output": "chunks/JPG-T2-C021/JPG-T2-C021-S04.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T2:398", "printed_page": "㉛-17", "source_region": "第4節;表示方法の継続適用;表示方法変更の原則的取扱いと経過的取扱いの相違", "destination_heading": "## 第4節 表示方法の変更の取扱い"},
+        {"page": "T2:399", "printed_page": "㉛-18", "source_region": "長期貸付金4,500をその他6,000から独立掲記する組替え設例;実務上不可能な場合", "destination_heading": "## 第4節 表示方法の変更の取扱い"},
+        {"page": "T2:400", "printed_page": "㉛-19", "source_region": "表示方法変更に関する四つの注記事項と個別財務諸表での代替記載", "destination_heading": "## 第4節 表示方法の変更の取扱い"}
+      ]
+    }
+  ]
+}
