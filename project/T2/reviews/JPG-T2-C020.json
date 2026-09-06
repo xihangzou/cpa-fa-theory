@@ -1,0 +1,83 @@
+{
+  "batch_id": "JPG-T2-C020",
+  "source_id": "T2",
+  "status": "pass",
+  "unresolved_count": 0,
+  "delivery_branch": "main",
+  "repository_revision_reviewed": "bbd64a9a628a03025958ee4a0ec46f1dde581263",
+  "dependency_commits": [
+    "a2fb2bb829d112522128cdb145523302e9d1e7fd",
+    "558bb1e92a2bd7e550af9c2034dc695efde6f19d",
+    "fb4082260d3af7598cb417c2dd83a82cd224dc6d"
+  ],
+  "source_images": [
+    {"page":"T2:368","printed_page":"㉚-21","sha256":"41a38b7d5ed69f9d30ba3cd4b22580ce29fdbf45842ddad2190ea08434b47d11"},
+    {"page":"T2:369","printed_page":"㉚-22","sha256":"60ad4ffa64bd619604eb8dba6037a3964f53f091abe3ccd66d50c71cb6cf64e4"},
+    {"page":"T2:370","printed_page":"㉚-23","sha256":"b7a219d2cc003f545a59e957bdf32fa4787b836f41d2a75a063ddf6fdf3f69c5"},
+    {"page":"T2:371","printed_page":"㉚-24","sha256":"d81f6dbf9892411d7f70e4bd03e24d1066a355425a96b5cbac94c3a29809f530"},
+    {"page":"T2:372","printed_page":"㉚-25","sha256":"d326a4ad4fa99405209de1ee44191c389f6ab6df51772216900584ddbe2309c8"},
+    {"page":"T2:373","printed_page":"㉚-26","sha256":"06020f20af6613275224204c709982e77849933af81353455a57eec369de67f3"},
+    {"page":"T2:374","printed_page":"㉚-27","sha256":"f92a6a4ea495029df11b5c00ed3512551f6200cbdc48c93b390cfa0d6ba901bb"},
+    {"page":"T2:375","printed_page":"㉚-28","sha256":"e364bb9e2924780e1d6489c19011a27f26fbdc0c9d830fc1ead3606c7d73ab97"},
+    {"page":"T2:376","printed_page":"㉚-29","sha256":"d44db14512f4083920bad872a1e5c45919f769ad576f51344bf6d519d0c61774"},
+    {"page":"T2:377","printed_page":"㉚-30","sha256":"79c2f8a310c92a3e56f9f56524f02a9bbbb5e48ae4b3e11fbf9e7863bb7794ab"},
+    {"page":"T2:378","printed_page":"㉚-31","sha256":"32e3514acea5548899ef2f102aa37bed78fabee9b52daf67f6635f1bec4d1903"},
+    {"page":"T2:379","printed_page":"㉚-32","sha256":"910af2d7833c7d14d1c53463f768d3d90cb06cdaac0917262cb2ca96a9c033bb"}
+  ],
+  "excluded_pages": [
+    {"page":"T2:380","printed_page":"㉚-33","reason":"【MEMO】の白紙ページ。画像確認により実質的な本文・図表なし。"}
+  ],
+  "section_outputs": [
+    {"task":"JPG-T2-C020-S01","chunk_sha256":"3805725d2da74d21de8146e30e0a266ba0b44e91a1944456b6bc50b0635aae1b"},
+    {"task":"JPG-T2-C020-S02","chunk_sha256":"f1bed3d25fa2ef657425600760582d234602bcfc272ff6dd320c5895f9ad6ff3"},
+    {"task":"JPG-T2-C020-S03","chunk_sha256":"e929590649a764a6accbafec67b19d7b06c42036ad797a36d9d3b37f65dc2c0a"},
+    {"task":"JPG-T2-C020-S04","chunk_sha256":"7dfc603a9e198bab65d101489235c7ad007c59b178e8855e03457eace5ca7786"},
+    {"task":"JPG-T2-C020-S05","chunk_sha256":"bfb9a56d79a2c20677cdfae6dade2c1bae3b86cd3631c135187bc28bfa1823f7"},
+    {"task":"JPG-T2-C020-S06","chunk_sha256":"632a6a462908d5542c6f3ce49baf0c1604dc3a404bbb472fc96908f773051ae3"},
+    {"task":"JPG-T2-C020-S07","chunk_sha256":"1f00bcb77829d4d9ebc6aa79fbb51e63aad5c5eb6219f01d23fd78a0cafbdb9c"},
+    {"task":"JPG-T2-C020-S08","chunk_sha256":"efbd3339a00b7d835cdc6b4fd31ff80948aece8f58e3de84bcd5b6a31508da08"},
+    {"task":"JPG-T2-C020-S09","chunk_sha256":"877226a0379a35706af26f8a50a3b3836fc511e241be32bcea639bb8e76438c8"},
+    {"task":"JPG-T2-C020-S10","chunk_sha256":"7ac29be3faf19756a7abb5f68d6474aa314672d1f8fa41fb71fe04fee72516ec"},
+    {"task":"JPG-T2-C020-S11","chunk_sha256":"bb166718352bd06f64ca8dd2710ce8ff2d10d82ee970aca06c644f4f2191818c"}
+  ],
+  "coverage": [
+    {"page":"T2:368","regions":["chapter 30 opener; section 4.1; ownership-transfer and non-transfer recovery diagrams; financial-instrument supplement"],"status":"pass"},
+    {"page":"T2:369","regions":["section 4.2; three lessor methods; 10,000/8,000/2,000/5-year assumptions; all journal-entry tables"],"status":"pass"},
+    {"page":"T2:370","regions":["method-selection rationale; product/merchant supplement; 46,800/48,000/60,000 example; section 4.3 interest-total rules"],"status":"pass"},
+    {"page":"T2:371","regions":["section 4.4 presentation/disclosure; collection maturity table; 50,000/5,000/△3,289/51,711 example"],"status":"pass"},
+    {"page":"T2:372","regions":["section 5.1 ordinary-rental entries; section 5.2 non-cancelable operating-lease note and materiality examples"],"status":"pass"},
+    {"page":"T2:373","regions":["section 6 definition; balance-sheet/profit treatment; 7.931% schedule; 48,000/12,060/60/12,000/3,807/8,193 entries"],"status":"pass"},
+    {"page":"T2:374","regions":["section 7 overview; finance-lease seller-lessee contract; deferred sale-difference entry"],"status":"pass"},
+    {"page":"T2:375","regions":["lower-of-two lease-asset/liability amount rule; realized-loss supplement; finance-lease payment/settlement; operating-lease seller-lessee rule"],"status":"pass"},
+    {"page":"T2:376","regions":["operating-lease contract/payment; section 7.3 financial-transaction view and current-treatment issue"],"status":"pass"},
+    {"page":"T2:377","regions":["section 7.3 continuation; section 8.1 installment-purchase and substance-over-form views"],"status":"pass"},
+    {"page":"T2:378","regions":["right-of-use model; IASB/FASB; all-lease recognition; comparability and avoidance diagram"],"status":"pass"},
+    {"page":"T2:379","regions":["risk/economic-value and financial-component approaches; two requirements; comparison table; right-of-use supplement"],"status":"pass"}
+  ],
+  "findings": [
+    "All 12 inventory-approved processing images T2:368-T2:379 were reopened at readable full-page resolution and compared with the 11 section chunks, including margins, supplement boxes, tables, journal entries, numerical examples and diagram-only relationships.",
+    "The expected batch range T2:368-T2:380 is complete: T2:368-T2:379 are included and T2:380 is the image-confirmed blank MEMO exclusion recorded by the inventory ledger.",
+    "The batch preserves sections 4 through 8 of chapter 30, including lessor accounting methods, interest calculation, disclosures, operating leases, subleases, sale-and-leaseback treatments and the competing recent lease-accounting views.",
+    "Numerical checks covered 10,000/8,000/2,000/5 years, 46,800/48,000/60,000, 50,000/5,000/△3,289/51,711, 48,000/12,060/60/12,000/3,807/8,193, and the 600/1,000/400/100 realized-loss example.",
+    "Diagram checks covered ownership-transfer versus non-transfer recovery, sale-and-leaseback flow, installment-purchase/substance-over-form/right-of-use nesting, and risk/economic-value versus financial-component approaches.",
+    "No true/false proposition layout occurs in this theory batch; false-proposition review is not applicable. No unresolved marker, invented content or out-of-batch locator remains."
+  ],
+  "corrections": [],
+  "checks": {
+    "numerical": "pass",
+    "diagram": "pass",
+    "false_proposition": "not_applicable"
+  },
+  "verification": {
+    "json_fragment": "pass",
+    "json_review": "pass",
+    "source_image_sha256": "12/12 computed from designated T2 JPGs; all match project/T2/sources.json",
+    "semantic_full_page_review": "pass",
+    "unresolved_marker_scan": "pass",
+    "scoped_diff_check": "pass",
+    "check_batch": "pass (./.venv/bin/python workflow/scripts/source_md.py check-batch project/T2 --batch JPG-T2-C020)",
+    "repository_tests": "31/31 passed (./.venv/bin/python -m unittest discover -s workflow/tests -v)"
+  },
+  "reviewed_on": "2026-09-06",
+  "reviewer_model": "current execution model; no model switch"
+}

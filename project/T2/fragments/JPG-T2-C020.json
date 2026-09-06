@@ -1,0 +1,177 @@
+{
+  "batch_id": "JPG-T2-C020",
+  "review": "reviews/JPG-T2-C020.json",
+  "source_id": "T2",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-T2-C020-S01",
+      "batch_id": "JPG-T2-C020",
+      "chapter": "30",
+      "section": "30.4",
+      "title": "第4節 ファイナンス・リース取引の貸手の会計処理",
+      "chunk_sha256": "3805725d2da74d21de8146e30e0a266ba0b44e91a1944456b6bc50b0635aae1b",
+      "expected_pages": ["T2:368"],
+      "processing_pages": ["T2:368"],
+      "output": "chunks/JPG-T2-C020/JPG-T2-C020-S01.md",
+      "status": "pass",
+      "locators": [
+        {"page":"T2:368","printed_page":"㉚-21","source_region":"第4節 opener; 1.貸手の基本的な会計処理; ownership-transfer/non-transfer asset distinction; two recovery-flow diagrams; financial-instrument supplement","destination_heading":"## 第4節 ファイナンス・リース取引の貸手の会計処理"}
+      ]
+    },
+    {
+      "id": "JPG-T2-C020-S02",
+      "batch_id": "JPG-T2-C020",
+      "chapter": "30",
+      "section": "30.4",
+      "title": "第4節 ファイナンス・リース取引の貸手の会計処理",
+      "chunk_sha256": "f1bed3d25fa2ef657425600760582d234602bcfc272ff6dd320c5895f9ad6ff3",
+      "expected_pages": ["T2:369","T2:370"],
+      "processing_pages": ["T2:369","T2:370"],
+      "output": "chunks/JPG-T2-C020/JPG-T2-C020-S02.md",
+      "status": "pass",
+      "locators": [
+        {"page":"T2:369","printed_page":"㉚-22","source_region":"2.貸手の具体的な会計処理; 10,000/8,000/2,000/5年 assumptions; three methods and journal-entry tables","destination_heading":"## 第4節 ファイナンス・リース取引の貸手の会計処理"},
+        {"page":"T2:370","printed_page":"㉚-23","source_region":"method-selection rationale for ①-③; boundary continuation","destination_heading":"## 第4節 ファイナンス・リース取引の貸手の会計処理"}
+      ]
+    },
+    {
+      "id": "JPG-T2-C020-S03",
+      "batch_id": "JPG-T2-C020",
+      "chapter": "30",
+      "section": "30.4",
+      "title": "第4節 ファイナンス・リース取引の貸手の会計処理",
+      "chunk_sha256": "e929590649a764a6accbafec67b19d7b06c42036ad797a36d9d3b37f65dc2c0a",
+      "expected_pages": ["T2:370"],
+      "processing_pages": ["T2:370"],
+      "output": "chunks/JPG-T2-C020/JPG-T2-C020-S03.md",
+      "status": "pass",
+      "locators": [
+        {"page":"T2:370","printed_page":"㉚-23","source_region":"product/merchant lessor supplement; 46,800/48,000/60,000 example; 3.利息相当額の総額の算定 and principle/exception","destination_heading":"## 第4節 ファイナンス・リース取引の貸手の会計処理"}
+      ]
+    },
+    {
+      "id": "JPG-T2-C020-S04",
+      "batch_id": "JPG-T2-C020",
+      "chapter": "30",
+      "section": "30.4",
+      "title": "第4節 ファイナンス・リース取引の貸手の会計処理",
+      "chunk_sha256": "7dfc603a9e198bab65d101489235c7ad007c59b178e8855e03457eace5ca7786",
+      "expected_pages": ["T2:371"],
+      "processing_pages": ["T2:371"],
+      "output": "chunks/JPG-T2-C020/JPG-T2-C020-S04.md",
+      "status": "pass",
+      "locators": [
+        {"page":"T2:371","printed_page":"㉚-24","source_region":"4.貸手側の開示; current/fixed asset classification; one-year and five-year collection table; lease receivable/residual/interest note example","destination_heading":"## 第4節 ファイナンス・リース取引の貸手の会計処理"}
+      ]
+    },
+    {
+      "id": "JPG-T2-C020-S05",
+      "batch_id": "JPG-T2-C020",
+      "chapter": "30",
+      "section": "30.5",
+      "title": "第5節 オペレーティング・リース取引",
+      "chunk_sha256": "bfb9a56d79a2c20677cdfae6dade2c1bae3b86cd3631c135187bc28bfa1823f7",
+      "expected_pages": ["T2:372"],
+      "processing_pages": ["T2:372"],
+      "output": "chunks/JPG-T2-C020/JPG-T2-C020-S05.md",
+      "status": "pass",
+      "locators": [
+        {"page":"T2:372","printed_page":"㉚-25","source_region":"第5節; ordinary-rental entries for both sides; non-cancelable unearned lease-fee disclosure and 3-million/one-year materiality examples","destination_heading":"## 第5節 オペレーティング・リース取引"}
+      ]
+    },
+    {
+      "id": "JPG-T2-C020-S06",
+      "batch_id": "JPG-T2-C020",
+      "chapter": "30",
+      "section": "30.6",
+      "title": "第6節 転リース取引",
+      "chunk_sha256": "632a6a462908d5542c6f3ce49baf0c1604dc3a404bbb472fc96908f773051ae3",
+      "expected_pages": ["T2:373"],
+      "processing_pages": ["T2:373"],
+      "output": "chunks/JPG-T2-C020/JPG-T2-C020-S06.md",
+      "status": "pass",
+      "locators": [
+        {"page":"T2:373","printed_page":"㉚-26","source_region":"第6節 definition; lessor/lessee balance-sheet and profit treatment; 7.931% 48,000 schedule; contract/collection/payment entries","destination_heading":"## 第6節 転リース取引"}
+      ]
+    },
+    {
+      "id": "JPG-T2-C020-S07",
+      "batch_id": "JPG-T2-C020",
+      "chapter": "30",
+      "section": "30.7",
+      "title": "第7節 セール・アンド・リースバック取引",
+      "chunk_sha256": "1f00bcb77829d4d9ebc6aa79fbb51e63aad5c5eb6219f01d23fd78a0cafbdb9c",
+      "expected_pages": ["T2:374"],
+      "processing_pages": ["T2:374"],
+      "output": "chunks/JPG-T2-C020/JPG-T2-C020-S07.md",
+      "status": "pass",
+      "locators": [
+        {"page":"T2:374","printed_page":"㉚-27","source_region":"第7節 overview diagram; finance-lease seller-lessee contract; deferred sale-difference entry","destination_heading":"## 第7節 セール・アンド・リースバック取引"}
+      ]
+    },
+    {
+      "id": "JPG-T2-C020-S08",
+      "batch_id": "JPG-T2-C020",
+      "chapter": "30",
+      "section": "30.7",
+      "title": "第7節 セール・アンド・リースバック取引",
+      "chunk_sha256": "efbd3339a00b7d835cdc6b4fd31ff80948aece8f58e3de84bcd5b6a31508da08",
+      "expected_pages": ["T2:375","T2:376"],
+      "processing_pages": ["T2:375","T2:376"],
+      "output": "chunks/JPG-T2-C020/JPG-T2-C020-S08.md",
+      "status": "pass",
+      "locators": [
+        {"page":"T2:375","printed_page":"㉚-28","source_region":"lower-of-two lease-asset/liability amount rule; realized-loss supplement with 600/1,000/400/100 example; finance-lease payment/settlement; operating-lease seller-lessee heading and rule","destination_heading":"## 第7節 セール・アンド・リースバック取引"},
+        {"page":"T2:376","printed_page":"㉚-29","source_region":"operating-lease contract/payment entries; 3. various views opening","destination_heading":"## 第7節 セール・アンド・リースバック取引"}
+      ]
+    },
+    {
+      "id": "JPG-T2-C020-S09",
+      "batch_id": "JPG-T2-C020",
+      "chapter": "30",
+      "section": "30.7",
+      "title": "第7節 セール・アンド・リースバック取引",
+      "chunk_sha256": "877226a0379a35706af26f8a50a3b3836fc511e241be32bcea639bb8e76438c8",
+      "expected_pages": ["T2:376","T2:377"],
+      "processing_pages": ["T2:376","T2:377"],
+      "output": "chunks/JPG-T2-C020/JPG-T2-C020-S09.md",
+      "status": "pass",
+      "locators": [
+        {"page":"T2:376","printed_page":"㉚-29","source_region":"financial-transaction alternative and current-treatment problem opening","destination_heading":"## 第7節 セール・アンド・リースバック取引"},
+        {"page":"T2:377","printed_page":"㉚-30","source_region":"financial-transaction alternative entry and liability/non-liability problem conclusion","destination_heading":"## 第7節 セール・アンド・リースバック取引"}
+      ]
+    },
+    {
+      "id": "JPG-T2-C020-S10",
+      "batch_id": "JPG-T2-C020",
+      "chapter": "30",
+      "section": "30.8",
+      "title": "第8節 近年のリース取引の考え方",
+      "chunk_sha256": "7ac29be3faf19756a7abb5f68d6474aa314672d1f8fa41fb71fe04fee72516ec",
+      "expected_pages": ["T2:377","T2:378"],
+      "processing_pages": ["T2:377","T2:378"],
+      "output": "chunks/JPG-T2-C020/JPG-T2-C020-S10.md",
+      "status": "pass",
+      "locators": [
+        {"page":"T2:377","printed_page":"㉚-30","source_region":"第8節; installment-purchase theory and four characteristics; substance-over-form view","destination_heading":"## 第8節 近年のリース取引の考え方"},
+        {"page":"T2:378","printed_page":"㉚-31","source_region":"right-of-use model; IASB/FASB; all-lease recognition and comparability/avoidance rationale","destination_heading":"## 第8節 近年のリース取引の考え方"}
+      ]
+    },
+    {
+      "id": "JPG-T2-C020-S11",
+      "batch_id": "JPG-T2-C020",
+      "chapter": "30",
+      "section": "30.8",
+      "title": "第8節 近年のリース取引の考え方",
+      "chunk_sha256": "bb166718352bd06f64ca8dd2710ce8ff2d10d82ee970aca06c644f4f2191818c",
+      "expected_pages": ["T2:379"],
+      "processing_pages": ["T2:379"],
+      "output": "chunks/JPG-T2-C020/JPG-T2-C020-S11.md",
+      "status": "pass",
+      "locators": [
+        {"page":"T2:379","printed_page":"㉚-32","source_region":"risk/economic-value and financial-component approaches; two requirements; comparison table; right-of-use supplement","destination_heading":"## 第8節 近年のリース取引の考え方"}
+      ]
+    }
+  ]
+}
