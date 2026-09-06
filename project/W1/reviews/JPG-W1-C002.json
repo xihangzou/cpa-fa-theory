@@ -6,7 +6,7 @@
   "reviewer_model": "GPT-5 (current execution model; no model switch)",
   "source_revision": {
     "delivery_branch": "main",
-    "repository_commit": "a6e69fbb64cc16aa5800f0aa6a3cf32c7ae449a3",
+    "repository_commit": "0034627e759ba83225ae91dbc5cba1c1825ba3a6",
     "source_catalog": "contracts/source-catalog.json",
     "source_catalog_sha256": "8358e9cffb068f63df0bdfcc8f99be035e66454ac8710d381f0ff9eb87728079",
     "page_plan": "contracts/page-plan.json",
@@ -32,7 +32,8 @@
   "dependency_commits": [
     "a2fb2bb829d112522128cdb145523302e9d1e7fd",
     "a62d278ae52faba8a97b49e08688e54ce2a466c2",
-    "a6e69fbb64cc16aa5800f0aa6a3cf32c7ae449a3"
+    "40a6e712ba3ea4407553b4dcef333bef003c45d3",
+    "0034627e759ba83225ae91dbc5cba1c1825ba3a6"
   ],
   "source_images": [
     {"page": "W1:024", "printed_page": "①-1", "image": "pages/W1/page-024.jpg", "sha256": "ac4460da0891941be1ab4b69247c0809b5d9bc16eff61edeaed33da8622d1e31"},
@@ -45,10 +46,10 @@
     {"page": "W1:031", "printed_page": "①-8", "image": "pages/W1/page-031.jpg", "sha256": "0da991dde738aed4fcabe8d60ccf6b74ee1978e60e9a9e1f4144cc333f367ebb"}
   ],
   "section_outputs": [
-    {"task": "JPG-W1-C002-S01", "chunk": "project/W1/chunks/JPG-W1-C002/JPG-W1-C002-S01.md", "chunk_sha256": "12acfdc8cef97ffeaefd57caf6f00026a60fe74c1e63c96ec59ab151cb7f922d"},
-    {"task": "JPG-W1-C002-S02", "chunk": "project/W1/chunks/JPG-W1-C002/JPG-W1-C002-S02.md", "chunk_sha256": "a4fb27e8c09521e22f4fb68ecaf0471eefc0c11e9bdaa2e153ba22d9fdd3547b"},
-    {"task": "JPG-W1-C002-S03", "chunk": "project/W1/chunks/JPG-W1-C002/JPG-W1-C002-S03.md", "chunk_sha256": "4949543e4779b43602a1ded2d2200ee9aa59cfd3a95b07ea5b2b73c8ac980a2f"},
-    {"task": "JPG-W1-C002-S04", "chunk": "project/W1/chunks/JPG-W1-C002/JPG-W1-C002-S04.md", "chunk_sha256": "bac583d0c3be4d59e30b8e66c1b5a4cff4c654eeccc1bc2aa9572c02e32935b5"}
+    {"task": "JPG-W1-C002-S01", "chunk": "project/W1/chunks/JPG-W1-C002/JPG-W1-C002-S01.md", "chunk_sha256": "87b7c6c45ee63192404efb2809015ede8ef7d299917d248352a933649dca4319"},
+    {"task": "JPG-W1-C002-S02", "chunk": "project/W1/chunks/JPG-W1-C002/JPG-W1-C002-S02.md", "chunk_sha256": "ab65619e91ef0cbb27e33847c2bd26328f5b7dcd9ca0f9dc56d6d63dee7b5af6"},
+    {"task": "JPG-W1-C002-S03", "chunk": "project/W1/chunks/JPG-W1-C002/JPG-W1-C002-S03.md", "chunk_sha256": "1bdc69c8bf3a12fc77266866c74d1f972813b31aae2323b1636933f6cf7759e6"},
+    {"task": "JPG-W1-C002-S04", "chunk": "project/W1/chunks/JPG-W1-C002/JPG-W1-C002-S04.md", "chunk_sha256": "cb91105d4fc03654001641787ad768104eb7806a8f935ba4b2c0c1cb99cf56c0"}
   ],
   "coverage": [
     {"page": "W1:024", "status": "pass", "regions": ["S01: 財務会計の機能、問題1-3の問題文", "S02: 企業会計の原則等、問題4-6の問題文", "全本文、重要度・過去問表示、余白およびフッターを確認"]},

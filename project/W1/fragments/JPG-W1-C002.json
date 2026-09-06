@@ -27,7 +27,7 @@
           "destination_heading": "## 1. 財務会計の機能"
         }
       ],
-      "chunk_sha256": "12acfdc8cef97ffeaefd57caf6f00026a60fe74c1e63c96ec59ab151cb7f922d"
+      "chunk_sha256": "87b7c6c45ee63192404efb2809015ede8ef7d299917d248352a933649dca4319"
     },
     {
       "id": "JPG-W1-C002-S02",
@@ -53,7 +53,7 @@
           "destination_heading": "## 2. 企業会計の原則等"
         }
       ],
-      "chunk_sha256": "a4fb27e8c09521e22f4fb68ecaf0471eefc0c11e9bdaa2e153ba22d9fdd3547b"
+      "chunk_sha256": "ab65619e91ef0cbb27e33847c2bd26328f5b7dcd9ca0f9dc56d6d63dee7b5af6"
     },
     {
       "id": "JPG-W1-C002-S03",
@@ -91,7 +91,7 @@
           "destination_heading": "## 3. 金融商品取引法と会社法"
         }
       ],
-      "chunk_sha256": "4949543e4779b43602a1ded2d2200ee9aa59cfd3a95b07ea5b2b73c8ac980a2f"
+      "chunk_sha256": "1bdc69c8bf3a12fc77266866c74d1f972813b31aae2323b1636933f6cf7759e6"
     },
     {
       "id": "JPG-W1-C002-S04",
@@ -129,7 +129,7 @@
           "destination_heading": "## 4. 会計公準"
         }
       ],
-      "chunk_sha256": "bac583d0c3be4d59e30b8e66c1b5a4cff4c654eeccc1bc2aa9572c02e32935b5"
+      "chunk_sha256": "cb91105d4fc03654001641787ad768104eb7806a8f935ba4b2c0c1cb99cf56c0"
     }
   ],
   "review": "reviews/JPG-W1-C002.json",

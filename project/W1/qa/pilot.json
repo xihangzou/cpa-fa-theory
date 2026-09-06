@@ -1,0 +1,144 @@
+{
+  "issue": 18,
+  "issue_id": "JPG-W1-PILOT-QA",
+  "plan_id": "cpa-fa-theory-jpg-md-20260905",
+  "status": "pass",
+  "reviewed_on": "2026-09-06",
+  "reviewer_model": "GPT-5 (current execution model; no model switch)",
+  "delivery_branch": "main",
+  "repository_revision_reviewed": "0034627e759ba83225ae91dbc5cba1c1825ba3a6",
+  "source_revision": {
+    "source_id": "W1",
+    "edition": "2024/2025年合格目標",
+    "publication_date": "2023-01-23",
+    "physical_scope": "W1:024-W1:031",
+    "processing_scope": "W1:024-W1:031",
+    "content_authority": "designated existing JPGs only; PDF used only for identity/planning support",
+    "image_folder": "/Users/xihangzou/Study/320_CPA/322_財務理論/images/cpa-fa-theory-short-answer-workbook-1-jpg",
+    "source_pdf": "/Users/xihangzou/Study/320_CPA/322_財務理論/02_問題集/財務会計論短答対策問題集　理論1.pdf",
+    "source_pdf_sha256": "cd4b9e8b7be475d5e40785cddfd41e48e775b57eeaed6ffb2b90f4c21c0fd04f",
+    "source_image_inventory_sha256": "593df03d5e6282b4d69ed9162a8afd9cbf6500cb0656884bec1c5b6b129fa5eb",
+    "source_catalog": "contracts/source-catalog.json",
+    "source_catalog_sha256": "8358e9cffb068f63df0bdfcc8f99be035e66454ac8710d381f0ff9eb87728079",
+    "page_plan": "contracts/page-plan.json",
+    "page_plan_sha256": "997a7280b171df5803c2a3bb7c2ee8764082e01f3bdb03c194b9129fe18d26c9",
+    "source_manifest": "project/W1/sources.json",
+    "source_manifest_sha256": "f9bf676e213a1ccedb2ddb4e19c35fbc931b044844436970d3d65def49433de3",
+    "source_map": "project/W1/source-map.json",
+    "source_map_sha256": "d423630c6d0e0683d64bd6b32a9677f0d4f971f6a8572c217ef1c37c5f5a937a",
+    "batch_manifest": "project/W1/batches.json",
+    "batch_manifest_sha256": "35a285b5506fbd1dfbfb1c2c06994f6640617d9f68ef9f77636871c953b8ed4a",
+    "inventory_review": "project/W1/inventory-review.json",
+    "inventory_review_sha256": "e94cf19cc8ad6c7bf9e1fbfc2856e128f88b2ab2cf02be37b2fcf869d0a993bf"
+  },
+  "dependencies": [
+    {
+      "issue": 11,
+      "artifact": "W1 C002 pilot conversion chunks, fragment shard and source review",
+      "commit": "40a6e712ba3ea4407553b4dcef333bef003c45d3",
+      "ancestor_of_review_revision": true,
+      "expected_outputs": [
+        "project/W1/chunks/JPG-W1-C002/",
+        "project/W1/fragments/JPG-W1-C002.json",
+        "project/W1/reviews/JPG-W1-C002.json"
+      ]
+    },
+    {
+      "issue": 1,
+      "artifact": "JPG-000 helper and batch-aware validation",
+      "commit": "a2fb2bb829d112522128cdb145523302e9d1e7fd",
+      "ancestor_of_review_revision": true
+    },
+    {
+      "issue": 5,
+      "artifact": "W1 source inventory, source map and batch ledger",
+      "commit": "a62d278ae52faba8a97b49e08688e54ce2a466c2",
+      "ancestor_of_review_revision": true
+    }
+  ],
+  "pilot_batch": {
+    "batch_id": "JPG-W1-C002",
+    "chapter": "01",
+    "title": "財務会計における基礎概念",
+    "expected_page_count": 8,
+    "processing_page_count": 8,
+    "excluded_pages": [],
+    "sections": [
+      {"task":"JPG-W1-C002-S01","section":"01.1","pages":"W1:024-W1:025","chunk":"project/W1/chunks/JPG-W1-C002/JPG-W1-C002-S01.md","chunk_sha256":"87b7c6c45ee63192404efb2809015ede8ef7d299917d248352a933649dca4319"},
+      {"task":"JPG-W1-C002-S02","section":"01.2","pages":"W1:024-W1:025","chunk":"project/W1/chunks/JPG-W1-C002/JPG-W1-C002-S02.md","chunk_sha256":"ab65619e91ef0cbb27e33847c2bd26328f5b7dcd9ca0f9dc56d6d63dee7b5af6"},
+      {"task":"JPG-W1-C002-S03","section":"01.3","pages":"W1:026-W1:029","chunk":"project/W1/chunks/JPG-W1-C002/JPG-W1-C002-S03.md","chunk_sha256":"1bdc69c8bf3a12fc77266866c74d1f972813b31aae2323b1636933f6cf7759e6"},
+      {"task":"JPG-W1-C002-S04","section":"01.4","pages":"W1:028-W1:031","chunk":"project/W1/chunks/JPG-W1-C002/JPG-W1-C002-S04.md","chunk_sha256":"cb91105d4fc03654001641787ad768104eb7806a8f935ba4b2c0c1cb99cf56c0"}
+    ]
+  },
+  "source_image_hashes": {
+    "W1:024":"ac4460da0891941be1ab4b69247c0809b5d9bc16eff61edeaed33da8622d1e31",
+    "W1:025":"86f417814f537daee87b850cff05ead995882d11d96866322ca2dda5dbf043d3",
+    "W1:026":"8b29844e75b43da04e79922c10f0c5d82d34b74ce883244395daf37ac1c6d874",
+    "W1:027":"ab3b55abbfb8a87067d76b7b7c984a2599ffce0991d41377015285935f7285e4",
+    "W1:028":"98369773d0fc704bf143ef3ff2a1095efa2f953cb95bfa34470029196cecefe7",
+    "W1:029":"c4077d30f0e9c3368b8bf527967e9695c3e556576594abd392a3ca4559436826",
+    "W1:030":"e4ef49a8e8f9e95b323b861f2186aa44b9916daf33e5a7b87e9880e32b8e3e0d",
+    "W1:031":"0da991dde738aed4fcabe8d60ccf6b74ee1978e60e9a9e1f4144cc333f367ebb"
+  },
+  "page_findings": [
+    {"page":"W1:024","printed_page":"①-1","chunks":["JPG-W1-C002-S01","JPG-W1-C002-S02"],"result":"pass","coverage":"Questions 1-6, importance and past-exam labels, section split, margins and footer; question 1-3 and 4-6 remain linked to their answer pages"},
+    {"page":"W1:025","printed_page":"①-2","chunks":["JPG-W1-C002-S01","JPG-W1-C002-S02"],"result":"pass","coverage":"Answers and explanations for questions 1-6, false/true labels, legal reference, additional-check markers and footer; H29 provenance marker restored for question 1"},
+    {"page":"W1:026","printed_page":"①-3","chunks":["JPG-W1-C002-S03"],"result":"pass","coverage":"Questions 7-13, importance, H30/H22 past-exam labels, 1-year/1-year-6-month distinction, margins and footer"},
+    {"page":"W1:027","printed_page":"①-4","chunks":["JPG-W1-C002-S03"],"result":"pass","coverage":"Answers and explanations for questions 7-13, legal references, true/false labels, additional-check marker and footer"},
+    {"page":"W1:028","printed_page":"①-5","chunks":["JPG-W1-C002-S03","JPG-W1-C002-S04"],"result":"pass","coverage":"Questions 14-21, four-item consolidated-statement list, company-law statement list, section boundary and R4/H22/H27/H28/H30 provenance labels restored or retained"},
+    {"page":"W1:029","printed_page":"①-6","chunks":["JPG-W1-C002-S03","JPG-W1-C002-S04"],"result":"pass","coverage":"Answers and explanations for questions 14-21, consolidated-statement contents, legal references, true/false labels, additional-check marker and footer"},
+    {"page":"W1:030","printed_page":"①-7","chunks":["JPG-W1-C002-S04"],"result":"pass","coverage":"Questions 22-28, legal/economic-entity distinction, continuation/period/monetary-measurement boundaries, provenance labels, margins and footer"},
+    {"page":"W1:031","printed_page":"①-8","chunks":["JPG-W1-C002-S04"],"result":"pass","coverage":"Answers and explanations for questions 22-28, economic-entity and period distinctions, monetary-measurement examples, additional-check markers, self-created-goodwill note and footer"}
+  ],
+  "source_specific_conventions": {
+    "headings":"Use # for 第1章, ## for each numbered section, and ### for each numbered question; preserve source section titles and do not flatten sections.",
+    "locators":"Keep physical W1:NNN IDs separate from printed labels ①-N; section citations may share a physical page only within this batch owner and must name the source region and destination heading.",
+    "page_ownership":"JPG-W1-C002 owns every included physical page W1:024-W1:031 exactly once; there are no excluded pages in this batch.",
+    "content":"Designated JPGs are authoritative. Preserve question statements, importance, past-exam provenance labels, true/false verdicts, legal references, explanations, conditions and distinctions. Normalize checkbox and bold typography without dropping learner content.",
+    "question_layout":"Keep every question with its corresponding answer and explanation in the same section chunk. Keep false propositions explicitly labelled as 誤り and retain the correction/reason. Preserve additional-check markers and source-history tags when they carry source context.",
+    "format":"Source Markdown contains no bold, Cloze, Front/Back, integration or card output. Only layout decoration was normalized; the pilot correction restored omitted provenance/additional-check labels."
+  },
+  "semantic_review": {
+    "status":"pass",
+    "all_pages_reopened":true,
+    "review_resolution":"readable full-page resolution",
+    "positive_preservation_examples":[
+      "W1:024-W1:025 preserves all six question statements, each true/false verdict, and each explanation in the matching S01/S02 sections.",
+      "W1:026-W1:029 preserves the 1 year versus 1 year 6 months boundary, the four consolidated-statement items, the three company-law statement items and all cited legal provisions.",
+      "W1:028-W1:031 preserves the legal-entity versus economic-entity distinction, parent-company versus economic-single-entity explanation, period-allocation/depreciation reason, human-resources monetary-measurement boundary, and purchased versus self-created goodwill examples."
+    ],
+    "negative_or_boundary_examples":[
+      "Initial review found omitted/inconsistent past-exam provenance and 追加でチェック！ markers; the four pilot chunks were corrected and their fragment/review hashes refreshed.",
+      "False propositions remain explicitly labelled 誤り for questions 2, 4-6, 8-9, 14, 18, 20, 22-26 and 28; their source corrections remain attached.",
+      "No page, question, answer, legal reference, condition, exception, numerical distinction or explanatory paragraph is unresolved; no content was supplemented from PDF, web, another book or general knowledge."
+    ],
+    "question_answer_links":{"status":"pass","checked":"Questions 1-28 map to their answer/explanation in the same numbered section chunks across W1:024-W1:031."},
+    "false_proposition_labels":{"status":"pass","checked":"All source false propositions retain explicit 誤り labels and corrective explanations."},
+    "diagram_check":{"status":"not_applicable","checked":"No diagram-only source object appears on W1:024-W1:031; all visual source content in scope is question text, answer text, labels, lists or footer/margin material."},
+    "corrections":[
+      "Restored source past-exam provenance labels omitted from S02 question 4 and S04 question 18; retained all existing labels in the remaining question headings.",
+      "Restored 追加でチェック！ markers and H29/H28/H30 source-history context on answer-side supplemental explanations in S01, S02, S03 and S04.",
+      "Refreshed the four current chunk hashes in project/W1/fragments/JPG-W1-C002.json and project/W1/reviews/JPG-W1-C002.json."
+    ],
+    "unresolved_count":0
+  },
+  "checks":[
+    {"command":"./.venv/bin/python workflow/scripts/source_md.py check-manifest project/W1","exit":0,"result":"pass"},
+    {"command":"./.venv/bin/python workflow/scripts/source_md.py check-batch project/W1 --batch JPG-W1-C002","exit":0,"result":"pass"},
+    {"command":"./.venv/bin/python -m unittest discover -s workflow/tests -v","exit":0,"result":"31 tests passed"},
+    {"command":"./.venv/bin/python -m json.tool project/W1/qa/pilot.json and scoped JSON records","exit":0,"result":"valid JSON"},
+    {"command":"git diff --check","exit":0,"result":"pass"},
+    {"command":"source-image SHA-256 verification for W1:024-W1:031","exit":0,"result":"8/8 match the inventory"},
+    {"command":"prohibited-marker and unresolved-marker scan for scoped outputs","exit":0,"result":"none"}
+  ],
+  "downstream":{
+    "status":"ready",
+    "pilot_outputs_available":"project/W1/qa/pilot.json plus current chunk, fragment and review records on main",
+    "canonical_tasks_unchanged":true,
+    "merged_markdown_created":false,
+    "cards_created":false,
+    "shared_manifests_changed":false,
+    "raw_source_media_tracked":false
+  },
+  "review_boundary":"This pilot gate approves only W1 C002 conventions and its four current chunks. It does not assemble W1, edit canonical tasks, review another batch, execute descendants, or generate cards."
+}
