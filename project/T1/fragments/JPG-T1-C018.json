@@ -1,0 +1,61 @@
+{
+  "batch_id": "JPG-T1-C018",
+  "source_id": "T1",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-T1-C018-S01",
+      "batch_id": "JPG-T1-C018",
+      "chapter": "12",
+      "section": "12.5",
+      "title": "第5節 財務諸表における認識と測定",
+      "expected_pages": [
+        "T1:252", "T1:253", "T1:254", "T1:255", "T1:256",
+        "T1:257", "T1:258", "T1:259", "T1:260", "T1:261",
+        "T1:262", "T1:263", "T1:264", "T1:265", "T1:266",
+        "T1:267", "T1:268", "T1:269", "T1:270", "T1:271"
+      ],
+      "processing_pages": [
+        "T1:252", "T1:253", "T1:254", "T1:255", "T1:256",
+        "T1:257", "T1:258", "T1:259", "T1:260", "T1:261",
+        "T1:262", "T1:263", "T1:264", "T1:265", "T1:266",
+        "T1:267", "T1:268", "T1:269", "T1:270", "T1:271"
+      ],
+      "output": "chunks/JPG-T1-C018/JPG-T1-C018-S01.md",
+      "status": "pass",
+      "chunk_sha256": "c71c984323f4d48f5dee2f4fcc48ebf4338e289da89e2352e11c5d9f1dfbd1c0",
+      "locators": [
+        {"page": "T1:252", "printed_page": "⑫－33", "source_region": "第5節の導入、1.認識および測定の定義、2.(1)認識の実態、契約履行の現金決済・継続的役務提供の図", "destination_heading": "## 第5節 財務諸表における認識と測定"},
+        {"page": "T1:253", "printed_page": "⑫－34", "source_region": "双方未履行の原則、3年間建物賃貸の例、2.(2)認識に関する価値変動、債券先物の時価変動例、製品保証引当金の補足", "destination_heading": "## 第5節 財務諸表における認識と測定"},
+        {"page": "T1:254", "printed_page": "⑫－35", "source_region": "認識に求められる蓋然性、蓋然性の定義・例外、製品保証引当金の高低確率例、保守性の補足", "destination_heading": "## 第5節 財務諸表における認識と測定"},
+        {"page": "T1:255", "printed_page": "⑫－36", "source_region": "3.資産の測定、5分類9分類の体系図、(1)取得原価、取得原価の定義、現金・財サービス対価の例、原始取得原価と未償却原価", "destination_heading": "## 第5節 財務諸表における認識と測定"},
+        {"page": "T1:256", "printed_page": "⑫－37", "source_region": "取得原価関連用語、継続的投資行動の前提、未償却原価の意味、見積り修正、(2)市場価格の定義、市場価格と時価の補足", "destination_heading": "## 第5節 財務諸表における認識と測定"},
+        {"page": "T1:257", "printed_page": "⑫－38", "source_region": "購買市場と売却市場が区別されない場合の測定意味・変動額、再測定の条件、支出額と市場価格の乖離、両市場が区別される場合の導入", "destination_heading": "## 第5節 財務諸表における認識と測定"},
+        {"page": "T1:258", "printed_page": "⑫－39", "source_region": "再調達原価の定義・意味・@100から@130の例、保有中の再測定の限界、正味実現可能価額の定義・意味・@120/@130の例、(3)割引価値の導入", "destination_heading": "## 第5節 財務諸表における認識と測定"},
+        {"page": "T1:259", "printed_page": "⑫－40", "source_region": "利用価値の定義・用途・意味、自己創設のれん、変動額、例外的用途、取得原価800・のれん200・CF1,331・割引率10%の図と2パターン", "destination_heading": "## 第5節 財務諸表における認識と測定"},
+        {"page": "T1:260", "printed_page": "⑫－41", "source_region": "市場価値推定の割引価値の定義・用途・変動額、将来CFのみ再見積りの定義・意味、回収可能額4,000と現在価値3,455の例、10,000債権の図", "destination_heading": "## 第5節 財務諸表における認識と測定"},
+        {"page": "T1:261", "printed_page": "⑫－42", "source_region": "将来CFのみ再見積りの例の変動額3,044、利息411と期待CF変化3,455の仕訳、入金予定額、被投資企業純資産額に基づく額", "destination_heading": "## 第5節 財務諸表における認識と測定"},
+        {"page": "T1:262", "printed_page": "⑫－43", "source_region": "4.負債の測定、7分類の体系図、(1)支払予定額の定義・意味・固定契約と見積り変更、1,000から1,200の評価例", "destination_heading": "## 第5節 財務諸表における認識と測定"},
+        {"page": "T1:263", "printed_page": "⑫－44", "source_region": "(2)現金受入額の定義・期間配分・未決済残高、金融負債と非金融負債、額面1,000発行価額900の社債例、前受収益3,600の例", "destination_heading": "## 第5節 財務諸表における認識と測定"},
+        {"page": "T1:264", "printed_page": "⑫－45", "source_region": "(3)割引価値、リスクフリー・レートによる割引価値の定義・用途・変動額、COF10,404・RF2%・不履行リスク3%の例と4変化", "destination_heading": "## 第5節 財務諸表における認識と測定"},
+        {"page": "T1:265", "printed_page": "⑫－46", "source_region": "リスク調整割引率による割引価値の定義・現行制度での扱い・変動額、COF10,404・割引率5%の例と4変化、将来CFのみ再見積りの負債測定", "destination_heading": "## 第5節 財務諸表における認識と測定"},
+        {"page": "T1:266", "printed_page": "⑫－47", "source_region": "将来CFを再見積りせず割引率も改訂しない場合、社債・リース債務、リース料100と利息10の分解例、負債の市場価格", "destination_heading": "## 第5節 財務諸表における認識と測定"},
+        {"page": "T1:267", "printed_page": "⑫－48", "source_region": "測定値の選択の補足、原価・時価の並列、多重測定の例、測定値として独立の意味を持たない退職給付引当金の補足", "destination_heading": "## 第5節 財務諸表における認識と測定"},
+        {"page": "T1:268", "printed_page": "⑫－49", "source_region": "5.収益の認識、(1)投資のリスクからの解放の概念、期待の事実転化の図、(2)支持理由、実現主義・実現可能概念との対比", "destination_heading": "## 第5節 財務諸表における認識と測定"},
+        {"page": "T1:269", "printed_page": "⑫－50", "source_region": "(3)投資のリスクからの解放の具体例、判断ポイント、通常の商品売買、長期請負工事、売買目的有価証券", "destination_heading": "## 第5節 財務諸表における認識と測定"},
+        {"page": "T1:270", "printed_page": "⑫－51", "source_region": "その他有価証券、投資リスク解放・実現・実現可能の相違、包含関係の図、評価差額の位置付け", "destination_heading": "## 第5節 財務諸表における認識と測定"},
+        {"page": "T1:271", "printed_page": "⑫－52", "source_region": "投資に関する期待の内容の補足、6.収益の測定、(1)交換に着目した収益測定、収益計上の判断基準と計上額", "destination_heading": "## 第5節 財務諸表における認識と測定"}
+      ]
+    }
+  ],
+  "review": "reviews/JPG-T1-C018.json",
+  "excluded_pages": [],
+  "source_scope": {
+    "source_id": "T1",
+    "physical_range": "T1:252-T1:271",
+    "processing_range": "T1:252-T1:271",
+    "chapter": "12",
+    "title": "財務会計の概念フレームワーク",
+    "content_authority": "designated existing JPGs only"
+  }
+}
