@@ -1,0 +1,68 @@
+{
+  "batch_id": "JPG-T2-C010",
+  "source_id": "T2",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-T2-C010-S01",
+      "batch_id": "JPG-T2-C010",
+      "chapter": "26",
+      "section": "26.6",
+      "title": "第6節 自己株式",
+      "expected_pages": ["T2:186", "T2:187", "T2:188", "T2:189", "T2:190", "T2:191", "T2:192", "T2:193", "T2:194", "T2:195", "T2:196", "T2:197", "T2:198"],
+      "processing_pages": ["T2:186", "T2:187", "T2:188", "T2:189", "T2:190", "T2:191", "T2:192", "T2:193", "T2:194", "T2:195", "T2:196", "T2:197", "T2:198"],
+      "output": "chunks/JPG-T2-C010/JPG-T2-C010-S01.md",
+      "status": "pass",
+      "chunk_sha256": "15a954632c0880166d2a4628441e276023a6e0921fdeb353d8bdb81490bb4697",
+      "locators": [
+        {"page": "T2:186", "printed_page": "㉖-19", "source_region": "第6節扉、自己株式の定義、資産説と資本控除説の導入、資産説の本文と有価証券・自己株式の取引図、資本控除説の前半", "destination_heading": "## 第6節 自己株式"},
+        {"page": "T2:187", "printed_page": "㉖-20", "source_region": "資本控除説の現行制度上の採用理由、自己株式の会計処理に関する参考、1,000株発行・取得・処分の数値例と発行時・取得時・処分時仕訳", "destination_heading": "## 第6節 自己株式"},
+        {"page": "T2:188", "printed_page": "㉖-21", "source_region": "自己株式の取得及び保有、取得時仕訳、純資産の部での一括控除表示、構成要素配分説の数値例と現行処理の理由", "destination_heading": "## 第6節 自己株式"},
+        {"page": "T2:189", "printed_page": "㉖-22", "source_region": "自己株式の処分、処分差額の定義、処分差益の仕訳・経済的実態・その他資本剰余金への計上、処分差損の導入と仕訳", "destination_heading": "## 第6節 自己株式"},
+        {"page": "T2:190", "printed_page": "㉖-23", "source_region": "処分差損の分配性格、取得1,000・処分800の例、払込資本払戻しと利益配当の比較、その他資本剰余金からの減額、残高超過差損の補填例", "destination_heading": "## 第6節 自己株式"},
+        {"page": "T2:191", "printed_page": "㉖-24", "source_region": "その他資本剰余金を上回る処分差損の処理方法、負の残高を認めない理由、300の差損の正誤表示例、翌期に差益が生じた場合の処理", "destination_heading": "## 第6節 自己株式"},
+        {"page": "T2:192", "printed_page": "㉖-25", "source_region": "期中の処分差損補填の二方法、ケース1・ケース2の1,000/800/1,200数値比較、四半期決算での補填と年度決算の洗替処理", "destination_heading": "## 第6節 自己株式"},
+        {"page": "T2:193", "printed_page": "㉖-26", "source_region": "自己株式の消却、消却手続完了時の仕訳、その他資本剰余金が負となる場合の補填、取得から消却までの分配性格、払込資本払戻しと利益配当の比較", "destination_heading": "## 第6節 自己株式"},
+        {"page": "T2:194", "printed_page": "㉖-27", "source_region": "消却財源のその他資本剰余金優先の理由、消却会計処理の時点、付随費用の現行処理と国際的な別見解、帳簿価額800・処分1,000・手数料50の仕訳", "destination_heading": "## 第6節 自己株式"},
+        {"page": "T2:195", "printed_page": "㉖-28", "source_region": "付随費用を損益取引又は資本取引とする考え方、処分・消却時の帳簿価額算定、株式種類別計算方法、消却手続未完了自己株式の注記", "destination_heading": "## 第6節 自己株式"},
+        {"page": "T2:196", "printed_page": "㉖-29", "source_region": "自己株式の取得・処分の認識時点、金銭・非金銭対価、払込期日前の自己株式申込証拠金、契約時認識と支払・払込期日認識の比較", "destination_heading": "## 第6節 自己株式"},
+        {"page": "T2:197", "printed_page": "㉖-30", "source_region": "自己株式の無償取得の現行処理、仕訳なし・株数のみ増加、重要性がある場合の注記、株主間の富の移転の有利発行例と90株・10株の贈与例", "destination_heading": "## 第6節 自己株式"},
+        {"page": "T2:198", "printed_page": "㉖-31", "source_region": "無償取得を時価認識する別見解の三論拠と図解、現行の反論、取得原価の算定区分、自己株式と自己新株予約権の相違点一覧", "destination_heading": "## 第6節 自己株式"}
+      ]
+    },
+    {
+      "id": "JPG-T2-C010-S02",
+      "batch_id": "JPG-T2-C010",
+      "chapter": "26",
+      "section": "26.7",
+      "title": "第7節 貸借対照表の純資産の部の表示に関する会計基準",
+      "expected_pages": ["T2:199", "T2:200", "T2:201", "T2:202", "T2:203", "T2:204", "T2:205", "T2:206", "T2:207", "T2:208"],
+      "processing_pages": ["T2:199", "T2:200", "T2:201", "T2:202", "T2:203", "T2:204", "T2:205", "T2:206", "T2:207", "T2:208"],
+      "output": "chunks/JPG-T2-C010/JPG-T2-C010-S02.md",
+      "status": "pass",
+      "chunk_sha256": "9c165baf0c4365d2e54c43dd9c9e2c52ad905b9f56335d59453687ae8f755aab",
+      "locators": [
+        {"page": "T2:199", "printed_page": "㉖-32", "source_region": "第7節扉、基準公表日、純資産の部の定義、従来の連結資本の部と現行の連結純資産の部の区分、連結表示の補足", "destination_heading": "## 第7節 貸借対照表の純資産の部の表示に関する会計基準"},
+        {"page": "T2:200", "printed_page": "㉖-33", "source_region": "従来の個別資本の部と現行の個別純資産の部の区分、株主資本・資本剰余金・利益剰余金・評価換算差額等の表示", "destination_heading": "## 第7節 貸借対照表の純資産の部の表示に関する会計基準"},
+        {"page": "T2:201", "printed_page": "㉖-34", "source_region": "資本剰余金と利益剰余金を区分する理由、純資産の部の基本的考え方、資産－負債＝純資産、従来の新株予約権の負債表示と現行の純資産表示", "destination_heading": "## 第7節 貸借対照表の純資産の部の表示に関する会計基準"},
+        {"page": "T2:202", "printed_page": "㉖-35", "source_region": "資本の部から純資産の部への変遷、その他有価証券評価差額金による差異、資産性・負債性と純資産表示の関係図", "destination_heading": "## 第7節 貸借対照表の純資産の部の表示に関する会計基準"},
+        {"page": "T2:203", "printed_page": "㉖-36", "source_region": "株主資本の明確化、従来の資本の部に混在した項目、株主資本と株主資本以外を分ける現行の考え方と図解", "destination_heading": "## 第7節 貸借対照表の純資産の部の表示に関する会計基準"},
+        {"page": "T2:204", "printed_page": "㉖-37", "source_region": "株主資本に属する項目を明確化する理由、企業価値と将来CFの式、当期純利益の株主帰属、30の利益と20の評価差額の連携例", "destination_heading": "## 第7節 貸借対照表の純資産の部の表示に関する会計基準"},
+        {"page": "T2:205", "printed_page": "㉖-38", "source_region": "評価・換算差額等を株主資本に含めない論拠、役務収益150と評価益70の財務諸表例、株主資本変動と当期純利益の一致", "destination_heading": "## 第7節 貸借対照表の純資産の部の表示に関する会計基準"},
+        {"page": "T2:206", "printed_page": "㉖-39", "source_region": "非支配株主持分・新株予約権・繰延ヘッジ損益の新旧表示区分、繰延ヘッジ損益の表示理由、負債性に疑念のある項目の取扱い", "destination_heading": "## 第7節 貸借対照表の純資産の部の表示に関する会計基準"},
+        {"page": "T2:207", "printed_page": "㉖-40", "source_region": "その他の相違点、その他利益剰余金・繰越利益剰余金名称・その他資本剰余金内訳・自己株式申込証拠金の表示変更表", "destination_heading": "## 第7節 貸借対照表の純資産の部の表示に関する会計基準"},
+        {"page": "T2:208", "printed_page": "㉖-41", "source_region": "評価・換算差額等の表示と税効果、新株予約権・非支配株主持分の税効果、採用されなかった表示方法、一株当たり純資産額の注記", "destination_heading": "## 第7節 貸借対照表の純資産の部の表示に関する会計基準"}
+      ]
+    }
+  ],
+  "review": "reviews/JPG-T2-C010.json",
+  "excluded_pages": [],
+  "source_scope": {
+    "source_id": "T2",
+    "physical_range": "T2:186-T2:208",
+    "processing_range": "T2:186-T2:208",
+    "chapter": "26",
+    "title": "資本会計（会計基準論点）",
+    "content_authority": "designated existing JPGs only"
+  }
+}
