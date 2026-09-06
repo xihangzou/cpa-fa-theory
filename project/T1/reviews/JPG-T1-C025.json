@@ -1,0 +1,70 @@
+{
+  "batch_id": "JPG-T1-C025",
+  "source_id": "T1",
+  "status": "pass",
+  "reviewed_on": "2026-09-06",
+  "reviewer_model": "current execution model; no model switch",
+  "source_revision": {
+    "delivery_branch": "main",
+    "repository_commit": "e25416380e0396ce26f42ac93464c066f8719995",
+    "source_catalog": "contracts/source-catalog.json",
+    "source_catalog_sha256": "8358e9cffb068f63df0bdfcc8f99be035e66454ac8710d381f0ff9eb87728079",
+    "page_plan": "contracts/page-plan.json",
+    "page_plan_sha256": "997a7280b171df5803c2a3bb7c2ee8764082e01f3bdb03c194b9129fe18d26c9",
+    "source_manifest": "project/T1/sources.json",
+    "source_manifest_sha256": "760f946d08e1eebf2d79c189103ac2e627f0bb2569dcd80055885fb8b97324cd",
+    "source_map": "project/T1/source-map.json",
+    "source_map_sha256": "3ff42e94bd9f8751f8100c6ff251740a46f67182c468af620438c9768f14b961",
+    "batch_manifest": "project/T1/batches.json",
+    "batch_manifest_sha256": "125ff5fee8f8271b82c3258ced501ed4411b4071b930f08f1ed682e72c2628c4",
+    "inventory_review": "project/T1/inventory-review.json",
+    "inventory_review_sha256": "83e2c59f059ffdec53fcb8fb83a5f1300d5cca0722dcf031db0b459bd7ab8c19",
+    "pilot_qa": "project/T1/qa/pilot.json",
+    "pilot_qa_sha256": "cfd72bc97fc4ac0f8471bad6dc7b925085d1822ff606754b91f1b35f9b3ce694",
+    "source_original_root": "/Users/xihangzou/Study/320_CPA/322_財務理論/images/cpa-fa-theory-textbook-1-jpg",
+    "source_pdf": "/Users/xihangzou/Study/320_CPA/322_財務理論/01_テキスト/財務会計論テキスト　理論1.pdf",
+    "source_pdf_sha256": "c09d9d91ce39de787cab04e146719d95b638134399d57112802ffacfa67243f3",
+    "source_image_inventory_sha256": "331ad1ea2ca04d0636c2185b6ab1a8fe5240ebdd3f0c7c546c8703371d497929",
+    "edition": "2024/2025年合格目標",
+    "publication_date": "2023-01-23",
+    "physical_scope": "T1:327-T1:330",
+    "processing_scope": "T1:327-T1:330",
+    "content_authority": "designated existing JPGs only; PDF used only for identity/planning support"
+  },
+  "dependency_commits": [
+    "a2fb2bb829d112522128cdb145523302e9d1e7fd",
+    "1fd8a963ef32e09b5f3f08ecd7d5bb7cc2240a94",
+    "7507151c638a73a41fc13b9d4c4481c8888307e0"
+  ],
+  "source_images": [
+    {"page": "T1:327", "sha256": "cf9f805b087747bd2d717c34fd65b950e03b9433c8b0016d248f5454ca4d9243"},
+    {"page": "T1:328", "sha256": "a326bc6d22817f5687400efd4358d01b6d162584d8bfcc38b391fcfd03435bd2"},
+    {"page": "T1:329", "sha256": "8317cbb960cc97907dae715f0f85a8eb33e93d57bcc31e88d7de822fb130a46e"},
+    {"page": "T1:330", "sha256": "31fd689685650c02fee3214101ca401d7e7a1a24ab5f1c060819ec5a6acd8d80"}
+  ],
+  "section_outputs": [
+    {"task": "JPG-T1-C025-S01", "chunk": "project/T1/chunks/JPG-T1-C025/JPG-T1-C025-S01.md", "chunk_sha256": "bd593441ab3d9c72e015f99e3360d9360c8e57105a92daf6ec9ad26bce43c7da"}
+  ],
+  "coverage": [
+    {"page": "T1:327", "status": "pass", "regions": ["chapter title and chapter 17 identity", "short-answer and essay examination-history tables, including the single 20 II short-answer mark and blank essay row"]},
+    {"page": "T1:328", "status": "pass", "regions": ["section 1 title and short/essay rank", "former treatment comparison table for officer bonuses and officer remuneration", "current rule that officer bonuses are expenses of the accounting period in which they arise"]},
+    {"page": "T1:329", "status": "pass", "regions": ["expense-treatment rationale", "similarity between officer bonuses and officer remuneration, including fixed and performance-linked remuneration", "profit-growth and expense-treatment relationship diagram", "職務執行・利益獲得・役員賞与支給 relationship diagram and labor-compensation conclusion", "same-procedure point for bonus and remuneration payment"]},
+    {"page": "T1:330", "status": "pass", "regions": ["shareholders-meeting resolution condition and provision rule", "period-end and cash-payment journal entries", "subsidiary case where the liability is substantively certain", "200万 example and certainty rationale", "period-end and cash-payment journal entries using payable accounts"]}
+  ],
+  "findings": [
+    "All four designated processing JPGs were reopened at readable full resolution and compared with the single section chunk, including chapter/section banners, examination-history tables, side margins, boxed supplement text, timelines, arrows, speech callout, journal-entry rows and section boundaries.",
+    "The batch is contiguous T1:327-T1:330 and all four pages are inventory-approved include pages; no excluded-page reason is required.",
+    "Physical page T1:327 begins chapter 17 and the section continues from T1:328 through T1:330; the supplement on T1:330 is complete within the owned range.",
+    "The chunk preserves the distinction between former profit-distribution treatment and expense treatment, the current-period expense rule, both expense-treatment rationales, the resolution-dependent provision rule, the substantively certain subsidiary exception, both journal-entry pairs, and the 200万 example.",
+    "The diagrams are verbalized without inventing media: performance of duties leads to profit acquisition and bonus payment, with the source's stated relationship and labor-compensation conclusion; the period-end timelines and certainty distinction are retained.",
+    "The chunk contains no bold syntax, Cloze syntax, Front/Back fields, integration output or card output. No question/answer or false-proposition layout occurs in this theory batch; that specialized check is not applicable.",
+    "No unresolved marker remains and no correction was required after the image comparison."
+  ],
+  "corrections": [],
+  "checks": {
+    "numerical": "pass",
+    "diagram": "pass",
+    "false_proposition": "not_applicable"
+  },
+  "unresolved_count": 0
+}
