@@ -1,0 +1,764 @@
+{
+  "batch_id": "JPG-T2-C007",
+  "source_id": "T2",
+  "status": "pass",
+  "reviewed_on": "2026-09-06",
+  "reviewer_model": "GPT-5 (current execution model; no model switch)",
+  "source_revision": {
+    "delivery_branch": "main",
+    "repository_commit": "34db8aafb939b7304b2cb691ac87f7d92f35f911",
+    "source_catalog": "contracts/source-catalog.json",
+    "source_catalog_sha256": "8358e9cffb068f63df0bdfcc8f99be035e66454ac8710d381f0ff9eb87728079",
+    "page_plan": "contracts/page-plan.json",
+    "page_plan_sha256": "997a7280b171df5803c2a3bb7c2ee8764082e01f3bdb03c194b9129fe18d26c9",
+    "source_manifest": "project/T2/sources.json",
+    "source_manifest_sha256": "35cf038c8b38aa4d44abb1f9a9791db1f51f59e6bac41645e5df53c3b09e12b4",
+    "source_map": "project/T2/source-map.json",
+    "source_map_sha256": "de4c75bc119b6501ecb1871fccb717cb421c7790d365d0f1eb2ebd493d58ba44",
+    "batch_manifest": "project/T2/batches.json",
+    "batch_manifest_sha256": "959f880a026c8b1ca149f12f39fb954b06f86d5600eb0f8207c406139e9546e3",
+    "inventory_review": "project/T2/inventory-review.json",
+    "inventory_review_sha256": "b0f2b10e53d792d7ee563a24810b117c95a09599769fefc3d58138466e6f1384",
+    "source_original_root": "/Users/xihangzou/Study/320_CPA/322_財務理論/images/cpa-fa-theory-textbook-2-jpg",
+    "source_pdf": "/Users/xihangzou/Study/320_CPA/322_財務理論/01_テキスト/財務会計論テキスト　理論2.pdf",
+    "source_pdf_sha256": "ba4b33c8881021044b6360bfd10899f1b1f882bda3ccc7df3f1f895e9cc55ba5",
+    "source_image_inventory_sha256": "d577500ca271c7d4f0e8a1103b481e38e2494cc9c236d9fe954b35938a9a1c91",
+    "edition": "2024/2025年合格目標",
+    "publication_date": "2023-05-04",
+    "physical_scope": "T2:119-T2:142",
+    "processing_scope": "T2:119-T2:141",
+    "content_authority": "designated existing JPGs only; PDF used only for identity/planning support"
+  },
+  "dependency_commits": [
+    "a2fb2bb829d112522128cdb145523302e9d1e7fd",
+    "558bb1e92a2bd7e550af9c2034dc695efde6f19d",
+    "fb4082260d3af7598cb417c2dd83a82cd224dc6d"
+  ],
+  "source_images": [
+    {
+      "page": "T2:119",
+      "printed_page": "㉔-18",
+      "image": "pages/T2/page-119.jpg",
+      "sha256": "85251e58cfab8feab1baf764f948aaf04c9e5191f8427d5438d7eb8cdf2bd232"
+    },
+    {
+      "page": "T2:120",
+      "printed_page": "㉔-19",
+      "image": "pages/T2/page-120.jpg",
+      "sha256": "9d0efdf637107c914572ccbe4e0a58a1b283f0a2607208c8f9e9bc8c8a1ce55d"
+    },
+    {
+      "page": "T2:121",
+      "printed_page": "㉔-20",
+      "image": "pages/T2/page-121.jpg",
+      "sha256": "e18764092eeae3823b6bbbeb8b99bfa9ed0a2eab6c21b0edccf9ad83c1a81bd3"
+    },
+    {
+      "page": "T2:122",
+      "printed_page": "㉔-21",
+      "image": "pages/T2/page-122.jpg",
+      "sha256": "bc7969fc83a9646c8ea383bd972420a14b6344b92552699c0704bf9ec20806e0"
+    },
+    {
+      "page": "T2:123",
+      "printed_page": "㉔-22",
+      "image": "pages/T2/page-123.jpg",
+      "sha256": "df38e153867383dbf28a5bf11451ea51f69dd2bec1183a2ea523dd8a14317d67"
+    },
+    {
+      "page": "T2:124",
+      "printed_page": "㉔-23",
+      "image": "pages/T2/page-124.jpg",
+      "sha256": "c7cbcd877ffb29533ac90514c877170d4b4a56a8459cd0770e8cd90ff3c66636"
+    },
+    {
+      "page": "T2:125",
+      "printed_page": "㉔-24",
+      "image": "pages/T2/page-125.jpg",
+      "sha256": "cd4d588a827d8325b3f04e6ed3f81ce5fe46dc9c042064835b816a0d4cfd2be9"
+    },
+    {
+      "page": "T2:126",
+      "printed_page": "㉔-25",
+      "image": "pages/T2/page-126.jpg",
+      "sha256": "2a1d5dd0bb1add81eae9ad76b369d2fcdfc6d7af75adefa9557a9493ed0886d0"
+    },
+    {
+      "page": "T2:127",
+      "printed_page": "㉔-26",
+      "image": "pages/T2/page-127.jpg",
+      "sha256": "e24487164d3bf4232e90c6f057b8eaec8797bdaf2d5ea2e15279c98837632fd4"
+    },
+    {
+      "page": "T2:128",
+      "printed_page": "㉔-27",
+      "image": "pages/T2/page-128.jpg",
+      "sha256": "c0d93bd1b4d81a4c8774721418afabc479eae081b87276f83817ef10c3e4df76"
+    },
+    {
+      "page": "T2:129",
+      "printed_page": "㉔-28",
+      "image": "pages/T2/page-129.jpg",
+      "sha256": "11f5ed4fa0dc22e1ac5947a7985b5fc111dee1ca5723d55e2d88d27956aefe45"
+    },
+    {
+      "page": "T2:130",
+      "printed_page": "㉔-29",
+      "image": "pages/T2/page-130.jpg",
+      "sha256": "e10dd76ed582b4a65968c1470825a107f91072e65c9db48a0dda9b18280c3491"
+    },
+    {
+      "page": "T2:131",
+      "printed_page": "㉔-30",
+      "image": "pages/T2/page-131.jpg",
+      "sha256": "c67a84f75704c37d7b7b874f2ee1166549cf927904330273e07d8ad1a1f302f5"
+    },
+    {
+      "page": "T2:132",
+      "printed_page": "㉔-31",
+      "image": "pages/T2/page-132.jpg",
+      "sha256": "5af597d2e8dceb402f4efcb00cc2bd2310c5b9da1456c30e71c36d184360abd4"
+    },
+    {
+      "page": "T2:133",
+      "printed_page": "㉔-32",
+      "image": "pages/T2/page-133.jpg",
+      "sha256": "25cf0696bc9b4216f00c5485b67f4f501de91f3880393976605f8205c4d3af6e"
+    },
+    {
+      "page": "T2:134",
+      "printed_page": "㉔-33",
+      "image": "pages/T2/page-134.jpg",
+      "sha256": "ce8cecc077292c608af4ac318ecef074834ea6219018c6cb983183324930e737"
+    },
+    {
+      "page": "T2:135",
+      "printed_page": "㉔-34",
+      "image": "pages/T2/page-135.jpg",
+      "sha256": "5a237eab011d048fa35610c3d528a1f727784e9baafdad7f2955ae82e83690c2"
+    },
+    {
+      "page": "T2:136",
+      "printed_page": "㉔-35",
+      "image": "pages/T2/page-136.jpg",
+      "sha256": "3e9d3cbbccca51418016a795f68d018fd291f46d58eea17cb7dd38edf0d15c0e"
+    },
+    {
+      "page": "T2:137",
+      "printed_page": "㉔-36",
+      "image": "pages/T2/page-137.jpg",
+      "sha256": "182dbd2dd3a177309fc73eceb5aab7c329d25456e8a2456ebadd0505660052f9"
+    },
+    {
+      "page": "T2:138",
+      "printed_page": "㉔-37",
+      "image": "pages/T2/page-138.jpg",
+      "sha256": "0220239ff3bde49d666dee9108e735c54a091b2b0a47dacf34adf1ea8ee98791"
+    },
+    {
+      "page": "T2:139",
+      "printed_page": "㉔-38",
+      "image": "pages/T2/page-139.jpg",
+      "sha256": "558cf3320dfe607e3ffe1188bee7609006f3a9d912ca7d6845ceba78aebf92fe"
+    },
+    {
+      "page": "T2:140",
+      "printed_page": "㉔-39",
+      "image": "pages/T2/page-140.jpg",
+      "sha256": "97827a522b524b3f112e27efec9b8360a6602b1b1cda118d2cee7a20cc5bc74f"
+    },
+    {
+      "page": "T2:141",
+      "printed_page": "㉔-40",
+      "image": "pages/T2/page-141.jpg",
+      "sha256": "4bd61adbaae4ba2f87efde09d24ba0317b29d1fa1e76841079408f4ce4f3bc20"
+    }
+  ],
+  "section_outputs": [
+    {
+      "task": "JPG-T2-C007-S01",
+      "chunk": "project/T2/chunks/JPG-T2-C007/JPG-T2-C007-S01.md",
+      "chunk_sha256": "5972d8f150e9192bdfc1cb14f5db77aebd0d57d0966132b5e7b844106cd11428"
+    },
+    {
+      "task": "JPG-T2-C007-S02",
+      "chunk": "project/T2/chunks/JPG-T2-C007/JPG-T2-C007-S02.md",
+      "chunk_sha256": "7b638b2e09ff5d43f93aacec4e74fc40545f41edc964c0becff7b0ca610530de"
+    },
+    {
+      "task": "JPG-T2-C007-S03",
+      "chunk": "project/T2/chunks/JPG-T2-C007/JPG-T2-C007-S03.md",
+      "chunk_sha256": "8d24f181a2973d67d62b94d640d76da9a46e9e661d7ea18abf78b8c840af165c"
+    },
+    {
+      "task": "JPG-T2-C007-S04",
+      "chunk": "project/T2/chunks/JPG-T2-C007/JPG-T2-C007-S04.md",
+      "chunk_sha256": "626bbf2e84c95e0275e6d17119c0e64721b8bf0a5f7a3a5ee3b85ab33c6d6616"
+    },
+    {
+      "task": "JPG-T2-C007-S05",
+      "chunk": "project/T2/chunks/JPG-T2-C007/JPG-T2-C007-S05.md",
+      "chunk_sha256": "a07bb249d53ede493c1f3fd4fe27ffb18baa77c103f33a143144491df5e1e444"
+    },
+    {
+      "task": "JPG-T2-C007-S06",
+      "chunk": "project/T2/chunks/JPG-T2-C007/JPG-T2-C007-S06.md",
+      "chunk_sha256": "ee3652926627f4981647e7692e66b9e6751c54001eae303dbab0f45d5aeb56fd"
+    }
+  ],
+  "coverage": [
+    {
+      "page": "T2:119",
+      "status": "pass",
+      "regions": [
+        "第4節扉、数理計算上の差異の定義・未認識差異・分類①②・数値例"
+      ]
+    },
+    {
+      "page": "T2:120",
+      "status": "pass",
+      "regions": [
+        "計算基礎の定義・基礎率例・重要性基準と回廊アプローチ"
+      ]
+    },
+    {
+      "page": "T2:121",
+      "status": "pass",
+      "regions": [
+        "重要性基準と回廊アプローチの具体例・現行制度"
+      ]
+    },
+    {
+      "page": "T2:122",
+      "status": "pass",
+      "regions": [
+        "併用禁止・ベースアップ・重要性基準の具体的適用"
+      ]
+    },
+    {
+      "page": "T2:123",
+      "status": "pass",
+      "regions": [
+        "過去勤務費用の定義・規定改訂・給付水準引上げ図"
+      ]
+    },
+    {
+      "page": "T2:124",
+      "status": "pass",
+      "regions": [
+        "基本処理・遅延認識・2つの遅延認識理由"
+      ]
+    },
+    {
+      "page": "T2:125",
+      "status": "pass",
+      "regions": [
+        "B/S問題・1,200/1,700/200設例・定額法/定率法"
+      ]
+    },
+    {
+      "page": "T2:126",
+      "status": "pass",
+      "regions": [
+        "定額法と定率法の適用・処理年数・開始時期"
+      ]
+    },
+    {
+      "page": "T2:127",
+      "status": "pass",
+      "regions": [
+        "退職給付費用/引当金算定式・退職従業員・計上区分"
+      ]
+    },
+    {
+      "page": "T2:128",
+      "status": "pass",
+      "regions": [
+        "支払時費用項目・臨時割増退職金・2仕訳"
+      ]
+    },
+    {
+      "page": "T2:129",
+      "status": "pass",
+      "regions": [
+        "前払年金費用の式・借方残高・3原因"
+      ]
+    },
+    {
+      "page": "T2:130",
+      "status": "pass",
+      "regions": [
+        "複数制度の相殺禁止・別建表示・個別/連結科目"
+      ]
+    },
+    {
+      "page": "T2:131",
+      "status": "pass",
+      "regions": [
+        "確定拠出制度・要拠出額処理・注記・仕訳"
+      ]
+    },
+    {
+      "page": "T2:132",
+      "status": "pass",
+      "regions": [
+        "確定拠出制度の根拠・運用成果・DB/DC比較"
+      ]
+    },
+    {
+      "page": "T2:133",
+      "status": "pass",
+      "regions": [
+        "従業員拠出・600/440/160・1,150・800/160・990仕訳"
+      ]
+    },
+    {
+      "page": "T2:134",
+      "status": "pass",
+      "regions": [
+        "複数事業主制度・合理的算定・簡便法・300人基準"
+      ]
+    },
+    {
+      "page": "T2:135",
+      "status": "pass",
+      "regions": [
+        "VBO/ABO/PBO表・A/B/C関係・PBO批判"
+      ]
+    },
+    {
+      "page": "T2:136",
+      "status": "pass",
+      "regions": [
+        "退職給付債務の割引・時価評価・リース比較"
+      ]
+    },
+    {
+      "page": "T2:137",
+      "status": "pass",
+      "regions": [
+        "連結B/S処理・遅延認識なし・OCI・表示"
+      ]
+    },
+    {
+      "page": "T2:138",
+      "status": "pass",
+      "regions": [
+        "包括利益表示・△90・3処理の前提・個別仕訳"
+      ]
+    },
+    {
+      "page": "T2:139",
+      "status": "pass",
+      "regions": [
+        "連結組替調整・リサイクリング禁止仕訳・結論"
+      ]
+    },
+    {
+      "page": "T2:140",
+      "status": "pass",
+      "regions": [
+        "3処理の比較表・財務諸表図"
+      ]
+    },
+    {
+      "page": "T2:141",
+      "status": "pass",
+      "regions": [
+        "注記事項11項目・連結/個別の記載関係"
+      ]
+    }
+  ],
+  "page_fidelity_matrix": [
+    {
+      "pages": [
+        "T2:119"
+      ],
+      "chunk": "JPG-T2-C007-S01",
+      "sections": [
+        "第4節扉、数理計算上の差異の定義・未認識差異・分類①②・数値例"
+      ],
+      "positive": "定義、未認識差異、2分類及び全数値を保持",
+      "negative": "なし",
+      "result": "pass"
+    },
+    {
+      "pages": [
+        "T2:120"
+      ],
+      "chunk": "JPG-T2-C007-S01",
+      "sections": [
+        "計算基礎の定義・基礎率例・重要性基準と回廊アプローチ"
+      ],
+      "positive": "基礎率例、毎期見直しの前提、認識しない条件を保持",
+      "negative": "なし",
+      "result": "pass"
+    },
+    {
+      "pages": [
+        "T2:121"
+      ],
+      "chunk": "JPG-T2-C007-S01",
+      "sections": [
+        "重要性基準と回廊アプローチの具体例・現行制度"
+      ],
+      "positive": "4.9％/3.5％、10,000/10,900/13,500、3,500/2,500を保持",
+      "negative": "図表の矢印・回廊内外を文章と表で保持",
+      "result": "pass"
+    },
+    {
+      "pages": [
+        "T2:122"
+      ],
+      "chunk": "JPG-T2-C007-S01",
+      "sections": [
+        "併用禁止・ベースアップ・重要性基準の具体的適用"
+      ],
+      "positive": "併用の弊害、ベースアップの分類、10％判定と見直し条件を保持",
+      "negative": "なし",
+      "result": "pass"
+    },
+    {
+      "pages": [
+        "T2:123"
+      ],
+      "chunk": "JPG-T2-C007-S01",
+      "sections": [
+        "過去勤務費用の定義・規定改訂・給付水準引上げ図"
+      ],
+      "positive": "改訂前後の差額と発生時点の意味を保持",
+      "negative": "タイムライン図を因果関係として保持",
+      "result": "pass"
+    },
+    {
+      "pages": [
+        "T2:124"
+      ],
+      "chunk": "JPG-T2-C007-S01",
+      "sections": [
+        "基本処理・遅延認識・2つの遅延認識理由"
+      ],
+      "positive": "平均残存勤務期間、未認識項目、将来収益との対応を保持",
+      "negative": "因果矢印を文章で保持",
+      "result": "pass"
+    },
+    {
+      "pages": [
+        "T2:125"
+      ],
+      "chunk": "JPG-T2-C007-S01",
+      "sections": [
+        "B/S問題・1,200/1,700/200設例・定額法/定率法"
+      ],
+      "positive": "300と実際の500、定額/定率、概ね90％を保持",
+      "negative": "積立不足図を計算と説明で保持",
+      "result": "pass"
+    },
+    {
+      "pages": [
+        "T2:126"
+      ],
+      "chunk": "JPG-T2-C007-S01",
+      "sections": [
+        "定額法と定率法の適用・処理年数・開始時期"
+      ],
+      "positive": "選択適用、継続性、変更理由、別個設定、開始時期を保持",
+      "negative": "なし",
+      "result": "pass"
+    },
+    {
+      "pages": [
+        "T2:127"
+      ],
+      "chunk": "JPG-T2-C007-S01",
+      "sections": [
+        "退職給付費用/引当金算定式・退職従業員・計上区分"
+      ],
+      "positive": "2つの式、全額処理根拠、原則区分、特別損益を保持",
+      "negative": "なし",
+      "result": "pass"
+    },
+    {
+      "pages": [
+        "T2:128"
+      ],
+      "chunk": "JPG-T2-C007-S01",
+      "sections": [
+        "支払時費用項目・臨時割増退職金・2仕訳"
+      ],
+      "positive": "支払時処理の条件と発生主義/現金主義仕訳を保持",
+      "negative": "なし",
+      "result": "pass"
+    },
+    {
+      "pages": [
+        "T2:129"
+      ],
+      "chunk": "JPG-T2-C007-S02",
+      "sections": [
+        "前払年金費用の式・借方残高・3原因"
+      ],
+      "positive": "超過条件、資産計上、3原因を保持",
+      "negative": "超過部分の図を条件と説明で保持",
+      "result": "pass"
+    },
+    {
+      "pages": [
+        "T2:130"
+      ],
+      "chunk": "JPG-T2-C007-S02",
+      "sections": [
+        "複数制度の相殺禁止・別建表示・個別/連結科目"
+      ],
+      "positive": "制度別別建表示、固定区分、連結科目を保持",
+      "negative": "相殺不可の関係を文章で保持",
+      "result": "pass"
+    },
+    {
+      "pages": [
+        "T2:131"
+      ],
+      "chunk": "JPG-T2-C007-S03",
+      "sections": [
+        "確定拠出制度・要拠出額処理・注記・仕訳"
+      ],
+      "positive": "リスク分担、費用・注記・未払金・DB参考仕訳を保持",
+      "negative": "なし",
+      "result": "pass"
+    },
+    {
+      "pages": [
+        "T2:132"
+      ],
+      "chunk": "JPG-T2-C007-S03",
+      "sections": [
+        "確定拠出制度の根拠・運用成果・DB/DC比較"
+      ],
+      "positive": "引当金/前払年金費用なし、運用成果非処理、比較を保持",
+      "negative": "比較図を表で保持",
+      "result": "pass"
+    },
+    {
+      "pages": [
+        "T2:133"
+      ],
+      "chunk": "JPG-T2-C007-S03",
+      "sections": [
+        "従業員拠出・600/440/160・1,150・800/160・990仕訳"
+      ],
+      "positive": "控除順序、3段仕訳、全数値及び認識費用990を保持",
+      "negative": "なし",
+      "result": "pass"
+    },
+    {
+      "pages": [
+        "T2:134"
+      ],
+      "chunk": "JPG-T2-C007-S03",
+      "sections": [
+        "複数事業主制度・合理的算定・簡便法・300人基準"
+      ],
+      "positive": "合理的算定可否の分岐、全体積立状況注記、300人基準を保持",
+      "negative": "共同運用図を文章で保持",
+      "result": "pass"
+    },
+    {
+      "pages": [
+        "T2:135"
+      ],
+      "chunk": "JPG-T2-C007-S04",
+      "sections": [
+        "VBO/ABO/PBO表・A/B/C関係・PBO批判"
+      ],
+      "positive": "3概念の範囲、A/B/C式、現在債務批判を保持",
+      "negative": "関係図を式と文章で保持",
+      "result": "pass"
+    },
+    {
+      "pages": [
+        "T2:136"
+      ],
+      "chunk": "JPG-T2-C007-S04",
+      "sections": [
+        "退職給付債務の割引・時価評価・リース比較"
+      ],
+      "positive": "割引率/将来CFの見直し、安全性の高い債券、リース差を保持",
+      "negative": "なし",
+      "result": "pass"
+    },
+    {
+      "pages": [
+        "T2:137"
+      ],
+      "chunk": "JPG-T2-C007-S05",
+      "sections": [
+        "連結B/S処理・遅延認識なし・OCI・表示"
+      ],
+      "positive": "全額積立状況、税効果、OCIを通じた純資産を保持",
+      "negative": "未認識項目の別表示を保持",
+      "result": "pass"
+    },
+    {
+      "pages": [
+        "T2:138"
+      ],
+      "chunk": "JPG-T2-C007-S05",
+      "sections": [
+        "包括利益表示・△90・3処理の前提・個別仕訳"
+      ],
+      "positive": "当期未実現/過年度実現、差異600の5年定額、個別仕訳を保持",
+      "negative": "3処理の比較枠を文章で保持",
+      "result": "pass"
+    },
+    {
+      "pages": [
+        "T2:139"
+      ],
+      "chunk": "JPG-T2-C007-S05",
+      "sections": [
+        "連結組替調整・リサイクリング禁止仕訳・結論"
+      ],
+      "positive": "120/480/600、X2～X5の120及び帰結を保持",
+      "negative": "仕訳の借貸関係を保持",
+      "result": "pass"
+    },
+    {
+      "pages": [
+        "T2:140"
+      ],
+      "chunk": "JPG-T2-C007-S05",
+      "sections": [
+        "3処理の比較表・財務諸表図"
+      ],
+      "positive": "B/S・P/L・クリーン・サープラスの○×を一致",
+      "negative": "比較図を表と説明で保持",
+      "result": "pass"
+    },
+    {
+      "pages": [
+        "T2:141"
+      ],
+      "chunk": "JPG-T2-C007-S06",
+      "sections": [
+        "注記事項11項目・連結/個別の記載関係"
+      ],
+      "positive": "11項目、注記対象、連結/個別の省略条件を全て保持",
+      "negative": "なし",
+      "result": "pass"
+    }
+  ],
+  "numerical_checks": [
+    {
+      "pages": [
+        "T2:119"
+      ],
+      "check": "年金資産1,000、長期期待運用収益率5％、見積1,050、実績1,070、差異20及び割引率3％/2％・退職給付債務1,000/1,100・差額100を保持した。",
+      "result": "pass"
+    },
+    {
+      "pages": [
+        "T2:121"
+      ],
+      "check": "重要性基準の13,500－10,000＝3,500、回廊10％（9,000～11,000）を超過する13,500－11,000＝2,500を保持した。",
+      "result": "pass"
+    },
+    {
+      "pages": [
+        "T2:125"
+      ],
+      "check": "年金資産1,200、退職給付債務1,700、未認識差異200、遅延認識引当金300、実際の積立不足500を保持した。",
+      "result": "pass"
+    },
+    {
+      "pages": [
+        "T2:133"
+      ],
+      "check": "給与600、現金440、従業員預り金160、退職給付費用1,150、拠出800、企業負担640、従業員分160、認識費用990を保持した。",
+      "result": "pass"
+    },
+    {
+      "pages": [
+        "T2:138",
+        "T2:139",
+        "T2:140"
+      ],
+      "check": "差異600、5年定額の当期120、組替調整480、X2～X5の120及び比較表の○×を保持した。",
+      "result": "pass"
+    }
+  ],
+  "diagram_checks": [
+    {
+      "pages": [
+        "T2:121"
+      ],
+      "check": "重要性基準は差異全額、回廊アプローチは許容範囲内を認識せず超過分のみ認識する図の関係を保持した。",
+      "result": "pass"
+    },
+    {
+      "pages": [
+        "T2:123",
+        "T2:124"
+      ],
+      "check": "給付水準引上げから過去勤務費用・勤労意欲・将来収益・遅延認識に至る因果関係を保持した。",
+      "result": "pass"
+    },
+    {
+      "pages": [
+        "T2:125",
+        "T2:129",
+        "T2:130"
+      ],
+      "check": "積立不足/超過、前払年金費用、制度別相殺不可の図を計算・条件・別建表示として保持した。",
+      "result": "pass"
+    },
+    {
+      "pages": [
+        "T2:132",
+        "T2:134",
+        "T2:135"
+      ],
+      "check": "確定給付/確定拠出、複数事業主制度、VBO/ABO/PBOの比較・関係を表と式で保持した。",
+      "result": "pass"
+    },
+    {
+      "pages": [
+        "T2:137",
+        "T2:138",
+        "T2:139",
+        "T2:140"
+      ],
+      "check": "連結B/S・OCI・組替調整・リサイクリング禁止の仕訳と財務諸表間の関係を保持した。",
+      "result": "pass"
+    }
+  ],
+  "question_pair_checks": {
+    "status": "not_applicable",
+    "result": "This theory chapter contains no question-and-answer pair."
+  },
+  "findings": [
+    "All 23 included processing images T2:119-T2:141 were reopened at readable full-page resolution and compared against the six section chunks, including margins, sidebars, footers, tables, formulas, numerical examples, journal entries and diagram-only meaning.",
+    "T2:142 is the inventory-confirmed blank MEMO page and is excluded with the recorded reason; it has no learner content.",
+    "The batch is complete at T2:141: section 9 is fully contained on physical page 141, and no content is read beyond the processing scope.",
+    "The designated JPGs are the content authority; the PDF was used only for identity and transcription planning. No PDF-only content was added.",
+    "No question-and-answer pair occurs in this theory chapter."
+  ],
+  "corrections": [
+    "Normalized OCR/PDF spacing artifacts only; terminology, definitions, conditions, exceptions, tables, formulas, numerical examples, journal entries and diagram relationships were checked against the designated JPGs.",
+    "Converted diagram-only relationships into faithful prose and tables while retaining direction, comparisons, conditions and numerical labels.",
+    "Kept the physical-page exclusion T2:142 and section 9 boundary at T2:141; no sibling batch or shared record was changed."
+  ],
+  "excluded_pages": [
+    {
+      "page": "T2:142",
+      "printed_page": "㉔-41",
+      "reason": "【MEMO】の白紙ページ。画像確認により実質的な本文・図表なし。"
+    }
+  ],
+  "checks": {
+    "numerical": "pass",
+    "diagram": "pass",
+    "false_proposition": "not_applicable"
+  },
+  "unresolved_count": 0,
+  "semantic_boundary": "Structural/hash checks validate scope and consistency; semantic completeness is supported by the recorded page-by-page human image review. The designated JPGs are authoritative; the PDF was used only for identity/planning support."
+}
