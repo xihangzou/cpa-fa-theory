@@ -1,0 +1,72 @@
+{
+  "batch_id": "JPG-T1-C019",
+  "source_id": "T1",
+  "status": "pass",
+  "reviewed_on": "2026-09-06",
+  "reviewer_model": "GPT-5 current execution model; no model switch",
+  "source_revision": {
+    "delivery_branch": "main",
+    "repository_commit": "599897df2f52719c9da468833900f90fcac6694b",
+    "source_catalog": "contracts/source-catalog.json",
+    "source_catalog_sha256": "8358e9cffb068f63df0bdfcc8f99be035e66454ac8710d381f0ff9eb87728079",
+    "page_plan": "contracts/page-plan.json",
+    "page_plan_sha256": "997a7280b171df5803c2a3bb7c2ee8764082e01f3bdb03c194b9129fe18d26c9",
+    "source_manifest": "project/T1/sources.json",
+    "source_manifest_sha256": "760f946d08e1eebf2d79c189103ac2e627f0bb2569dcd80055885fb8b97324cd",
+    "source_map": "project/T1/source-map.json",
+    "source_map_sha256": "3ff42e94bd9f8751f8100c6ff251740a46f67182c468af620438c9768f14b961",
+    "batch_manifest": "project/T1/batches.json",
+    "batch_manifest_sha256": "125ff5fee8f8271b82c3258ced501ed4411b4071b930f08f1ed682e72c2628c4",
+    "inventory_review": "project/T1/inventory-review.json",
+    "inventory_review_sha256": "83e2c59f059ffdec53fcb8fb83a5f1300d5cca0722dcf031db0b459bd7ab8c19",
+    "pilot_qa": "project/T1/qa/pilot.json",
+    "pilot_qa_sha256": "cfd72bc97fc4ac0f8471bad6dc7b925085d1822ff606754b91f1b35f9b3ce694",
+    "source_original_root": "/Users/xihangzou/Study/320_CPA/322_財務理論/images/cpa-fa-theory-textbook-1-jpg",
+    "source_pdf": "/Users/xihangzou/Study/320_CPA/322_財務理論/01_テキスト/財務会計論テキスト　理論1.pdf",
+    "source_pdf_sha256": "c09d9d91ce39de787cab04e146719d95b638134399d57112802ffacfa67243f3",
+    "source_image_inventory_sha256": "331ad1ea2ca04d0636c2185b6ab1a8fe5240ebdd3f0c7c546c8703371d497929",
+    "edition": "2024/2025年合格目標",
+    "publication_date": "2023-01-23",
+    "physical_scope": "T1:272-T1:276",
+    "processing_scope": "T1:272-T1:276",
+    "content_authority": "designated existing JPGs only; PDF used only for identity/planning support"
+  },
+  "dependency_commits": [
+    "a2fb2bb829d112522128cdb145523302e9d1e7fd",
+    "1fd8a963ef32e09b5f3f08ecd7d5bb7cc2240a94",
+    "393dc82a64791eb452ea64ccb8cbfc55212718ef",
+    "7507151c638a73a41fc13b9d4c4481c8888307e0"
+  ],
+  "source_images": [
+    {"page": "T1:272", "printed_page": "⑫－53", "image": "pages/T1/page-272.jpg", "sha256": "8ecdc5174a3cde0749a7539e8dd185d8aac261820dba988e7c518e56412d8316"},
+    {"page": "T1:273", "printed_page": "⑫－54", "image": "pages/T1/page-273.jpg", "sha256": "9439f7d8c154f5f175c9ed81c42593fa9c5b05e6e6f3e395efaa57c26aa6dea8"},
+    {"page": "T1:274", "printed_page": "⑫－55", "image": "pages/T1/page-274.jpg", "sha256": "865763636bd8787ad1a96f06cb59de2b1145b40b5120fa949a36a209d9f56e14"},
+    {"page": "T1:275", "printed_page": "⑫－56", "image": "pages/T1/page-275.jpg", "sha256": "cae63ba8b264edc47c493a8cb8677ccae203230adff484f9818181bae4d752fb"},
+    {"page": "T1:276", "printed_page": "⑫－57", "image": "pages/T1/page-276.jpg", "sha256": "2c4bd0281205c57bc883a0112dc4def18eef98d52f041f3f1f9d367ef53f7ccf"}
+  ],
+  "section_outputs": [
+    {"task": "JPG-T1-C019-S01", "chunk": "project/T1/chunks/JPG-T1-C019/JPG-T1-C019-S01.md", "chunk_sha256": "a81ecd4a978113c0cfb1baf486eadf3574642bc390e72d113457a30785689e5c"}
+  ],
+  "coverage": [
+    {"page": "T1:272", "status": "pass", "regions": ["chapter title and page identity", "exchange-based revenue supplement", "different-business-risk securities example and journal entries", "same-business-risk factory example and book-value journal entry", "margins and footer"], "findings": "The condition for release from investment risk, both exchange cases, 800/1,000 amounts, revenue recognition distinction, journal entries and diagram meaning were retained."},
+    {"page": "T1:273", "status": "pass", "regions": ["section 5 header", "market-price revenue definition and judgment criterion", "100円→110円→115円 sale/reinvestment diagram", "market-price revenue amount", "partial-contract-performance definition", "720 interest example, 5/12 calculation and closing entry", "margins and footer"], "findings": "The market-price and partial-performance methods, recognition timing, two 10円/5円 increments, 720×5/12=300 calculation, contract-performance distinction and entry were retained."},
+    {"page": "T1:274", "status": "pass", "regions": ["partial-performance recognition-timing supplement", "time-elapsed investment-risk explanation", "前受収益 supplement", "600 prepaid-interest example and 2/12 calculation", "investee-performance method definition, criterion and amount", "margins and footer"], "findings": "The time-certainty rationale, prepaid-revenue boundary, 600×2/12=100 calculation, debit/credit entry, investee unity condition and net-profit×ownership formula were retained."},
+    {"page": "T1:275", "status": "pass", "regions": ["investee-performance recognition-timing supplement", "associate-share/持分法 example", "risk-release and unity explanation", "consolidated-financial-statements relationship diagram", "current-system same-period note", "margins and footer"], "findings": "The associate example, group perspective, two risk-release points, substantive-investor-business diagram meaning and same-period equity-method-profit note were retained."},
+    {"page": "T1:276", "status": "pass", "regions": ["chapter title and section 5 header", "7.費用の測定 four-method table", "利用の事実に着目した費用の測定 definition and application", "asset-value/deferred-asset flow diagram", "費用配分 supplement", "future-estimate revision and 臨時償却費", "margins and footer"], "findings": "All four expense-measurement methods, examples, the expense-specific utilization method, ordinary/deferred-asset flows, allocation definition, estimation requirements and revision consequence were retained."}
+  ],
+  "findings": [
+    "All five designated processing JPGs were reopened at readable full resolution and compared with the section chunk, including margins, boxed supplements, table rows, arrows/diagrams, numerical examples, journal entries, conditions, exceptions and the section continuation boundary.",
+    "The batch begins with a bounded continuation of section 5's revenue-measurement topic and closes with topic 7 expense measurement; no content outside physical pages 272-276 was used to fill a source gap.",
+    "The source chunk contains no bold syntax, Cloze syntax, Front/Back fields, integration output or card output.",
+    "No question-and-answer or false-proposition layout is present in this theory source; that specialized check is not applicable.",
+    "No excluded page is present in this batch; the batch manifest records all five pages as included.",
+    "No unresolved marker remains and no correction was required after image comparison."
+  ],
+  "corrections": [],
+  "checks": {
+    "numerical": "pass",
+    "diagram": "pass",
+    "false_proposition": "not_applicable"
+  },
+  "unresolved_count": 0
+}

@@ -1,0 +1,36 @@
+{
+  "batch_id": "JPG-T1-C019",
+  "source_id": "T1",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-T1-C019-S01",
+      "batch_id": "JPG-T1-C019",
+      "chapter": "12",
+      "section": "12.5",
+      "title": "第5節 財務諸表における認識と測定",
+      "expected_pages": ["T1:272", "T1:273", "T1:274", "T1:275", "T1:276"],
+      "processing_pages": ["T1:272", "T1:273", "T1:274", "T1:275", "T1:276"],
+      "output": "chunks/JPG-T1-C019/JPG-T1-C019-S01.md",
+      "status": "pass",
+      "chunk_sha256": "a81ecd4a978113c0cfb1baf486eadf3574642bc390e72d113457a30785689e5c",
+      "locators": [
+        {"page": "T1:272", "printed_page": "⑫－53", "source_region": "交換に着目した収益の認識時点の補足、別事業リスクの有価証券との交換例、同一事業リスクの工場交換例、仕訳と評価額", "destination_heading": "## 第5節 財務諸表における認識と測定"},
+        {"page": "T1:273", "printed_page": "⑫－54", "source_region": "市場価格の変動に着目した収益の測定、100円から110円・115円への再投資図、部分的履行の定義、720×5か月／12か月＝300の貸付利息例", "destination_heading": "## 第5節 財務諸表における認識と測定"},
+        {"page": "T1:274", "printed_page": "⑫－55", "source_region": "契約の部分的履行に伴う投資リスク解放の補足、前受収益の定義・貸付例、600×2か月／12か月＝100、被投資企業成果に着目した収益の測定", "destination_heading": "## 第5節 財務諸表における認識と測定"},
+        {"page": "T1:275", "printed_page": "⑫－56", "source_region": "関連会社株式への持分法適用例、関連会社と投資企業の一体性、収益認識時点の図、現行制度上の同時認識注記", "destination_heading": "## 第5節 財務諸表における認識と測定"},
+        {"page": "T1:276", "printed_page": "⑫－57", "source_region": "7.費用の測定の4分類表、利用の事実に着目した測定、通常資産・繰延資産の処理図、費用配分と見積り改訂", "destination_heading": "## 第5節 財務諸表における認識と測定"}
+      ]
+    }
+  ],
+  "review": "reviews/JPG-T1-C019.json",
+  "excluded_pages": [],
+  "source_scope": {
+    "source_id": "T1",
+    "physical_range": "T1:272-T1:276",
+    "processing_range": "T1:272-T1:276",
+    "chapter": "12",
+    "title": "財務会計の概念フレームワーク",
+    "content_authority": "designated existing JPGs only"
+  }
+}
