@@ -1,0 +1,89 @@
+{
+  "batch_id": "JPG-T1-C006",
+  "source_id": "T1",
+  "status": "pass",
+  "reviewed_on": "2026-09-06",
+  "source_revision": {
+    "source_root": "/Users/xihangzou/Study/320_CPA/322_財務理論/images/cpa-fa-theory-textbook-1-jpg",
+    "edition": "2024/2025年合格目標",
+    "publication_date": "2023-01-23",
+    "scope": "T1:077-T1:097",
+    "processing_page_count": 21,
+    "excluded_pages": [],
+    "pdf_sha256": "c09d9d91ce39de787cab04e146719d95b638134399d57112802ffacfa67243f3"
+  },
+  "source_images": [
+    {"page": "T1:077", "sha256": "7f062c5fba125dfedff8d67ad0a42c000606d71299cb5f2cfcb7eda326eedf4c"},
+    {"page": "T1:078", "sha256": "0b140a54ff5a6099bd4466a04320c63b2e1efa206cfcd38d089f0909f51401b2"},
+    {"page": "T1:079", "sha256": "005420c945bfd5527cb3ef1b4a80bc787f8d73f79094e7fad18c26870ab21471"},
+    {"page": "T1:080", "sha256": "2409fc2a8bd214009a5ddcde4f9b51d533460d14202a62849c3958627ffd5359"},
+    {"page": "T1:081", "sha256": "fb4f9e3c860be965110938c9736f47bc4eabaa1028dbecf88be678ac8e57a8d7"},
+    {"page": "T1:082", "sha256": "e71d9e65d3d0006fb81227b6d97989b1ddb4a1941459780c805d1c7577654d50"},
+    {"page": "T1:083", "sha256": "67302719054a79be42f523d6af5d3ae597034c4e0c9b957d6bcfafd6347710f9"},
+    {"page": "T1:084", "sha256": "f5be2e7dd621eda0c45979bafe61bc1375b80d1305fe8ec555102c83673fbca0"},
+    {"page": "T1:085", "sha256": "100f14ae57981b35381dcbf012cd4829cbd618495c1d11894bcdfebd67771ec9"},
+    {"page": "T1:086", "sha256": "46e07c74a81900c1f6cf483ba91a9ffd48ed77f6c65020baaf3de2fbc5bdff76"},
+    {"page": "T1:087", "sha256": "e1dffd3de074bb3bb075dc604c6f93b4d28f1fa1ebd91da2a62cb065df726ea3"},
+    {"page": "T1:088", "sha256": "42ca8da4e28762ab742462cebaa3a99eb0043d61bc927bb2ec072d1df5fbfa4c"},
+    {"page": "T1:089", "sha256": "10c6a2757ef0e63713cbc7302ee8a0c3e55d1543e8f7bca07b86f8c43547f048"},
+    {"page": "T1:090", "sha256": "b96c8e824a0092df66693f851c287d07fca74b554e391e33f5b4984b490dc812"},
+    {"page": "T1:091", "sha256": "784adb934f67f54afe4bdb3bf38c41220aae7648c24b987e78fb1e2b08468c3f"},
+    {"page": "T1:092", "sha256": "6f6bea77e64ae96dcf3afc77408e0f2d11ba5f38687617fa4aca43e597925364"},
+    {"page": "T1:093", "sha256": "d8e62930642f4052387a4a5af260cccb6b220bd7a282c27e54e7051dbf38b3b4"},
+    {"page": "T1:094", "sha256": "28c73119ccc2304b8bf8ae34a3b6011c481d646c713a88ab9c6e5d05f2a1551c"},
+    {"page": "T1:095", "sha256": "ce4aea99631c20bc3daf7926e51404c3a747660dd28b3d78ac6700ca8508ecf4"},
+    {"page": "T1:096", "sha256": "57ac471bfd22fd502ff0f01a15a1b799e4e1f80ed20bdc95f19df0f1b477ea1f"},
+    {"page": "T1:097", "sha256": "a4fadadf7d101d93918186bd86b5d32c19da20ffe4d0b290cfaa43e50ebc0ef9"}
+  ],
+  "section_outputs": [
+    {"task": "JPG-T1-C006-S01", "chunk_sha256": "4a1d0e57f8d64160ab7c4516afc13f80948d4837bdad55782ddc3cfd2787a158"},
+    {"task": "JPG-T1-C006-S02", "chunk_sha256": "fc1bbc725a145b93fadf0d3b8c90255ce40965dff895254aa4e047136950a239"},
+    {"task": "JPG-T1-C006-S03", "chunk_sha256": "08d8edb3c5f817c5e71c03636967c3cb406b5c6ca2c0ab8fbc74194817fa09aa"},
+    {"task": "JPG-T1-C006-S04", "chunk_sha256": "bed1cd73dc07fc90a039f76728e1ebae1d1f829855e6f055764d6d3d49350db2"},
+    {"task": "JPG-T1-C006-S05", "chunk_sha256": "a17936372ae896b3c8846c16371ee10bb34ba2f5d5d0384b827b014ac1c6f087"},
+    {"task": "JPG-T1-C006-S06", "chunk_sha256": "9f174169dfc305545636a68c90c380aa0f799366807a333d466b6ff8c34945c0"}
+  ],
+  "coverage": [
+    {"page": "T1:077", "regions": ["chapter title and short-answer/essay exam-history tables"], "status": "pass"},
+    {"page": "T1:078", "regions": ["section title; classification diagram; regulation box; recognition/measurement introduction"], "status": "pass"},
+    {"page": "T1:079", "regions": ["cash-basis definition; 400/250/350 example; strengths; objectivity/certainty table"], "status": "pass"},
+    {"page": "T1:080", "regions": ["cash-basis weaknesses; credit economy; fixed assets; accrual-basis definition and value-change concept"], "status": "pass"},
+    {"page": "T1:081", "regions": ["current-system accrual-basis diagram; accrual-basis structure"], "status": "pass"},
+    {"page": "T1:082", "regions": ["cash-flow-amount basis definition; past/current/future table; objectivity and reliability; distributable-profit introduction"], "status": "pass"},
+    {"page": "T1:083", "regions": ["1,000/500/700 capital-recovery diagram; non-cash-basis counterexample; matching principle diagram and totals"], "status": "pass"},
+    {"page": "T1:084", "regions": ["realization requirements; advantages/disadvantage; construction-progress diagram"], "status": "pass"},
+    {"page": "T1:085", "regions": ["cash-backed profit; 1,000/500/700 example; expected-receivable dividend and capital-consumption diagram"], "status": "pass"},
+    {"page": "T1:086", "regions": ["recovery-surplus comparison; enterprise-accounting-principles regulation and interpretation"], "status": "pass"},
+    {"page": "T1:087", "regions": ["accrual-basis pros/cons; unrealized-profit definition; enterprise-accounting-principles limitation; cash-basis pros/cons"], "status": "pass"},
+    {"page": "T1:088", "regions": ["recognition-history table; continuous-service unearned-revenue definition; 12,000/2,000 example and journal entry"], "status": "pass"},
+    {"page": "T1:089", "regions": ["four deferral/accrual items; balance-sheet classification; long-term unearned-revenue exception"], "status": "pass"},
+    {"page": "T1:090", "regions": ["internal-profit definition/removal; transfer gain distinction; independent versus same accounting-unit diagram"], "status": "pass"},
+    {"page": "T1:091", "regions": ["expense-occurrence meanings; repair provision; occurrence expense versus period expense"], "status": "pass"},
+    {"page": "T1:092", "regions": ["material 100 units at 10 yen; 1,000 occurrence expense; 700 period expense; inventory balances; matching-principle structure"], "status": "pass"},
+    {"page": "T1:093", "regions": ["direct/individual and indirect/period matching; 1-million-yen advertising example; P/L correspondence summary"], "status": "pass"},
+    {"page": "T1:094", "regions": ["formal matching principle; causal and homogeneity correspondence table; P/L display diagram"], "status": "pass"},
+    {"page": "T1:095", "regions": ["distributability/scaleability comparison; fire-loss example; 1,000 less 200 equals 800"], "status": "pass"},
+    {"page": "T1:096", "regions": ["current-performance versus comprehensive-income comparison; P/L display examples"], "status": "pass"},
+    {"page": "T1:097", "regions": ["short/long earning power; consistency principle; earnings-management example; comprehensive-income comparison"], "status": "pass"}
+  ],
+  "findings": [
+    "All 21 included images were reopened at readable resolution; no missing, illegible, or out-of-order page was found.",
+    "All definitions, distinctions, conditions, exceptions, timing rules, numerical examples, journal entries, tables, and diagram meanings were represented in the six section chunks.",
+    "Page 090 is the continuation of section 04.4 and is fully represented there; page 091 begins section 04.5. Shared physical-page ownership was not duplicated across batches.",
+    "The theory source has no question/answer or false-proposition layout; false-proposition review is not applicable.",
+    "No web, other textbook, current-standard update, or general-knowledge supplementation was used; the PDF text extraction was used only as a transcription aid and checked against the designated images."
+  ],
+  "corrections": [],
+  "checks": {
+    "numerical": "pass",
+    "diagram": "pass",
+    "false_proposition": "not_applicable"
+  },
+  "unresolved_count": 0,
+  "reviewer_model": "GPT-5 current session; no worker or model switch",
+  "dependency_commits": [
+    "a2fb2bb829d112522128cdb145523302e9d1e7fd",
+    "1fd8a963ef32e09b5f3f08ecd7d5bb7cc2240a94",
+    "7507151c638a73a41fc13b9d4c4481c8888307e0"
+  ]
+}

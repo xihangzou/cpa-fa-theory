@@ -1,0 +1,113 @@
+{
+  "batch_id": "JPG-T1-C006",
+  "source_id": "T1",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-T1-C006-S01",
+      "batch_id": "JPG-T1-C006",
+      "chapter": "04",
+      "section": "04.1",
+      "title": "第1節 収益と費用",
+      "expected_pages": ["T1:077", "T1:078"],
+      "processing_pages": ["T1:077", "T1:078"],
+      "output": "chunks/JPG-T1-C006/JPG-T1-C006-S01.md",
+      "status": "pass",
+      "chunk_sha256": "4a1d0e57f8d64160ab7c4516afc13f80948d4837bdad55782ddc3cfd2787a158",
+      "locators": [
+        {"page": "T1:077", "printed_page": null, "source_region": "第4章章扉、短答式・論文式の出題実績表", "destination_heading": "## 第1節 収益と費用"},
+        {"page": "T1:078", "printed_page": "④－1", "source_region": "第1節扉、収益・費用の分類図、企業会計原則の規定、認識と測定の導入", "destination_heading": "## 第1節 収益と費用"}
+      ]
+    },
+    {
+      "id": "JPG-T1-C006-S02",
+      "batch_id": "JPG-T1-C006",
+      "chapter": "04",
+      "section": "04.2",
+      "title": "第2節 現金主義会計と発生主義会計（収益・費用の認識基準）",
+      "expected_pages": ["T1:079", "T1:080", "T1:081"],
+      "processing_pages": ["T1:079", "T1:080", "T1:081"],
+      "output": "chunks/JPG-T1-C006/JPG-T1-C006-S02.md",
+      "status": "pass",
+      "chunk_sha256": "fc1bbc725a145b93fadf0d3b8c90255ce40965dff895254aa4e047136950a239",
+      "locators": [
+        {"page": "T1:079", "printed_page": "④－2", "source_region": "第2節扉、現金主義会計の定義・具体例・長所、客観性と確実性の表", "destination_heading": "## 第2節 現金主義会計と発生主義会計（収益・費用の認識基準）"},
+        {"page": "T1:080", "printed_page": "④－3", "source_region": "現金主義会計の短所、信用経済・固定資産の増加、発生主義会計の定義と発生の概念", "destination_heading": "## 第2節 現金主義会計と発生主義会計（収益・費用の認識基準）"},
+        {"page": "T1:081", "printed_page": "④－4", "source_region": "現行制度における発生主義会計の適用、収益・費用の認識図、発生主義会計の構造", "destination_heading": "## 第2節 現金主義会計と発生主義会計（収益・費用の認識基準）"}
+      ]
+    },
+    {
+      "id": "JPG-T1-C006-S03",
+      "batch_id": "JPG-T1-C006",
+      "chapter": "04",
+      "section": "04.3",
+      "title": "第3節 収益・費用の測定基準",
+      "expected_pages": ["T1:082", "T1:083"],
+      "processing_pages": ["T1:082", "T1:083"],
+      "output": "chunks/JPG-T1-C006/JPG-T1-C006-S03.md",
+      "status": "pass",
+      "chunk_sha256": "08d8edb3c5f817c5e71c03636967c3cb406b5c6ca2c0ab8fbc74194817fa09aa",
+      "locators": [
+        {"page": "T1:082", "printed_page": "④－5", "source_region": "第3節扉、収支額基準の定義、現在・過去・将来の収支額表、分配可能利益の説明", "destination_heading": "## 第3節 収益・費用の測定基準"},
+        {"page": "T1:083", "printed_page": "④－6", "source_region": "投下資本1,000・商品500・販売700の図、収支額基準によらない場合、一致の原則の図と数値例", "destination_heading": "## 第3節 収益・費用の測定基準"}
+      ]
+    },
+    {
+      "id": "JPG-T1-C006-S04",
+      "batch_id": "JPG-T1-C006",
+      "chapter": "04",
+      "section": "04.4",
+      "title": "第4節 収益の認識基準",
+      "expected_pages": ["T1:084", "T1:085", "T1:086", "T1:087", "T1:088", "T1:089", "T1:090"],
+      "processing_pages": ["T1:084", "T1:085", "T1:086", "T1:087", "T1:088", "T1:089", "T1:090"],
+      "output": "chunks/JPG-T1-C006/JPG-T1-C006-S04.md",
+      "status": "pass",
+      "chunk_sha256": "bed1cd73dc07fc90a039f76728e1ebae1d1f829855e6f055764d6d3d49350db2",
+      "locators": [
+        {"page": "T1:084", "printed_page": "④－7", "source_region": "第4節扉、実現主義の意義・2要件、長所短所、建物建設の形成過程図", "destination_heading": "## 第4節 収益の認識基準"},
+        {"page": "T1:085", "printed_page": "④－8", "source_region": "資金的裏付けのある利益、投下資本1,000・商品500・販売700、予想債権200の配当・資本食いつぶし図", "destination_heading": "## 第4節 収益の認識基準"},
+        {"page": "T1:086", "printed_page": "④－9", "source_region": "投下資本の回収余剰、実現主義と発生主義の比較、企業会計原則の規定と意味", "destination_heading": "## 第4節 収益の認識基準"},
+        {"page": "T1:087", "printed_page": "④－10", "source_region": "発生主義の意義・長所短所、未収収益、現金主義の意義・長所短所", "destination_heading": "## 第4節 収益の認識基準"},
+        {"page": "T1:088", "printed_page": "④－11", "source_region": "収益認識の考え方の変遷、継続的役務提供契約・未収収益の定義、家賃2,000の仕訳", "destination_heading": "## 第4節 収益の認識基準"},
+        {"page": "T1:089", "printed_page": "④－12", "source_region": "経過勘定項目の企業会計原則規定、未収収益・前払費用・未払費用・前受収益の定義と表示区分", "destination_heading": "## 第4節 収益の認識基準"},
+        {"page": "T1:090", "printed_page": "④－13", "source_region": "内部利益の定義・除去方法、内部利益と振替損益の相違、独立会計単位と同一会計単位の図", "destination_heading": "## 第4節 収益の認識基準"}
+      ]
+    },
+    {
+      "id": "JPG-T1-C006-S05",
+      "batch_id": "JPG-T1-C006",
+      "chapter": "04",
+      "section": "04.5",
+      "title": "第5節 費用の認識基準",
+      "expected_pages": ["T1:091", "T1:092", "T1:093", "T1:094"],
+      "processing_pages": ["T1:091", "T1:092", "T1:093", "T1:094"],
+      "output": "chunks/JPG-T1-C006/JPG-T1-C006-S05.md",
+      "status": "pass",
+      "chunk_sha256": "a17936372ae896b3c8846c16371ee10bb34ba2f5d5d0384b827b014ac1c6f087",
+      "locators": [
+        {"page": "T1:091", "printed_page": "④－14", "source_region": "第5節扉、費用認識における発生の2つの意味、修繕引当金、発生費用と期間費用", "destination_heading": "## 第5節 費用の認識基準"},
+        {"page": "T1:092", "printed_page": "④－15", "source_region": "材料100個・1個10円の発生費用1,000円、仕掛品・製品・売上原価700円の図、費用収益対応の実質的意義", "destination_heading": "## 第5節 費用の認識基準"},
+        {"page": "T1:093", "printed_page": "④－16", "source_region": "費用収益対応の個別的対応・期間的対応、売上高・売上原価と広告宣伝費100万円の例", "destination_heading": "## 第5節 費用の認識基準"},
+        {"page": "T1:094", "printed_page": "④－17", "source_region": "形式的意義、企業会計原則の規定、因果関係・同質性に基づく対応表示、損益計算書の対応表示図", "destination_heading": "## 第5節 費用の認識基準"}
+      ]
+    },
+    {
+      "id": "JPG-T1-C006-S06",
+      "batch_id": "JPG-T1-C006",
+      "chapter": "04",
+      "section": "04.6",
+      "title": "第6節 利益の特質及び当期業績主義／包括主義",
+      "expected_pages": ["T1:095", "T1:096", "T1:097"],
+      "processing_pages": ["T1:095", "T1:096", "T1:097"],
+      "output": "chunks/JPG-T1-C006/JPG-T1-C006-S06.md",
+      "status": "pass",
+      "chunk_sha256": "9f174169dfc305545636a68c90c380aa0f799366807a333d466b6ff8c34945c0",
+      "locators": [
+        {"page": "T1:095", "printed_page": "④－18", "source_region": "第6節扉、分配可能性・尺度性の比較表、火災損失200と当期純利益800の例", "destination_heading": "## 第6節 利益の特質及び当期業績主義／包括主義"},
+        {"page": "T1:096", "printed_page": "④－19", "source_region": "当期業績主義・包括主義の定義比較表、損益計算書の表示例", "destination_heading": "## 第6節 利益の特質及び当期業績主義／包括主義"},
+        {"page": "T1:097", "printed_page": "④－20", "source_region": "短期的・長期的な収益力、一致の原則との関係、当期業績主義の利益操作例と包括主義の比較", "destination_heading": "## 第6節 利益の特質及び当期業績主義／包括主義"}
+      ]
+    }
+  ],
+  "review": "reviews/JPG-T1-C006.json"
+}
