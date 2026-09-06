@@ -1,0 +1,82 @@
+{
+  "batch_id": "JPG-T3-C011",
+  "source_id": "T3",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-T3-C011-S01",
+      "batch_id": "JPG-T3-C011",
+      "chapter": "37",
+      "section": "37.1",
+      "title": "第1節 包括利益に関する基本事項",
+      "expected_pages": ["T3:203", "T3:204", "T3:205", "T3:206", "T3:207", "T3:208", "T3:209"],
+      "processing_pages": ["T3:203", "T3:204", "T3:205", "T3:206", "T3:207", "T3:208", "T3:209"],
+      "output": "chunks/JPG-T3-C011/JPG-T3-C011-S01.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T3:203", "printed_page": null, "source_region": "第37章タイトル、財務計算テキスト5との対応及び短答式・論文式の出題実績表", "destination_heading": "## 第1節 包括利益に関する基本事項"},
+        {"page": "T3:204", "printed_page": "㊲－1", "source_region": "第1節見出し、包括利益の定義、純資産変動の図、直接取引の区分及び概念フレームワーク等の補足", "destination_heading": "## 第1節 包括利益に関する基本事項"},
+        {"page": "T3:205", "printed_page": "㊲－2", "source_region": "包括利益から除かれる3種類の直接取引、会計方針変更等の除外、子会社売却の70％・10％処理及び新株予約権失効仕訳", "destination_heading": "## 第1節 包括利益に関する基本事項"},
+        {"page": "T3:206", "printed_page": "㊲－3", "source_region": "OCIの定義、当期純利益1,000から包括利益1,320への調整、OCI表示方法2案及び補足", "destination_heading": "## 第1節 包括利益に関する基本事項"},
+        {"page": "T3:207", "printed_page": "㊲－4", "source_region": "OCI表示方法①・②の数値例、①の表示方法の論拠、2計算書方式との連携及び変動額対応", "destination_heading": "## 第1節 包括利益に関する基本事項"},
+        {"page": "T3:208", "printed_page": "㊲－5", "source_region": "②の表示方法の論拠、現行基準の採用、包括利益表示の目的及び期待される3点", "destination_heading": "## 第1節 包括利益に関する基本事項"},
+        {"page": "T3:209", "printed_page": "㊲－6", "source_region": "クリーン・サープラス関係、包括利益の優位性の設例及び本会計基準における包括利益の位置付け", "destination_heading": "## 第1節 包括利益に関する基本事項"}
+      ],
+      "chunk_sha256": "b464e42f03fe4e536299e243fd98652867b15533ebe443ea409b9899cfd93c24"
+    },
+    {
+      "id": "JPG-T3-C011-S02",
+      "batch_id": "JPG-T3-C011",
+      "chapter": "37",
+      "section": "37.2",
+      "title": "第2節 リサイクリングと洗い替え処理",
+      "expected_pages": ["T3:210", "T3:211", "T3:212"],
+      "processing_pages": ["T3:210", "T3:211", "T3:212"],
+      "output": "chunks/JPG-T3-C011/JPG-T3-C011-S02.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T3:210", "printed_page": "㊲－7", "source_region": "第2節導入、X社株式の前提、X1年度の取得・評価仕訳及び三表の初期表示", "destination_heading": "## 第2節 リサイクリングと洗い替え処理"},
+        {"page": "T3:211", "printed_page": "㊲－8", "source_region": "リサイクリングの定義、X2年度売却仕訳・三表表示及び洗い替え処理の定義・仕訳・注記", "destination_heading": "## 第2節 リサイクリングと洗い替え処理"},
+        {"page": "T3:212", "printed_page": "㊲－9", "source_region": "リサイクリング禁止の根拠、売却仕訳、純利益・OCI表示及び利益剰余金への振替", "destination_heading": "## 第2節 リサイクリングと洗い替え処理"}
+      ],
+      "chunk_sha256": "b7c7476fff0150cae123f41bc855725cc3f6b90db0053bd8fec7e9665d4ba731"
+    },
+    {
+      "id": "JPG-T3-C011-S03",
+      "batch_id": "JPG-T3-C011",
+      "chapter": "37",
+      "section": "37.3",
+      "title": "第3節 その他の包括利益の内訳の開示",
+      "expected_pages": ["T3:213", "T3:214", "T3:215", "T3:216", "T3:217", "T3:218"],
+      "processing_pages": ["T3:213", "T3:214", "T3:215", "T3:216", "T3:217", "T3:218"],
+      "output": "chunks/JPG-T3-C011/JPG-T3-C011-S03.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T3:213", "printed_page": "㊲－10", "source_region": "第3節見出し、OCI内訳項目、税効果控除後表示・一括表示の原則と100・60・40％の数値例", "destination_heading": "## 第3節 その他の包括利益の内訳の開示"},
+        {"page": "T3:214", "printed_page": "㊲－11", "source_region": "持分法適用会社の持分相当額48の表示・注記、組替調整額の定義及び前期取得有価証券の具体例前半", "destination_heading": "## 第3節 その他の包括利益の内訳の開示"},
+        {"page": "T3:215", "printed_page": "㊲－12", "source_region": "組替調整額の原則・例外表示、税効果内訳及び組替調整の補足説明", "destination_heading": "## 第3節 その他の包括利益の内訳の開示"},
+        {"page": "T3:216", "printed_page": "㊲－13", "source_region": "組替調整の仕訳例及びその他有価証券・繰延ヘッジ・為替換算・退職給付の算定ルール", "destination_heading": "## 第3節 その他の包括利益の内訳の開示"},
+        {"page": "T3:217", "printed_page": "㊲－14", "source_region": "その他有価証券減損、ヘッジ対象消滅、外貨建定期預金による土地取得の具体例", "destination_heading": "## 第3節 その他の包括利益の内訳の開示"},
+        {"page": "T3:218", "printed_page": "㊲－15", "source_region": "退職給付の具体例、土地再評価差額金、注記省略及び連結・個別の適用時期", "destination_heading": "## 第3節 その他の包括利益の内訳の開示"}
+      ],
+      "chunk_sha256": "7c52eb7dd81a820ed79a960ba32964f44967a23ec3a6663321cbb754b8165625"
+    },
+    {
+      "id": "JPG-T3-C011-S04",
+      "batch_id": "JPG-T3-C011",
+      "chapter": "37",
+      "section": "37.4",
+      "title": "第4節 包括利益を表示する計算書",
+      "expected_pages": ["T3:219", "T3:220"],
+      "processing_pages": ["T3:219", "T3:220"],
+      "output": "chunks/JPG-T3-C011/JPG-T3-C011-S04.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T3:219", "printed_page": "㊲－16", "source_region": "第4節見出し、1計算書方式・2計算書方式、親会社株主・非支配株主の付記及び付記と注記の区別", "destination_heading": "## 第4節 包括利益を表示する計算書"},
+        {"page": "T3:220", "printed_page": "㊲－17", "source_region": "1計算書方式・2計算書方式の表示例、包括利益内訳数値及び2形式の選択適用の論拠", "destination_heading": "## 第4節 包括利益を表示する計算書"}
+      ],
+      "chunk_sha256": "f7099c73f87cdb8bea12f7f41a6cbcb00b84f94b7658e17e7a9e66995376f6a1"
+    }
+  ],
+  "review": "reviews/JPG-T3-C011.json"
+}

@@ -1,0 +1,103 @@
+{
+  "batch_id": "JPG-T3-C011",
+  "source_id": "T3",
+  "status": "pass",
+  "review_date": "2026-09-07",
+  "reviewer_model": "GPT-5",
+  "source_revision": {
+    "repository_commit": "2ecbb9ec51e30fe63af412902545fd259bdc028e",
+    "source_pdf_sha256": "1d9f0124a0c8ef759526decc90a1a410f694e2b7fa992b430fc413e783df85bc",
+    "source_image_inventory_sha256": "8e0709aa6cd2d086d9df18627ae7eb466c20db59474bbef26038f03d9d40b24",
+    "catalog_image_inventory_sha256": "af94a7c1f91d1eb56611afc242360566950d6f93d5a6ac7d5271c5e8d3f9d170",
+    "batch_boundary_review_id": "JPG-T3-INV-BND-JPG-T3-C011"
+  },
+  "source_images": [
+    {"page": "T3:203", "printed_page": null, "image": "pages/T3/page-203.jpg", "sha256": "4a1c9cbe3b90421643335099e4aa45b25dd21e7d047278811b7f89869706a402"},
+    {"page": "T3:204", "printed_page": "㊲－1", "image": "pages/T3/page-204.jpg", "sha256": "01e535b8d215595aa74ee3aba357f9241daa8d22cfacd1a144b8bab44897e08f"},
+    {"page": "T3:205", "printed_page": "㊲－2", "image": "pages/T3/page-205.jpg", "sha256": "6d328e0fbee7caa9925bd1fe85d8f8d58d2f9a14184210f9628bda061089f5a6"},
+    {"page": "T3:206", "printed_page": "㊲－3", "image": "pages/T3/page-206.jpg", "sha256": "a63d093d2fa723c9dfe91296d082f4405c33b6cc3966a34748f402899e406829"},
+    {"page": "T3:207", "printed_page": "㊲－4", "image": "pages/T3/page-207.jpg", "sha256": "b750981757dd7caa697667479e8cf43255925c22a3e0f65f740b32f358f7cc6d"},
+    {"page": "T3:208", "printed_page": "㊲－5", "image": "pages/T3/page-208.jpg", "sha256": "ef54f1bf0ac759d9846f5de78f8d886732afd3566326fae243a176646280ccf5"},
+    {"page": "T3:209", "printed_page": "㊲－6", "image": "pages/T3/page-209.jpg", "sha256": "1d30d91aa90282b79b72a6d5977661eb6e03c3e141719aacd3bb7e4ed5383ae7"},
+    {"page": "T3:210", "printed_page": "㊲－7", "image": "pages/T3/page-210.jpg", "sha256": "ec60b007ca47d8c9fd48daaa2008683cb68b9210df394589d3629bfea36ca284"},
+    {"page": "T3:211", "printed_page": "㊲－8", "image": "pages/T3/page-211.jpg", "sha256": "d9f1283a300d2842b17a276cf874e67587bf7fc9978fe1d46888d71f5d9e3e35"},
+    {"page": "T3:212", "printed_page": "㊲－9", "image": "pages/T3/page-212.jpg", "sha256": "a3fe956fdba498acac1c89833bb093afbbde5787be5625624e52a6a6fd2809ea"},
+    {"page": "T3:213", "printed_page": "㊲－10", "image": "pages/T3/page-213.jpg", "sha256": "ff063f17aa5a8dd9f0f8f2ec657e17467d44afa1676a4945b164761c32eb040d"},
+    {"page": "T3:214", "printed_page": "㊲－11", "image": "pages/T3/page-214.jpg", "sha256": "4b68b41bffbcb67f5de6208a7f68ce9e5d9b339bf2c01b06570de8499b7cb2cf"},
+    {"page": "T3:215", "printed_page": "㊲－12", "image": "pages/T3/page-215.jpg", "sha256": "76bc039588a90123794fca2614ae9df62a6cdafc0d703171dd18b684d423a484"},
+    {"page": "T3:216", "printed_page": "㊲－13", "image": "pages/T3/page-216.jpg", "sha256": "ff6d851d12bf9a4a2d24854d71b6f0dc4d0c0064a0f113943ad3c3b8cc815a87"},
+    {"page": "T3:217", "printed_page": "㊲－14", "image": "pages/T3/page-217.jpg", "sha256": "68427a0d932fba3cb178a395d7ab9d1e9bae0b0a835a3682ebe12aa941ee3f7a"},
+    {"page": "T3:218", "printed_page": "㊲－15", "image": "pages/T3/page-218.jpg", "sha256": "30a543da5be2b44371b9da323c7760bce2ee72d9055dbd06500837c94de0c5a2"},
+    {"page": "T3:219", "printed_page": "㊲－16", "image": "pages/T3/page-219.jpg", "sha256": "6bd53a0186718e382f2ad46defd29a47390439c05903c6cb26b2c6a0b96c3a46"},
+    {"page": "T3:220", "printed_page": "㊲－17", "image": "pages/T3/page-220.jpg", "sha256": "2df206e628d4cb0d6ae80916a4297253903f1238b1c9528c9417f6616eb94ac4"}
+  ],
+  "section_outputs": [
+    {"task": "JPG-T3-C011-S01", "chunk": "project/T3/chunks/JPG-T3-C011/JPG-T3-C011-S01.md", "chunk_sha256": "b464e42f03fe4e536299e243fd98652867b15533ebe443ea409b9899cfd93c24"},
+    {"task": "JPG-T3-C011-S02", "chunk": "project/T3/chunks/JPG-T3-C011/JPG-T3-C011-S02.md", "chunk_sha256": "b7c7476fff0150cae123f41bc855725cc3f6b90db0053bd8fec7e9665d4ba731"},
+    {"task": "JPG-T3-C011-S03", "chunk": "project/T3/chunks/JPG-T3-C011/JPG-T3-C011-S03.md", "chunk_sha256": "7c52eb7dd81a820ed79a960ba32964f44967a23ec3a6663321cbb754b8165625"},
+    {"task": "JPG-T3-C011-S04", "chunk": "project/T3/chunks/JPG-T3-C011/JPG-T3-C011-S04.md", "chunk_sha256": "f7099c73f87cdb8bea12f7f41a6cbcb00b84f94b7658e17e7a9e66995376f6a1"}
+  ],
+  "coverage": [
+    {"page": "T3:203", "status": "pass", "regions": ["chapter title", "reference textbook label", "short-answer examination-history table", "essay examination-history table", "blank margins and footer"]},
+    {"page": "T3:204", "status": "pass", "regions": ["section 1 heading", "comprehensive-income definition", "opening/closing net-assets diagram", "three direct-owner transaction branches", "conceptual-framework supplement", "margin and footer"]},
+    {"page": "T3:205", "status": "pass", "regions": ["three excluded transaction categories", "cumulative-effect correction rule", "subsidiary disposal 80%-to-10% diagram", "new-share-warrant forfeiture inclusion", "journal entry", "margin and footer"]},
+    {"page": "T3:206", "status": "pass", "regions": ["OCI definition", "parent/non-controlling interest distinction", "1,000 plus 200 plus 120 equals 1,320 calculation", "OCI calculation display alternatives", "international-standards note", "margin and footer"]},
+    {"page": "T3:207", "status": "pass", "regions": ["two display examples with 520/200/616/264/880 and 720/100/60/160/880", "method 1 rationale", "two-statement linkage mismatch diagram", "statement-linkage explanation", "equity-change amounts 60 and 36", "margin and footer"]},
+    {"page": "T3:208", "status": "pass", "regions": ["method 2 rationale", "current-standard adoption", "purpose of comprehensive income", "three expected benefits", "clean-surplus explanatory note", "margin and footer"]},
+    {"page": "T3:209", "status": "pass", "regions": ["clean-surplus relationship supplement", "comprehensive-income superiority example and fair-value table", "300 versus 400 timing comparison", "anti-earnings-management conclusion", "standard positioning supplement", "margin and footer"]},
+    {"page": "T3:210", "status": "pass", "regions": ["section 2 heading and introduction", "X-share price assumptions", "X1 acquisition and closing entries", "income/comprehensive-income statement", "equity-change statement", "balance-sheet balances", "margin and footer"]},
+    {"page": "T3:211", "status": "pass", "regions": ["recycling definition", "1,600/1,500/300 journal entries", "X2 statement and balance-sheet effects", "washing treatment definition", "washing journal entries", "reclassification note", "margin and footer"]},
+    {"page": "T3:212", "status": "pass", "regions": ["recycling prohibition definition and rationale", "100-only sale gain", "no-reclassification entry", "profit/equity/OCI display", "transfer of 300 cumulative OCI to retained earnings", "margin and footer"]},
+    {"page": "T3:213", "status": "pass", "regions": ["section 3 heading", "OCI item classification", "after-tax and gross presentation rules", "100 and 60 at 40-percent tax example", "96 total and tax-note table", "margin and footer"]},
+    {"page": "T3:214", "status": "pass", "regions": ["equity-method 48 example", "four presentation/footnote requirements", "reclassification-adjustment definition", "prior/current securities example", "current-period note setup", "margin and footer"]},
+    {"page": "T3:215", "status": "pass", "regions": ["300 and 400 reclassification amounts", "70 deferred-hedge amount", "pre-tax and tax-effect totals", "purpose of reclassification note diagram", "exceptional gross/tax display", "margin and footer"]},
+    {"page": "T3:216", "status": "pass", "regions": ["reclassification definition supplement", "100-to-120 securities journal entries", "double-counting avoidance", "four reclassification calculation rules", "hedge/FX/pension boundaries", "margin and footer"]},
+    {"page": "T3:217", "status": "pass", "regions": ["securities impairment example 70/120/50", "hedge disappearance example 50/70/△20", "foreign-currency deposit and land journal entries", "300 and △500 acquisition-cost adjustment", "zero cumulative comprehensive income", "margin and footer"]},
+    {"page": "T3:218", "status": "pass", "regions": ["pension actuarial-difference example △135/10/△125", "land revaluation reserve treatment", "omission of notes", "2010-06-30 publication", "2011-03-31 consolidated application", "individual-statement non-application", "margin and footer"]},
+    {"page": "T3:219", "status": "pass", "regions": ["section 4 heading", "one-statement and two-statement definitions", "parent/non-controlling interest disclosure", "supplement on memorandum versus note", "margin and footer"]},
+    {"page": "T3:220", "status": "pass", "regions": ["one-statement and two-statement consolidated examples", "2,100/190/2,290 and 2,014/276 values", "advantages table", "three reasons for optional formats", "boundary to chapter 38 on next page", "margin and footer"]}
+  ],
+  "page_fidelity_matrix": [
+    {"pages": ["T3:203", "T3:204", "T3:205"], "sections": ["chapter overview", "comprehensive-income definition", "excluded/included items"], "result": "pass"},
+    {"pages": ["T3:206", "T3:207", "T3:208", "T3:209"], "sections": ["OCI definition", "display methods", "purpose", "clean-surplus and superiority"], "result": "pass"},
+    {"pages": ["T3:210", "T3:211", "T3:212"], "sections": ["recycling", "washing treatment", "recycling prohibition"], "result": "pass"},
+    {"pages": ["T3:213", "T3:214", "T3:215", "T3:216", "T3:217", "T3:218"], "sections": ["OCI classification", "tax effects", "reclassification adjustments", "examples", "omitted notes and timing"], "result": "pass"},
+    {"pages": ["T3:219", "T3:220"], "sections": ["one-statement format", "two-statement format", "format-selection rationale"], "result": "pass"}
+  ],
+  "numerical_checks": [
+    {"pages": ["T3:203"], "check": "The short-answer history preserves the visible counts for topics 1 and 3; the essay table is blank as shown.", "result": "pass"},
+    {"pages": ["T3:206", "T3:207"], "check": "The 1,000 + 200 + 120 = 1,320 adjustment and the two display examples preserve 520, 200, 616, 264, 880 and 720, 100, 60, 160, 880.", "result": "pass"},
+    {"pages": ["T3:210", "T3:211", "T3:212"], "check": "The 1,200/1,500/1,600 valuation case preserves recycling, washing and prohibition outcomes of 100, 100 and 100 comprehensive income with the stated profit/OCI differences.", "result": "pass"},
+    {"pages": ["T3:213", "T3:214", "T3:215"], "check": "The 40-percent tax examples preserve 60, 36, 96; gross 100, 60, tax effect △64, total 96; and equity-method (300 + 100) × (1 − 40%) × 20% = 48.", "result": "pass"},
+    {"pages": ["T3:216", "T3:217", "T3:218"], "check": "The reclassification examples preserve 50, △20, △200 and △125 totals, the 1,000/1,200/1,500 FX entries, and the 10-year pension amortization amount 10.", "result": "pass"},
+    {"pages": ["T3:219", "T3:220"], "check": "The presentation examples preserve 2,100, 190, 2,290, 2,014 and 276.", "result": "pass"}
+  ],
+  "diagram_checks": [
+    {"pages": ["T3:204", "T3:205"], "check": "The net-assets bridge, direct-transaction branches and 80%-to-10% subsidiary-disposal diagram retain actors, excluded changes and the retained 10% book value.", "result": "pass"},
+    {"pages": ["T3:207", "T3:208"], "check": "The two display-method diagrams retain the 720-to-520 linkage issue, the 60/36 equity-change amounts and the reason for method 2.", "result": "pass"},
+    {"pages": ["T3:210", "T3:211", "T3:212"], "check": "The three-statement recycling, washing and prohibition displays retain journal-entry direction, profit, OCI, equity and balance-sheet consequences.", "result": "pass"},
+    {"pages": ["T3:215", "T3:216", "T3:217"], "check": "The reclassification purpose diagram, journal entries and asset-acquisition adjustment retain the timing and double-counting consequences.", "result": "pass"},
+    {"pages": ["T3:219", "T3:220"], "check": "The one-statement/two-statement examples retain ordering, labels, parent/non-controlling interest amounts and total reconciliation.", "result": "pass"}
+  ],
+  "false_proposition_checks": {"status": "not_applicable", "result": "This theory batch contains no question-and-answer false-proposition set. Definition, exception and treatment boundaries remain explicitly qualified."},
+  "findings": [
+    "All 18 included processing images were reopened at readable resolution and compared with the four section chunks, including margins, footers, tables, formulas, journal entries, numerical examples, exceptions and diagram-only meaning.",
+    "The four chunks preserve chapter and section hierarchy without bold, Cloze, Front/Back, integration or card output.",
+    "Physical page 203 is a chapter-overview page with no printed-page label and is retained in section 37.1; printed pages ㊲－1 through ㊲－6 complete section 37.1, ㊲－7 through ㊲－9 complete section 37.2, ㊲－10 through ㊲－15 complete section 37.3, and ㊲－16 through ㊲－17 complete section 37.4.",
+    "The batch ends at physical page 220, where the two calculation-statement formats and their rationale are complete; the inventory boundary review records physical page 221 as the next chapter start.",
+    "No excluded or no-content page occurs inside T3:203-T3:220. No outside page, book, web source, OCR text or general-knowledge supplement was used to fill content; the designated T3 JPGs remained the authority."
+  ],
+  "corrections": [
+    "Converted the source's bridges, statement layouts and journal-entry diagrams into structured Markdown tables and prose while preserving labels, amounts, signs, thresholds, dates, exceptions and accounting consequences.",
+    "Retained the distinction between comprehensive income and OCI, the three direct-transaction exclusions, recycling/washing/prohibition treatments, tax-effect and reclassification-note alternatives, equity-method disclosure, omitted-note rules and the two statement formats.",
+    "No source-fidelity correction remained after the page-by-page review; unresolved count is 0."
+  ],
+  "checks": {"numerical": "pass", "diagram": "pass", "false_proposition": "not_applicable"},
+  "unresolved_count": 0,
+  "semantic_boundary": "Automatic checks validate schema, scope, ordering and hashes; semantic completeness is supported by the recorded image-by-image review.",
+  "dependency_commits": [
+    "a2fb2bb829d112522128cdb145523302e9d1e7fd",
+    "cccf7c381768b18116d49e4847dac5df2b01506c",
+    "0034627e759ba83225ae91dbc5cba1c1825ba3a6"
+  ]
+}
