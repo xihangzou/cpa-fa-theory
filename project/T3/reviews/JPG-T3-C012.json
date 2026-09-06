@@ -1,0 +1,61 @@
+{
+  "batch_id": "JPG-T3-C012",
+  "source_id": "T3",
+  "status": "pass",
+  "reviewer_model": "GPT-5",
+  "source_revision": {
+    "repository_commit": "47e1eaaf57d5403219b612414ccacaf57f475753",
+    "source_pdf_sha256": "1d9f0124a0c8ef759526decc90a1a410f694e2b7fa992b430fc413e783df85bc",
+    "source_image_inventory_sha256": "8e0709aa6cd2d086d9df18627ae7eb466c20cdb59474bbef26038f03d9d40b24",
+    "catalog_image_inventory_sha256": "af94a7c1f91d1eb56611afc242360566950d6f93d5a6ac7d5271c5e8d3f9d170",
+    "batch_boundary_review_id": "JPG-T3-INV-BND-JPG-T3-C012"
+  },
+  "dependency_commits": [
+    "a2fb2bb829d112522128cdb145523302e9d1e7fd",
+    "cccf7c381768b18116d49e4847dac5df2b01506c",
+    "0034627e759ba83225ae91dbc5cba1c1825ba3a6"
+  ],
+  "source_images": [
+    {"page": "T3:221", "printed_page": null, "image": "pages/T3/page-221.jpg", "sha256": "82b75f5595480d607b065afb9194cb9917f7104acda18d602bea4bfe64fab8a7"},
+    {"page": "T3:222", "printed_page": "㊳－1", "image": "pages/T3/page-222.jpg", "sha256": "fabe494d24e61b9a087adab6d26332a1174ed6e126eb4579794ec8699a572d51"},
+    {"page": "T3:223", "printed_page": "㊳－2", "image": "pages/T3/page-223.jpg", "sha256": "70914e5a9c6436b4bde20eadff52ca1d39bc30b56b38678bd428aaead267c955"},
+    {"page": "T3:224", "printed_page": "㊳－3", "image": "pages/T3/page-224.jpg", "sha256": "a876ea09d831e555b6f3401e7ea65f9865b627331687027a70dd19d32b2c75dc"},
+    {"page": "T3:225", "printed_page": "㊳－4", "image": "pages/T3/page-225.jpg", "sha256": "bf098e20f9ba81c0e2a6fc3080dce0008845ef04982058882abcdd5552107bd8"},
+    {"page": "T3:226", "printed_page": "㊳－5", "image": "pages/T3/page-226.jpg", "sha256": "f3744127849d8f1b5f26f11ce77fae61cede28f06a57edc9ec98346870ad2ebd"},
+    {"page": "T3:227", "printed_page": "㊳－6", "image": "pages/T3/page-227.jpg", "sha256": "b065d5ce61b1d167e2f257e64b1f121a37f6192088aa7402cb1b80791f5474f9"},
+    {"page": "T3:228", "printed_page": "㊳－7", "image": "pages/T3/page-228.jpg", "sha256": "cf51c5aee9474f7baf93100a17e8795a161520c66d1b2f02002b991fb0c11f28"},
+    {"page": "T3:229", "printed_page": "㊳－8", "image": "pages/T3/page-229.jpg", "sha256": "e4a30ea197be1e10b816c8d8c4bf3f60a5294f62e17a0349738a6c0a191b14b6"}
+  ],
+  "section_outputs": [
+    {"task": "JPG-T3-C012-S01", "chunk_sha256": "3b11631f1adaf441904c039fd038c5676a1f58dfe1f40f0761f0e3b29d97db2c"},
+    {"task": "JPG-T3-C012-S02", "chunk_sha256": "32c77ae6e08e3dc233d264421a8b5509423bef6f64004053671ab5ac970fdc70"}
+  ],
+  "coverage": [
+    {"page": "T3:221", "status": "pass", "regions": ["chapter title and chapter-level cross-reference", "short-answer history table with all rows and examination columns", "essay history table with all rows and examination columns"]},
+    {"page": "T3:222", "status": "pass", "regions": ["section title and section 1 necessity heading", "平成15年・平成20年会計基準 history paragraph and three-stage arrow diagram", "enterprise-combination definition and reporting-unit explanation", "A社/B社 and事業X/事業Y three-combination diagram and conclusion"]},
+    {"page": "T3:223", "status": "pass", "regions": ["scope paragraph including jointly controlled, common-control and control-acquisition cases", "four-category application-scope diagram, examples and cash-consideration note", "complete eight-row terminology definition table", "page footer and margins"]},
+    {"page": "T3:224", "status": "pass", "regions": ["section 2 title and economic-reality introduction", "支配 definition and acquisition/pooling definition table", "取得と支配 and持分の結合と支配 diagrams", "accounting-method introduction and section transition"]},
+    {"page": "T3:225", "status": "pass", "regions": ["purchase/pooling comparison table including fair value, paid-in capital and goodwill rules", "フレッシュ・スタート法 definition and adoption condition", "investment-continuity versus non-continuity basic accounting box", "A社/B社 dissolution and new X社 diagram and Japan non-adoption reason"]},
+    {"page": "T3:226", "status": "pass", "regions": ["purchase-method rationale and general new-investment journal entry", "取得企業・被取得企業 diagram and fair-value conclusion", "pooling-method rationale, risk-change condition and carrying-value rule", "same-kind asset exchange and持分の結合 diagram"]},
+    {"page": "T3:227", "status": "pass", "regions": ["economic-reality to accounting-method correspondence table", "enterprise-view versus shareholder-view notes", "持分の継続 definition and two-row classification table", "discontinued/continued ownership diagrams and判定 conclusions"]},
+    {"page": "T3:228", "status": "pass", "regions": ["standard policy paragraph and abolition of pooling method", "rule box excluding joint-control formation and common-control transactions", "joint-control and common-control explanatory paragraph", "chapter title, margins and footer"]},
+    {"page": "T3:229", "status": "pass", "regions": ["supplement title and shareholder/company viewpoints", "non-continuation example with 100/40/60 fair values, 50/30 carrying values and 40 profit calculation", "A社/B社 shareholder-flow diagram and labels", "continuation explanation and final comparison", "next-section five-part acquisition-accounting roadmap"]}
+  ],
+  "findings": [
+    "All 9 included processing images were reopened at readable resolution and compared with the two section chunks, including margins, headers, footers, tables, definitions, examples, numerical values, decision diagrams and diagram-only meaning.",
+    "The chunks preserve the chapter and section hierarchy, Japanese source titles, physical/printed page distinction, source tables, accounting-method comparisons, ownership-continuity distinctions and the 100/40/60 numerical example.",
+    "The chapter overview on physical page 221 is retained in the first actual section chunk; physical pages 222-223 contain section 1 and physical pages 224-229 contain section 2. No actual section is split into an unrelated task.",
+    "The designated T3 JPGs were the content authority. The PDF, web sources and other textbooks were not used to fill or correct learner text. No question-to-answer or false-proposition layout occurs in this theory range."
+  ],
+  "corrections": [
+    "Represented the source diagrams as explicit prose and tables so actor relationships, control, ownership continuity, valuation basis and accounting consequences remain usable without raw media.",
+    "Retained all visible boundary conditions, named methods, headings, examination-history values, definitions, table distinctions, source amounts and the next-section roadmap.",
+    "No unresolved marker, excluded in-range page or unlabelled false statement remains."
+  ],
+  "unresolved_count": 0,
+  "checks": {
+    "numerical": "pass",
+    "diagram": "pass",
+    "false_proposition": "not_applicable"
+  }
+}

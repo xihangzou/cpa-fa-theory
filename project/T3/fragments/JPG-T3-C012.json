@@ -1,0 +1,90 @@
+{
+  "batch_id": "JPG-T3-C012",
+  "source_id": "T3",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-T3-C012-S01",
+      "batch_id": "JPG-T3-C012",
+      "chapter": "38",
+      "section": "38.1",
+      "title": "第1節 本会計基準の必要性と適用範囲",
+      "expected_pages": ["T3:221", "T3:222", "T3:223"],
+      "processing_pages": ["T3:221", "T3:222", "T3:223"],
+      "output": "chunks/JPG-T3-C012/JPG-T3-C012-S01.md",
+      "status": "pass",
+      "locators": [
+        {
+          "page": "T3:221",
+          "printed_page": null,
+          "source_region": "第38章タイトル、財務計算テキスト6第39章への参照、短答式・論文式本試験の出題実績表",
+          "destination_heading": "## 第1節 本会計基準の必要性と適用範囲"
+        },
+        {
+          "page": "T3:222",
+          "printed_page": "㊳－1",
+          "source_region": "第1節、1.会計基準整備の必要性、平成15年・平成20年会計基準の経緯、2.本会計基準の対象とする取引の定義・図表",
+          "destination_heading": "## 第1節 本会計基準の必要性と適用範囲"
+        },
+        {
+          "page": "T3:223",
+          "printed_page": "㊳－2",
+          "source_region": "企業結合の適用対象取引の分類、独立企業間・共同支配・共通支配下・現金対価の取引、3.用語の定義表",
+          "destination_heading": "## 第1節 本会計基準の必要性と適用範囲"
+        }
+      ],
+      "chunk_sha256": "3b11631f1adaf441904c039fd038c5676a1f58dfe1f40f0761f0e3b29d97db2c"
+    },
+    {
+      "id": "JPG-T3-C012-S02",
+      "batch_id": "JPG-T3-C012",
+      "chapter": "38",
+      "section": "38.2",
+      "title": "第2節 取得と持分の結合",
+      "expected_pages": ["T3:224", "T3:225", "T3:226", "T3:227", "T3:228", "T3:229"],
+      "processing_pages": ["T3:224", "T3:225", "T3:226", "T3:227", "T3:228", "T3:229"],
+      "output": "chunks/JPG-T3-C012/JPG-T3-C012-S02.md",
+      "status": "pass",
+      "locators": [
+        {
+          "page": "T3:224",
+          "printed_page": "㊳－3",
+          "source_region": "第2節、1.2つの異なる経済的実態、支配の定義、取得・持分の結合の定義表と図、2.会計処理方法の導入",
+          "destination_heading": "## 第2節 取得と持分の結合"
+        },
+        {
+          "page": "T3:225",
+          "printed_page": "㊳－4",
+          "source_region": "2.パーチェス法・持分プーリング法の比較表、フレッシュ・スタート法の補足と投資継続・非継続の図",
+          "destination_heading": "## 第2節 取得と持分の結合"
+        },
+        {
+          "page": "T3:226",
+          "printed_page": "㊳－5",
+          "source_region": "3.取得と判定された場合の会計処理、一般的な新規投資との比較、持分の結合と判定された場合の会計処理、同種資産交換の図",
+          "destination_heading": "## 第2節 取得と持分の結合"
+        },
+        {
+          "page": "T3:227",
+          "printed_page": "㊳－6",
+          "source_region": "経済的実態と理論上あるべき会計処理方法の対応表、企業目線・株主目線の注記、4.持分の継続と判定図",
+          "destination_heading": "## 第2節 取得と持分の結合"
+        },
+        {
+          "page": "T3:228",
+          "printed_page": "㊳－7",
+          "source_region": "5.本会計基準の考え、持分プーリング法廃止とパーチェス法適用の理由、取得となる企業結合の規定",
+          "destination_heading": "## 第2節 取得と持分の結合"
+        },
+        {
+          "page": "T3:229",
+          "printed_page": "㊳－8",
+          "source_region": "補足（論文）企業の損益計算の視点からみた持分の継続、非継続・継続の数値図、次節の取得会計処理の流れ",
+          "destination_heading": "## 第2節 取得と持分の結合"
+        }
+      ],
+      "chunk_sha256": "32c77ae6e08e3dc233d264421a8b5509423bef6f64004053671ab5ac970fdc70"
+    }
+  ],
+  "review": "reviews/JPG-T3-C012.json"
+}
