@@ -1,0 +1,77 @@
+{
+  "batch_id": "JPG-W1-C002",
+  "source_id": "W1",
+  "status": "pass",
+  "reviewed_on": "2026-09-06",
+  "reviewer_model": "GPT-5 (current execution model; no model switch)",
+  "source_revision": {
+    "delivery_branch": "main",
+    "repository_commit": "a6e69fbb64cc16aa5800f0aa6a3cf32c7ae449a3",
+    "source_catalog": "contracts/source-catalog.json",
+    "source_catalog_sha256": "8358e9cffb068f63df0bdfcc8f99be035e66454ac8710d381f0ff9eb87728079",
+    "page_plan": "contracts/page-plan.json",
+    "page_plan_sha256": "997a7280b171df5803c2a3bb7c2ee8764082e01f3bdb03c194b9129fe18d26c9",
+    "source_manifest": "project/W1/sources.json",
+    "source_manifest_sha256": "f9bf676e213a1ccedb2ddb4e19c35fbc931b044844436970d3d65def49433de3",
+    "source_map": "project/W1/source-map.json",
+    "source_map_sha256": "d423630c6d0e0683d64bd6b32a9677f0d4f971f6a8572c217ef1c37c5f5a937a",
+    "batch_manifest": "project/W1/batches.json",
+    "batch_manifest_sha256": "35a285b5506fbd1dfbfb1c2c06994f6640617d9f68ef9f77636871c953b8ed4a",
+    "inventory_review": "project/W1/inventory-review.json",
+    "inventory_review_sha256": "e94cf19cc8ad6c7bf9e1fbfc2856e128f88b2ab2cf02be37b2fcf869d0a993bf",
+    "source_original_root": "/Users/xihangzou/Study/320_CPA/322_財務理論/images/cpa-fa-theory-short-answer-workbook-1-jpg",
+    "source_pdf": "/Users/xihangzou/Study/320_CPA/322_財務理論/02_問題集/財務会計論短答対策問題集　理論1.pdf",
+    "source_pdf_sha256": "cd4b9e8b7be475d5e40785cddfd41e48e775b57eeaed6ffb2b90f4c21c0fd04f",
+    "source_image_inventory_sha256": "593df03d5e6282b4d69ed9162a8afd9cbf6500cb0656884bec1c5b6b129fa5eb",
+    "edition": "2024/2025年合格目標",
+    "publication_date": "2023-01-23",
+    "physical_scope": "W1:024-W1:031",
+    "processing_scope": "W1:024-W1:031",
+    "content_authority": "designated existing JPGs only; PDF used only for identity/planning support"
+  },
+  "dependency_commits": [
+    "a2fb2bb829d112522128cdb145523302e9d1e7fd",
+    "a62d278ae52faba8a97b49e08688e54ce2a466c2",
+    "a6e69fbb64cc16aa5800f0aa6a3cf32c7ae449a3"
+  ],
+  "source_images": [
+    {"page": "W1:024", "printed_page": "①-1", "image": "pages/W1/page-024.jpg", "sha256": "ac4460da0891941be1ab4b69247c0809b5d9bc16eff61edeaed33da8622d1e31"},
+    {"page": "W1:025", "printed_page": "①-2", "image": "pages/W1/page-025.jpg", "sha256": "86f417814f537daee87b850cff05ead995882d11d96866322ca2dda5dbf043d3"},
+    {"page": "W1:026", "printed_page": "①-3", "image": "pages/W1/page-026.jpg", "sha256": "8b29844e75b43da04e79922c10f0c5d82d34b74ce883244395daf37ac1c6d874"},
+    {"page": "W1:027", "printed_page": "①-4", "image": "pages/W1/page-027.jpg", "sha256": "ab3b55abbfb8a87067d76b7b7c984a2599ffce0991d41377015285935f7285e4"},
+    {"page": "W1:028", "printed_page": "①-5", "image": "pages/W1/page-028.jpg", "sha256": "98369773d0fc704bf143ef3ff2a1095efa2f953cb95bfa34470029196cecefe7"},
+    {"page": "W1:029", "printed_page": "①-6", "image": "pages/W1/page-029.jpg", "sha256": "c4077d30f0e9c3368b8bf527967e9695c3e556576594abd392a3ca4559436826"},
+    {"page": "W1:030", "printed_page": "①-7", "image": "pages/W1/page-030.jpg", "sha256": "e4ef49a8e8f9e95b323b861f2186aa44b9916daf33e5a7b87e9880e32b8e3e0d"},
+    {"page": "W1:031", "printed_page": "①-8", "image": "pages/W1/page-031.jpg", "sha256": "0da991dde738aed4fcabe8d60ccf6b74ee1978e60e9a9e1f4144cc333f367ebb"}
+  ],
+  "section_outputs": [
+    {"task": "JPG-W1-C002-S01", "chunk": "project/W1/chunks/JPG-W1-C002/JPG-W1-C002-S01.md", "chunk_sha256": "12acfdc8cef97ffeaefd57caf6f00026a60fe74c1e63c96ec59ab151cb7f922d"},
+    {"task": "JPG-W1-C002-S02", "chunk": "project/W1/chunks/JPG-W1-C002/JPG-W1-C002-S02.md", "chunk_sha256": "a4fb27e8c09521e22f4fb68ecaf0471eefc0c11e9bdaa2e153ba22d9fdd3547b"},
+    {"task": "JPG-W1-C002-S03", "chunk": "project/W1/chunks/JPG-W1-C002/JPG-W1-C002-S03.md", "chunk_sha256": "4949543e4779b43602a1ded2d2200ee9aa59cfd3a95b07ea5b2b73c8ac980a2f"},
+    {"task": "JPG-W1-C002-S04", "chunk": "project/W1/chunks/JPG-W1-C002/JPG-W1-C002-S04.md", "chunk_sha256": "bac583d0c3be4d59e30b8e66c1b5a4cff4c654eeccc1bc2aa9572c02e32935b5"}
+  ],
+  "coverage": [
+    {"page": "W1:024", "status": "pass", "regions": ["S01: 財務会計の機能、問題1-3の問題文", "S02: 企業会計の原則等、問題4-6の問題文", "全本文、重要度・過去問表示、余白およびフッターを確認"]},
+    {"page": "W1:025", "status": "pass", "regions": ["S01: 問題1-3の正誤・根拠説明", "S02: 問題4-6の正誤・根拠説明・追加説明", "全本文、余白およびフッターを確認"]},
+    {"page": "W1:026", "status": "pass", "regions": ["S03: 金融商品取引法と会社法、問題7-13の問題文", "全本文、重要度・過去問表示、余白およびフッターを確認"]},
+    {"page": "W1:027", "status": "pass", "regions": ["S03: 問題7-13の正誤・根拠説明・追加説明", "全本文、余白およびフッターを確認"]},
+    {"page": "W1:028", "status": "pass", "regions": ["S03: 問題14-17の問題文", "S04: 会計公準、問題18-21の問題文", "全本文、重要度・過去問表示、余白およびフッターを確認"]},
+    {"page": "W1:029", "status": "pass", "regions": ["S03: 問題14-17の正誤・根拠説明・追加説明", "S04: 問題18-21の正誤・根拠説明", "全本文、余白およびフッターを確認"]},
+    {"page": "W1:030", "status": "pass", "regions": ["S04: 問題22-28の問題文", "全本文、重要度・過去問表示、余白およびフッターを確認"]},
+    {"page": "W1:031", "status": "pass", "regions": ["S04: 問題22-28の正誤・根拠説明・追加説明", "全本文、余白およびフッターを確認"]}
+  ],
+  "findings": [
+    "全8枚を原画像の読める解像度で再確認し、問題文と対応する解答・根拠説明を同一セクションに保持した。",
+    "問題14、15、17の計算書類・連結計算書類の構成、問題12の1年・1年6か月、問題22-24の法的実体・経済的実体の区別、問題25-28の継続企業・貨幣的評価の説明を確認した。",
+    "余白、追加説明、法令条文表示、過去問表示およびページフッターを確認した。"
+  ],
+  "corrections": [],
+  "checks": {
+    "numerical": "pass",
+    "diagram": "not_applicable",
+    "false_proposition": "pass"
+  },
+  "unresolved_count": 0,
+  "excluded_pages": [],
+  "downstream_status": "ready_for_chapter_qa_after_this_batch_only"
+}

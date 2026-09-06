@@ -1,0 +1,145 @@
+{
+  "batch_id": "JPG-W1-C002",
+  "source_id": "W1",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-W1-C002-S01",
+      "batch_id": "JPG-W1-C002",
+      "chapter": "01",
+      "section": "01.1",
+      "title": "1. 財務会計の機能",
+      "expected_pages": ["W1:024", "W1:025"],
+      "processing_pages": ["W1:024", "W1:025"],
+      "output": "chunks/JPG-W1-C002/JPG-W1-C002-S01.md",
+      "status": "pass",
+      "locators": [
+        {
+          "page": "W1:024",
+          "printed_page": "①-1",
+          "source_region": "1. 財務会計の機能、問題1から問題3の問題文、重要度、過去問表示、ページ余白およびフッター",
+          "destination_heading": "## 1. 財務会計の機能"
+        },
+        {
+          "page": "W1:025",
+          "printed_page": "①-2",
+          "source_region": "問題1から問題3の正誤、根拠説明および追加説明、ページ余白およびフッター",
+          "destination_heading": "## 1. 財務会計の機能"
+        }
+      ],
+      "chunk_sha256": "12acfdc8cef97ffeaefd57caf6f00026a60fe74c1e63c96ec59ab151cb7f922d"
+    },
+    {
+      "id": "JPG-W1-C002-S02",
+      "batch_id": "JPG-W1-C002",
+      "chapter": "01",
+      "section": "01.2",
+      "title": "2. 企業会計の原則等",
+      "expected_pages": ["W1:024", "W1:025"],
+      "processing_pages": ["W1:024", "W1:025"],
+      "output": "chunks/JPG-W1-C002/JPG-W1-C002-S02.md",
+      "status": "pass",
+      "locators": [
+        {
+          "page": "W1:024",
+          "printed_page": "①-1",
+          "source_region": "2. 企業会計の原則等、問題4から問題6の問題文、重要度、過去問表示、ページ余白およびフッター",
+          "destination_heading": "## 2. 企業会計の原則等"
+        },
+        {
+          "page": "W1:025",
+          "printed_page": "①-2",
+          "source_region": "問題4から問題6の正誤、根拠説明および追加説明、ページ余白およびフッター",
+          "destination_heading": "## 2. 企業会計の原則等"
+        }
+      ],
+      "chunk_sha256": "a4fb27e8c09521e22f4fb68ecaf0471eefc0c11e9bdaa2e153ba22d9fdd3547b"
+    },
+    {
+      "id": "JPG-W1-C002-S03",
+      "batch_id": "JPG-W1-C002",
+      "chapter": "01",
+      "section": "01.3",
+      "title": "3. 金融商品取引法と会社法",
+      "expected_pages": ["W1:026", "W1:027", "W1:028", "W1:029"],
+      "processing_pages": ["W1:026", "W1:027", "W1:028", "W1:029"],
+      "output": "chunks/JPG-W1-C002/JPG-W1-C002-S03.md",
+      "status": "pass",
+      "locators": [
+        {
+          "page": "W1:026",
+          "printed_page": "①-3",
+          "source_region": "3. 金融商品取引法と会社法、問題7から問題13の問題文、重要度、過去問表示、ページ余白およびフッター",
+          "destination_heading": "## 3. 金融商品取引法と会社法"
+        },
+        {
+          "page": "W1:027",
+          "printed_page": "①-4",
+          "source_region": "問題7から問題13の正誤、根拠説明および追加説明、ページ余白およびフッター",
+          "destination_heading": "## 3. 金融商品取引法と会社法"
+        },
+        {
+          "page": "W1:028",
+          "printed_page": "①-5",
+          "source_region": "問題14から問題17の問題文、問題18から問題21の問題文、重要度、過去問表示、ページ余白およびフッター",
+          "destination_heading": "## 3. 金融商品取引法と会社法"
+        },
+        {
+          "page": "W1:029",
+          "printed_page": "①-6",
+          "source_region": "問題14から問題17の正誤、根拠説明および追加説明、ページ余白およびフッター",
+          "destination_heading": "## 3. 金融商品取引法と会社法"
+        }
+      ],
+      "chunk_sha256": "4949543e4779b43602a1ded2d2200ee9aa59cfd3a95b07ea5b2b73c8ac980a2f"
+    },
+    {
+      "id": "JPG-W1-C002-S04",
+      "batch_id": "JPG-W1-C002",
+      "chapter": "01",
+      "section": "01.4",
+      "title": "4. 会計公準",
+      "expected_pages": ["W1:028", "W1:029", "W1:030", "W1:031"],
+      "processing_pages": ["W1:028", "W1:029", "W1:030", "W1:031"],
+      "output": "chunks/JPG-W1-C002/JPG-W1-C002-S04.md",
+      "status": "pass",
+      "locators": [
+        {
+          "page": "W1:028",
+          "printed_page": "①-5",
+          "source_region": "4. 会計公準、問題18から問題21の問題文、重要度、過去問表示、ページ余白およびフッター",
+          "destination_heading": "## 4. 会計公準"
+        },
+        {
+          "page": "W1:029",
+          "printed_page": "①-6",
+          "source_region": "問題18から問題21の正誤、根拠説明およびページ余白、フッター",
+          "destination_heading": "## 4. 会計公準"
+        },
+        {
+          "page": "W1:030",
+          "printed_page": "①-7",
+          "source_region": "問題22から問題28の問題文、重要度、過去問表示、ページ余白およびフッター",
+          "destination_heading": "## 4. 会計公準"
+        },
+        {
+          "page": "W1:031",
+          "printed_page": "①-8",
+          "source_region": "問題22から問題28の正誤、根拠説明および追加説明、ページ余白およびフッター",
+          "destination_heading": "## 4. 会計公準"
+        }
+      ],
+      "chunk_sha256": "bac583d0c3be4d59e30b8e66c1b5a4cff4c654eeccc1bc2aa9572c02e32935b5"
+    }
+  ],
+  "review": "reviews/JPG-W1-C002.json",
+  "excluded_pages": [],
+  "source_scope": {
+    "source_id": "W1",
+    "physical_range": "W1:024-W1:031",
+    "processing_range": "W1:024-W1:031",
+    "chapter": "01",
+    "title": "財務会計における基礎概念",
+    "content_authority": "designated existing JPGs only"
+  }
+}
