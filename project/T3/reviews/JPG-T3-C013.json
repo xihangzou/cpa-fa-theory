@@ -1,0 +1,111 @@
+{
+  "batch_id": "JPG-T3-C013",
+  "source_id": "T3",
+  "status": "pass",
+  "review_date": "2026-09-07",
+  "reviewer_model": "GPT-5",
+  "source_revision": {
+    "repository_commit": "3ac38c6306e12bbf90f851b463c8ebf671197f02",
+    "source_pdf_sha256": "1d9f0124a0c8ef759526decc90a1a410f694e2b7fa992b430fc413e783df85bc",
+    "source_image_inventory_sha256": "8e0709aa6cd2d086d9df18627ae7eb466c20cdb59474bbef26038f03d9d40b24",
+    "catalog_image_inventory_sha256": "af94a7c1f91d1eb56611afc242360566950d6f93d5a6ac7d5271c5e8d3f9d170",
+    "batch_boundary_review_id": "JPG-T3-INV-BND-JPG-T3-C013"
+  },
+  "source_images": [
+    {"page":"T3:230","printed_page":"㊳－9","image":"pages/T3/page-230.jpg","sha256":"73b510393034baa1caeaf98a6186f2f4ddbe1dc180518f136f5c3153faa44542"},
+    {"page":"T3:231","printed_page":"㊳－10","image":"pages/T3/page-231.jpg","sha256":"c6a6414b0943c209dc63c889fd3f0f9506aaee75f90a7a881dfb3169c33a3ead"},
+    {"page":"T3:232","printed_page":"㊳－11","image":"pages/T3/page-232.jpg","sha256":"bedf188ea03ae8d005fe8f3082f2635615bb7c62fbb51ba591f77df94d70b4f1"},
+    {"page":"T3:233","printed_page":"㊳－12","image":"pages/T3/page-233.jpg","sha256":"655547ad0563ecce656e07c690bb5b61f74165ddddb5244fb8e248d1dea5aa86"},
+    {"page":"T3:234","printed_page":"㊳－13","image":"pages/T3/page-234.jpg","sha256":"0686533e60fec898a2f2d40ed6e172957ce66739a7aef93082fdc6bedb615e6d"},
+    {"page":"T3:235","printed_page":"㊳－14","image":"pages/T3/page-235.jpg","sha256":"dff646f3df54312b3b0d2459ceced7280d1414f5b6b56e8cb9e88a677e5280b6"},
+    {"page":"T3:236","printed_page":"㊳－15","image":"pages/T3/page-236.jpg","sha256":"b334f6ba19ef00e6dcd15d35078746581fceb0cfdfe703f86e95d1cfa7daebbc"},
+    {"page":"T3:237","printed_page":"㊳－16","image":"pages/T3/page-237.jpg","sha256":"42916cf7221c85c11f2e9c36e4fe92fee60d2caf937f4a52a419313c3e9a91e8"},
+    {"page":"T3:238","printed_page":"㊳－17","image":"pages/T3/page-238.jpg","sha256":"ac311deb304c3160ede02a1823214b0368a2b6be1b9df121b8a854a1f748b77b"},
+    {"page":"T3:239","printed_page":"㊳－18","image":"pages/T3/page-239.jpg","sha256":"b3ee8a326d88d59a9b5af73302bcf18a4fd39f616d9edab5d3d19c9e995b8b20"},
+    {"page":"T3:240","printed_page":"㊳－19","image":"pages/T3/page-240.jpg","sha256":"e189e70b8f0df5b3835d6847adebf253e280651f5227de5758d899ed701c35a5"},
+    {"page":"T3:241","printed_page":"㊳－20","image":"pages/T3/page-241.jpg","sha256":"f32f18f795d7b31052cf022ce47e40b6d3a80141e795ccaf15fe22d406bab9f5"},
+    {"page":"T3:242","printed_page":"㊳－21","image":"pages/T3/page-242.jpg","sha256":"b7bba5fb8ac103770fe270efa17cc72b62d02fdf8045a03c2ef9aff91eeee29a"},
+    {"page":"T3:243","printed_page":"㊳－22","image":"pages/T3/page-243.jpg","sha256":"569c6dcd25f4acc0b6ff0b3807f66924480146c5bedcca9d3e0598871e19a1c2"},
+    {"page":"T3:244","printed_page":"㊳－23","image":"pages/T3/page-244.jpg","sha256":"45de95f0d9ea22f65574f3f56818d84da4e2b366163e8b59c200d206af81b00c"},
+    {"page":"T3:245","printed_page":"㊳－24","image":"pages/T3/page-245.jpg","sha256":"754cedbf326b9704ed7f1549d263e9a86cf73733eba1a3ebf64b6cec72af5a76"},
+    {"page":"T3:246","printed_page":"㊳－25","image":"pages/T3/page-246.jpg","sha256":"f6a893f954a57d09fe0d95ff2bc7af01f2fb88d7231cb91a359070a6589e1785"},
+    {"page":"T3:247","printed_page":"㊳－26","image":"pages/T3/page-247.jpg","sha256":"c1acd09c94af478f75f711e98817c344b508c1c1d19d8796a938864421ab1be6"},
+    {"page":"T3:248","printed_page":"㊳－27","image":"pages/T3/page-248.jpg","sha256":"39fed30d3f74c7cc45d8ba1da835e45fd48c9e864fe2bd47b44bba6b15ae5b26"},
+    {"page":"T3:249","printed_page":"㊳－28","image":"pages/T3/page-249.jpg","sha256":"c870ed127a8fa53b37ab7003fff3b59a6ba1ba4b762ee663fdbd1a773d6595a5"}
+  ],
+  "section_outputs": [
+    {"task":"JPG-T3-C013-S01","chunk":"project/T3/chunks/JPG-T3-C013/JPG-T3-C013-S01.md","chunk_sha256":"e9bf2eb2f16cd9fa6519c4bb8992bc7d1fb4108097a62f74591e7bb115c650c7"},
+    {"task":"JPG-T3-C013-S02","chunk":"project/T3/chunks/JPG-T3-C013/JPG-T3-C013-S02.md","chunk_sha256":"58b3c823fce938852e9ac6a5820947e52da89486810046eca7ef7a8f9e5ffef6"},
+    {"task":"JPG-T3-C013-S03","chunk":"project/T3/chunks/JPG-T3-C013/JPG-T3-C013-S03.md","chunk_sha256":"fb20ffd23fe5e429fc4d63542dd11ea0fee10ebea0b6873eedb74223c9794f29"},
+    {"task":"JPG-T3-C013-S04","chunk":"project/T3/chunks/JPG-T3-C013/JPG-T3-C013-S04.md","chunk_sha256":"3b2dea7a7f66c632b953a1a49be8d27a43c03399e06ab63dbc4b7ddac8e284e6"},
+    {"task":"JPG-T3-C013-S05","chunk":"project/T3/chunks/JPG-T3-C013/JPG-T3-C013-S05.md","chunk_sha256":"4d83d7295fe4e2ea3fe77cf28db6d81cb781c4cdb39419b748d2caa44e976376"},
+    {"task":"JPG-T3-C013-S06","chunk":"project/T3/chunks/JPG-T3-C013/JPG-T3-C013-S06.md","chunk_sha256":"459b2a237af024e497394f1302c61bc8caf9e6df5183ed356e3f463bb4ef0a45"}
+  ],
+  "coverage": [
+    {"page":"T3:230","status":"pass","regions":["chapter and section titles; acquisition-company determination; control concept; parent/subsidiary and acquisition/target diagrams; margins and footer"]},
+    {"page":"T3:231","status":"pass","regions":["unclear acquisition-company case; P/S stock exchange premise; 100/300 shares and 25%/75% ownership diagram; conclusion"]},
+    {"page":"T3:232","status":"pass","regions":["cash consideration and cash-transfer example; stock consideration; ordinary and reverse-acquisition diagrams; exchange ratios and ownership"]},
+    {"page":"T3:233","status":"pass","regions":["additional factors a-e; voting rights, largest shareholder, director appointment, board composition and exchange terms; relative size; three-company proposal factor"]},
+    {"page":"T3:234","status":"pass","regions":["acquisition-company decision flowchart; cash-versus-stock branches; factors a-e; relative-size and three-company reminders; footer"]},
+    {"page":"T3:235","status":"pass","regions":["acquisition-cost basic rule; cash/non-cash measurement table; 100/40/70/60 example; stock-exchange cost formula and journal-entry layout"]},
+    {"page":"T3:236","status":"pass","regions":["current/prior stock-price views; announcement-date and combination-date timeline; 100@100/20/50 examples; both rationales and convergence note"]},
+    {"page":"T3:237","status":"pass","regions":["reverse-acquisition rule; A/B 20/100 shares, prices 25/80 and 0.8 exchange; actual and assumed structures; 20%/80% rights and 2,000 cost"]},
+    {"page":"T3:238","status":"pass","regions":["step-acquisition individual-versus-consolidated cost; view 1/view 2; prior/current comparison; same-treatment and different-treatment rationales; 2008 draft exception"]},
+    {"page":"T3:239","status":"pass","regions":["acquisition-related-cost expense rule; current and prior views; ordinary-asset and company-acquisition 100/10/110/150 comparison diagram; investment-recovery rationale"]},
+    {"page":"T3:240","status":"pass","regions":["acquisition-related-cost disclosure; contingent-consideration definition and two categories; future-performance and market-price definitions and examples"]},
+    {"page":"T3:241","status":"pass","regions":["future-performance contingent consideration recognition and return; goodwill/negative-goodwill treatment; enterprise-combination-time and additional-delivery diagram"]},
+    {"page":"T3:242","status":"pass","regions":["future-performance example; A/B balance sheets; 70 initial consideration, 20 additional payment, goodwill 10/20; 5-year amortization and return-of-5 case"]},
+    {"page":"T3:243","status":"pass","regions":["market-price contingent consideration rule; stock-price correction and additional-delivery diagram; 100 shares at 1,000, 25 shares at 800, 20,000 offsets"]},
+    {"page":"T3:244","status":"pass","regions":["bond-price contingent consideration example; two bonds face/value 45; 90/60/30 amounts; goodwill amortization; discount amortization; 135 final balance"]},
+    {"page":"T3:245","status":"pass","regions":["allocation basic rule and one-year window; 120 consideration allocation diagram; 150/100/50 assets, 120/80 liabilities and goodwill 20; identifiable-asset definition and correction example"]},
+    {"page":"T3:246","status":"pass","regions":["separately transferable intangible definition and examples; unidentifiable goodwill components; research-and-development allocation rule; prior/current treatment table and exclusion"]},
+    {"page":"T3:247","status":"pass","regions":["post-acquisition expected cost/loss liability rule; special-account accounting and reversal; transfer to other liability; fixed/current presentation and disclosures"]},
+    {"page":"T3:248","status":"pass","regions":["employee relocation/retraining example; 300 acquisition cost; 200 special account; balance-sheet amounts; payment and reversal entries; rationale and loss boundary"]},
+    {"page":"T3:249","status":"pass","regions":["specific examples for special-account liabilities: relocation/retraining, temporary retirement premium, contingent litigation, pollution/environmental work and asset disposal; margins and footer"]}
+  ],
+  "page_fidelity_matrix": [
+    {"pages":["T3:230","T3:231","T3:232","T3:233","T3:234"],"sections":["取得企業の決定方法","現金・株式対価","逆取得","取得企業決定フロー"],"result":"pass"},
+    {"pages":["T3:235","T3:236","T3:237","T3:238"],"sections":["取得原価の基本原則","市場価格株式","逆取得","段階取得"],"result":"pass"},
+    {"pages":["T3:239","T3:240","T3:241","T3:242","T3:243","T3:244"],"sections":["取得関連費用","条件付取得対価","将来業績依存","株式・社債市場価格依存"],"result":"pass"},
+    {"pages":["T3:245","T3:246","T3:247","T3:248","T3:249"],"sections":["取得原価の配分","識別可能資産・負債","無形資産・研究開発費","企業結合に係る特定勘定"],"result":"pass"}
+  ],
+  "numerical_checks": [
+    {"pages":["T3:231","T3:232"],"check":"P/S exchange preserves 100 received, 300 delivered and 25%/75% ownership; ordinary 1:0.2 and reverse 1:3 ratios retain approximately 83%/17% and 25%/75%.","result":"pass"},
+    {"pages":["T3:235","T3:237"],"check":"Cost examples preserve 100 assets, 40 liabilities, 70 cash/stock consideration, 60 net assets; reverse acquisition preserves 20/100 shares, 25/80 prices, 0.8 ratio and 25×80=2,000.","result":"pass"},
+    {"pages":["T3:242","T3:243","T3:244"],"check":"Contingent-consideration examples preserve 70, 60, 20, 10, 5-year goodwill, 100@1,000, 25@800, 20,000 offsets, two bonds at 45/45, 90/60/30 and 7.5/3.75 amortization.","result":"pass"},
+    {"pages":["T3:245","T3:248"],"check":"Allocation and special-account examples preserve 120/150/100/50/120/80/20 and 300 acquisition cost, 200 assets/expenses/special account, 400 liabilities and 200 goodwill.","result":"pass"}
+  ],
+  "diagram_checks": [
+    {"pages":["T3:230","T3:231","T3:232","T3:233","T3:234"],"check":"Control, stock exchange, cash/stock consideration, reverse acquisition and acquisition-company decision flow diagrams retain actors, direction, ratios and decision consequences.","result":"pass"},
+    {"pages":["T3:236","T3:237","T3:238"],"check":"Announcement-date stock-price timeline, reverse-acquisition actual/assumed structures and step-acquisition view comparison retain timing, ownership and accounting perspective.","result":"pass"},
+    {"pages":["T3:239","T3:241","T3:243","T3:244"],"check":"Acquisition-cost equivalence, goodwill/consideration changes, stock/bond price adjustments and future amortization retain causal relationships and amounts.","result":"pass"},
+    {"pages":["T3:245","T3:246","T3:247","T3:248"],"check":"Allocation, transferable-intangible and special-account diagrams/tables retain asset categories, recognition conditions, timing and accounting consequences.","result":"pass"}
+  ],
+  "false_proposition_checks": {"status":"not_applicable","result":"This theory batch contains no question-and-answer false-proposition set; ordinary/reverse, current/prior, additional/return, identifiable/unidentifiable and fixed/current boundaries remain explicitly qualified."},
+  "findings": [
+    "All 20 designated processing images were reopened at readable resolution and compared with the six bounded continuation chunks, including margins, sidebars, footers, tables, diagrams, formulas, journal-entry lines, examples, amounts and conditions.",
+    "The batch is wholly 第38章第3節『取得の会計処理』. The first page begins at the section head and the last page ends with the listed special-account examples; the inventory boundary review confirms no example, table, diagram or condition is stranded at the range boundary.",
+    "The chunks preserve the chapter/section hierarchy, Japanese source titles, physical and printed locators, source distinctions and accounting entries. No bold, Cloze, Front/Back, integration or card output was created.",
+    "Diagram-only meaning was represented as explicit prose, tables, formulas, actor/ownership flows and accounting consequences; source media was not added to the repository.",
+    "The designated T3 JPGs were the content authority. The PDF was used only as a bounded transcription aid and identity cross-check; no web, other textbook, general-knowledge or OCR content was used to supplement the chunks."
+  ],
+  "corrections": [
+    "Normalized spacing and visually confirmed the PDF-aided transcription against every designated image while retaining source conditions, labels, amounts, percentages, journal-entry directions and current/prior distinctions.",
+    "Resolved all visual review questions before PASS; no unresolved marker, out-of-scope page or unlabelled false statement remains."
+  ],
+  "unresolved_count": 0,
+  "checks": {
+    "numerical":"pass",
+    "diagram":"pass",
+    "false_proposition":"not_applicable",
+    "json_parse":"pass",
+    "git_diff_check":"pass",
+    "semantic_verdict":"PASS",
+    "automatic_check_boundary":"Schema, scope, ordering and hash checks do not independently prove image-to-text completeness; this PASS is based on the recorded full-page visual review plus those checks."
+  },
+  "dependency_commits": [
+    "a2fb2bb829d112522128cdb145523302e9d1e7fd",
+    "cccf7c381768b18116d49e4847dac5df2b01506c",
+    "0034627e759ba83225ae91dbc5cba1c1825ba3a6"
+  ]
+}

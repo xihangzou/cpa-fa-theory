@@ -1,0 +1,112 @@
+{
+  "batch_id": "JPG-T3-C013",
+  "source_id": "T3",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-T3-C013-S01",
+      "batch_id": "JPG-T3-C013",
+      "chapter": "38",
+      "section": "38.3",
+      "title": "第3節 取得の会計処理",
+      "expected_pages": ["T3:230", "T3:231", "T3:232", "T3:233"],
+      "processing_pages": ["T3:230", "T3:231", "T3:232", "T3:233"],
+      "output": "chunks/JPG-T3-C013/JPG-T3-C013-S01.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T3:230", "printed_page": "㊳－9", "source_region": "第3節タイトル、1.取得企業の決定方法、(1)基本的な考え方、支配概念の図表", "destination_heading": "## 第3節 取得の会計処理"},
+        {"page": "T3:231", "printed_page": "㊳－10", "source_region": "(2)連結会計基準で取得企業が明確にならない場合、P社・S社の株式交換図表", "destination_heading": "## 第3節 取得の会計処理"},
+        {"page": "T3:232", "printed_page": "㊳－11", "source_region": "考慮する要素1・2、現金対価・株式対価、通常取得と逆取得の図表", "destination_heading": "## 第3節 取得の会計処理"},
+        {"page": "T3:233", "printed_page": "㊳－12", "source_region": "追加考慮要素a～e、相対的規模、3社以上の場合、取得企業決定フローチャートへの要素", "destination_heading": "## 第3節 取得の会計処理"}
+      ],
+      "chunk_sha256": "e9bf2eb2f16cd9fa6519c4bb8992bc7d1fb4108097a62f74591e7bb115c650c7"
+    },
+    {
+      "id": "JPG-T3-C013-S02",
+      "batch_id": "JPG-T3-C013",
+      "chapter": "38",
+      "section": "38.3",
+      "title": "第3節 取得の会計処理",
+      "expected_pages": ["T3:234", "T3:235", "T3:236", "T3:237", "T3:238"],
+      "processing_pages": ["T3:234", "T3:235", "T3:236", "T3:237", "T3:238"],
+      "output": "chunks/JPG-T3-C013/JPG-T3-C013-S02.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T3:234", "printed_page": "㊳－13", "source_region": "取得企業決定フロー、2.取得原価の算定、基本原則の導入", "destination_heading": "## 第3節 取得の会計処理"},
+        {"page": "T3:235", "printed_page": "㊳－14", "source_region": "基本原則、現金・株式対価の取得原価表、A社・B社の仕訳と株式対価", "destination_heading": "## 第3節 取得の会計処理"},
+        {"page": "T3:236", "printed_page": "㊳－15", "source_region": "市場価格株式の現行・従来見解、合意公表日と企業結合日の株価、論拠", "destination_heading": "## 第3節 取得の会計処理"},
+        {"page": "T3:237", "printed_page": "㊳－16", "source_region": "逆取得の会計処理、A社・B社の設例、議決権比率20%・80%と取得原価2,000", "destination_heading": "## 第3節 取得の会計処理"},
+        {"page": "T3:238", "printed_page": "㊳－17", "source_region": "段階取得の取得原価、個別・連結処理、見解①・②と平成20年公開草案", "destination_heading": "## 第3節 取得の会計処理"}
+      ],
+      "chunk_sha256": "58b3c823fce938852e9ac6a5820947e52da89486810046eca7ef7a8f9e5ffef6"
+    },
+    {
+      "id": "JPG-T3-C013-S03",
+      "batch_id": "JPG-T3-C013",
+      "chapter": "38",
+      "section": "38.3",
+      "title": "第3節 取得の会計処理",
+      "expected_pages": ["T3:239", "T3:240", "T3:241", "T3:242"],
+      "processing_pages": ["T3:239", "T3:240", "T3:241", "T3:242"],
+      "output": "chunks/JPG-T3-C013/JPG-T3-C013-S03.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T3:239", "printed_page": "㊳－18", "source_region": "段階取得の見解、取得関連費用、現行・従来の根拠と110・150の投資原価回収図", "destination_heading": "## 第3節 取得の会計処理"},
+        {"page": "T3:240", "printed_page": "㊳－19", "source_region": "取得関連費用の注記、条件付取得対価の定義と二分類、業績・市場価格依存の補足", "destination_heading": "## 第3節 取得の会計処理"},
+        {"page": "T3:241", "printed_page": "㊳－20", "source_region": "将来業績依存の条件付取得対価、追加認識・返還、企業結合時と追加交付時の図", "destination_heading": "## 第3節 取得の会計処理"},
+        {"page": "T3:242", "printed_page": "㊳－21", "source_region": "将来業績依存の具体例、A社・B社貸借対照表、現金20追加、のれん償却・返還例", "destination_heading": "## 第3節 取得の会計処理"}
+      ],
+      "chunk_sha256": "fb20ffd23fe5e429fc4d63542dd11ea0fee10ebea0b6873eedb74223c9794f29"
+    },
+    {
+      "id": "JPG-T3-C013-S04",
+      "batch_id": "JPG-T3-C013",
+      "chapter": "38",
+      "section": "38.3",
+      "title": "第3節 取得の会計処理",
+      "expected_pages": ["T3:243", "T3:244"],
+      "processing_pages": ["T3:243", "T3:244"],
+      "output": "chunks/JPG-T3-C013/JPG-T3-C013-S04.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T3:243", "printed_page": "㊳－22", "source_region": "特定の株式又は社債の市場価格依存、株式の修正・追加交付図、株式25株・@800の具体例", "destination_heading": "## 第3節 取得の会計処理"},
+        {"page": "T3:244", "printed_page": "㊳－23", "source_region": "特定の社債の具体例、社債2口・額面45・時価45、追加1口、償却原価法と仕訳", "destination_heading": "## 第3節 取得の会計処理"}
+      ],
+      "chunk_sha256": "3b2dea7a7f66c632b953a1a49be8d27a43c03399e06ab63dbc4b7ddac8e284e6"
+    },
+    {
+      "id": "JPG-T3-C013-S05",
+      "batch_id": "JPG-T3-C013",
+      "chapter": "38",
+      "section": "38.3",
+      "title": "第3節 取得の会計処理",
+      "expected_pages": ["T3:245", "T3:246"],
+      "processing_pages": ["T3:245", "T3:246"],
+      "output": "chunks/JPG-T3-C013/JPG-T3-C013-S05.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T3:245", "printed_page": "㊳－24", "source_region": "3.取得原価の配分方法、基本原則、取得原価120の資産・負債配分図と仕訳、識別可能資産・負債", "destination_heading": "## 第3節 取得の会計処理"},
+        {"page": "T3:246", "printed_page": "㊳－25", "source_region": "譲渡可能な無形資産、識別不能資産、研究開発費への配分、従来・現行の比較", "destination_heading": "## 第3節 取得の会計処理"}
+      ],
+      "chunk_sha256": "4d83d7295fe4e2ea3fe77cf28db6d81cb781c4cdb39419b748d2caa44e976376"
+    },
+    {
+      "id": "JPG-T3-C013-S06",
+      "batch_id": "JPG-T3-C013",
+      "chapter": "38",
+      "section": "38.3",
+      "title": "第3節 取得の会計処理",
+      "expected_pages": ["T3:247", "T3:248", "T3:249"],
+      "processing_pages": ["T3:247", "T3:248", "T3:249"],
+      "output": "chunks/JPG-T3-C013/JPG-T3-C013-S06.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T3:247", "printed_page": "㊳－26", "source_region": "取得後に発生する費用・損失、企業結合に係る特定勘定の認識・取崩し・表示", "destination_heading": "## 第3節 取得の会計処理"},
+        {"page": "T3:248", "printed_page": "㊳－27", "source_region": "配置転換・再教育費用200の設例、貸借対照表、認識時と1年後の仕訳、論拠", "destination_heading": "## 第3節 取得の会計処理"},
+        {"page": "T3:249", "printed_page": "㊳－28", "source_region": "特定勘定として負債計上する費用又は損失の具体例、配置転換・退職金・偶発債務・公害対策・資産処分", "destination_heading": "## 第3節 取得の会計処理"}
+      ],
+      "chunk_sha256": "459b2a237af024e497394f1302c61bc8caf9e6df5183ed356e3f463bb4ef0a45"
+    }
+  ],
+  "review": "reviews/JPG-T3-C013.json"
+}
