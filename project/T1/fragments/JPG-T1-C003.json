@@ -1,0 +1,150 @@
+{
+  "batch_id": "JPG-T1-C003",
+  "source_id": "T1",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-T1-C003-S01",
+      "batch_id": "JPG-T1-C003",
+      "chapter": "02",
+      "section": "02.1",
+      "title": "第1節 一般原則の体系",
+      "expected_pages": ["T1:041", "T1:042"],
+      "processing_pages": ["T1:041", "T1:042"],
+      "output": "chunks/JPG-T1-C003/JPG-T1-C003-S01.md",
+      "status": "pass",
+      "chunk_sha256": "d95698bdc2c3e44471d29afca5aaeab4b6f172bb4ec6631d00bd0abf8b1c63fb",
+      "locators": [
+        {"page": "T1:041", "printed_page": null, "source_region": "第2章の章扉、章タイトル・評価、短答式および論文式本試験の出題実績表", "destination_heading": "## 第1節 一般原則の体系"},
+        {"page": "T1:042", "printed_page": "②－1", "source_region": "第1節の扉、1.一般原則の体系、一般原則と損益計算書原則・貸借対照表原則の上下関係、2.一般原則の全体像、原則間の関係図", "destination_heading": "## 第1節 一般原則の体系"}
+      ]
+    },
+    {
+      "id": "JPG-T1-C003-S02",
+      "batch_id": "JPG-T1-C003",
+      "chapter": "02",
+      "section": "02.2",
+      "title": "第2節 真実性の原則",
+      "expected_pages": ["T1:043"],
+      "processing_pages": ["T1:043"],
+      "output": "chunks/JPG-T1-C003/JPG-T1-C003-S02.md",
+      "status": "pass",
+      "chunk_sha256": "0ed4c37c9c264f37baa994c33ce46a3c668eb7545681f668e93c091866ba8dac",
+      "locators": [
+        {"page": "T1:043", "printed_page": "②－2", "source_region": "第2節の扉、企業会計原則第一一の規定、1.真実性の原則の位置付け、2.真実性の意味内容の表、固定資産配分の脚注", "destination_heading": "## 第2節 真実性の原則"}
+      ]
+    },
+    {
+      "id": "JPG-T1-C003-S03",
+      "batch_id": "JPG-T1-C003",
+      "chapter": "02",
+      "section": "02.3",
+      "title": "第3節 正規の簿記の原則",
+      "expected_pages": ["T1:044", "T1:045", "T1:046"],
+      "processing_pages": ["T1:044", "T1:045", "T1:046"],
+      "output": "chunks/JPG-T1-C003/JPG-T1-C003-S03.md",
+      "status": "pass",
+      "chunk_sha256": "616bea4663832178bb5ce672c102e4023a8866554b32268d4031bc5dab49d2ae",
+      "locators": [
+        {"page": "T1:044", "printed_page": "②－3", "source_region": "第3節の扉、規定、1.正規の簿記の原則の意味内容、記録の網羅性・検証可能性・秩序性の表、仕訳帳と総勘定元帳の関係図", "destination_heading": "## 第3節 正規の簿記の原則"},
+        {"page": "T1:045", "printed_page": "②－4", "source_region": "(2)会計帳簿と財務諸表の有機的関連性、誘導作成と棚卸法の否定、発生取引から財務諸表までの流れ図、2.簿外資産・簿外負債との関係、重要性の乏しい貯蔵品の費用処理", "destination_heading": "## 第3節 正規の簿記の原則"},
+        {"page": "T1:046", "printed_page": "②－5", "source_region": "補足・貸借対照表完全性の原則の規定と関係説明、3.複式簿記との関係、現金出納帳の4/1売上10,000・4/2水道光熱費2,300の例と単式簿記の説明", "destination_heading": "## 第3節 正規の簿記の原則"}
+      ]
+    },
+    {
+      "id": "JPG-T1-C003-S04",
+      "batch_id": "JPG-T1-C003",
+      "chapter": "02",
+      "section": "02.4",
+      "title": "第4節 資本取引・損益取引区分の原則",
+      "expected_pages": ["T1:047", "T1:048", "T1:049"],
+      "processing_pages": ["T1:047", "T1:048", "T1:049"],
+      "output": "chunks/JPG-T1-C003/JPG-T1-C003-S04.md",
+      "status": "pass",
+      "chunk_sha256": "1fc30136f411822bb6f4e5129db645c22cc5dcd222da5c7bcc7e3f94555b1c65",
+      "locators": [
+        {"page": "T1:047", "printed_page": "②－6", "source_region": "第4節の扉、規定、1.原則の意味内容、2.(1)資本取引と損益取引の相違、増資・配当・仕入・販売の仕訳と貸借対照表・損益計算書の例", "destination_heading": "## 第4節 資本取引・損益取引区分の原則"},
+        {"page": "T1:048", "printed_page": "②－7", "source_region": "2.(2)区分する理由、期間損益と情報提供機能、新株発行費用の扱い、3.(1)資本剰余金と利益剰余金の意義", "destination_heading": "## 第4節 資本取引・損益取引区分の原則"},
+        {"page": "T1:049", "printed_page": "②－8", "source_region": "3.(2)区分する理由、利害調整・分配可能性の図、理論上と現行制度上の取扱い表、情報提供機能と健全運営の説明", "destination_heading": "## 第4節 資本取引・損益取引区分の原則"}
+      ]
+    },
+    {
+      "id": "JPG-T1-C003-S05",
+      "batch_id": "JPG-T1-C003",
+      "chapter": "02",
+      "section": "02.5",
+      "title": "第5節 明瞭性の原則",
+      "expected_pages": ["T1:050", "T1:051", "T1:052", "T1:053", "T1:054", "T1:055"],
+      "processing_pages": ["T1:050", "T1:051", "T1:052", "T1:053", "T1:054", "T1:055"],
+      "output": "chunks/JPG-T1-C003/JPG-T1-C003-S05.md",
+      "status": "pass",
+      "chunk_sha256": "3e1e77aeef2cc010f4ef2ceb0f50dac04a4c8c0c0d6983bebf85934a34705d63",
+      "locators": [
+        {"page": "T1:050", "printed_page": "②－9", "source_region": "第5節の扉、規定、1.明瞭性の意味内容、詳細性・概観性、2.(1)損益計算書・貸借対照表の報告式と勘定式の図", "destination_heading": "## 第5節 明瞭性の原則"},
+        {"page": "T1:051", "printed_page": "②－10", "source_region": "2.(2)附属明細表の定義、財務諸表等規則・連結財務諸表規則・会社計算規則の一覧、引当金明細表の数値例、注記の定義", "destination_heading": "## 第5節 明瞭性の原則"},
+        {"page": "T1:052", "printed_page": "②－11", "source_region": "2.(3)会計方針の注記、7項目の例、重要性による省略、※1〜※5の評価・処理・換算・引当金・収益費用の説明、その他基本事項", "destination_heading": "## 第5節 明瞭性の原則"},
+        {"page": "T1:053", "printed_page": "②－12", "source_region": "会計方針の記載場所、金融商品取引法会計・会社法会計の表、開示目的、基準が明らかでない場合、後発事象の定義と5例", "destination_heading": "## 第5節 明瞭性の原則"},
+        {"page": "T1:054", "printed_page": "②－13", "source_region": "後発事象の時系列図、重要な後発事象の注記の必要性、修正後発事象・開示後発事象の比較表と例、その他重要事項の導入", "destination_heading": "## 第5節 明瞭性の原則"},
+        {"page": "T1:055", "printed_page": "②－14", "source_region": "追加情報、継続企業の前提と4つの注記事項、重要な不確実性が解消した場合、注記の順序規定と3つの順序図", "destination_heading": "## 第5節 明瞭性の原則"}
+      ]
+    },
+    {
+      "id": "JPG-T1-C003-S06",
+      "batch_id": "JPG-T1-C003",
+      "chapter": "02",
+      "section": "02.6",
+      "title": "第6節 継続性の原則",
+      "expected_pages": ["T1:056", "T1:057"],
+      "processing_pages": ["T1:056", "T1:057"],
+      "output": "chunks/JPG-T1-C003/JPG-T1-C003-S06.md",
+      "status": "pass",
+      "chunk_sha256": "f180cdc3bbb62cc0a4151d16dc1ff0daad3a55963e6113f7edc2f48d7a39909c",
+      "locators": [
+        {"page": "T1:056", "printed_page": "②－15", "source_region": "第6節の扉、規定、1.継続性の意味内容と必要性、総平均法・先入先出法の100円・120円・140円・240円・220円例、期間比較可能性の補足", "destination_heading": "## 第6節 継続性の原則"},
+        {"page": "T1:057", "printed_page": "②－16", "source_region": "2.継続性の前提、複数の認められた会計方針、4種類の変更パターン図、3.正当な理由による会計方針変更", "destination_heading": "## 第6節 継続性の原則"}
+      ]
+    },
+    {
+      "id": "JPG-T1-C003-S07",
+      "batch_id": "JPG-T1-C003",
+      "chapter": "02",
+      "section": "02.7",
+      "title": "第7節 保守主義の原則",
+      "expected_pages": ["T1:058", "T1:059", "T1:060"],
+      "processing_pages": ["T1:058", "T1:059", "T1:060"],
+      "output": "chunks/JPG-T1-C003/JPG-T1-C003-S07.md",
+      "status": "pass",
+      "chunk_sha256": "e195b8b7c220115fea3dc312b5ca577f5736fd3bcc906c5594d81efb2e55c823",
+      "locators": [
+        {"page": "T1:058", "printed_page": "②－17", "source_region": "第7節の扉、規定、1.保守主義の意味内容・必要性、2.定率法・収益的支出・部分純資産直入法の適用例", "destination_heading": "## 第7節 保守主義の原則"},
+        {"page": "T1:059", "printed_page": "②－18", "source_region": "3.保守主義適用の留意点、複数処理からの選択、経済的実態の優先、貸倒実績率1〜2%から2%を選ぶ例、4.真実性との関係の規定", "destination_heading": "## 第7節 保守主義の原則"},
+        {"page": "T1:060", "printed_page": "②－19", "source_region": "保守主義と真実性の関係、過度の保守主義の禁止、利益操作の注記、両原則のベン図、一般に公正妥当な減価償却方法から最も保守的な方法を選ぶ図", "destination_heading": "## 第7節 保守主義の原則"}
+      ]
+    },
+    {
+      "id": "JPG-T1-C003-S08",
+      "batch_id": "JPG-T1-C003",
+      "chapter": "02",
+      "section": "02.8",
+      "title": "第8節 単一性の原則",
+      "expected_pages": ["T1:061"],
+      "processing_pages": ["T1:061"],
+      "output": "chunks/JPG-T1-C003/JPG-T1-C003-S08.md",
+      "status": "pass",
+      "chunk_sha256": "eaf79920aec7cc0ebfa0aeaa54866c8efafbfccceefa0bfc73bd41b47c672234",
+      "locators": [
+        {"page": "T1:061", "printed_page": "②－20", "source_region": "第8節の扉、規定、二重帳簿の禁止・実質一元形式多元の説明、株主総会・信用・税務申告・その他目的への流れ図", "destination_heading": "## 第8節 単一性の原則"}
+      ]
+    }
+  ],
+  "review": "reviews/JPG-T1-C003.json",
+  "excluded_pages": [],
+  "source_scope": {
+    "source_id": "T1",
+    "physical_range": "T1:041-T1:061",
+    "processing_range": "T1:041-T1:061",
+    "chapter": "02",
+    "title": "一般原則",
+    "content_authority": "designated existing JPGs only"
+  }
+}

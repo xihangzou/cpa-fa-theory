@@ -1,0 +1,91 @@
+{
+  "batch_id": "JPG-T1-C003",
+  "source_id": "T1",
+  "status": "pass",
+  "source_images": [
+    {"page": "T1:041", "sha256": "3eb47c92da0c76861a89ea8b2cdbaa5522487d7bb4a37c1914379405885e0fac"},
+    {"page": "T1:042", "sha256": "a267b3686f356a220e4ec517e57c1e1cd42719adf572b386b761eca95a813739"},
+    {"page": "T1:043", "sha256": "66a4215db10d4a2b5f039a57d7f1d534906c79da4fc30513d05bce17f249a15a"},
+    {"page": "T1:044", "sha256": "30bd8fd930c7df9a65d62b628a6740a75f7a32bb288d80bc07db1e2cb85c48cf"},
+    {"page": "T1:045", "sha256": "120f5bce4f930e7de65c0251af29a3e1bfa524d0c997be95ef7ea78216b022d9"},
+    {"page": "T1:046", "sha256": "e8bf3ef27534f202a68165eba2fab9e795d491e3902ba3ce785fd4ab68867539"},
+    {"page": "T1:047", "sha256": "95dc12ec59d488740c913089110850830479f4d059d0fe91a2541747763710f9"},
+    {"page": "T1:048", "sha256": "2b15fe4b1786ff72349f5e433a14b7f34f712ec65ab9ac6b6f7eb63c0bc569f4"},
+    {"page": "T1:049", "sha256": "4289dcdc57380f96cfc233ccf90d6e2b777c6ff3bdf635e5ec245a5b6ba566d8"},
+    {"page": "T1:050", "sha256": "6e84281e5b9d57d57ebd445ad6eda1899988eaf1ae56456d336b0ee87efecd3d"},
+    {"page": "T1:051", "sha256": "12c09f7cd5b1cce46f944fb91262b6d92d38ed861d274385cc9c0ba0239f7d54"},
+    {"page": "T1:052", "sha256": "e04d4aa8befc3b9951b00d01fb1db006b14793c698b1aba130dd6fc4e406faf3"},
+    {"page": "T1:053", "sha256": "a24690a85da06cde078c6254f2f9df7387e03e3dfbd3a7c0971555c09ab42246"},
+    {"page": "T1:054", "sha256": "f46194ab7079685f37cb09f404ff461bb366b0a78e506734453da1c27423eeac"},
+    {"page": "T1:055", "sha256": "62f96239a6de306e52137509420671b3ff37490089b00ad3f6d87f46f9c43be6"},
+    {"page": "T1:056", "sha256": "19484cf3307582b81b3888a709cfbeea968d6c83aed80de2c52b1e28721f6f1d"},
+    {"page": "T1:057", "sha256": "142f9850dd7d56548964c53a575684917a7460c0e918957246679d9755d1bf1d"},
+    {"page": "T1:058", "sha256": "b1b16e8c41ee304330e795cb87d6bc86ee078a6d810b6b1acde7ba05c46fe67a"},
+    {"page": "T1:059", "sha256": "680596e1d5cf14b7b4e3f44e12c2898ab05a4bafbe7cd94adfb45677249af26a"},
+    {"page": "T1:060", "sha256": "0bd8b942d4d800392550519e5229bacd6e7912ea997c018f8acad8d54fe6d342"},
+    {"page": "T1:061", "sha256": "9e7f6f34630262a376a7a351ce29786c7e5cbe166fc82040c60201d5cf7c2ecd"}
+  ],
+  "section_outputs": [
+    {"task": "JPG-T1-C003-S01", "chunk_sha256": "d95698bdc2c3e44471d29afca5aaeab4b6f172bb4ec6631d00bd0abf8b1c63fb"},
+    {"task": "JPG-T1-C003-S02", "chunk_sha256": "0ed4c37c9c264f37baa994c33ce46a3c668eb7545681f668e93c091866ba8dac"},
+    {"task": "JPG-T1-C003-S03", "chunk_sha256": "616bea4663832178bb5ce672c102e4023a8866554b32268d4031bc5dab49d2ae"},
+    {"task": "JPG-T1-C003-S04", "chunk_sha256": "1fc30136f411822bb6f4e5129db645c22cc5dcd222da5c7bcc7e3f94555b1c65"},
+    {"task": "JPG-T1-C003-S05", "chunk_sha256": "3e1e77aeef2cc010f4ef2ceb0f50dac04a4c8c0c0d6983bebf85934a34705d63"},
+    {"task": "JPG-T1-C003-S06", "chunk_sha256": "f180cdc3bbb62cc0a4151d16dc1ff0daad3a55963e6113f7edc2f48d7a39909c"},
+    {"task": "JPG-T1-C003-S07", "chunk_sha256": "e195b8b7c220115fea3dc312b5ca577f5736fd3bcc906c5594d81efb2e55c823"},
+    {"task": "JPG-T1-C003-S08", "chunk_sha256": "eaf79920aec7cc0ebfa0aeaa54866c8efafbfccceefa0bfc73bd41b47c672234"}
+  ],
+  "coverage": [
+    {"page": "T1:041", "regions": ["chapter divider and exam-history tables"], "status": "pass"},
+    {"page": "T1:042", "regions": ["section 1 definition and hierarchy diagram", "section 2 overall six-principle diagram"], "status": "pass"},
+    {"page": "T1:043", "regions": ["quoted rule", "truthfulness definition", "relative-truth reasons table and footnote"], "status": "pass"},
+    {"page": "T1:044", "regions": ["quoted rule", "three bookkeeping requirements table", "journal-to-ledger diagram"], "status": "pass"},
+    {"page": "T1:045", "regions": ["ledger-to-statements flow", "inventory method boundary", "off-book asset/liability exception"], "status": "pass"},
+    {"page": "T1:046", "regions": ["balance-sheet completeness supplement", "single-entry cashbook example", "scope of double-entry"], "status": "pass"},
+    {"page": "T1:047", "regions": ["quoted rule", "capital/profit transaction definitions", "four journal-entry and balance-sheet examples"], "status": "pass"},
+    {"page": "T1:048", "regions": ["period-profit rationale", "stock-issue-cost restriction", "capital/profit surplus definitions"], "status": "pass"},
+    {"page": "T1:049", "regions": ["distribution-protection diagram", "theory/current treatment table", "information and sound-management rationale"], "status": "pass"},
+    {"page": "T1:050", "regions": ["quoted rule", "clarity definition", "detail/overview balance", "reported/account form diagrams"], "status": "pass"},
+    {"page": "T1:051", "regions": ["supplementary-schedule definition and regime table", "allowance numerical table", "note definition"], "status": "pass"},
+    {"page": "T1:052", "regions": ["accounting-policy note rule and seven examples", "exceptions and notes 1-5", "other basic matters"], "status": "pass"},
+    {"page": "T1:053", "regions": ["policy-note locations table", "disclosure purpose", "subsequent-event definition and five examples"], "status": "pass"},
+    {"page": "T1:054", "regions": ["subsequent-event timeline", "disclosure rationale", "adjusting/non-adjusting comparison"], "status": "pass"},
+    {"page": "T1:055", "regions": ["additional information", "going-concern four-item list", "note-order rules and three diagrams"], "status": "pass"},
+    {"page": "T1:056", "regions": ["quoted rule", "continuity definition and profit-manipulation example", "comparability supplement"], "status": "pass"},
+    {"page": "T1:057", "regions": ["continuity prerequisites", "four change-pattern cases", "legitimate-reason rule"], "status": "pass"},
+    {"page": "T1:058", "regions": ["quoted rule", "conservatism definition and rationale", "three application examples"], "status": "pass"},
+    {"page": "T1:059", "regions": ["two application cautions", "1-2% loss-rate example", "quoted truthfulness constraint"], "status": "pass"},
+    {"page": "T1:060", "regions": ["conservatism/truthfulness relation", "excess-conservatism prohibition", "overlap and depreciation-method diagrams"], "status": "pass"},
+    {"page": "T1:061", "regions": ["quoted rule", "substance-one/form-multiple definition", "purpose-specific statements flow diagram"], "status": "pass"}
+  ],
+  "findings": [
+    "All 21 designated processing JPGs were reopened at readable resolution and matched to the section chunks.",
+    "All source definitions, distinctions, conditions, exceptions, timing, reasons, procedures, tables, entries, numerical examples and diagram-only relationships were represented.",
+    "The batch begins with a chapter divider and ends at the complete section 8 page; no substantive content crosses either boundary.",
+    "This theory chapter contains no question/answer or false-proposition layout; that specialized check is not applicable."
+  ],
+  "corrections": [],
+  "checks": {
+    "numerical": "pass",
+    "diagram": "pass",
+    "false_proposition": "not_applicable"
+  },
+  "unresolved_count": 0,
+  "reviewer_model": "current execution model; no model switch",
+  "dependency_commits": [
+    "a2fb2bb829d112522128cdb145523302e9d1e7fd",
+    "1fd8a963ef32e09b5f3f08ecd7d5bb7cc2240a94",
+    "7507151c638a73a41fc13b9d4c4481c8888307e0"
+  ],
+  "source_revision": {
+    "verified_main_commit": "0034627e759ba83225ae91dbc5cba1c1825ba3a6",
+    "source_catalog_sha256": "8358e9cffb068f63df0bdfcc8f99be035e66454ac8710d381f0ff9eb87728079",
+    "page_plan_sha256": "997a7280b171df5803c2a3bb7c2ee8764082e01f3bdb03c194b9129fe18d26c9",
+    "source_manifest_sha256": "760f946d08e1eebf2d79c189103ac2e627f0bb2569dcd80055885fb8b97324cd",
+    "source_map_sha256": "3ff42e94bd9f8751f8100c6ff251740a46f67182c468af620438c9768f14b961",
+    "batch_manifest_sha256": "125ff5fee8f8271b82c3258ced501ed4411b4071b930f08f1ed682e72c2628c4",
+    "inventory_review_sha256": "83e2c59f059ffdec53fcb8fb83a5f1300d5cca0722dcf031db0b459bd7ab8c19",
+    "source_image_inventory_sha256": "331ad1ea2ca04d0636c2185b6ab1a8fe5240ebdd3f0c7c546c8703371d497929",
+    "source_pdf_sha256": "c09d9d91ce39de787cab04e146719d95b638134399d57112802ffacfa67243f3"
+  }
+}
