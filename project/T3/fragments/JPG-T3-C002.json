@@ -1,0 +1,83 @@
+{
+  "batch_id": "JPG-T3-C002",
+  "source_id": "T3",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-T3-C002-S01",
+      "batch_id": "JPG-T3-C002",
+      "chapter": "33",
+      "section": "33.6",
+      "title": "第6節 有価証券",
+      "expected_pages": ["T3:031", "T3:032", "T3:033", "T3:034", "T3:035", "T3:036", "T3:037", "T3:038", "T3:039", "T3:040", "T3:041", "T3:042", "T3:043", "T3:044", "T3:045"],
+      "processing_pages": ["T3:031", "T3:032", "T3:033", "T3:034", "T3:035", "T3:036", "T3:037", "T3:038", "T3:039", "T3:040", "T3:041", "T3:042", "T3:043", "T3:044", "T3:045"],
+      "output": "chunks/JPG-T3-C002/JPG-T3-C002-S01.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T3:031", "printed_page": "㉝－24", "source_region": "第6節タイトル、1.有価証券の区分、有価証券の範囲補足、2.(1)売買目的有価証券の意義", "destination_heading": "## 第6節 有価証券"},
+        {"page": "T3:032", "printed_page": "㉝－25", "source_region": "2.(2)売買目的有価証券の会計処理、財務活動、事業遂行上の制約、売買目的有価証券の売却補足", "destination_heading": "## 第6節 有価証券"},
+        {"page": "T3:033", "printed_page": "㉝－26", "source_region": "3.満期保有目的の債券の意義、積極的な意思と能力、分類前提、会計処理、時価評価しない論拠", "destination_heading": "## 第6節 有価証券"},
+        {"page": "T3:034", "printed_page": "㉝－27", "source_region": "金利変動による価格変動リスク、現在価値計算、保有目的変更、償却原価法", "destination_heading": "## 第6節 有価証券"},
+        {"page": "T3:035", "printed_page": "㉝－28", "source_region": "4.(1)子会社株式及び関連会社株式の意義・会計処理、4.(2)時価評価しない論拠、個別上・連結上の図", "destination_heading": "## 第6節 有価証券"},
+        {"page": "T3:036", "printed_page": "㉝－29", "source_region": "子会社株式等への投資と事業投資の類似性の文章・図、5.(1)その他有価証券の意義、5.(2)会計処理と時価評価論拠", "destination_heading": "## 第6節 有価証券"},
+        {"page": "T3:037", "printed_page": "㉝－30", "source_region": "評価差額を純資産に直入する論拠、全部純資産直入法・部分純資産直入法、税効果、保守主義、洗替え法", "destination_heading": "## 第6節 有価証券"},
+        {"page": "T3:038", "printed_page": "㉝－31", "source_region": "その他有価証券に属する債券、評価差額処理の変更、親会社株式等、6.市場価格のない株式等", "destination_heading": "## 第6節 有価証券"},
+        {"page": "T3:039", "printed_page": "㉝－32", "source_region": "7.(1)時価のある有価証券の減損、切放し法、著しい下落の基準、回復見込みの判断", "destination_heading": "## 第6節 有価証券"},
+        {"page": "T3:040", "printed_page": "㉝－33", "source_region": "7.(2)市場価格のない株式等の減損、用語表、実質価額300と評価損400の図、減損債券、ゴルフ会員権", "destination_heading": "## 第6節 有価証券"},
+        {"page": "T3:041", "printed_page": "㉝－34", "source_region": "8.(1)保有目的変更の許容事由、8.(2)変更時の基本的な考え方、満期保有目的債券のテインティング・ルール", "destination_heading": "## 第6節 有価証券"},
+        {"page": "T3:042", "printed_page": "㉝－35", "source_region": "保有目的区分変更の振替価額・評価差額処理の全表と注記", "destination_heading": "## 第6節 有価証券"},
+        {"page": "T3:043", "printed_page": "㉝－36", "source_region": "9.(1)株主側の配当会計処理、配当する側・受ける側の仕訳、9.(2)帳簿価額減額の論拠、9.(3)売買目的の論拠と設例", "destination_heading": "## 第6節 有価証券"},
+        {"page": "T3:044", "printed_page": "㉝－37", "source_region": "未収配当金の市場価格有無別処理、10.貸借対照表表示区分の原則・表・注記", "destination_heading": "## 第6節 有価証券"},
+        {"page": "T3:045", "printed_page": "㉝－38", "source_region": "11.損益計算書表示区分、保有目的別売却損益表、評価損益表示、売買目的運用損益", "destination_heading": "## 第6節 有価証券"}
+      ],
+      "chunk_sha256": "be09a7f9492c4999f813a0dabf6972fc6dfcf42ef224a1dff67aea200beb181d"
+    },
+    {
+      "id": "JPG-T3-C002-S02",
+      "batch_id": "JPG-T3-C002",
+      "chapter": "33",
+      "section": "33.7",
+      "title": "第7節 運用目的の金銭の信託",
+      "expected_pages": ["T3:046", "T3:047"],
+      "processing_pages": ["T3:046", "T3:047"],
+      "output": "chunks/JPG-T3-C002/JPG-T3-C002-S02.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T3:046", "printed_page": "㉝－39", "source_region": "第7節タイトル、1.信託の定義・三者の流れ、2.(1)会計処理の背景、間接保有と時価の論拠", "destination_heading": "## 第7節 運用目的の金銭の信託"},
+        {"page": "T3:047", "printed_page": "㉝－40", "source_region": "間接運用図、2.(2)具体的処理、株式・預金・未収配当金の設例、委託時・決算時仕訳", "destination_heading": "## 第7節 運用目的の金銭の信託"}
+      ],
+      "chunk_sha256": "baa5fd1e4572864febf9f1995f211bb72fe673f9f7521cc686b3514db13f4afc"
+    },
+    {
+      "id": "JPG-T3-C002-S03",
+      "batch_id": "JPG-T3-C002",
+      "chapter": "33",
+      "section": "33.8",
+      "title": "第8節 デリバティブ取引",
+      "expected_pages": ["T3:048"],
+      "processing_pages": ["T3:048"],
+      "output": "chunks/JPG-T3-C002/JPG-T3-C002-S03.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T3:048", "printed_page": "㉝－41", "source_region": "第8節タイトル、デリバティブの定義・分類表、投機目的・ヘッジ目的、時価評価と損益処理、繰延ヘッジ注記", "destination_heading": "## 第8節 デリバティブ取引"}
+      ],
+      "chunk_sha256": "2e4b314f52ffc81d1461b1328154e26037272c0b82dd8e18d11de7e361426b31"
+    },
+    {
+      "id": "JPG-T3-C002-S04",
+      "batch_id": "JPG-T3-C002",
+      "chapter": "33",
+      "section": "33.9",
+      "title": "第9節 金銭債務",
+      "expected_pages": ["T3:049"],
+      "processing_pages": ["T3:049"],
+      "output": "chunks/JPG-T3-C002/JPG-T3-C002-S04.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T3:049", "printed_page": "㉝－42", "source_region": "第9節タイトル、金銭債務の基本処理、社債の償却原価法の差額理由図、金融資産・負債の相殺表示3要件", "destination_heading": "## 第9節 金銭債務"}
+      ],
+      "chunk_sha256": "b69f777223d1fc27aaa73e6242f73b0752a79f5705775edf5bd8e20871262982"
+    }
+  ],
+  "review": "reviews/JPG-T3-C002.json"
+}

@@ -1,0 +1,85 @@
+{
+  "status": "pass",
+  "batch_id": "JPG-T3-C002",
+  "source_id": "T3",
+  "reviewer_model": "GPT-5 (manual executor)",
+  "review_date": "2026-09-06",
+  "unresolved_count": 0,
+  "source_revision": {
+    "repository_commit": "61b5de2b5feccdb3952d8c5e499f240d58dd3d2c",
+    "source_pdf_sha256": "1d9f0124a0c8ef759526decc90a1a410f694e2b7fa992b430fc413e783df85bc",
+    "source_image_inventory_sha256": "8e0709aa6cd2d086d9df18627ae7eb466c20cdb59474bbef26038f03d9d40b24",
+    "catalog_image_inventory_sha256": "af94a7c1f91d1eb56611afc242360566950d6f93d5a6ac7d5271c5e8d3f9d170",
+    "batch_boundary_review_id": "JPG-T3-INV-BND-JPG-T3-C002"
+  },
+  "dependency_commits": [
+    "a2fb2bb829d112522128cdb145523302e9d1e7fd",
+    "cccf7c381768b18116d49e4847dac5df2b01506c",
+    "a5ef6597e2184c32b0bbe8197aebbfb93d97f710",
+    "0034627e759ba83225ae91dbc5cba1c1825ba3a6"
+  ],
+  "source_images": [
+    {"page": "T3:031", "printed_page": "㉝－24", "image": "pages/T3/page-031.jpg", "sha256": "a25e3cb30622e34181373c54ac6af96e9949aae1df6f2b112b5034df627731f9"},
+    {"page": "T3:032", "printed_page": "㉝－25", "image": "pages/T3/page-032.jpg", "sha256": "d119525a1018400814466877057a7d5828a67e36a53485c17726152db4d35aaf"},
+    {"page": "T3:033", "printed_page": "㉝－26", "image": "pages/T3/page-033.jpg", "sha256": "fc77dd133b8231eebec7627f5fa9e1bf762f3acd7d06bdcc747a3dbffb91911b"},
+    {"page": "T3:034", "printed_page": "㉝－27", "image": "pages/T3/page-034.jpg", "sha256": "d61ec7064c19deb268fded3fdfff390ee5e2bf75a339ec4b2628276ebeb26745"},
+    {"page": "T3:035", "printed_page": "㉝－28", "image": "pages/T3/page-035.jpg", "sha256": "d6c7a6bdd398f6c715d358d9f25a2db40d791384cc002bfd3306ae83d07245d4"},
+    {"page": "T3:036", "printed_page": "㉝－29", "image": "pages/T3/page-036.jpg", "sha256": "31444e3f84ffee0632323dae04c85ae20308e0498984460ede3579432610bd05"},
+    {"page": "T3:037", "printed_page": "㉝－30", "image": "pages/T3/page-037.jpg", "sha256": "765e3a37fd4a2ca67800fdd71fc9ff8e1ac5892925cfdb7962337d5900e5f2bb"},
+    {"page": "T3:038", "printed_page": "㉝－31", "image": "pages/T3/page-038.jpg", "sha256": "a8ce697d1ef72aa28948d65c5f2c49da87fd3f100bb675bb677af13ae09c6eef"},
+    {"page": "T3:039", "printed_page": "㉝－32", "image": "pages/T3/page-039.jpg", "sha256": "49af92d6c22a28c8f844cff6422a2fe64b7d407611f1cd962e122f1af709f4e6"},
+    {"page": "T3:040", "printed_page": "㉝－33", "image": "pages/T3/page-040.jpg", "sha256": "9ec890566eda170857d2da3a1945f137af18d01f75978636eab776039c8051c8"},
+    {"page": "T3:041", "printed_page": "㉝－34", "image": "pages/T3/page-041.jpg", "sha256": "9d341545ca429feb0eadcdc8cf83f447e693baf38d17eccc657b51089d869456"},
+    {"page": "T3:042", "printed_page": "㉝－35", "image": "pages/T3/page-042.jpg", "sha256": "4f1196f067651ce835875e856acb3661baa5c0ce59f6f954979d581b352c4868"},
+    {"page": "T3:043", "printed_page": "㉝－36", "image": "pages/T3/page-043.jpg", "sha256": "77699e8fde2c2d4f3e9e902bff80ae619a97d7520cd67f22f5d8655bdf118b63"},
+    {"page": "T3:044", "printed_page": "㉝－37", "image": "pages/T3/page-044.jpg", "sha256": "bb97dafebdb8c3a540eee0541289669a43ac90fb1b0b9e5eeb6afacfcbf9c7c4"},
+    {"page": "T3:045", "printed_page": "㉝－38", "image": "pages/T3/page-045.jpg", "sha256": "7ff222c7a6848f67765d8710f28ef49fbde47b15bf38ae89cfd46c4a909beba4"},
+    {"page": "T3:046", "printed_page": "㉝－39", "image": "pages/T3/page-046.jpg", "sha256": "91bd3e752cba408b5eb93a35a4e49cc9ac08f2fb5f75592a8aaca3d904688a9b"},
+    {"page": "T3:047", "printed_page": "㉝－40", "image": "pages/T3/page-047.jpg", "sha256": "f1b8dca8a878088a10578e461831fee7948976683fc67c965f6d014d90f7785f"},
+    {"page": "T3:048", "printed_page": "㉝－41", "image": "pages/T3/page-048.jpg", "sha256": "69894bcbcf9ae4712762b1c7f22f130a3c17ed5be6582c1e10d8c51701d25798"},
+    {"page": "T3:049", "printed_page": "㉝－42", "image": "pages/T3/page-049.jpg", "sha256": "3d23b8e692c809a959f124da051387a02c6826fd493d79b56ed94e65dd2d2ee5"}
+  ],
+  "section_outputs": [
+    {"task": "JPG-T3-C002-S01", "chunk": "project/T3/chunks/JPG-T3-C002/JPG-T3-C002-S01.md", "chunk_sha256": "be09a7f9492c4999f813a0dabf6972fc6dfcf42ef224a1dff67aea200beb181d"},
+    {"task": "JPG-T3-C002-S02", "chunk": "project/T3/chunks/JPG-T3-C002/JPG-T3-C002-S02.md", "chunk_sha256": "baa5fd1e4572864febf9f1995f211bb72fe673f9f7521cc686b3514db13f4afc"},
+    {"task": "JPG-T3-C002-S03", "chunk": "project/T3/chunks/JPG-T3-C002/JPG-T3-C002-S03.md", "chunk_sha256": "2e4b314f52ffc81d1461b1328154e26037272c0b82dd8e18d11de7e361426b31"},
+    {"task": "JPG-T3-C002-S04", "chunk": "project/T3/chunks/JPG-T3-C002/JPG-T3-C002-S04.md", "chunk_sha256": "b69f777223d1fc27aaa73e6242f73b0752a79f5705775edf5bd8e20871262982"}
+  ],
+  "coverage": [
+    {"page": "T3:031", "status": "pass", "regions": ["section 6 title and sections 1-2 definitions; scope supplement; margins and footer checked"]},
+    {"page": "T3:032", "status": "pass", "regions": ["sales accounting table; financial activity; both business-constraint diagrams; sale inference box; margins and footer checked"]},
+    {"page": "T3:033", "status": "pass", "regions": ["maturity-bond definition, intention/capacity supplements, classification premise, accounting and no-fair-value rationale; margins and footer checked"]},
+    {"page": "T3:034", "status": "pass", "regions": ["interest-rate diagrams and both present-value equations; purpose-change timeline; amortized-cost treatment; margins and footer checked"]},
+    {"page": "T3:035", "status": "pass", "regions": ["subsidiary/associate definitions and individual/consolidated diagram with 1,200, 1,000, 200, 1,800 and 800; margins and footer checked"]},
+    {"page": "T3:036", "status": "pass", "regions": ["indirect-business-investment diagram and return flow; other-securities definition, treatment and fair-value rationale; margins and footer checked"]},
+    {"page": "T3:037", "status": "pass", "regions": ["net-assets rationale, both treatment methods, tax effect, conservatism note and washout-method box; margins and footer checked"]},
+    {"page": "T3:038", "status": "pass", "regions": ["bond amortized-cost supplement, accounting-policy change, parent/related-company stock treatment and no-market-price stock definition; margins and footer checked"]},
+    {"page": "T3:039", "status": "pass", "regions": ["impairment rule and cut-off method; 50%, 30-50% and under-30% chart; stock and bond recovery exceptions; margins and footer checked"]},
+    {"page": "T3:040", "status": "pass", "regions": ["no-market-price impairment, terminology table, 10,000/4,000/6,000/100/5/60/300/700 example, impaired bond and golf membership; margins and footer checked"]},
+    {"page": "T3:041", "status": "pass", "regions": ["four permitted purpose-change cases, basic treatment table, maturity-bond all-remaining-transfer rule and two-year テインティング・ルール; margins and footer checked"]},
+    {"page": "T3:042", "status": "pass", "regions": ["complete purpose-change matrix, transfer values, income-statement treatment and both footnotes; margins and footer checked"]},
+    {"page": "T3:043", "status": "pass", "regions": ["capital-surplus dividend rules and both recipient entries, rationale, 115/105/10 example and entries; margins and footer checked"]},
+    {"page": "T3:044", "status": "pass", "regions": ["listed/unlisted dividend-accrual rules and entry, balance-sheet classification table and both notes; margins and footer checked"]},
+    {"page": "T3:045", "status": "pass", "regions": ["purpose-by-purpose sale-profit table, valuation-profit display rules, operating-profit aggregation note; margins and footer checked"]},
+    {"page": "T3:046", "status": "pass", "regions": ["trust definition and three-party flows, investment-trust image, indirect-holding rationale and margins/footer checked"]},
+    {"page": "T3:047", "status": "pass", "regions": ["indirect-operation diagram, stock/deposit valuation distinction, 700/860/300/300/20/1,000/1,180 table and both entries; margins and footer checked"]},
+    {"page": "T3:048", "status": "pass", "regions": ["derivative definition/classification table, speculation/hedge table, fair-value rule, profit treatment and deferred-hedge exception; margins and footer checked"]},
+    {"page": "T3:049", "status": "pass", "regions": ["money-liability rule, bond 100/90/10 rationale diagram, gross-presentation rule and all three offsetting conditions; margins and footer checked"]}
+  ],
+  "findings": [
+    "All 19 included processing images were reopened at readable resolution and compared with the four section chunks, including headings, margins, sidebars, tables, examples, journal entries, formulas, diagrams and footers.",
+    "The batch begins at the complete start of 第6節 on T3:031 and ends with the complete 相殺表示 material on T3:049; the inventory boundary review records that the next page begins 第10節 and no table, diagram, question, answer, example or condition is stranded.",
+    "The chunks preserve the chapter/section/topic/subdivision hierarchy without bold, Cloze, Front/Back, integration or card output. Diagram-only meaning is represented as explicit actors, flows, conditions, amounts and accounting consequences.",
+    "Numerical checks covered the 4,592 and 4,344 bond values, the 1,200/1,000/200 consolidated elimination, the 10,000/4,000/6,000/100/5/60/300/700 impairment example, the 115/105/10 dividend example, and the 1,000/1,180 trust example."
+  ],
+  "corrections": [
+    "Normalized OCR/PDF spacing artifacts only; wording, labels, amounts, table relationships and journal-entry direction were checked against the designated JPGs.",
+    "Kept the source's distinctions between valuation methods, washout and cut-off methods, business-constraint cases, permitted purpose changes, listed/unlisted dividend recognition and offsetting conditions.",
+    "No outside page, book, web source, OCR text or general-knowledge supplement was used to resolve content."
+  ],
+  "checks": {
+    "numerical": "pass",
+    "diagram": "pass",
+    "false_proposition": "not_applicable"
+  }
+}
