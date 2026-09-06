@@ -1,0 +1,764 @@
+{
+  "batch_id": "JPG-T2-C001",
+  "source_id": "T2",
+  "status": "pass",
+  "reviewed_on": "2026-09-06",
+  "reviewer_model": "GPT-5 (current execution model; no model switch)",
+  "source_revision": {
+    "delivery_branch": "main",
+    "repository_commit": "5a5172858c90def7f4a6939307c875acb366666a",
+    "source_catalog": "contracts/source-catalog.json",
+    "source_catalog_sha256": "8358e9cffb068f63df0bdfcc8f99be035e66454ac8710d381f0ff9eb87728079",
+    "page_plan": "contracts/page-plan.json",
+    "page_plan_sha256": "997a7280b171df5803c2a3bb7c2ee8764082e01f3bdb03c194b9129fe18d26c9",
+    "source_manifest": "project/T2/sources.json",
+    "source_manifest_sha256": "35cf038c8b38aa4d44abb1f9a9791db1f51f59e6bac41645e5df53c3b09e12b4",
+    "source_map": "project/T2/source-map.json",
+    "source_map_sha256": "de4c75bc119b6501ecb1871fccb717cb421c7790d365d0f1eb2ebd493d58ba44",
+    "batch_manifest": "project/T2/batches.json",
+    "batch_manifest_sha256": "959f880a026c8b1ca149f12f39fb954b06f86d5600eb0f8207c406139e9546e3",
+    "inventory_review": "project/T2/inventory-review.json",
+    "inventory_review_sha256": "b0f2b10e53d792d7ee563a24810b117c95a09599769fefc3d58138466e6f1384",
+    "source_original_root": "/Users/xihangzou/Study/320_CPA/322_財務理論/images/cpa-fa-theory-textbook-2-jpg",
+    "source_pdf": "/Users/xihangzou/Study/320_CPA/322_財務理論/01_テキスト/財務会計論テキスト　理論2.pdf",
+    "source_pdf_sha256": "ba4b33c8881021044b6360bfd10899f1b1f882bda3ccc7df3f1f895e9cc55ba5",
+    "source_image_inventory_sha256": "d577500ca271c7d4f0e8a1103b481e38e2494cc9c236d9fe954b35938a9a1c91",
+    "edition": "2024/2025年合格目標",
+    "publication_date": "2023-05-04",
+    "physical_scope": "T2:007-T2:030",
+    "processing_scope": "T2:007-T2:030",
+    "content_authority": "designated existing JPGs only; PDF used only for identity/planning support"
+  },
+  "dependency_commits": [
+    "a2fb2bb829d112522128cdb145523302e9d1e7fd",
+    "558bb1e92a2bd7e550af9c2034dc695efde6f19d",
+    "5a5172858c90def7f4a6939307c875acb366666a"
+  ],
+  "source_images": [
+    {
+      "page": "T2:007",
+      "printed_page": null,
+      "image": "pages/T2/page-007.jpg",
+      "sha256": "7b0ff20aff8141fc1c1fc102dd348f7282c2c0bc029cb8ee57a44209451d2f48"
+    },
+    {
+      "page": "T2:008",
+      "printed_page": "㉑-1",
+      "image": "pages/T2/page-008.jpg",
+      "sha256": "ba587b5ace9517a061ef84379239f3dc83de1c3a9c01bfcef0372599a41596ec"
+    },
+    {
+      "page": "T2:009",
+      "printed_page": "㉑-2",
+      "image": "pages/T2/page-009.jpg",
+      "sha256": "6f02ceb3f21c7eac3b942242ccecebcfb4692203fbcb4e96bccc4e6d3a5d7681"
+    },
+    {
+      "page": "T2:010",
+      "printed_page": "㉑-3",
+      "image": "pages/T2/page-010.jpg",
+      "sha256": "2a4df586d378773d4a424cb45c40d0e6e0f69a2f7ecdaefb407e87e1706f280d"
+    },
+    {
+      "page": "T2:011",
+      "printed_page": "㉑-4",
+      "image": "pages/T2/page-011.jpg",
+      "sha256": "124af966b65e6a5b4881294b6d8cf9f232000aac9bb15bdb968ddf2ca3b78a46"
+    },
+    {
+      "page": "T2:012",
+      "printed_page": "㉑-5",
+      "image": "pages/T2/page-012.jpg",
+      "sha256": "a75e754b09b2b576abb367a11f4518c5952df773cd821a65125eabf28d61a8b5"
+    },
+    {
+      "page": "T2:013",
+      "printed_page": "㉑-6",
+      "image": "pages/T2/page-013.jpg",
+      "sha256": "b153bff34f0c6ea3ab41c6955ca16d701bd6f9fb2ee12b0026fce13ad0534c37"
+    },
+    {
+      "page": "T2:014",
+      "printed_page": "㉑-7",
+      "image": "pages/T2/page-014.jpg",
+      "sha256": "481ad47c337aae7a7536b620fd006225d5386d3202607a9f819d2ba8f392219c"
+    },
+    {
+      "page": "T2:015",
+      "printed_page": "㉑-8",
+      "image": "pages/T2/page-015.jpg",
+      "sha256": "5d318aaea211d0ccfc22bab9d5808e35e04393953af4b93896899bb1a2fbe4b1"
+    },
+    {
+      "page": "T2:016",
+      "printed_page": "㉑-9",
+      "image": "pages/T2/page-016.jpg",
+      "sha256": "09f84e8190f57b52b0c7a23a34b32e772f89fe1aca69acf35db81f503ed3a0e8"
+    },
+    {
+      "page": "T2:017",
+      "printed_page": "㉑-10",
+      "image": "pages/T2/page-017.jpg",
+      "sha256": "07099c40064e1c475c1877dc1355ce6fe0b9c06ac86ce06f7cc9ede221760527"
+    },
+    {
+      "page": "T2:018",
+      "printed_page": "㉑-11",
+      "image": "pages/T2/page-018.jpg",
+      "sha256": "2ff75f02fca6b7b3f7b91ea83f8c108ffc831d5b5eca88235eff76106bd65658"
+    },
+    {
+      "page": "T2:019",
+      "printed_page": "㉑-12",
+      "image": "pages/T2/page-019.jpg",
+      "sha256": "a58a9bcf1bc072235df1aeaf839e32fc621bc6e2cd0ad984b3c6e073bb983821"
+    },
+    {
+      "page": "T2:020",
+      "printed_page": "㉑-13",
+      "image": "pages/T2/page-020.jpg",
+      "sha256": "3a9255030c7094ffe31d52eb0bb9286de866f9c5967f67bd94832a394287ceef"
+    },
+    {
+      "page": "T2:021",
+      "printed_page": "㉑-14",
+      "image": "pages/T2/page-021.jpg",
+      "sha256": "8f638447f2935d5b44fde08a9291a7f4b15f53ef6432317ee333b542553a1d45"
+    },
+    {
+      "page": "T2:022",
+      "printed_page": "㉑-15",
+      "image": "pages/T2/page-022.jpg",
+      "sha256": "91a1fbdcd45dc54fd28e6be20b594e3f074e99944e378e1e93e6468af83aab10"
+    },
+    {
+      "page": "T2:023",
+      "printed_page": "㉑-16",
+      "image": "pages/T2/page-023.jpg",
+      "sha256": "87d9d8229fb5e05583123a10d7769eecee64e8b7608d656d8b502f80eaf1769f"
+    },
+    {
+      "page": "T2:024",
+      "printed_page": "㉑-17",
+      "image": "pages/T2/page-024.jpg",
+      "sha256": "23f7c339a97ca8e1523506de33c8cc6b84a5a59e7e753f3895c30dc5530a61e7"
+    },
+    {
+      "page": "T2:025",
+      "printed_page": "㉑-18",
+      "image": "pages/T2/page-025.jpg",
+      "sha256": "1faeaff6fbdd100e2c514b080d63788ec57d7469d16edbae9f69aa04e117f518"
+    },
+    {
+      "page": "T2:026",
+      "printed_page": "㉑-19",
+      "image": "pages/T2/page-026.jpg",
+      "sha256": "12c7c124f4fd2d26681871b1c13374234b771ebef061a7b53894260369b74730"
+    },
+    {
+      "page": "T2:027",
+      "printed_page": "㉑-20",
+      "image": "pages/T2/page-027.jpg",
+      "sha256": "468fd25d7abfff58d9c2bc76ccaa807d8cf0a8fda96dca2b22739828b377600e"
+    },
+    {
+      "page": "T2:028",
+      "printed_page": "㉑-21",
+      "image": "pages/T2/page-028.jpg",
+      "sha256": "7ec1cecef40686065c9816d62621c12aac262ae7f38ced14c06dcacba3bca64c"
+    },
+    {
+      "page": "T2:029",
+      "printed_page": "㉑-22",
+      "image": "pages/T2/page-029.jpg",
+      "sha256": "985a7ad821638b036d9f9991e08e3a7a96e546006e9c5076200d576b39d46874"
+    },
+    {
+      "page": "T2:030",
+      "printed_page": "㉑-23",
+      "image": "pages/T2/page-030.jpg",
+      "sha256": "17c0fae3fd71f7aea6bde2199371c1605fff704ee65c81f74df3ecb1fb421be3"
+    }
+  ],
+  "section_outputs": [
+    {
+      "task": "JPG-T2-C001-S01",
+      "chunk": "project/T2/chunks/JPG-T2-C001/JPG-T2-C001-S01.md",
+      "chunk_sha256": "4368f606d053e217f378cf7df7843a0ba3746d9293d5d0321e869b91e5447ba4"
+    },
+    {
+      "task": "JPG-T2-C001-S02",
+      "chunk": "project/T2/chunks/JPG-T2-C001/JPG-T2-C001-S02.md",
+      "chunk_sha256": "4b54e3a9a556e8b56a6a706f7a88334ca7d4702887b019919db6ec7e44eb6bf5"
+    },
+    {
+      "task": "JPG-T2-C001-S03",
+      "chunk": "project/T2/chunks/JPG-T2-C001/JPG-T2-C001-S03.md",
+      "chunk_sha256": "612fdc0d3510c5740b0452c4f30f06d9b2d528f440839e37829d827e7fdbb51f"
+    },
+    {
+      "task": "JPG-T2-C001-S04",
+      "chunk": "project/T2/chunks/JPG-T2-C001/JPG-T2-C001-S04.md",
+      "chunk_sha256": "8220e30f1b246f714c7e5eab62fc70c4aefea2ba2ada05517c480669f6a6eee0"
+    },
+    {
+      "task": "JPG-T2-C001-S05",
+      "chunk": "project/T2/chunks/JPG-T2-C001/JPG-T2-C001-S05.md",
+      "chunk_sha256": "785282c94dc62390906d672a21de1f900ac9c6e523a78a789c01b5e8c9ca1ac3"
+    },
+    {
+      "task": "JPG-T2-C001-S06",
+      "chunk": "project/T2/chunks/JPG-T2-C001/JPG-T2-C001-S06.md",
+      "chunk_sha256": "6ea739c9cff5e9ba0a8f1d4478ee98aa551c27f198b819b88f71ade4af2f15ec"
+    }
+  ],
+  "coverage": [
+    {
+      "page": "T2:007",
+      "status": "pass",
+      "regions": [
+        "章タイトル・出題実績表・8節の論点一覧"
+      ]
+    },
+    {
+      "page": "T2:008",
+      "status": "pass",
+      "regions": [
+        "第1節、棚卸資産の意義と範囲、連続意見書 第四の4分類、売却・短期消費、トレーディング補足",
+        "本文・余白・フッター㉑-1"
+      ]
+    },
+    {
+      "page": "T2:009",
+      "status": "pass",
+      "regions": [
+        "該当・非該当項目の全表、固定資産・流動資産、未成工事支出金等の補足",
+        "表・余白・フッター㉑-2"
+      ]
+    },
+    {
+      "page": "T2:010",
+      "status": "pass",
+      "regions": [
+        "購入品の取得原価、付随費用、100・10・150の収益費用対応図",
+        "本文・図・フッター㉑-3"
+      ]
+    },
+    {
+      "page": "T2:011",
+      "status": "pass",
+      "regions": [
+        "仕入値引・割戻・割引、二つの考え方、500円・3%・15円例、仕訳",
+        "本文・計算・フッター㉑-4"
+      ]
+    },
+    {
+      "page": "T2:012",
+      "status": "pass",
+      "regions": [
+        "支払対価主義の関係図、485円・利息15円・500円、生産品・標準原価・予定原価",
+        "本文・図・フッター㉑-5"
+      ]
+    },
+    {
+      "page": "T2:013",
+      "status": "pass",
+      "regions": [
+        "費用額・期末金額の式、継続記録法、棚卸計算法",
+        "本文・式・フッター㉑-6"
+      ]
+    },
+    {
+      "page": "T2:014",
+      "status": "pass",
+      "regions": [
+        "理想的な数量計算、三方法の数量図、棚卸減耗と原価性",
+        "図・本文・フッター㉑-7"
+      ]
+    },
+    {
+      "page": "T2:015",
+      "status": "pass",
+      "regions": [
+        "評価方法の選択・継続適用、4方法一覧、後入先出法・最終仕入原価法、個別法",
+        "本文・一覧・フッター㉑-8"
+      ]
+    },
+    {
+      "page": "T2:016",
+      "status": "pass",
+      "regions": [
+        "平均原価法、総平均法・移動平均法、先入先出法",
+        "本文・フッター㉑-9"
+      ]
+    },
+    {
+      "page": "T2:017",
+      "status": "pass",
+      "regions": [
+        "後入先出法（廃止）、比較図、100円・150円・250円・300円例",
+        "図・本文・フッター㉑-10"
+      ]
+    },
+    {
+      "page": "T2:018",
+      "status": "pass",
+      "regions": [
+        "売価還元法、グルーピング、原価率式、二段階算定式、適用業種",
+        "本文・式・フッター㉑-11"
+      ]
+    },
+    {
+      "page": "T2:019",
+      "status": "pass",
+      "regions": [
+        "最終仕入原価法、3月受払表・商品勘定、17,840円・26,760円ケース",
+        "表・勘定・フッター㉑-12"
+      ]
+    },
+    {
+      "page": "T2:020",
+      "status": "pass",
+      "regions": [
+        "最終仕入原価法の基準上の取扱い、規定されない理由・許容条件",
+        "本文・余白・フッター㉑-13"
+      ]
+    },
+    {
+      "page": "T2:021",
+      "status": "pass",
+      "regions": [
+        "低価基準、100円対80円・120円、従来基準・現行基準、強制論拠",
+        "本文・図・フッター㉑-14"
+      ]
+    },
+    {
+      "page": "T2:022",
+      "status": "pass",
+      "regions": [
+        "取得原価基準、連続意見書の低価基準、保守主義・正味実現可能価額、時系列図",
+        "本文・図・フッター㉑-15"
+      ]
+    },
+    {
+      "page": "T2:023",
+      "status": "pass",
+      "regions": [
+        "残留有用原価説・回収可能原価説、購買市場・売却市場、評価損、費用配分図",
+        "本文・図・フッター㉑-16"
+      ]
+    },
+    {
+      "page": "T2:024",
+      "status": "pass",
+      "regions": [
+        "低価基準の時価、正味売却価額・再調達原価、用語関係、基本処理",
+        "本文・用語関係・フッター㉑-17"
+      ]
+    },
+    {
+      "page": "T2:025",
+      "status": "pass",
+      "regions": [
+        "収益性の低下と投資回収形態、4資産比較表、販売回収・簿価切下げ",
+        "表・本文・フッター㉑-18"
+      ]
+    },
+    {
+      "page": "T2:026",
+      "status": "pass",
+      "regions": [
+        "将来販売時点・期末時点の正味売却価額、両論拠",
+        "本文・図・フッター㉑-19"
+      ]
+    },
+    {
+      "page": "T2:027",
+      "status": "pass",
+      "regions": [
+        "正味売却価額の算定、売価、合理的価額、販売実績・契約価額・相対取引",
+        "本文・フッター㉑-20"
+      ]
+    },
+    {
+      "page": "T2:028",
+      "status": "pass",
+      "regions": [
+        "滞留・処分見込等の2方法、異常な水準、100・120・30の例と仕訳",
+        "本文・計算・フッター㉑-21"
+      ]
+    },
+    {
+      "page": "T2:029",
+      "status": "pass",
+      "regions": [
+        "複数の売却市場、販売経路、100円・110円、5対5の加重平均105円",
+        "本文・図・フッター㉑-22"
+      ]
+    },
+    {
+      "page": "T2:030",
+      "status": "pass",
+      "regions": [
+        "再調達原価の適用条件、原材料の簿価切下げ不要条件、継続適用・付随費用、まとめ図",
+        "本文・まとめ図・フッター㉑-23"
+      ]
+    }
+  ],
+  "page_fidelity_matrix": [
+    {
+      "page": "T2:007",
+      "chunk": "JPG-T2-C001-S01",
+      "sections": [
+        "chapter title",
+        "exam-history table",
+        "eight-section topic list"
+      ],
+      "result": "pass"
+    },
+    {
+      "page": "T2:008",
+      "chunk": "JPG-T2-C001-S01",
+      "sections": [
+        "1.棚卸資産の意義と範囲",
+        "連続意見書 第四の4分類",
+        "売却・短期消費・トレーディング補足"
+      ],
+      "result": "pass"
+    },
+    {
+      "page": "T2:009",
+      "chunk": "JPG-T2-C001-S01",
+      "sections": [
+        "該当・非該当全表",
+        "固定資産・流動資産",
+        "未成工事支出金等"
+      ],
+      "result": "pass"
+    },
+    {
+      "page": "T2:010",
+      "chunk": "JPG-T2-C001-S02",
+      "sections": [
+        "購入品の取得原価",
+        "付随費用",
+        "収益費用対応図"
+      ],
+      "result": "pass"
+    },
+    {
+      "page": "T2:011",
+      "chunk": "JPG-T2-C001-S02",
+      "sections": [
+        "仕入値引・割戻・割引",
+        "二つの考え方",
+        "数値例と仕訳"
+      ],
+      "result": "pass"
+    },
+    {
+      "page": "T2:012",
+      "chunk": "JPG-T2-C001-S02",
+      "sections": [
+        "支払対価主義",
+        "485円・15円・500円",
+        "生産品の取得原価"
+      ],
+      "result": "pass"
+    },
+    {
+      "page": "T2:013",
+      "chunk": "JPG-T2-C001-S03",
+      "sections": [
+        "費用額・期末額の式",
+        "継続記録法",
+        "棚卸計算法"
+      ],
+      "result": "pass"
+    },
+    {
+      "page": "T2:014",
+      "chunk": "JPG-T2-C001-S03",
+      "sections": [
+        "理想的な数量計算",
+        "数量図",
+        "棚卸減耗"
+      ],
+      "result": "pass"
+    },
+    {
+      "page": "T2:015",
+      "chunk": "JPG-T2-C001-S04",
+      "sections": [
+        "評価方法一覧",
+        "個別法",
+        "継続適用"
+      ],
+      "result": "pass"
+    },
+    {
+      "page": "T2:016",
+      "chunk": "JPG-T2-C001-S04",
+      "sections": [
+        "平均原価法",
+        "総平均・移動平均",
+        "先入先出法"
+      ],
+      "result": "pass"
+    },
+    {
+      "page": "T2:017",
+      "chunk": "JPG-T2-C001-S04",
+      "sections": [
+        "後入先出法",
+        "比較図",
+        "数値例"
+      ],
+      "result": "pass"
+    },
+    {
+      "page": "T2:018",
+      "chunk": "JPG-T2-C001-S04",
+      "sections": [
+        "売価還元法",
+        "グルーピング",
+        "原価率・二段階式"
+      ],
+      "result": "pass"
+    },
+    {
+      "page": "T2:019",
+      "chunk": "JPG-T2-C001-S04",
+      "sections": [
+        "最終仕入原価法",
+        "受払表・商品勘定",
+        "数値ケース"
+      ],
+      "result": "pass"
+    },
+    {
+      "page": "T2:020",
+      "chunk": "JPG-T2-C001-S04",
+      "sections": [
+        "基準上の取扱い",
+        "不採用理由",
+        "許容条件"
+      ],
+      "result": "pass"
+    },
+    {
+      "page": "T2:021",
+      "chunk": "JPG-T2-C001-S05",
+      "sections": [
+        "低価基準",
+        "数値例",
+        "従来・現行基準"
+      ],
+      "result": "pass"
+    },
+    {
+      "page": "T2:022",
+      "chunk": "JPG-T2-C001-S05",
+      "sections": [
+        "取得原価基準",
+        "低価基準",
+        "保守主義・時系列"
+      ],
+      "result": "pass"
+    },
+    {
+      "page": "T2:023",
+      "chunk": "JPG-T2-C001-S05",
+      "sections": [
+        "二つの原価説",
+        "二つの市場",
+        "評価損・費用配分"
+      ],
+      "result": "pass"
+    },
+    {
+      "page": "T2:024",
+      "chunk": "JPG-T2-C001-S05",
+      "sections": [
+        "低価基準の時価",
+        "正味売却価額・再調達原価",
+        "基本処理"
+      ],
+      "result": "pass"
+    },
+    {
+      "page": "T2:025",
+      "chunk": "JPG-T2-C001-S05",
+      "sections": [
+        "投資回収形態",
+        "4資産比較",
+        "販売回収・簿価切下げ"
+      ],
+      "result": "pass"
+    },
+    {
+      "page": "T2:026",
+      "chunk": "JPG-T2-C001-S06",
+      "sections": [
+        "時点選択",
+        "両論拠",
+        "期末時点"
+      ],
+      "result": "pass"
+    },
+    {
+      "page": "T2:027",
+      "chunk": "JPG-T2-C001-S06",
+      "sections": [
+        "正味売却価額",
+        "売価・合理的価額",
+        "実績・契約・相対取引"
+      ],
+      "result": "pass"
+    },
+    {
+      "page": "T2:028",
+      "chunk": "JPG-T2-C001-S06",
+      "sections": [
+        "滞留・処分見込",
+        "異常水準",
+        "数値例・仕訳"
+      ],
+      "result": "pass"
+    },
+    {
+      "page": "T2:029",
+      "chunk": "JPG-T2-C001-S06",
+      "sections": [
+        "複数市場",
+        "販売経路",
+        "加重平均売価"
+      ],
+      "result": "pass"
+    },
+    {
+      "page": "T2:030",
+      "chunk": "JPG-T2-C001-S06",
+      "sections": [
+        "再調達原価",
+        "原材料条件",
+        "まとめ図"
+      ],
+      "result": "pass"
+    }
+  ],
+  "numerical_checks": [
+    {
+      "page": "T2:011",
+      "check": "500円×3%=15円、500円−15円=485円の関係と二つの仕入割引処理の仕訳を保持した。",
+      "result": "pass"
+    },
+    {
+      "page": "T2:013",
+      "check": "費用額は期首棚卸資産＋当期受入高−期末棚卸資産、期末額は数量×単価という式を保持した。",
+      "result": "pass"
+    },
+    {
+      "page": "T2:017",
+      "check": "先入先出法・後入先出法の100円・150円・250円・300円の数値例を保持した。",
+      "result": "pass"
+    },
+    {
+      "page": "T2:019",
+      "check": "最終仕入原価法のケース1・ケース2の17,840円・26,760円の計算結果を保持した。",
+      "result": "pass"
+    },
+    {
+      "page": "T2:023",
+      "check": "購買市場100円・80円、売却市場120円・96円、評価損20円・4円の関係を保持した。",
+      "result": "pass"
+    },
+    {
+      "page": "T2:028",
+      "check": "100・120・30の異常水準／マイナス正味売却価額の数値例と仕訳関係を保持した。",
+      "result": "pass"
+    },
+    {
+      "page": "T2:029",
+      "check": "直接販売100円・代理店110円を5対5で加重平均し105円とする関係を保持した。",
+      "result": "pass"
+    }
+  ],
+  "diagram_checks": [
+    {
+      "pages": [
+        "T2:010",
+        "T2:011",
+        "T2:012"
+      ],
+      "check": "収益費用対応、付随費用、485円・利息15円・500円の関係を本文・表・数値で保持した。",
+      "result": "pass"
+    },
+    {
+      "pages": [
+        "T2:013",
+        "T2:014"
+      ],
+      "check": "三つの数量把握方法、棚卸減耗、原価性による計上区分を保持した。",
+      "result": "pass"
+    },
+    {
+      "pages": [
+        "T2:015",
+        "T2:016",
+        "T2:017",
+        "T2:018",
+        "T2:019",
+        "T2:020"
+      ],
+      "check": "評価方法一覧、各方法の定義・長短所、売価還元法の式、最終仕入原価法の表・比較関係を保持した。",
+      "result": "pass"
+    },
+    {
+      "pages": [
+        "T2:021",
+        "T2:022",
+        "T2:023",
+        "T2:024",
+        "T2:025"
+      ],
+      "check": "低価基準、取得原価基準、保守主義、正味実現可能価額、投資回収形態の因果関係を保持した。",
+      "result": "pass"
+    },
+    {
+      "pages": [
+        "T2:026",
+        "T2:027",
+        "T2:028",
+        "T2:029",
+        "T2:030"
+      ],
+      "check": "正味売却価額の時点選択、算定、市場例外、複数市場の加重平均、再調達原価の条件を保持した。",
+      "result": "pass"
+    }
+  ],
+  "question_pair_checks": {
+    "status": "not_applicable",
+    "result": "This theory chapter contains no question-and-answer pair."
+  },
+  "findings": [
+    "All 24 included processing images were reopened at readable/original resolution and compared against the six section chunks, including margins, sidebars, footers, tables, formulas, journal entries, numerical examples and diagram-only meaning.",
+    "The six chunks preserve the source chapter/section/topic/subdivision hierarchy, including the chapter opener on T2:007, without bold, Cloze, Front/Back, integration or card output.",
+    "The physical scope T2:007-T2:030 is contiguous and fully assigned to six ordered sections; no source object crosses the batch boundary at T2:030/T2:031.",
+    "The designated JPGs are the content authority; the PDF was used only for identity and transcription planning, and no PDF-only content was added."
+  ],
+  "corrections": [
+    "Normalized OCR/PDF spacing artifacts only; wording, terminology, tables, formulas, journal-entry relationships and source meaning were checked against the designated JPGs.",
+    "Retained the page 018 retail denominator wording 「当期受入原価総額」 and the source's two-stage selling-price/cost formulas rather than substituting a generic denominator.",
+    "Retained the page 019 final-purchase-cost cases and page 029 multiple-market weighted-average example with their source values.",
+    "Converted diagram-only relationships into faithful prose/tables while preserving direction, comparison, conditions and numerical labels; no unresolved diagram or false-proposition issue remains."
+  ],
+  "excluded_pages": [],
+  "checks": {
+    "numerical": "pass",
+    "diagram": "pass",
+    "false_proposition": "not_applicable"
+  },
+  "unresolved_count": 0,
+  "semantic_boundary": "Structural/hash checks validate scope and consistency; semantic completeness is supported by the recorded page-by-page human image review. The designated JPGs are authoritative; the PDF was used only for identity/planning support."
+}

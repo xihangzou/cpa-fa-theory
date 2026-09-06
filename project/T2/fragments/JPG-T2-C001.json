@@ -1,0 +1,305 @@
+{
+  "batch_id": "JPG-T2-C001",
+  "source_id": "T2",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-T2-C001-S01",
+      "batch_id": "JPG-T2-C001",
+      "chapter": "21",
+      "section": "21.1",
+      "title": "第1節 棚卸資産の範囲",
+      "expected_pages": [
+        "T2:007",
+        "T2:008",
+        "T2:009"
+      ],
+      "processing_pages": [
+        "T2:007",
+        "T2:008",
+        "T2:009"
+      ],
+      "output": "chunks/JPG-T2-C001/JPG-T2-C001-S01.md",
+      "status": "pass",
+      "locators": [
+        {
+          "page": "T2:007",
+          "printed_page": null,
+          "source_region": "第21章の章扉、章タイトル、短答式・論文式本試験における出題実績表、8節の論点一覧",
+          "destination_heading": "## 第1節 棚卸資産の範囲"
+        },
+        {
+          "page": "T2:008",
+          "printed_page": "㉑-1",
+          "source_region": "第1節扉、1.棚卸資産の意義と範囲、連続意見書第四の4分類、棚卸資産の定義に含まれる売却の意味、トレーディングの補足、フッター",
+          "destination_heading": "## 第1節 棚卸資産の範囲"
+        },
+        {
+          "page": "T2:009",
+          "printed_page": "㉑-2",
+          "source_region": "2.棚卸資産に該当する項目・該当しない項目の全表、固定資産・流動資産の区分、未成工事支出金等の補足、余白とフッター",
+          "destination_heading": "## 第1節 棚卸資産の範囲"
+        }
+      ],
+      "chunk_sha256": "4368f606d053e217f378cf7df7843a0ba3746d9293d5d0321e869b91e5447ba4"
+    },
+    {
+      "id": "JPG-T2-C001-S02",
+      "batch_id": "JPG-T2-C001",
+      "chapter": "21",
+      "section": "21.2",
+      "title": "第2節 棚卸資産の取得原価",
+      "expected_pages": [
+        "T2:010",
+        "T2:011",
+        "T2:012"
+      ],
+      "processing_pages": [
+        "T2:010",
+        "T2:011",
+        "T2:012"
+      ],
+      "output": "chunks/JPG-T2-C001/JPG-T2-C001-S02.md",
+      "status": "pass",
+      "locators": [
+        {
+          "page": "T2:010",
+          "printed_page": "㉑-3",
+          "source_region": "第2節扉、1.購入品の取得原価、付随費用の定義・分類・取得原価算入の論拠、100・10・150の収益費用対応図、フッター",
+          "destination_heading": "## 第2節 棚卸資産の取得原価"
+        },
+        {
+          "page": "T2:011",
+          "printed_page": "㉑-4",
+          "source_region": "仕入値引・仕入割戻・仕入割引の区別、仕入割引の2つの考え方と論拠、500円・3%・15円の例、両考え方の仕訳、フッター",
+          "destination_heading": "## 第2節 棚卸資産の取得原価"
+        },
+        {
+          "page": "T2:012",
+          "printed_page": "㉑-5",
+          "source_region": "支払対価主義の定義と取得原価主義との関係図、485円・利息15円の財務費用図、2.生産品の取得原価、標準原価・予定原価の説明、フッター",
+          "destination_heading": "## 第2節 棚卸資産の取得原価"
+        }
+      ],
+      "chunk_sha256": "4b54e3a9a556e8b56a6a706f7a88334ca7d4702887b019919db6ec7e44eb6bf5"
+    },
+    {
+      "id": "JPG-T2-C001-S03",
+      "batch_id": "JPG-T2-C001",
+      "chapter": "21",
+      "section": "21.3",
+      "title": "第3節 棚卸資産の数量計算",
+      "expected_pages": [
+        "T2:013",
+        "T2:014"
+      ],
+      "processing_pages": [
+        "T2:013",
+        "T2:014"
+      ],
+      "output": "chunks/JPG-T2-C001/JPG-T2-C001-S03.md",
+      "status": "pass",
+      "locators": [
+        {
+          "page": "T2:013",
+          "printed_page": "㉑-6",
+          "source_region": "第3節扉、1.費用計算と期末金額、費用額・期末棚卸資産の式、2.継続記録法の定義・式・長所短所、3.棚卸計算法の定義・式・長所短所、フッター",
+          "destination_heading": "## 第3節 棚卸資産の数量計算"
+        },
+        {
+          "page": "T2:014",
+          "printed_page": "㉑-7",
+          "source_region": "4.理想的な数量計算、継続記録法・棚卸計算法・実地棚卸併用の数量図、5.棚卸減耗の定義と原価性による計上区分、フッター",
+          "destination_heading": "## 第3節 棚卸資産の数量計算"
+        }
+      ],
+      "chunk_sha256": "612fdc0d3510c5740b0452c4f30f06d9b2d528f440839e37829d827e7fdbb51f"
+    },
+    {
+      "id": "JPG-T2-C001-S04",
+      "batch_id": "JPG-T2-C001",
+      "chapter": "21",
+      "section": "21.4",
+      "title": "第4節 棚卸資産の単価（価格）計算",
+      "expected_pages": [
+        "T2:015",
+        "T2:016",
+        "T2:017",
+        "T2:018",
+        "T2:019",
+        "T2:020"
+      ],
+      "processing_pages": [
+        "T2:015",
+        "T2:016",
+        "T2:017",
+        "T2:018",
+        "T2:019",
+        "T2:020"
+      ],
+      "output": "chunks/JPG-T2-C001/JPG-T2-C001-S04.md",
+      "status": "pass",
+      "locators": [
+        {
+          "page": "T2:015",
+          "printed_page": "㉑-8",
+          "source_region": "第4節扉、1.本会計基準の評価方法と継続適用、4方法一覧、後入先出法・最終仕入原価法の位置付け、2.個別法の定義・長所短所・貴金属等の適用例、フッター",
+          "destination_heading": "## 第4節 棚卸資産の単価（価格）計算"
+        },
+        {
+          "page": "T2:016",
+          "printed_page": "㉑-9",
+          "source_region": "3.平均原価法、総平均法・移動平均法の定義と長所短所、4.先入先出法の定義・長所・短所、フッター",
+          "destination_heading": "## 第4節 棚卸資産の単価（価格）計算"
+        },
+        {
+          "page": "T2:017",
+          "printed_page": "㉑-10",
+          "source_region": "5.後入先出法（廃止）の定義・長所・短所、先入先出法と後入先出法の比較図、100円・150円・250円・300円の数値例、フッター",
+          "destination_heading": "## 第4節 棚卸資産の単価（価格）計算"
+        },
+        {
+          "page": "T2:018",
+          "printed_page": "㉑-11",
+          "source_region": "6.売価還元法の定義・長所短所、グルーピング、原価率式、売価・原価の算定前提と2段階の式、適用業種、フッター",
+          "destination_heading": "## 第4節 棚卸資産の単価（価格）計算"
+        },
+        {
+          "page": "T2:019",
+          "printed_page": "㉑-12",
+          "source_region": "7.最終仕入原価法の定義・長所短所、3月の受払表、商品勘定、ケース1・ケース2の17,840円・26,760円の計算と取得原価主義との関係、フッター",
+          "destination_heading": "## 第4節 棚卸資産の単価（価格）計算"
+        },
+        {
+          "page": "T2:020",
+          "printed_page": "㉑-13",
+          "source_region": "最終仕入原価法と本会計基準の取扱い、規定されていない理由、許容される場合、余白とフッター",
+          "destination_heading": "## 第4節 棚卸資産の単価（価格）計算"
+        }
+      ],
+      "chunk_sha256": "8220e30f1b246f714c7e5eab62fc70c4aefea2ba2ada05517c480669f6a6eee0"
+    },
+    {
+      "id": "JPG-T2-C001-S05",
+      "batch_id": "JPG-T2-C001",
+      "chapter": "21",
+      "section": "21.5",
+      "title": "第5節 棚卸資産の会計処理の基本的な考え方",
+      "expected_pages": [
+        "T2:021",
+        "T2:022",
+        "T2:023",
+        "T2:024",
+        "T2:025"
+      ],
+      "processing_pages": [
+        "T2:021",
+        "T2:022",
+        "T2:023",
+        "T2:024",
+        "T2:025"
+      ],
+      "output": "chunks/JPG-T2-C001/JPG-T2-C001-S05.md",
+      "status": "pass",
+      "locators": [
+        {
+          "page": "T2:021",
+          "printed_page": "㉑-14",
+          "source_region": "第5節扉、1.低価基準の定義・100円対80円/120円の例、従来基準と現行基準の比較、2.強制論拠、フッター",
+          "destination_heading": "## 第5節 棚卸資産の会計処理の基本的な考え方"
+        },
+        {
+          "page": "T2:022",
+          "printed_page": "㉑-15",
+          "source_region": "取得原価基準の従来・現行の捉え方、連続意見書における低価基準の位置付け、保守主義と正味実現可能価額、収益費用の時系列図、フッター",
+          "destination_heading": "## 第5節 棚卸資産の会計処理の基本的な考え方"
+        },
+        {
+          "page": "T2:023",
+          "printed_page": "㉑-16",
+          "source_region": "残留有用原価説・回収可能原価説、購買市場100円/80円、売却市場120円/96円、評価損20円/4円、費用配分の図、フッター",
+          "destination_heading": "## 第5節 棚卸資産の会計処理の基本的な考え方"
+        },
+        {
+          "page": "T2:024",
+          "printed_page": "㉑-17",
+          "source_region": "3.低価基準の適用時の時価、正味売却価額・再調達原価の定義、購買市場・売却市場、正味実現可能価額との用語関係、4.基本処理、正味売却価額の根拠、フッター",
+          "destination_heading": "## 第5節 棚卸資産の会計処理の基本的な考え方"
+        },
+        {
+          "page": "T2:025",
+          "printed_page": "㉑-18",
+          "source_region": "5.収益性の低下と投資回収形態、固定資産・債権・その他有価証券・棚卸資産の比較表、棚卸資産の販売回収と簿価切下げの結論、フッター",
+          "destination_heading": "## 第5節 棚卸資産の会計処理の基本的な考え方"
+        }
+      ],
+      "chunk_sha256": "785282c94dc62390906d672a21de1f900ac9c6e523a78a789c01b5e8c9ca1ac3"
+    },
+    {
+      "id": "JPG-T2-C001-S06",
+      "batch_id": "JPG-T2-C001",
+      "chapter": "21",
+      "section": "21.6",
+      "title": "第6節 適用する時価",
+      "expected_pages": [
+        "T2:026",
+        "T2:027",
+        "T2:028",
+        "T2:029",
+        "T2:030"
+      ],
+      "processing_pages": [
+        "T2:026",
+        "T2:027",
+        "T2:028",
+        "T2:029",
+        "T2:030"
+      ],
+      "output": "chunks/JPG-T2-C001/JPG-T2-C001-S06.md",
+      "status": "pass",
+      "locators": [
+        {
+          "page": "T2:026",
+          "printed_page": "㉑-19",
+          "source_region": "第6節扉、1.将来販売時点と期末時点の正味売却価額、両論拠、期末における正味売却価額の意味、フッター",
+          "destination_heading": "## 第6節 適用する時価"
+        },
+        {
+          "page": "T2:027",
+          "printed_page": "㉑-20",
+          "source_region": "2.正味売却価額の算定、定義、売価、市場価格がない場合の合理的価額、販売実績・契約価額・相対取引、見積不要の場合、フッター",
+          "destination_heading": "## 第6節 適用する時価"
+        },
+        {
+          "page": "T2:028",
+          "printed_page": "㉑-21",
+          "source_region": "3.営業循環過程から外れた滞留・処分見込等、2方法、4.異常な水準、正味売却価額がマイナスの場合、100・120・30の数値例と仕訳、フッター",
+          "destination_heading": "## 第6節 適用する時価"
+        },
+        {
+          "page": "T2:029",
+          "printed_page": "㉑-22",
+          "source_region": "5.複数の売却市場、3つの販売経路例、直接販売100円・代理店110円、販売比率5対5の加重平均105円、通常の場合との比較、フッター",
+          "destination_heading": "## 第6節 適用する時価"
+        },
+        {
+          "page": "T2:030",
+          "printed_page": "㉑-23",
+          "source_region": "6.再調達原価を適用できる場合、製造業原材料の簿価切下げ不要条件、継続適用条件、付随費用の重要性、適用する時価のまとめ図、フッター",
+          "destination_heading": "## 第6節 適用する時価"
+        }
+      ],
+      "chunk_sha256": "6ea739c9cff5e9ba0a8f1d4478ee98aa551c27f198b819b88f71ade4af2f15ec"
+    }
+  ],
+  "review": "reviews/JPG-T2-C001.json",
+  "excluded_pages": [],
+  "source_scope": {
+    "source_id": "T2",
+    "physical_range": "T2:007-T2:030",
+    "processing_range": "T2:007-T2:030",
+    "chapter": "21",
+    "title": "棚卸資産の評価に関する会計基準",
+    "content_authority": "designated existing JPGs only"
+  }
+}
