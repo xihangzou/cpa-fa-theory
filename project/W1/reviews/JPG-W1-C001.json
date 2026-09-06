@@ -6,7 +6,7 @@
   "reviewer_model": "GPT-5 (current execution model; no model switch)",
   "source_revision": {
     "delivery_branch": "main",
-    "repository_commit": "81838d1685c7a2be892fc2b5ec10ea335c4bbd84",
+    "repository_commit": "117874231bdc7324c0e9a4b4ed0e994740d8e58d",
     "source_catalog": "contracts/source-catalog.json",
     "source_catalog_sha256": "8358e9cffb068f63df0bdfcc8f99be035e66454ac8710d381f0ff9eb87728079",
     "page_plan": "contracts/page-plan.json",
@@ -34,7 +34,7 @@
     "a62d278ae52faba8a97b49e08688e54ce2a466c2",
     "40a6e712ba3ea4407553b4dcef333bef003c45d3",
     "46de4cd3c5999251a2ddf48fa02a363a58fa29d8",
-    "81838d1685c7a2be892fc2b5ec10ea335c4bbd84"
+    "117874231bdc7324c0e9a4b4ed0e994740d8e58d"
   ],
   "source_images": [
     {"page": "W1:005", "printed_page": null, "image": "pages/W1/page-005.jpg", "sha256": "257f5a94ff4707fb3224b7ad49c5de17bf21179bcbb7b885de8d63361e618335"},
