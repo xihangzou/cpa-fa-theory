@@ -1,0 +1,63 @@
+{
+  "batch_id": "JPG-T1-C007",
+  "source_id": "T1",
+  "status": "pass",
+  "source_images": [
+    {"page": "T1:098", "sha256": "c5b88c2081b9e2a9e57d9c3e881b8edc61e6ce0d0fe7488640dd10fba8413efb"},
+    {"page": "T1:099", "sha256": "7f2b2dccd9c9425b9bbf5fdd4d3814f8a639f3aa3acb7a20d0fd20815bddc8e5"},
+    {"page": "T1:100", "sha256": "eb8e3c63ce396baa5468dc9ce4a1ab1fe9de4497d98b7bf1ec81720b15bb308a"},
+    {"page": "T1:101", "sha256": "ab8b914befcbff98f291134dc2a833808394e417cc52c05d84478db5106a485f"},
+    {"page": "T1:102", "sha256": "b567e8a40647609933561fe0899b67717a0edaad22459180d052d5a388d9074a"},
+    {"page": "T1:103", "sha256": "51088f0534ff1d982e9cb73ef7731e7f255c4cba974171af00052e557a49b2aa"},
+    {"page": "T1:104", "sha256": "abd866381a6a695679c606f69e82ea004aa0bd7f010cc340ac487e30871a2efc"},
+    {"page": "T1:105", "sha256": "f5bf53ba052355ead3d9108b52867ace07bff9c9f04cce0a1ede4b2cc6e59508"},
+    {"page": "T1:106", "sha256": "a5c53b2d70b43ed78f419031a9f76f71c669ffb5d31dc87abddfc5051f273ad6"}
+  ],
+  "section_outputs": [
+    {"task": "JPG-T1-C007-S01", "chunk_sha256": "ce7b528d466f216277e8a4feea1780057b4ae302503d82e670547728b3591d8a"},
+    {"task": "JPG-T1-C007-S02", "chunk_sha256": "2998f07c189f842941afcd113361ff1081b7e18011b1d58f9471cfb130d03cba"}
+  ],
+  "coverage": [
+    {"page": "T1:098", "regions": ["第7節の章・節見出し", "売上高の3つの表示規定", "売上原価の定義", "商業を営む場合の売上原価表", "製造工業を営む場合の売上原価表", "連結損益計算書の科目表示"], "status": "pass"},
+    {"page": "T1:099", "regions": ["販売費及び一般管理費の定義・例", "売上原価との対応関係の相違", "営業外収益・営業外費用の定義・例", "財務活動（金融活動）の補足", "特別利益・特別損失の定義・例・例外"], "status": "pass"},
+    {"page": "T1:100", "regions": ["法人税等の表示規定と2項目", "損益計算書の表示・作成の3原則", "総額主義の規定・意義・純額主義との対比・例外", "費用収益の対応表示の参照", "区分表示の規定と営業・経常・純損益の3区分表"], "status": "pass"},
+    {"page": "T1:101", "regions": ["第8節の章・節見出し", "収益費用アプローチの考え方・重視点・資産負債の位置付け", "資産負債アプローチの考え方・重視点・収益費用の位置付け", "両アプローチの6項目比較表"], "status": "pass"},
+    {"page": "T1:102", "regions": ["単一アプローチによる貸借対照表と損益計算書の連携の説明・2つの関係図", "その他有価証券を例とする非連携の説明", "純利益・純資産変動・評価差額金ギャップの関係図"], "status": "pass"},
+    {"page": "T1:103", "regions": ["その他の包括利益によるギャップの認識", "純利益・その他の包括利益・包括利益と純資産変動の関係図", "動態論会計と収益費用アプローチ", "近年の資産負債アプローチ重視と両アプローチ併用の補足"], "status": "pass"},
+    {"page": "T1:104", "regions": ["各アプローチの具体例の導入", "両アプローチの重視点のまとめ表", "製品保証引当金の収益費用アプローチ側の対応関係", "製品保証引当金の製品保証販売図", "製品保証引当金の資産負債アプローチ側の条件付債務説明"], "status": "pass"},
+    {"page": "T1:105", "regions": ["貸倒引当金の収益費用アプローチ側の信用販売説明", "貸倒引当金の掛販売・回収可能性図", "貸倒引当金の資産負債アプローチ側の回収不能見積り説明", "修繕引当金の収益費用アプローチ側の対応関係", "修繕引当金の資産負債アプローチ導入"], "status": "pass"},
+    {"page": "T1:106", "regions": ["修繕引当金の資産負債アプローチ側の操業停止・資産廃棄による支払回避", "第三者への経済的資源引渡義務の有無", "修繕引当金を計上する合理性がないとの結論"], "status": "pass"}
+  ],
+  "findings": [
+    "All nine designated processing JPGs were reopened at readable resolution and compared with the two section chunks.",
+    "The section boundary is complete: 04.7 ends on T1:100 before the 04.8 section banner, and 04.8 runs through T1:106 without spillover.",
+    "Definitions, distinctions, statutory/accounting-principle conditions, exceptions, timing, reasons, tables, numerical placeholders and diagram-only relationships were represented in structured Markdown.",
+    "The 04.7 chunk preserves the commercial/manufacturing cost-of-sales tables and the three-stage profit-calculation table.",
+    "The 04.8 chunk preserves both approach definitions, reconciliation/non-reconciliation diagrams in prose, the comprehensive-income bridge, the historical supplement, and all three allowance examples.",
+    "This theory source contains no question/answer or false-proposition layout; that specialized check is not applicable."
+  ],
+  "corrections": [],
+  "checks": {
+    "numerical": "pass",
+    "diagram": "pass",
+    "false_proposition": "not_applicable"
+  },
+  "unresolved_count": 0,
+  "reviewer_model": "current execution model; no model switch",
+  "dependency_commits": [
+    "a2fb2bb829d112522128cdb145523302e9d1e7fd",
+    "1fd8a963ef32e09b5f3f08ecd7d5bb7cc2240a94",
+    "7507151c638a73a41fc13b9d4c4481c8888307e0"
+  ],
+  "source_revision": {
+    "verified_main_commit": "46e0d54e18db8533d9178cd05e24c476939bf56f",
+    "source_catalog_sha256": "8358e9cffb068f63df0bdfcc8f99be035e66454ac8710d381f0ff9eb87728079",
+    "page_plan_sha256": "997a7280b171df5803c2a3bb7c2ee8764082e01f3bdb03c194b9129fe18d26c9",
+    "source_manifest_sha256": "760f946d08e1eebf2d79c189103ac2e627f0bb2569dcd80055885fb8b97324cd",
+    "source_map_sha256": "3ff42e94bd9f8751f8100c6ff251740a46f67182c468af620438c9768f14b961",
+    "batch_manifest_sha256": "125ff5fee8f8271b82c3258ced501ed4411b4071b930f08f1ed682e72c2628c4",
+    "inventory_review_sha256": "83e2c59f059ffdec53fcb8fb83a5f1300d5cca0722dcf031db0b459bd7ab8c19",
+    "source_image_inventory_sha256": "331ad1ea2ca04d0636c2185b6ab1a8fe5240ebdd3f0c7c546c8703371d497929",
+    "source_pdf_sha256": "c09d9d91ce39de787cab04e146719d95b638134399d57112802ffacfa67243f3"
+  }
+}

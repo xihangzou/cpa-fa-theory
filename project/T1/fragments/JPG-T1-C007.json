@@ -1,0 +1,99 @@
+{
+  "batch_id": "JPG-T1-C007",
+  "source_id": "T1",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-T1-C007-S01",
+      "batch_id": "JPG-T1-C007",
+      "chapter": "04",
+      "section": "04.7",
+      "title": "第7節 損益計算書の各項目とその表示",
+      "expected_pages": ["T1:098", "T1:099", "T1:100"],
+      "processing_pages": ["T1:098", "T1:099", "T1:100"],
+      "output": "chunks/JPG-T1-C007/JPG-T1-C007-S01.md",
+      "status": "pass",
+      "chunk_sha256": "ce7b528d466f216277e8a4feea1780057b4ae302503d82e670547728b3591d8a",
+      "locators": [
+        {
+          "page": "T1:098",
+          "printed_page": "④－21",
+          "source_region": "第7節の扉、1.損益計算書に計上される項目、(1)売上高の表示規定、(2)売上原価の定義・商業と製造工業の表示表",
+          "destination_heading": "## 第7節 損益計算書の各項目とその表示"
+        },
+        {
+          "page": "T1:099",
+          "printed_page": "④－22",
+          "source_region": "(3)販売費及び一般管理費、(4)営業外収益・営業外費用、財務活動（金融活動）の補足、(5)特別利益・特別損失",
+          "destination_heading": "## 第7節 損益計算書の各項目とその表示"
+        },
+        {
+          "page": "T1:100",
+          "printed_page": "④－23",
+          "source_region": "(6)法人税等の表示規定、2.損益計算書の表示・作成、(1)総額主義、(2)費用収益の対応表示、(3)区分表示の原則と3区分表",
+          "destination_heading": "## 第7節 損益計算書の各項目とその表示"
+        }
+      ]
+    },
+    {
+      "id": "JPG-T1-C007-S02",
+      "batch_id": "JPG-T1-C007",
+      "chapter": "04",
+      "section": "04.8",
+      "title": "第8節 収益費用アプローチと資産負債アプローチ",
+      "expected_pages": ["T1:101", "T1:102", "T1:103", "T1:104", "T1:105", "T1:106"],
+      "processing_pages": ["T1:101", "T1:102", "T1:103", "T1:104", "T1:105", "T1:106"],
+      "output": "chunks/JPG-T1-C007/JPG-T1-C007-S02.md",
+      "status": "pass",
+      "chunk_sha256": "2998f07c189f842941afcd113361ff1081b7e18011b1d58f9471cfb130d03cba",
+      "locators": [
+        {
+          "page": "T1:101",
+          "printed_page": "④－24",
+          "source_region": "第8節の扉、1.収益費用アプローチ、2.資産負債アプローチ、各アプローチの相違点表",
+          "destination_heading": "## 第8節 収益費用アプローチと資産負債アプローチ"
+        },
+        {
+          "page": "T1:102",
+          "printed_page": "④－25",
+          "source_region": "3.貸借対照表と損益計算書の連携と各アプローチ、(1)連携の関係図、(2)非連携の説明とギャップの関係図",
+          "destination_heading": "## 第8節 収益費用アプローチと資産負債アプローチ"
+        },
+        {
+          "page": "T1:103",
+          "printed_page": "④－26",
+          "source_region": "(3)包括利益計算書上における包括利益の算定による連携の確保、その他の包括利益の関係図、時代の変遷と各アプローチの補足",
+          "destination_heading": "## 第8節 収益費用アプローチと資産負債アプローチ"
+        },
+        {
+          "page": "T1:104",
+          "printed_page": "④－27",
+          "source_region": "4.各アプローチの具体例、重視する点のまとめ、(1)製品保証引当金の収益費用・資産負債両面の説明と図",
+          "destination_heading": "## 第8節 収益費用アプローチと資産負債アプローチ"
+        },
+        {
+          "page": "T1:105",
+          "printed_page": "④－28",
+          "source_region": "(2)貸倒引当金の収益費用・資産負債両面の説明と図、(3)修繕引当金の導入と収益費用アプローチ側の説明",
+          "destination_heading": "## 第8節 収益費用アプローチと資産負債アプローチ"
+        },
+        {
+          "page": "T1:106",
+          "printed_page": "④－29",
+          "source_region": "(3)修繕引当金の資産負債アプローチ側の説明と結論",
+          "destination_heading": "## 第8節 収益費用アプローチと資産負債アプローチ"
+        }
+      ]
+    }
+  ],
+  "review": "reviews/JPG-T1-C007.json",
+  "excluded_pages": [],
+  "source_scope": {
+    "source_id": "T1",
+    "physical_range": "T1:098-T1:106",
+    "processing_range": "T1:098-T1:106",
+    "chapter": "04",
+    "title": "損益会計",
+    "content_authority": "designated existing JPGs only"
+  }
+}
