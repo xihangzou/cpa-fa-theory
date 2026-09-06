@@ -1,0 +1,70 @@
+{
+  "batch_id": "JPG-T1-C001",
+  "source_id": "T1",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-T1-C001-S01",
+      "batch_id": "JPG-T1-C001",
+      "chapter": "00",
+      "section": "00.1",
+      "title": "第1節 財務会計論・理論とは",
+      "expected_pages": ["T1:004"],
+      "processing_pages": ["T1:004"],
+      "output": "chunks/JPG-T1-C001/JPG-T1-C001-S01.md",
+      "status": "pass",
+      "chunk_sha256": "49cd42aaea71b20f1b2f9588477ef4d0f65845c78c395240e0604b8039b1c70d",
+      "locators": [
+        {"page": "T1:004", "printed_page": "1", "source_region": "序章、第1節の扉、1.財務会計論・理論とはどんな科目、機械10,000・減価償却の例、仕訳、理論と計算の区別", "destination_heading": "## 第1節 財務会計論・理論とは"}
+      ]
+    },
+    {
+      "id": "JPG-T1-C001-S02",
+      "batch_id": "JPG-T1-C001",
+      "chapter": "00",
+      "section": "00.2",
+      "title": "第2節 試験概要と試験範囲",
+      "expected_pages": ["T1:005", "T1:006", "T1:007", "T1:008", "T1:009"],
+      "processing_pages": ["T1:005", "T1:006", "T1:007", "T1:008", "T1:009"],
+      "output": "chunks/JPG-T1-C001/JPG-T1-C001-S02.md",
+      "status": "pass",
+      "chunk_sha256": "100a26a99a181216a41c7b9344b568ddf51b3b1246a3ecc7abb8e11e8a350b76",
+      "locators": [
+        {"page": "T1:005", "printed_page": "2", "source_region": "第2節の扉、1.公認会計士試験における財務会計論・理論の位置付け、試験科目・配点・時間表、短答式・論文式の配点説明", "destination_heading": "## 第2節 試験概要と試験範囲"},
+        {"page": "T1:006", "printed_page": "3", "source_region": "2.出題のされ方、短答式の資産会計問題例、論文式の企業年金問題例、短答式・論文式の特徴表", "destination_heading": "## 第2節 試験概要と試験範囲"},
+        {"page": "T1:007", "printed_page": "4", "source_region": "3.出題範囲、公認会計士・監査審査会の範囲説明、注意、出題項目の例1–7", "destination_heading": "## 第2節 試験概要と試験範囲"},
+        {"page": "T1:008", "printed_page": "5", "source_region": "出題項目の例8–19の続き、会計基準・負債・純資産・財務諸表・金融商品・ストックオプション・リース・退職給付・収益認識・研究開発・減損", "destination_heading": "## 第2節 試験概要と試験範囲"},
+        {"page": "T1:009", "printed_page": "6", "source_region": "出題項目の例19–23の続き、法人税等・連結財務諸表・企業結合と事業分離・外貨換算・四半期財務諸表", "destination_heading": "## 第2節 試験概要と試験範囲"}
+      ]
+    },
+    {
+      "id": "JPG-T1-C001-S03",
+      "batch_id": "JPG-T1-C001",
+      "chapter": "00",
+      "section": "00.3",
+      "title": "第3節 テキストの使用にあたって",
+      "expected_pages": ["T1:010", "T1:011", "T1:012", "T1:013", "T1:014", "T1:015", "T1:016"],
+      "processing_pages": ["T1:010", "T1:011", "T1:012", "T1:013", "T1:014", "T1:015", "T1:016"],
+      "output": "chunks/JPG-T1-C001/JPG-T1-C001-S03.md",
+      "status": "pass",
+      "chunk_sha256": "3c465f7cf270cd5521401d10c7b3e8366cd4cba2cc6ae4d7e5958c74a33134fc",
+      "locators": [
+        {"page": "T1:010", "printed_page": "7", "source_region": "第3節の扉、1.基本的な方向性、内容の範囲、短答式の重要性A–D表", "destination_heading": "## 第3節 テキストの使用にあたって"},
+        {"page": "T1:011", "printed_page": "8", "source_region": "論文式の重要性A–D表、補足・参考・具体例・設例、太字、補講・補講（論文）・△", "destination_heading": "## 第3節 テキストの使用にあたって"},
+        {"page": "T1:012", "printed_page": "9", "source_region": "2.勉強の進め方、わからないことをなくす、講義後の復習、短答対策問題集と定期読書の導入", "destination_heading": "## 第3節 テキストの使用にあたって"},
+        {"page": "T1:013", "printed_page": "10", "source_region": "定期的に読む理由2点、3.今後の講義の流れ、レギュラー期・補講の表", "destination_heading": "## 第3節 テキストの使用にあたって"},
+        {"page": "T1:014", "printed_page": "11", "source_region": "4.短答対策問題集を解く際の注意点、指定問題、○×の理由、該当箇所へのメモ", "destination_heading": "## 第3節 テキストの使用にあたって"},
+        {"page": "T1:015", "printed_page": "12", "source_region": "5.短答レギュラー答練、5回分の問題数・時間、出題形式、出題内容、答練の目的", "destination_heading": "## 第3節 テキストの使用にあたって"},
+        {"page": "T1:016", "printed_page": "13", "source_region": "6.テキストの構成、会計基準・結論の背景・適用指針／実務指針の重要性表、ファイナンス・リースの例、点線の意味", "destination_heading": "## 第3節 テキストの使用にあたって"}
+      ]
+    }
+  ],
+  "review": "reviews/JPG-T1-C001.json",
+  "excluded_pages": [],
+  "source_scope": {
+    "physical_pages": "T1:004-T1:016",
+    "processing_pages": "T1:004-T1:016",
+    "chapter_key": "00",
+    "chapter_title": "序章（科目・試験概要・教材の使用）"
+  }
+}

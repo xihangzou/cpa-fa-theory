@@ -1,0 +1,114 @@
+{
+  "batch_id": "JPG-T1-C001",
+  "source_id": "T1",
+  "status": "pass",
+  "reviewed_on": "2026-09-06",
+  "reviewer_model": "GPT-5 (current execution model; no model switch)",
+  "source_revision": {
+    "delivery_branch": "main",
+    "repository_commit": "0034627e759ba83225ae91dbc5cba1c1825ba3a6",
+    "source_catalog": "contracts/source-catalog.json",
+    "source_catalog_sha256": "8358e9cffb068f63df0bdfcc8f99be035e66454ac8710d381f0ff9eb87728079",
+    "page_plan": "contracts/page-plan.json",
+    "page_plan_sha256": "997a7280b171df5803c2a3bb7c2ee8764082e01f3bdb03c194b9129fe18d26c9",
+    "source_manifest": "project/T1/sources.json",
+    "source_manifest_sha256": "760f946d08e1eebf2d79c189103ac2e627f0bb2569dcd80055885fb8b97324cd",
+    "source_map": "project/T1/source-map.json",
+    "source_map_sha256": "3ff42e94bd9f8751f8100c6ff251740a46f67182c468af620438c9768f14b961",
+    "batch_manifest": "project/T1/batches.json",
+    "batch_manifest_sha256": "125ff5fee8f8271b82c3258ced501ed4411b4071b930f08f1ed682e72c2628c4",
+    "inventory_review": "project/T1/inventory-review.json",
+    "inventory_review_sha256": "83e2c59f059ffdec53fcb8fb83a5f1300d5cca0722dcf031db0b459bd7ab8c19",
+    "source_original_root": "/Users/xihangzou/Study/320_CPA/322_財務理論/images/cpa-fa-theory-textbook-1-jpg",
+    "source_pdf": "/Users/xihangzou/Study/320_CPA/322_財務理論/01_テキスト/財務会計論テキスト　理論1.pdf",
+    "source_pdf_sha256": "c09d9d91ce39de787cab04e146719d95b638134399d57112802ffacfa67243f3",
+    "source_image_inventory_sha256": "331ad1ea2ca04d0636c2185b6ab1a8fe5240ebdd3f0c7c546c8703371d497929",
+    "edition": "2024/2025年合格目標",
+    "publication_date": "2023-01-23",
+    "physical_scope": "T1:004-T1:016",
+    "processing_scope": "T1:004-T1:016",
+    "content_authority": "designated existing JPGs only; PDF used only for identity/planning support"
+  },
+  "dependency_commits": [
+    "a2fb2bb829d112522128cdb145523302e9d1e7fd",
+    "1fd8a963ef32e09b5f3f08ecd7d5bb7cc2240a94",
+    "393dc82a64791eb452ea64ccb8cbfc55212718ef",
+    "7507151c638a73a41fc13b9d4c4481c8888307e0"
+  ],
+  "source_images": [
+    {"page":"T1:004","printed_page":"1","image":"pages/T1/page-004.jpg","sha256":"9787014b1c465c84ef422034484b9463aab86e0bc406c460fba6f2fdec923665"},
+    {"page":"T1:005","printed_page":"2","image":"pages/T1/page-005.jpg","sha256":"6d81251068550dcbf16e3d9c11684b1e46501428b814d6ebac51881e7b701ba6"},
+    {"page":"T1:006","printed_page":"3","image":"pages/T1/page-006.jpg","sha256":"e35e04e0237e8ad6d9e6c21b75eb25c6c684fdf8ec16041518c6619223366b82"},
+    {"page":"T1:007","printed_page":"4","image":"pages/T1/page-007.jpg","sha256":"10840d674c300a356986f2afe2d3948e59cfd34270b960e4849044d1f55677fd"},
+    {"page":"T1:008","printed_page":"5","image":"pages/T1/page-008.jpg","sha256":"880257e849ae058e987b423e7153771b1a28076f2679e936ad0c449ce54159bf"},
+    {"page":"T1:009","printed_page":"6","image":"pages/T1/page-009.jpg","sha256":"ab035b84a104352c21b2a726f2806832631016475e315277f8e53d8d3ee824f7"},
+    {"page":"T1:010","printed_page":"7","image":"pages/T1/page-010.jpg","sha256":"dc62419b6a0fe0c25cf816d766d71185872d152e53e9b33e3141e4af1d45a76f"},
+    {"page":"T1:011","printed_page":"8","image":"pages/T1/page-011.jpg","sha256":"c30111726bcfe78f41173e766dff55578207dc67bda4294b09d75a650ce59f14"},
+    {"page":"T1:012","printed_page":"9","image":"pages/T1/page-012.jpg","sha256":"f36d18e44ff99974bdc4df5c2b670a7ae411a9d68e76bb5e5e5a13cb30056ee8"},
+    {"page":"T1:013","printed_page":"10","image":"pages/T1/page-013.jpg","sha256":"ad8512d5de7bbf79ef78cd0c8c2a0aff9781694ed404db743af646960b5a9544"},
+    {"page":"T1:014","printed_page":"11","image":"pages/T1/page-014.jpg","sha256":"f490f80c2f96e24e0d6661dd0b9e0a4c26555f1eb1edda025e9bd1c05851a107"},
+    {"page":"T1:015","printed_page":"12","image":"pages/T1/page-015.jpg","sha256":"63e0808a67dabdd4000b05c50771704ea1922abdd6c139a300f00fc21e79e285"},
+    {"page":"T1:016","printed_page":"13","image":"pages/T1/page-016.jpg","sha256":"09a2014472e9f2504d1a84ab6281d6ffdf4432875e63d949e392b90de0d00a39"}
+  ],
+  "section_outputs": [
+    {"task":"JPG-T1-C001-S01","chunk":"project/T1/chunks/JPG-T1-C001/JPG-T1-C001-S01.md","chunk_sha256":"49cd42aaea71b20f1b2f9588477ef4d0f65845c78c395240e0604b8039b1c70d"},
+    {"task":"JPG-T1-C001-S02","chunk":"project/T1/chunks/JPG-T1-C001/JPG-T1-C001-S02.md","chunk_sha256":"100a26a99a181216a41c7b9344b568ddf51b3b1246a3ecc7abb8e11e8a350b76"},
+    {"task":"JPG-T1-C001-S03","chunk":"project/T1/chunks/JPG-T1-C001/JPG-T1-C001-S03.md","chunk_sha256":"3c465f7cf270cd5521401d10c7b3e8366cd4cba2cc6ae4d7e5958c74a33134fc"}
+  ],
+  "coverage": [
+    {"page":"T1:004","status":"pass","regions":["JPG-T1-C001-S01; chapter and 第1節 heading, 1. definition, machine/depreciation example and journal-entry table","JPG-T1-C001-S01; explanation of theory as the reason behind calculation and 2. calculation/theory relationship","JPG-T1-C001-S01; margins and footer checked"]},
+    {"page":"T1:005","status":"pass","regions":["JPG-T1-C001-S02; 第2節 heading, exam placement table and point/time values","JPG-T1-C001-S02; both-exam scope and allocation explanation","JPG-T1-C001-S02; margins and footer checked"]},
+    {"page":"T1:006","status":"pass","regions":["JPG-T1-C001-S02; short-answer and essay sample prompts, all statements/options and question constraints","JPG-T1-C001-S02; short-answer/essay feature table","JPG-T1-C001-S02; margins and footer checked"]},
+    {"page":"T1:007","status":"pass","regions":["JPG-T1-C001-S02; official scope statement and caution","JPG-T1-C001-S02; 出題項目の例 1–7 including shaded-list meaning","JPG-T1-C001-S02; margins and footer checked"]},
+    {"page":"T1:008","status":"pass","regions":["JPG-T1-C001-S02; 出題項目の例 8–19 continuation, all visible subtopics and standards","JPG-T1-C001-S02; margins and footer checked"]},
+    {"page":"T1:009","status":"pass","regions":["JPG-T1-C001-S02; 出題項目の例 19–23 continuation, all visible subtopics","JPG-T1-C001-S02; margins and footer checked"]},
+    {"page":"T1:010","status":"pass","regions":["JPG-T1-C001-S03; 第3節, contents guidance and short-answer importance A–D table","JPG-T1-C001-S03; margins and footer checked"]},
+    {"page":"T1:011","status":"pass","regions":["JPG-T1-C001-S03; essay importance A–D table","JPG-T1-C001-S03; 補足・参考・具体例・設例, 太字, 補講・補講（論文）・△ guidance","JPG-T1-C001-S03; margins and footer checked"]},
+    {"page":"T1:012","status":"pass","regions":["JPG-T1-C001-S03; understanding phase, next-day review, question resolution and short-answer workbook guidance","JPG-T1-C001-S03; margins and footer checked"]},
+    {"page":"T1:013","status":"pass","regions":["JPG-T1-C001-S03; repeated-reading reasons and lecture-flow table","JPG-T1-C001-S03; margins and footer checked"]},
+    {"page":"T1:014","status":"pass","regions":["JPG-T1-C001-S03; assigned questions, explain wrong-choice reasons, remember correct choices, and annotate text","JPG-T1-C001-S03; margins and footer checked"]},
+    {"page":"T1:015","status":"pass","regions":["JPG-T1-C001-S03; five regular tests, question counts/times, format and content","JPG-T1-C001-S03; answer-drill purpose box, margins and footer checked"]},
+    {"page":"T1:016","status":"pass","regions":["JPG-T1-C001-S03; three source-material categories and short-answer importance","JPG-T1-C001-S03; finance-lease example, dotted-text convention and margins/footer checked"]}
+  ],
+  "page_fidelity_matrix": [
+    {"page":"T1:004","chunk":"JPG-T1-C001-S01","sections":["1.財務会計論・理論とはどんな科目","2.財務会計論・計算と財務会計論・理論"],"result":"pass"},
+    {"page":"T1:005","chunk":"JPG-T1-C001-S02","sections":["1.試験における位置付け","科目・点数・時間表"],"result":"pass"},
+    {"page":"T1:006","chunk":"JPG-T1-C001-S02","sections":["2.出題のされ方","短答式・論文式の出題例","試験特徴"],"result":"pass"},
+    {"page":"T1:007","chunk":"JPG-T1-C001-S02","sections":["3.出題範囲","公式範囲説明","注意","出題項目1–7"],"result":"pass"},
+    {"page":"T1:008","chunk":"JPG-T1-C001-S02","sections":["出題項目8–19"],"result":"pass"},
+    {"page":"T1:009","chunk":"JPG-T1-C001-S02","sections":["出題項目19–23"],"result":"pass"},
+    {"page":"T1:010","chunk":"JPG-T1-C001-S03","sections":["1.基本的な方向性","短答式重要性"],"result":"pass"},
+    {"page":"T1:011","chunk":"JPG-T1-C001-S03","sections":["論文式重要性","補足・参考・具体例・設例","太字","補講・△"],"result":"pass"},
+    {"page":"T1:012","chunk":"JPG-T1-C001-S03","sections":["2.勉強の進め方 (1)–(3)"],"result":"pass"},
+    {"page":"T1:013","chunk":"JPG-T1-C001-S03","sections":["定期読書の理由","3.今後の講義の流れ"],"result":"pass"},
+    {"page":"T1:014","chunk":"JPG-T1-C001-S03","sections":["4.短答対策問題集を解く際の注意点"],"result":"pass"},
+    {"page":"T1:015","chunk":"JPG-T1-C001-S03","sections":["5.短答レギュラー答練"],"result":"pass"},
+    {"page":"T1:016","chunk":"JPG-T1-C001-S03","sections":["6.テキストの構成"],"result":"pass"}
+  ],
+  "numerical_checks": [
+    {"pages":["T1:004"],"check":"機械10,000、耐用年数3年、残存価額10%、定額法、減価償却費3,000・減価償却累計額3,000の関係","result":"pass"},
+    {"pages":["T1:005"],"check":"財務会計論・理論の短答式28問（120分）、論文式大問3問（180分）、近年配点約80点・約110点","result":"pass"},
+    {"pages":["T1:015"],"check":"答練第1回・第2回は10問30分、第3回〜第5回は15問45分","result":"pass"}
+  ],
+  "diagram_checks": [
+    {"pages":["T1:005","T1:006"],"check":"試験科目表、短答式・論文式の出題形式と特徴を表形式で保持","result":"pass"},
+    {"pages":["T1:007","T1:008","T1:009"],"check":"網掛けを含む出題項目の例を順序・階層・サブトピック付きリストへ保持","result":"pass"},
+    {"pages":["T1:010","T1:011","T1:013","T1:016"],"check":"重要性表、講義の流れ表、資料別重要性表および点線文章の意味を保持","result":"pass"}
+  ],
+  "question_pair_checks": {"status":"not_applicable","result":"This introductory theory chapter contains sample questions but no source question-and-answer pair requiring linked answer records."},
+  "findings": [
+    "All 13 included processing images were reopened at readable resolution and compared with the three section chunks, including margins, footers, tables, sample questions, numbered scope lists and boxed guidance.",
+    "The source has exactly three section anchors in the assigned physical range: T1:004, T1:005 and T1:010.",
+    "The page 007–009 examination-scope list was retained as substantive instructional content, not treated as navigation metadata.",
+    "No source object crosses the T1:016 boundary; the next page is outside this issue and was not read for content."
+  ],
+  "corrections": [
+    "Normalized OCR/PDF spacing and punctuation artifacts only; wording and numerical values were checked against the designated JPGs.",
+    "Reconstructed tables and diagram/list relationships as Markdown tables or ordered/nested lists without adding outside accounting content.",
+    "Preserved the sample question statements, option combinations, importance categories, test schedule and finance-lease example; no unresolved marker remains."
+  ],
+  "excluded_pages": [],
+  "checks": {"numerical":"pass","diagram":"pass","false_proposition":"not_applicable"},
+  "unresolved_count": 0,
+  "semantic_boundary": "Structural/hash checks validate scope and consistency; semantic completeness is supported by the recorded page-by-page human image review."
+}
