@@ -1,0 +1,424 @@
+{
+ "batch_id": "JPG-T2-C014",
+ "checks": {
+  "diagram": "pass",
+  "false_proposition": "not_applicable",
+  "numerical": "pass"
+ },
+ "corrections": [],
+ "coverage": [
+  {
+   "page": "T2:253",
+   "regions": [
+    "chapter title and importance stars",
+    "related calculation-text references",
+    "short-answer exam-history table with 18II cells",
+    "essay exam-history table with 17/20/21/22 cells"
+   ],
+   "status": "pass"
+  },
+  {
+   "page": "T2:254",
+   "regions": [
+    "section 1 opener",
+    "1.換算とは definition and yen-unification purpose",
+    "2.換算と評価 with evaluation/translation diagram and expression note",
+    "3.換算する際の会計上の問題 with 150/110 example"
+   ],
+   "status": "pass"
+  },
+  {
+   "page": "T2:255",
+   "regions": [
+    "section 2 opener",
+    "cost-attribute HR rule with land diagram",
+    "market-attribute CR rule with trading-securities diagram",
+    "four-method table with single/multiple-rate definitions"
+   ],
+   "status": "pass"
+  },
+  {
+   "page": "T2:256",
+   "regions": [
+    "current/non-current table with rationale and inventory-at-cost drawback",
+    "one-year settlement CR/HR diagram",
+    "monetary/non-monetary table with measurement-consistency rationale and inventory-at-market drawback"
+   ],
+   "status": "pass"
+  },
+  {
+   "page": "T2:257",
+   "regions": [
+    "temporal-method table with paradox drawback",
+    "paradox設例 with 200-dollar revenue and 180-dollar expense entries",
+    "修正テンポラル法 reference with pre-1995 use and 1995 reform note"
+   ],
+   "status": "pass"
+  },
+  {
+   "page": "T2:258",
+   "regions": [
+    "monetary-vs-temporal comparison with bond and inventory divergence rows",
+    "three-point POINT box",
+    "closing-rate method table with convenience and proportionality rationale"
+   ],
+   "status": "pass"
+  },
+  {
+   "page": "T2:259",
+   "regions": [
+    "rationale-1 three-case numerical diagrams",
+    "rationale-2 full-@110 proportionality diagram",
+    "mixed-rate counterexample with 1,050 difference"
+   ],
+   "status": "pass"
+  },
+  {
+   "page": "T2:260",
+   "regions": [
+    "section 3 opener",
+    "traditional monetary-plus-current/non-current method with diagram",
+    "5-yen provisional versus 12-yen realized premise",
+    "current all-monetary-at-CR rule"
+   ],
+   "status": "pass"
+  },
+  {
+   "page": "T2:261",
+   "regions": [
+    "one/two-transaction definition table",
+    "purchase-closing-settlement設例 with both entry sets",
+    "one-transaction rationale with 90-yen forecast premise"
+   ],
+   "status": "pass"
+  },
+  {
+   "page": "T2:262",
+   "regions": [
+    "two-transaction rationale with hedging-skill note",
+    "difference table with common total profit",
+    "current two-transaction adoption with easy/troublesome diagrams"
+   ],
+   "status": "pass"
+  },
+  {
+   "page": "T2:263",
+   "regions": [
+    "foreign-currency-transaction definition and five listed transactions",
+    "makers-risk rule",
+    "maker/trader/overseas-company diagram with yen/dollar legs"
+   ],
+   "status": "pass"
+  },
+  {
+   "page": "T2:264",
+   "regions": [
+    "section 4 opener",
+    "transaction-date recording with hedge exception",
+    "hedge-method振当 note",
+    "foreign-currency recording with month-end attachment rule"
+   ],
+   "status": "pass"
+  },
+  {
+   "page": "T2:265",
+   "regions": [
+    "foreign-currency closing translation with exchange-difference rule",
+    "monetary-claims definition with no-maturity-split rule and yen-risk rationale"
+   ],
+   "status": "pass"
+  },
+  {
+   "page": "T2:266",
+   "regions": [
+    "trading-securities CR translation with evaluation-gain rule",
+    "evaluation-vs-translation補足 with 2,700 entry and 2,100/600 split",
+    "principle versus exception methods for other securities"
+   ],
+   "status": "pass"
+  },
+  {
+   "page": "T2:267",
+   "regions": [
+    "held-to-maturity CR rule with amortization-at-average instruction",
+    "amortized-cost補足",
+    "hedged held-to-maturity処理 with 11,000/10,340/660 entry and allocation rule"
+   ],
+   "status": "pass"
+  },
+  {
+   "page": "T2:268",
+   "regions": [
+    "reinvestment-deferral rule with two documentary conditions",
+    "Chicago-land設例 with 200/300 deferrals and 500 land adjustment",
+    "three-rule exception positioning note"
+   ],
+   "status": "pass"
+  },
+  {
+   "page": "T2:269",
+   "regions": [
+    "subsidiary/affiliate HR rule",
+    "other-securities CR rule with price/FX risk-split diagram",
+    "impairment-at-CR rule",
+    "translation-difference handling rule with exceptions"
+   ],
+   "status": "pass"
+  },
+  {
+   "page": "T2:270",
+   "regions": [
+    "no-market-price share CR table with both views",
+    "impairment-judgment in foreign-currency comparison",
+    "derivatives-at-CR rule",
+    "settlement-date exchange-gain rule"
+   ],
+   "status": "pass"
+  },
+  {
+   "page": "T2:271",
+   "regions": [
+    "section 5 opener",
+    "convertible-bond issuer rules for 一括法 and 区分法 tables"
+   ],
+   "status": "pass"
+  },
+  {
+   "page": "T2:272",
+   "regions": [
+    "no-retranslation view with potential-share logic",
+    "retranslation-current view with cut-off logic",
+    "both comparison diagrams with 10-dollar/@100 notation"
+   ],
+   "status": "pass"
+  },
+  {
+   "page": "T2:273",
+   "regions": [
+    "stock-acquisition-right issuer HR rule with suspense rationale",
+    "holder acquisition/closing/exercise rules",
+    "treasury-right table",
+    "advance-payment non-monetary rule"
+   ],
+   "status": "pass"
+  },
+  {
+   "page": "T2:274",
+   "regions": [
+    "accrued-revenue/expense monetary-equivalent rule with 300-dollar rent diagram",
+    "exchange-gain presentation rule with net non-operating treatment and special-gain exception"
+   ],
+   "status": "pass"
+  },
+  {
+   "page": "T2:275",
+   "regions": [
+    "operating-profit critique with 90-yen forecast entries",
+    "gross-presentation critique with same-cause rebuttal",
+    "notes 1 and 2 diagrams with +20/△30/△10 arithmetic"
+   ],
+   "status": "pass"
+  },
+  {
+   "page": "T2:276",
+   "regions": [
+    "section 6 opener",
+    "transaction-date rate principle/exception table",
+    "closing-date rate with abnormality-only average rule",
+    "period-average principle/exception table"
+   ],
+   "status": "pass"
+  }
+ ],
+ "delivery_branch": "main",
+ "dependency_commits": [
+  "a2fb2bb829d112522128cdb145523302e9d1e7fd",
+  "558bb1e92a2bd7e550af9c2034dc695efde6f19d",
+  "fb4082260d3af7598cb417c2dd83a82cd224dc6d"
+ ],
+ "findings": [
+  "All 24 included processing images were reopened at readable full-page resolution and compared with the six section chunks, including margins, sidebars, footnotes, tables, diagrams, formulas, journal entries, examples and boundary headings.",
+  "Physical pages 253-276 are all inventory-approved included pages, with T2:253 carrying no printed label and T2:254-T2:276 carrying printed labels ㉘-1 through ㉘-23, and no excluded/no-content page in this batch.",
+  "The batch contains the chapter 28 opener plus complete sections 28.1 through 28.6 within its owned range; section 28.6 items 1-3 close on physical page 276 and section 28.7 starts the next batch at physical page 277, so no example or object crosses the batch boundary.",
+  "Definitions, distinctions, conditions, exceptions, timing relationships, debit/credit/amount relationships, intermediate calculations (2,700/2,100/600; 11,000/10,340/660; 1,500/500/1,000; +20/△30/△10), numerical examples and diagram-only relationships were represented without outside-source supplementation.",
+  "Chapter-opener exam-history tables were condensed into a faithful prose summary preserving every non-empty short-answer and essay cell; importance stars and related calculation-text references were preserved as learner guidance.",
+  "No question-answer or false-proposition layout occurs in this theory batch; false-proposition review is not applicable."
+ ],
+ "reviewed_on": "2026-09-06",
+ "reviewer_model": "Muse Spark (current execution model; no model switch)",
+ "repository_revision_reviewed": "5a7434042dc462e48d1400f24b732f89350647f3",
+ "section_outputs": [
+  {
+   "chunk_sha256": "3e6f9d8f98db0c2e665faa08345f476f98e2e899241e729045c82b95180e346c",
+   "task": "JPG-T2-C014-S01"
+  },
+  {
+   "chunk_sha256": "883a6a98de12db1911665e97d2f7a2798c8c018335a0708d5884b717cbc3ea97",
+   "task": "JPG-T2-C014-S02"
+  },
+  {
+   "chunk_sha256": "ec11af700acd50bfe9d948fc4e6004209a4164f7f597e91cbc170893f6e3c1c2",
+   "task": "JPG-T2-C014-S03"
+  },
+  {
+   "chunk_sha256": "66916f571b66993d1500e4b4de0815b8f7db2692224dff96e1303c7db9be8b21",
+   "task": "JPG-T2-C014-S04"
+  },
+  {
+   "chunk_sha256": "2d33d63b1f000b356ba1c09dbdc23829dd156d050bb1335e455035c861fa2c09",
+   "task": "JPG-T2-C014-S05"
+  },
+  {
+   "chunk_sha256": "8167723f6137d9bff4747927d812f20ab58fd2812c106a9b52baeec1849790fe",
+   "task": "JPG-T2-C014-S06"
+  }
+ ],
+ "source_id": "T2",
+ "source_images": [
+  {
+   "page": "T2:253",
+   "printed_page": null,
+   "sha256": "9207abacdfd8f696596511816b31fce0b4537bf43037643b5a5e24be3038e976"
+  },
+  {
+   "page": "T2:254",
+   "printed_page": "㉘-1",
+   "sha256": "bacb5f700f8747bb7b2d185a3b864ed6c6a6ff371d8e9facb7dd54c21ffa45af"
+  },
+  {
+   "page": "T2:255",
+   "printed_page": "㉘-2",
+   "sha256": "61cce95159621e55465cdbcfbede4f783916a5437af9a213007420826271582a"
+  },
+  {
+   "page": "T2:256",
+   "printed_page": "㉘-3",
+   "sha256": "94755f39eac2a21a4c72d99396f46eb4bd42060a0130b271621b2ff99e843d9f"
+  },
+  {
+   "page": "T2:257",
+   "printed_page": "㉘-4",
+   "sha256": "d5d0783d88adf75ac7d775d12f340a944f010d13c3295d10bc1a5cd95888d90d"
+  },
+  {
+   "page": "T2:258",
+   "printed_page": "㉘-5",
+   "sha256": "2ce6394a124358a0102f6c353c020e932cf4d520ebfbd45c14ee89aec0c16a8b"
+  },
+  {
+   "page": "T2:259",
+   "printed_page": "㉘-6",
+   "sha256": "a7be8bea0626a7959c9afa669a9ee8be86abff02429a1ee71b8aa0f8214c23b7"
+  },
+  {
+   "page": "T2:260",
+   "printed_page": "㉘-7",
+   "sha256": "dbfdcce420b39c784f61d3539a08dba1b5dba597d7fa662895b4ee3e6175fe74"
+  },
+  {
+   "page": "T2:261",
+   "printed_page": "㉘-8",
+   "sha256": "dd6f1f1bea07dafdab85e8e734f69eae13a384ccff2b13c90bb871080dfa6676"
+  },
+  {
+   "page": "T2:262",
+   "printed_page": "㉘-9",
+   "sha256": "b2625b61f7c071459544fea05587486dc6aa8ada6529ba29436d77bf9aa110dd"
+  },
+  {
+   "page": "T2:263",
+   "printed_page": "㉘-10",
+   "sha256": "a0754eff69f11550ff175485d12f3e3c6529a2ebf3ed218c57ab96db87cbec4c"
+  },
+  {
+   "page": "T2:264",
+   "printed_page": "㉘-11",
+   "sha256": "5ef94ded9b108a1daf35961b6fee971188dfa53796a8034ea33b2c6472215035"
+  },
+  {
+   "page": "T2:265",
+   "printed_page": "㉘-12",
+   "sha256": "c4958eead2aed3200f1476812f7d050ce2dc3d03995c3ad87d2dda06c790595d"
+  },
+  {
+   "page": "T2:266",
+   "printed_page": "㉘-13",
+   "sha256": "cd5c90fe3aaf7f5eb77101ecc530709de52130d8dd622f778754ad2848053ea5"
+  },
+  {
+   "page": "T2:267",
+   "printed_page": "㉘-14",
+   "sha256": "f2b4e54daa55043bea90bdc6035fb01cdde2cecc996c39d07eb3b98e5b9c2bfa"
+  },
+  {
+   "page": "T2:268",
+   "printed_page": "㉘-15",
+   "sha256": "46761c87873f2f5f36164aca5c6087987fd0125f87bac6cb2646583bb37d8653"
+  },
+  {
+   "page": "T2:269",
+   "printed_page": "㉘-16",
+   "sha256": "c90fc66e233ae835cd7c94549338c493117e34f71f6e585aa3b5b5156ddf08a3"
+  },
+  {
+   "page": "T2:270",
+   "printed_page": "㉘-17",
+   "sha256": "a4d6fd362b7e5fd8ec5deac4181e93fa6cb3d929998d3769857d578ba271e771"
+  },
+  {
+   "page": "T2:271",
+   "printed_page": "㉘-18",
+   "sha256": "eaabeb31fe94f531b98f21a34b2b2d47e0969cc9def3fbdfa0bd50ed76ad15c0"
+  },
+  {
+   "page": "T2:272",
+   "printed_page": "㉘-19",
+   "sha256": "0a14051b43ab544cbfd0780312debef512655acd59fe5f109e33f219e0ba6c9e"
+  },
+  {
+   "page": "T2:273",
+   "printed_page": "㉘-20",
+   "sha256": "a26971bd16f9279b6869fb2f4b387c9b07400f58f0a9a92ef8f3172db55e5de2"
+  },
+  {
+   "page": "T2:274",
+   "printed_page": "㉘-21",
+   "sha256": "3040a4091ceb33f17d01df2d5479a4f0cdc1b7dc1b2df29b59af60ec3b82fd84"
+  },
+  {
+   "page": "T2:275",
+   "printed_page": "㉘-22",
+   "sha256": "846bd0f942ca47ca8feea9b4cfbcb01c4e41cc6832ce852b1925fecff8d2536a"
+  },
+  {
+   "page": "T2:276",
+   "printed_page": "㉘-23",
+   "sha256": "295994e6454a21856f77c769d4f4446d87cff355f1497d0cd914354ef83d2be9"
+  }
+ ],
+ "source_revision": {
+  "batch_manifest_sha256": "959f880a026c8b1ca149f12f39fb954b06f86d5600eb0f8207c406139e9546e3",
+  "content_authority": "designated existing JPGs only; PDF used only for identity/planning support",
+  "edition": "2024/2025年合格目標",
+  "image_folder": "/Users/xihangzou/Study/320_CPA/322_財務理論/images/cpa-fa-theory-textbook-2-jpg",
+  "inventory_review_sha256": "b0f2b10e53d792d7ee563a24810b117c95a09599769fefc3d58138466e6f1384",
+  "page_plan": "contracts/page-plan.json",
+  "page_plan_sha256": "997a7280b171df5803c2a3bb7c2ee8764082e01f3bdb03c194b9129fe18d26c9",
+  "physical_scope": "T2:253-T2:276",
+  "pilot_gate_sha256": "712db4eed9c2c6d373d53b85c225c894b3877ed4eb085c4a1be6821d350a4cbc",
+  "processing_scope": "T2:253-T2:276",
+  "publication_date": "2023-05-04",
+  "source_catalog": "contracts/source-catalog.json",
+  "source_catalog_sha256": "8358e9cffb068f63df0bdfcc8f99be035e66454ac8710d381f0ff9eb87728079",
+  "source_id": "T2",
+  "source_image_inventory_sha256": "d577500ca271c7d4f0e8a1103b481e38e2494cc9c236d9fe954b35938a9a1c91",
+  "source_manifest": "project/T2/sources.json",
+  "source_manifest_sha256": "35cf038c8b38aa4d44abb1f9a9791db1f51f59e6bac41645e5df53c3b09e12b4",
+  "source_map": "project/T2/source-map.json",
+  "source_map_sha256": "de4c75bc119b6501ecb1871fccb717cb421c7790d365d0f1eb2ebd493d58ba44",
+  "source_pdf": "/Users/xihangzou/Study/320_CPA/322_財務理論/01_テキスト/財務会計論テキスト　理論2.pdf",
+  "source_pdf_sha256": "ba4b33c8881021044b6360bfd10899f1b1f882bda3ccc7df3f1f895e9cc55ba5"
+ },
+ "status": "pass",
+ "unresolved_count": 0
+}
