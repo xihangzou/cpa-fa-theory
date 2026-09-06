@@ -1,0 +1,102 @@
+{
+  "batch_id": "JPG-T3-C001",
+  "source_id": "T3",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-T3-C001-S01",
+      "batch_id": "JPG-T3-C001",
+      "chapter": "33",
+      "section": "33.1",
+      "title": "第1節 金融資産及び金融負債の範囲等",
+      "expected_pages": ["T3:007", "T3:008", "T3:009"],
+      "processing_pages": ["T3:007", "T3:008", "T3:009"],
+      "output": "chunks/JPG-T3-C001/JPG-T3-C001-S01.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T3:007", "printed_page": null, "source_region": "第33章タイトル、短答式本試験の出題実績表（14論点・17Ⅰ〜22Ⅱ）", "destination_heading": "## 第1節 金融資産及び金融負債の範囲等"},
+        {"page": "T3:008", "printed_page": "㉝－1", "source_region": "論文式本試験の出題実績表（14論点・17〜22）", "destination_heading": "## 第1節 金融資産及び金融負債の範囲等"},
+        {"page": "T3:009", "printed_page": "㉝－2", "source_region": "1.金融資産及び金融負債の範囲、金融資産・金融負債の分類表、複合金融商品、コモディティ・デリバティブの差金決済、2.時価、市場の補足、取得時付随費用の補足", "destination_heading": "## 第1節 金融資産及び金融負債の範囲等"}
+      ],
+      "chunk_sha256": "7b2fbaac09203d0df2affb90284a48064f722053029cf8b538d7627de176af13"
+    },
+    {
+      "id": "JPG-T3-C001-S02",
+      "batch_id": "JPG-T3-C001",
+      "chapter": "33",
+      "section": "33.2",
+      "title": "第2節 金融資産及び金融負債の発生の認識",
+      "expected_pages": ["T3:010", "T3:011"],
+      "processing_pages": ["T3:010", "T3:011"],
+      "output": "chunks/JPG-T3-C001/JPG-T3-C001-S02.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T3:010", "printed_page": "㉝－3", "source_region": "第2節の定義、1.発生の基本的考え方、2.金融資産・金融負債自体を対象とする取引、約定時の有価証券仕訳、3.商品売買・役務提供取引", "destination_heading": "## 第2節 金融資産及び金融負債の発生の認識"},
+        {"page": "T3:011", "printed_page": "㉝－4", "source_region": "有価証券の認識の補足、約定日基準・修正受渡日基準の設例と全仕訳、先渡契約、貸付金及び借入金の認識", "destination_heading": "## 第2節 金融資産及び金融負債の発生の認識"}
+      ],
+      "chunk_sha256": "5876d2acd1d89fe0bd7c2339e09cb4d461cf480b32085331d21d951effeab55d"
+    },
+    {
+      "id": "JPG-T3-C001-S03",
+      "batch_id": "JPG-T3-C001",
+      "chapter": "33",
+      "section": "33.3",
+      "title": "第3節 金融資産及び金融負債の消滅の認識",
+      "expected_pages": ["T3:012", "T3:013", "T3:014", "T3:015", "T3:016", "T3:017", "T3:018", "T3:019", "T3:020", "T3:021", "T3:022"],
+      "processing_pages": ["T3:012", "T3:013", "T3:014", "T3:015", "T3:016", "T3:017", "T3:018", "T3:019", "T3:020", "T3:021", "T3:022"],
+      "output": "chunks/JPG-T3-C001/JPG-T3-C001-S03.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T3:012", "printed_page": "㉝－5", "source_region": "第3節の定義、1.金融資産の消滅の認識、3要件表と具体例・仕訳", "destination_heading": "## 第3節 金融資産及び金融負債の消滅の認識"},
+        {"page": "T3:013", "printed_page": "㉝－6", "source_region": "2.(1)特殊な譲渡、A・B・Cの回収サービス関係、財務構成要素アプローチとリスク・経済価値アプローチの定義、貸付金の2要素", "destination_heading": "## 第3節 金融資産及び金融負債の消滅の認識"},
+        {"page": "T3:014", "printed_page": "㉝－7", "source_region": "財務構成要素アプローチとリスク・経済価値アプローチの図・存続判断、現行制度上の財務構成要素アプローチ", "destination_heading": "## 第3節 金融資産及び金融負債の消滅の認識"},
+        {"page": "T3:015", "printed_page": "㉝－8", "source_region": "支配移転の3要件の趣旨、譲渡人のオフバランス・譲受人のオンバランス、3要件の列挙", "destination_heading": "## 第3節 金融資産及び金融負債の消滅の認識"},
+        {"page": "T3:016", "printed_page": "㉝－9", "source_region": "4.(1)倒産隔離の要件とA社・B社・C社の具体例", "destination_heading": "## 第3節 金融資産及び金融負債の消滅の認識"},
+        {"page": "T3:017", "printed_page": "㉝－10", "source_region": "4.(2)利益享受の要件、譲渡制限、D社・E社自己株式の具体例、譲渡制限の補足", "destination_heading": "## 第3節 金融資産及び金融負債の消滅の認識"},
+        {"page": "T3:018", "printed_page": "㉝－11", "source_region": "特別目的会社の場合の2要件と投資家への適用、4.(3)買戻権・義務がない要件、現先・レポ、F社・G社具体例", "destination_heading": "## 第3節 金融資産及び金融負債の消滅の認識"},
+        {"page": "T3:019", "printed_page": "㉝－12", "source_region": "クロス取引の定義・会計処理、売却直後購入と購入直後売却の図・仕訳・簿価通算禁止", "destination_heading": "## 第3節 金融資産及び金融負債の消滅の認識"},
+        {"page": "T3:020", "printed_page": "㉝－13", "source_region": "5.金融負債の消滅の認識、3要件表・仕訳、第一次債務者の地位から免責された場合の処理", "destination_heading": "## 第3節 金融資産及び金融負債の消滅の認識"},
+        {"page": "T3:021", "printed_page": "㉝－14", "source_region": "6.(1)全部消滅時の会計処理と貸付金譲渡設例、(2)一部消滅時の按分原則・時価比率・設例・計算・仕訳", "destination_heading": "## 第3節 金融資産及び金融負債の消滅の認識"},
+        {"page": "T3:022", "printed_page": "㉝－15", "source_region": "6.(3)新たな金融資産・金融負債の発生、買戻権・リコース義務の設例・仕訳・イメージ", "destination_heading": "## 第3節 金融資産及び金融負債の消滅の認識"}
+      ],
+      "chunk_sha256": "3ab86e153b3c8188bd67a23d3a001eb5c7d954083a6961aa701c603d95cb3e33"
+    },
+    {
+      "id": "JPG-T3-C001-S04",
+      "batch_id": "JPG-T3-C001",
+      "chapter": "33",
+      "section": "33.4",
+      "title": "第4節 金融資産及び金融負債の評価基準に関する基本的な考え方",
+      "expected_pages": ["T3:023", "T3:024"],
+      "processing_pages": ["T3:023", "T3:024"],
+      "output": "chunks/JPG-T3-C001/JPG-T3-C001-S04.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T3:023", "printed_page": "㉝－16", "source_region": "第4節、1.金融資産の基本評価、2.時価評価の根拠、投資者・企業への情報提供表、①〜③、3.属性・保有目的の根拠", "destination_heading": "## 第4節 金融資産及び金融負債の評価基準に関する基本的な考え方"},
+        {"page": "T3:024", "printed_page": "㉝－17", "source_region": "4.金融負債の基本評価と根拠、金融資産・金融負債の評価基準まとめ表", "destination_heading": "## 第4節 金融資産及び金融負債の評価基準に関する基本的な考え方"}
+      ],
+      "chunk_sha256": "f44edfffe8d18bfb5840dd95fb80e8c0ea9d1e570fbf24ef50c5e3d0d9bb828a"
+    },
+    {
+      "id": "JPG-T3-C001-S05",
+      "batch_id": "JPG-T3-C001",
+      "chapter": "33",
+      "section": "33.5",
+      "title": "第5節 金銭債権の貸借対照表価額",
+      "expected_pages": ["T3:025", "T3:026", "T3:027", "T3:028", "T3:029", "T3:030"],
+      "processing_pages": ["T3:025", "T3:026", "T3:027", "T3:028", "T3:029", "T3:030"],
+      "output": "chunks/JPG-T3-C001/JPG-T3-C001-S05.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T3:025", "printed_page": "㉝－18", "source_region": "第5節、1.(1)金銭債権の貸借対照表価額の算定方法・公式、トレーディング目的、(2)時価評価しない根拠", "destination_heading": "## 第5節 金銭債権の貸借対照表価額"},
+        {"page": "T3:026", "printed_page": "㉝－19", "source_region": "1.(3)償却原価法の定義・適用方法・適用条件・適用根拠、金利調整と信用力低下の図・比較", "destination_heading": "## 第5節 金銭債権の貸借対照表価額"},
+        {"page": "T3:027", "printed_page": "㉝－20", "source_region": "償却原価法の設例（9,070取得・債権金額10,000・実効利子率5%）と仕訳、貸倒引当金控除根拠", "destination_heading": "## 第5節 金銭債権の貸借対照表価額"},
+        {"page": "T3:028", "printed_page": "㉝－21", "source_region": "2.(1)一般債権・貸倒懸念債権・破産更生債権等の区分と定義、2.(2)①一般債権の貸倒実績率法・公式", "destination_heading": "## 第5節 金銭債権の貸借対照表価額"},
+        {"page": "T3:029", "printed_page": "㉝－22", "source_region": "②貸倒懸念債権、財務内容評価法・公式、キャッシュ・フロー見積法・公式、更新と割引効果、設例・数値・仕訳", "destination_heading": "## 第5節 金銭債権の貸借対照表価額"},
+        {"page": "T3:030", "printed_page": "㉝－23", "source_region": "③破産更生債権等・公式、貸倒見積高の個別引当法・総括引当法、引当金・直接減額の仕訳と例外、債権の未収利息処理", "destination_heading": "## 第5節 金銭債権の貸借対照表価額"}
+      ],
+      "chunk_sha256": "ce85f51687ad2219e76b162d1121412e40451bdf51e365168a9a652356f5f407"
+    }
+  ],
+  "review": "reviews/JPG-T3-C001.json"
+}
