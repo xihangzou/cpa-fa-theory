@@ -1,0 +1,107 @@
+{
+  "batch_id": "JPG-T1-C012",
+  "source_id": "T1",
+  "status": "pass",
+  "reviewed_on": "2026-09-06",
+  "source_revision": {
+    "source_root": "/Users/xihangzou/Study/320_CPA/322_財務理論/images/cpa-fa-theory-textbook-1-jpg",
+    "edition": "2024/2025年合格目標",
+    "publication_date": "2023-01-23",
+    "scope": "T1:141-T1:164",
+    "processing_page_count": 23,
+    "excluded_pages": [{"page": "T1:164", "printed_page": "⑧－33", "reason": "Blank chapter-end MEMO page with no learner content."}],
+    "pdf_sha256": "c09d9d91ce39de787cab04e146719d95b638134399d57112802ffacfa67243f3"
+  },
+  "source_images": [
+    {"page": "T1:141", "sha256": "ad2b3ffb2a2d354e49a1f7c025ccef2da8107e2d2d88a118c099268845870b53"},
+    {"page": "T1:142", "sha256": "59f4dbafa35563565a17f918679cc679f3a6de88dc11c00b17a58c9bf9990966"},
+    {"page": "T1:143", "sha256": "ca15a7261d806ae3b0dff76ecc21cc7dbee2b706c3d67af49a483758002517d0"},
+    {"page": "T1:144", "sha256": "f502c6d959b763bd9f8b0600c460c5eeaaba5e0453a25e97c11a02ecfd18ef92"},
+    {"page": "T1:145", "sha256": "c01191a43eb3c15da03c1560067ecdffe7fac6ebedcecea60c411982b12a6d46"},
+    {"page": "T1:146", "sha256": "86c6979bd9437c8dc83ee01381479900cb97d9619045d62c6bbfc617c3b9b5bf"},
+    {"page": "T1:147", "sha256": "7bd8018b2a196e94b6aea743ea3003d2ca41235a906ccb08a6741fb23588bfaa"},
+    {"page": "T1:148", "sha256": "5c43a4d20c7cc4a5ae924a76d7b32217350d87eddba5197b839d8a83ca9c438b"},
+    {"page": "T1:149", "sha256": "7fd698daf7e60b09ba35d62d3a4ac4474abff783a74748226b98a7aed577b5c4"},
+    {"page": "T1:150", "sha256": "0c6456adcce29bb3260d4a081c41b9c1713d17797b2e7a09a03f0868f26e4550"},
+    {"page": "T1:151", "sha256": "3f13c3ae78fd7d2bb3def17e86a4f63b61d9f98739c7a971148f9eaf2f3f8909"},
+    {"page": "T1:152", "sha256": "a6745bb17bd63b1d023b60c1cd24fecf6ab479b98730e8b00965d7db72108755"},
+    {"page": "T1:153", "sha256": "8827a64d2ff041b79d0b22c5e8bc967e474c79018665e4179ea92e73ec319888"},
+    {"page": "T1:154", "sha256": "00c161305ef331fb38404717e1f6a99ffeceb2495fd493d86e6bfe78c6f852db"},
+    {"page": "T1:155", "sha256": "9d4bdb96d2887eaf9854b9f35d82d02f822329251a1577ddb9b8c5fa505f92a0"},
+    {"page": "T1:156", "sha256": "cd759e58c935a2a6eeb14d3bc59a812d8ab9e58a0ea2d600996d1bf05d67940a"},
+    {"page": "T1:157", "sha256": "3ecce51912b40f8e8e17956d08eb24f6861d0e7c372ca020ba3fe02b8e08a22d"},
+    {"page": "T1:158", "sha256": "5942af2bd5f7279d306a785d3ddeea0a3d6e4ec3834c35a2f7e0143c3572242e"},
+    {"page": "T1:159", "sha256": "90a0d328dc91371c27c065bc9389a70c84dcf836a477e19e3e910beebe61bda9"},
+    {"page": "T1:160", "sha256": "907a352454ec385925f2b9df6d3793108d02e2f8ad530b990dbf146c5357efd4"},
+    {"page": "T1:161", "sha256": "25109c8de881701bfaf7be89343e73cb86be3371963a2ebcfffeab7d52889655"},
+    {"page": "T1:162", "sha256": "1247e2c44620bbcb8ea9da41bfde9ad710db5c19c909d6615468eb751ad0ec02"},
+    {"page": "T1:163", "sha256": "4e8292bc6648ec3190cff5e174c81d439e81110cb89fd75fdf2b988eb0836e2d"}
+  ],
+  "section_outputs": [
+    {"task": "JPG-T1-C012-S01", "chunk_sha256": "8ecae003b7d560726c37ead54f4dffbcf10baa1d4f84e6a0da257209c994afad"},
+    {"task": "JPG-T1-C012-S02", "chunk_sha256": "649e520c1f867c7852323da2c37cac4952c6ddf5d2cf62facdfdfca57ecb6df3"},
+    {"task": "JPG-T1-C012-S03", "chunk_sha256": "0a9783f52dab9895b9472417a39f31d7eb4f24c5f6e4042b5bdd49967559d247"},
+    {"task": "JPG-T1-C012-S04", "chunk_sha256": "bb61cb1ca0a92fbb11915eed5751fb7e62d6461f95b560a17c10b28cd509d7cf"}
+  ],
+  "coverage": [
+    {"page": "T1:141", "regions": ["section title", "regular depreciation definition and planned/regular distinction", "purpose and matching principle"], "status": "pass"},
+    {"page": "T1:142", "regions": ["period-profit numerical example", "fixed-asset liquidity and self-financing effect table"], "status": "pass"},
+    {"page": "T1:143", "regions": ["liquidity/self-financing numerical diagrams", "material depreciation definition"], "status": "pass"},
+    {"page": "T1:144", "regions": ["functional depreciation table", "normal/accidental depreciation definitions", "classification-to-treatment table"], "status": "pass"},
+    {"page": "T1:145", "regions": ["calculation elements", "residual-value diagram", "utilization/ useful-life table"], "status": "pass"},
+    {"page": "T1:146", "regions": ["useful-life classifications and determination", "method-selection table", "straight-line definition"], "status": "pass"},
+    {"page": "T1:147", "regions": ["declining-balance definition and three merits", "sum-of-years-digits", "units-of-production conditions"], "status": "pass"},
+    {"page": "T1:148", "regions": ["individual/composite depreciation definitions", "early disposal", "post-useful-life treatment"], "status": "pass"},
+    {"page": "T1:149", "regions": ["individual/composite numerical example", "journal entries", "average useful life and renewal diagram"], "status": "pass"},
+    {"page": "T1:150", "regions": ["prospective method definition", "current rationale for estimate changes", "timeline diagram"], "status": "pass"},
+    {"page": "T1:151", "regions": ["former extraordinary-depreciation rationale", "prospective versus extraordinary numerical comparison"], "status": "pass"},
+    {"page": "T1:152", "regions": ["extraordinary loss definition and journal entry", "depletion depreciation definition and treatment"], "status": "pass"},
+    {"page": "T1:153", "regions": ["depletion versus depreciation distinctions", "oilfield acquisition/depletion/sale journal entries and calculation"], "status": "pass"},
+    {"page": "T1:154", "regions": ["replacement method and replacement-asset definitions", "accounting treatment", "three characteristics"], "status": "pass"},
+    {"page": "T1:155", "regions": ["replacement method acquisition and annual journal entries", "no-expense and current-expenditure conclusions"], "status": "pass"},
+    {"page": "T1:156", "regions": ["accumulated depreciation presentation rule and two exceptions", "three display examples", "capital-retention rationale"], "status": "pass"},
+    {"page": "T1:157", "regions": ["expense classification table", "post-depreciation memorandum value", "inventory versus fixed-asset cost allocation"], "status": "pass"},
+    {"page": "T1:158", "regions": ["tangible fixed-asset classification list", "operating-use limitation"], "status": "pass"},
+    {"page": "T1:159", "regions": ["operating-use assets", "tools/equipment/cost threshold", "construction-in-progress and collateral note"], "status": "pass"},
+    {"page": "T1:160", "regions": ["intangible fixed-asset definition/classification", "three depreciation features", "tax-method table"], "status": "pass"},
+    {"page": "T1:161", "regions": ["goodwill classification table", "purchased versus internally generated goodwill diagram", "current-system recognition reasons"], "status": "pass"},
+    {"page": "T1:162", "regions": ["intangible fixed-asset account list", "direct deduction of accumulated depreciation and impairment"], "status": "pass"},
+    {"page": "T1:163", "regions": ["investment-and-other-assets definition", "account list", "revaluation deferred-tax-asset separate presentation"], "status": "pass"}
+  ],
+  "findings": [
+    "All 23 included processing JPGs were reopened at readable resolution and compared against the four section chunks, including margins, sidebars, boxed rules, tables, diagrams, formulas, journal entries and exceptions.",
+    "Physical page 163 begins the next planned section (第6節 投資その他の資産); it was retained in this batch and emitted as a distinct section chunk. Physical page 164 is the inventory-recorded blank MEMO page and is excluded.",
+    "The numerical checks include 1,800/3/900/600, 1,800 to 900 liquidity conversion, 8,000/0.9/4 and 600 extraordinary depreciation, 550,000/50,000/6,000/100,000, 100,000/80,000/20,000 individual/composite example, and 50,000/10,500/11,000 replacement example.",
+    "Diagram-only meaning was represented in prose and tables: period matching, liquidity/self-financing, depreciation classification, renewal assumptions, and purchased versus internally generated goodwill.",
+    "This theory source has no question/answer or false-proposition layout; false-proposition review is not applicable.",
+    "The PDF text extraction was used only as a transcription aid; content was checked against the designated JPGs. No web, other textbook, current-standard update or general-knowledge supplementation was used."
+  ],
+  "corrections": [],
+  "checks": {
+    "numerical": "pass",
+    "diagram": "pass",
+    "false_proposition": "not_applicable"
+  },
+  "unresolved_count": 0,
+  "excluded_pages": [
+    {"page": "T1:164", "sha256": "2e5d858ee061c5e43c73a884c29b98c07f2e97bc679789aa2fff096b0bf48be7", "printed_page": "⑧－33", "reason": "Blank chapter-end MEMO page with no learner content."}
+  ],
+  "reviewer_model": "current execution model; no worker or model switch",
+  "dependency_commits": [
+    "a2fb2bb829d112522128cdb145523302e9d1e7fd",
+    "1fd8a963ef32e09b5f3f08ecd7d5bb7cc2240a94",
+    "7507151c638a73a41fc13b9d4c4481c8888307e0"
+  ],
+  "source_revision": {
+    "verified_main_commit": "b359f26cee74e29d4893f23b49e4f995808d50f0",
+    "source_catalog_sha256": "8358e9cffb068f63df0bdfcc8f99be035e66454ac8710d381f0ff9eb87728079",
+    "page_plan_sha256": "997a7280b171df5803c2a3bb7c2ee8764082e01f3bdb03c194b9129fe18d26c9",
+    "source_manifest_sha256": "760f946d08e1eebf2d79c189103ac2e627f0bb2569dcd80055885fb8b97324cd",
+    "source_map_sha256": "3ff42e94bd9f8751f8100c6ff251740a46f67182c468af620438c9768f14b961",
+    "batch_manifest_sha256": "125ff5fee8f8271b82c3258ced501ed4411b4071b930f08f1ed682e72c2628c4",
+    "inventory_review_sha256": "83e2c59f059ffdec53fcb8fb83a5f1300d5cca0722dcf031db0b459bd7ab8c19",
+    "pilot_qa_sha256": "cfd72bc97fc4ac0f8471bad6dc7b925085d1822ff606754b91f1b35f9b3ce694",
+    "source_image_inventory_sha256": "331ad1ea2ca04d0636c2185b6ab1a8fe5240ebdd3f0c7c546c8703371d497929",
+    "source_pdf_sha256": "c09d9d91ce39de787cab04e146719d95b638134399d57112802ffacfa67243f3"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "batch_id": "JPG-T1-C012",
+  "source_id": "T1",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-T1-C012-S01",
+      "batch_id": "JPG-T1-C012",
+      "chapter": "08",
+      "section": "08.3",
+      "title": "第3節 減価償却",
+      "expected_pages": ["T1:141", "T1:142", "T1:143", "T1:144", "T1:145", "T1:146", "T1:147", "T1:148", "T1:149", "T1:150", "T1:151", "T1:152", "T1:153", "T1:154", "T1:155", "T1:156", "T1:157"],
+      "processing_pages": ["T1:141", "T1:142", "T1:143", "T1:144", "T1:145", "T1:146", "T1:147", "T1:148", "T1:149", "T1:150", "T1:151", "T1:152", "T1:153", "T1:154", "T1:155", "T1:156", "T1:157"],
+      "output": "chunks/JPG-T1-C012/JPG-T1-C012-S01.md",
+      "status": "pass",
+      "chunk_sha256": "8ecae003b7d560726c37ead54f4dffbcf10baa1d4f84e6a0da257209c994afad",
+      "locators": [
+        {"page": "T1:141", "printed_page": "⑧－10", "source_region": "第3節扉、1.正規の減価償却、2.減価償却の目的", "destination_heading": "## 第3節 減価償却"},
+        {"page": "T1:142", "printed_page": "⑧－11", "source_region": "期間損益適正化の数値例、3.減価償却の効果の導入と効果表", "destination_heading": "## 第3節 減価償却"},
+        {"page": "T1:143", "printed_page": "⑧－12", "source_region": "固定資産の流動化・自己金融効果の数値例、4.減価の種類、物質的減価", "destination_heading": "## 第3節 減価償却"},
+        {"page": "T1:144", "printed_page": "⑧－13", "source_region": "機能的減価（陳腐化・不適応化）、通常減価と偶発減価、分類と会計処理の関係表", "destination_heading": "## 第3節 減価償却"},
+        {"page": "T1:145", "printed_page": "⑧－14", "source_region": "5.計算要素、償却基礎価額、残存価額、償却基準の定義・図・表", "destination_heading": "## 第3節 減価償却"},
+        {"page": "T1:146", "printed_page": "⑧－15", "source_region": "耐用年数の分類・決定、6.計算方法、耐用年数・利用度と各方法、定額法", "destination_heading": "## 第3節 減価償却"},
+        {"page": "T1:147", "printed_page": "⑧－16", "source_region": "定率法、級数法、生産高比例法の意義・適用条件", "destination_heading": "## 第3節 減価償却"},
+        {"page": "T1:148", "printed_page": "⑧－17", "source_region": "7.個別償却と総合償却の定義、除却・耐用年数経過後の相違", "destination_heading": "## 第3節 減価償却"},
+        {"page": "T1:149", "printed_page": "⑧－18", "source_region": "個別償却と総合償却の数値例、計算・仕訳・取替更新図", "destination_heading": "## 第3節 減価償却"},
+        {"page": "T1:150", "printed_page": "⑧－19", "source_region": "8.プロスペクティブ方式と臨時損失、プロスペクティブ方式と現行見解", "destination_heading": "## 第3節 減価償却"},
+        {"page": "T1:151", "printed_page": "⑧－20", "source_region": "従来の臨時償却の論拠、プロスペクティブ方式と臨時償却の数値比較例", "destination_heading": "## 第3節 減価償却"},
+        {"page": "T1:152", "printed_page": "⑧－21", "source_region": "臨時損失（評価減）の定義・処理例、9.減耗償却の意義と会計処理", "destination_heading": "## 第3節 減価償却"},
+        {"page": "T1:153", "printed_page": "⑧－22", "source_region": "減耗償却と減価償却の相違、油田の取得・減耗・販売仕訳例", "destination_heading": "## 第3節 減価償却"},
+        {"page": "T1:154", "printed_page": "⑧－23", "source_region": "10.取替法の意義、取替資産、会計処理、特徴", "destination_heading": "## 第3節 減価償却"},
+        {"page": "T1:155", "printed_page": "⑧－24", "source_region": "取替法の一連の会計処理の取得・年度別仕訳例と結論", "destination_heading": "## 第3節 減価償却"},
+        {"page": "T1:156", "printed_page": "⑧－25", "source_region": "11.減価償却累計額の表示方法、原則・例外・表示例・理由", "destination_heading": "## 第3節 減価償却"},
+        {"page": "T1:157", "printed_page": "⑧－26", "source_region": "12.表示区分、13.償却後の処理、14.有形固定資産と棚卸資産の費用配分の相違", "destination_heading": "## 第3節 減価償却"}
+      ]
+    },
+    {
+      "id": "JPG-T1-C012-S02",
+      "batch_id": "JPG-T1-C012",
+      "chapter": "08",
+      "section": "08.4",
+      "title": "第4節 有形固定資産の表示",
+      "expected_pages": ["T1:158", "T1:159"],
+      "processing_pages": ["T1:158", "T1:159"],
+      "output": "chunks/JPG-T1-C012/JPG-T1-C012-S02.md",
+      "status": "pass",
+      "chunk_sha256": "649e520c1f867c7852323da2c37cac4952c6ddf5d2cf62facdfdfca57ecb6df3",
+      "locators": [
+        {"page": "T1:158", "printed_page": "⑧－27", "source_region": "第4節扉、1.有形固定資産の区分と計上項目の一覧・注記", "destination_heading": "## 第4節 有形固定資産の表示"},
+        {"page": "T1:159", "printed_page": "⑧－28", "source_region": "2.営業用資産、工具器具備品、建設仮勘定・担保注記の諸論点", "destination_heading": "## 第4節 有形固定資産の表示"}
+      ]
+    },
+    {
+      "id": "JPG-T1-C012-S03",
+      "batch_id": "JPG-T1-C012",
+      "chapter": "08",
+      "section": "08.5",
+      "title": "第5節 無形固定資産",
+      "expected_pages": ["T1:160", "T1:161", "T1:162"],
+      "processing_pages": ["T1:160", "T1:161", "T1:162"],
+      "output": "chunks/JPG-T1-C012/JPG-T1-C012-S03.md",
+      "status": "pass",
+      "chunk_sha256": "0a9783f52dab9895b9472417a39f31d7eb4f24c5f6e4042b5bdd49967559d247",
+      "locators": [
+        {"page": "T1:160", "printed_page": "⑧－29", "source_region": "第5節扉、1.無形固定資産の意義・分類、2.償却の特徴・理由・税法上の方法表", "destination_heading": "## 第5節 無形固定資産"},
+        {"page": "T1:161", "printed_page": "⑧－30", "source_region": "3.営業権（のれん）の意義・買入と自己創設の比較図・現行制度上の取扱い", "destination_heading": "## 第5節 無形固定資産"},
+        {"page": "T1:162", "printed_page": "⑧－31", "source_region": "4.無形固定資産の表示、計上項目一覧、減価償却累計額・減損損失累計額の直接控除", "destination_heading": "## 第5節 無形固定資産"}
+      ]
+    },
+    {
+      "id": "JPG-T1-C012-S04",
+      "batch_id": "JPG-T1-C012",
+      "chapter": "08",
+      "section": "08.6",
+      "title": "第6節 投資その他の資産",
+      "expected_pages": ["T1:163"],
+      "processing_pages": ["T1:163"],
+      "output": "chunks/JPG-T1-C012/JPG-T1-C012-S04.md",
+      "status": "pass",
+      "chunk_sha256": "bb61cb1ca0a92fbb11915eed5751fb7e62d6461f95b560a17c10b28cd509d7cf",
+      "locators": [
+        {"page": "T1:163", "printed_page": "⑧－32", "source_region": "第6節扉、投資その他の資産の定義、計上項目一覧、再評価に係る繰延税金資産の別掲規定", "destination_heading": "## 第6節 投資その他の資産"}
+      ]
+    }
+  ],
+  "review": "reviews/JPG-T1-C012.json",
+  "excluded_pages": [
+    {"page": "T1:164", "printed_page": "⑧－33", "reason": "Blank chapter-end MEMO page with no learner content."}
+  ],
+  "source_scope": {
+    "source_id": "T1",
+    "physical_range": "T1:141-T1:164",
+    "processing_range": "T1:141-T1:163",
+    "chapter": "08",
+    "title": "固定資産",
+    "content_authority": "designated existing JPGs only"
+  }
+}
