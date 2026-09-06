@@ -1,0 +1,103 @@
+{
+  "batch_id": "JPG-W1-C001",
+  "source_id": "W1",
+  "status": "pass",
+  "reviewed_on": "2026-09-07",
+  "reviewer_model": "GPT-5 (current execution model; no model switch)",
+  "source_revision": {
+    "delivery_branch": "main",
+    "repository_commit": "81838d1685c7a2be892fc2b5ec10ea335c4bbd84",
+    "source_catalog": "contracts/source-catalog.json",
+    "source_catalog_sha256": "8358e9cffb068f63df0bdfcc8f99be035e66454ac8710d381f0ff9eb87728079",
+    "page_plan": "contracts/page-plan.json",
+    "page_plan_sha256": "997a7280b171df5803c2a3bb7c2ee8764082e01f3bdb03c194b9129fe18d26c9",
+    "source_manifest": "project/W1/sources.json",
+    "source_manifest_sha256": "f9bf676e213a1ccedb2ddb4e19c35fbc931b044844436970d3d65def49433de3",
+    "source_map": "project/W1/source-map.json",
+    "source_map_sha256": "d423630c6d0e0683d64bd6b32a9677f0d4f971f6a8572c217ef1c37c5f5a937a",
+    "batch_manifest": "project/W1/batches.json",
+    "batch_manifest_sha256": "35a285b5506fbd1dfbfb1c2c06994f6640617d9f68ef9f77636871c953b8ed4a",
+    "inventory_review": "project/W1/inventory-review.json",
+    "inventory_review_sha256": "e94cf19cc8ad6c7bf9e1fbfc2856e128f88b2ab2cf02be37b2fcf869d0a993bf",
+    "source_original_root": "/Users/xihangzou/Study/320_CPA/322_財務理論/images/cpa-fa-theory-short-answer-workbook-1-jpg",
+    "source_pdf": "/Users/xihangzou/Study/320_CPA/322_財務理論/02_問題集/財務会計論短答対策問題集　理論1.pdf",
+    "source_pdf_sha256": "cd4b9e8b7be475d5e40785cddfd41e48e775b57eeaed6ffb2b90f4c21c0fd04f",
+    "source_image_inventory_sha256": "593df03d5e6282b4d69ed9162a8afd9cbf6500cb0656884bec1c5b6b129fa5eb",
+    "edition": "2024/2025年合格目標",
+    "publication_date": "2023-01-23",
+    "physical_scope": "W1:005-W1:023",
+    "processing_scope": "W1:005-W1:022",
+    "content_authority": "designated existing JPGs only; PDF used only for identity/planning support"
+  },
+  "dependency_commits": [
+    "a2fb2bb829d112522128cdb145523302e9d1e7fd",
+    "a62d278ae52faba8a97b49e08688e54ce2a466c2",
+    "40a6e712ba3ea4407553b4dcef333bef003c45d3",
+    "46de4cd3c5999251a2ddf48fa02a363a58fa29d8",
+    "81838d1685c7a2be892fc2b5ec10ea335c4bbd84"
+  ],
+  "source_images": [
+    {"page": "W1:005", "printed_page": null, "image": "pages/W1/page-005.jpg", "sha256": "257f5a94ff4707fb3224b7ad49c5de17bf21179bcbb7b885de8d63361e618335"},
+    {"page": "W1:006", "printed_page": "1", "image": "pages/W1/page-006.jpg", "sha256": "c405953fec6548fe3925d20b46da42988d7ec8fa6eaf4c625870e764060482fa"},
+    {"page": "W1:007", "printed_page": "2", "image": "pages/W1/page-007.jpg", "sha256": "1c8f3e104a0313fce37714a44be7161aae89b0cb756d9efcf975126ed2304f28"},
+    {"page": "W1:008", "printed_page": "3", "image": "pages/W1/page-008.jpg", "sha256": "ce74d868669354b2e1bc6f3d2f8e8dfb0de9f4bcddb0416b94caee80b1cc1eaa"},
+    {"page": "W1:009", "printed_page": "4", "image": "pages/W1/page-009.jpg", "sha256": "b2c5611a51a15b23fd9841028b2bb3b493ea3a58fe2851dff4cb7e746505030f"},
+    {"page": "W1:010", "printed_page": "5", "image": "pages/W1/page-010.jpg", "sha256": "f13716a4e08929a6d72af4517a18a5dc178db833591c66514d73979dc2b6df83"},
+    {"page": "W1:011", "printed_page": "6", "image": "pages/W1/page-011.jpg", "sha256": "805bdc59b9cac50f6c0c2016f09a4029a055369b51653e044d387a225f67b126"},
+    {"page": "W1:012", "printed_page": "7", "image": "pages/W1/page-012.jpg", "sha256": "a7d9c205b8729170395b0c2a86c36b11ae05588ee7be819944342fa1e07538b6"},
+    {"page": "W1:013", "printed_page": "8", "image": "pages/W1/page-013.jpg", "sha256": "b08f24eaca73ae7970c5e4e108532ed1ca501318aae8e08291993a7db779781a"},
+    {"page": "W1:014", "printed_page": "9", "image": "pages/W1/page-014.jpg", "sha256": "609aca4301f8123b2c3e82f0c41b20fcfb9883ca3030e73fed2d7dd4dcda5b6d"},
+    {"page": "W1:015", "printed_page": "10", "image": "pages/W1/page-015.jpg", "sha256": "ae300472df0c4061453c0efc20568b716d19f30ddf5f99badd20fe5369fc1d9b"},
+    {"page": "W1:016", "printed_page": "11", "image": "pages/W1/page-016.jpg", "sha256": "0b8895544841319511538bbbb9461284f35c89f38a574858ab797e556db2e6bf"},
+    {"page": "W1:017", "printed_page": "12", "image": "pages/W1/page-017.jpg", "sha256": "bf65844e9dc3a4891e8406e4934af84242ad5a74fe81082a31c1606dc7d152df"},
+    {"page": "W1:018", "printed_page": "13", "image": "pages/W1/page-018.jpg", "sha256": "b9f8918f1e0e94a4fcd835fb6fbaee2cea9a87d51e4f61c2e816516e0c1e752f"},
+    {"page": "W1:019", "printed_page": "14", "image": "pages/W1/page-019.jpg", "sha256": "3eba329223731231046446f9c3fdccc03a6d4f832e6ffd0c8e0bf7f914d2dbfa"},
+    {"page": "W1:020", "printed_page": "15", "image": "pages/W1/page-020.jpg", "sha256": "d94a62459e99af924f8942cce57e0cd850574847e096f7f975670fe63a7fd0a5"},
+    {"page": "W1:021", "printed_page": "16", "image": "pages/W1/page-021.jpg", "sha256": "9d17474efed8ee881ef1782e9479d0fa5568d64811ed9641142f69757a77d53a"},
+    {"page": "W1:022", "printed_page": "17", "image": "pages/W1/page-022.jpg", "sha256": "6ead28a274b4fb478d864bc4a57ab4d5ea74ca331255da9bc6c05d13fb247b25"}
+  ],
+  "section_outputs": [
+    {"task": "JPG-W1-C001-S01", "chunk": "project/W1/chunks/JPG-W1-C001/JPG-W1-C001-S01.md", "chunk_sha256": "7b80f84765c7f5bba8674fa7eb7795ead45a694c5abadc4fb151cc2ac7fa726c"},
+    {"task": "JPG-W1-C001-S02", "chunk": "project/W1/chunks/JPG-W1-C001/JPG-W1-C001-S02.md", "chunk_sha256": "1fb0ae97acd4b5fa32277ac4faae7a8e618ca33311c6bef391b7bf6ff0597dcb"},
+    {"task": "JPG-W1-C001-S03", "chunk": "project/W1/chunks/JPG-W1-C001/JPG-W1-C001-S03.md", "chunk_sha256": "6f01db0ed359c2d96abf88669981455f4ce7f3c17e01ece5bd6d2401062b83c4"},
+    {"task": "JPG-W1-C001-S04", "chunk": "project/W1/chunks/JPG-W1-C001/JPG-W1-C001-S04.md", "chunk_sha256": "38e660bb66d7215e56d3526ea2119d0318073ada498587321b7ddbeed9105ed2"}
+  ],
+  "coverage": [
+    {"page": "W1:005", "status": "pass", "regions": ["序章の目的を示す図、GOAL／最短ルート／明確な学習の指針、4項目の概要、余白および著者表記を確認"]},
+    {"page": "W1:006", "status": "pass", "regions": ["S02: 出題範囲の要旨、公式抜粋、適用指針・実務指針、ポイント欄、余白およびフッターを確認"]},
+    {"page": "W1:007", "status": "pass", "regions": ["S02: 試験概要、直近5回の配点、解答順序・時間配分、分析導入を確認"]},
+    {"page": "W1:008", "status": "pass", "regions": ["S02: 会計基準・論点の出題肢数表前半を全行確認"]},
+    {"page": "W1:009", "status": "pass", "regions": ["S02: 会計基準・論点の出題肢数表後半を全行確認"]},
+    {"page": "W1:010", "status": "pass", "regions": ["S02: ①分析結果、②出題内訳表、思考型の問題例、余白およびフッターを確認"]},
+    {"page": "W1:011", "status": "pass", "regions": ["S02: ②補足、③現行取扱い、従来・代替的取扱い例、④分析表を確認"]},
+    {"page": "W1:012", "status": "pass", "regions": ["S02: ④分析結果、結論相違・従来処理・要件相違の各問題例と解答を確認"]},
+    {"page": "W1:013", "status": "pass", "regions": ["S02: ⑤理由、⑥難易度の表、分析結果、ポイント欄を確認"]},
+    {"page": "W1:014", "status": "pass", "regions": ["S02: 分野別学習戦略表前半の全行、余白およびフッターを確認"]},
+    {"page": "W1:015", "status": "pass", "regions": ["S02: 分野別学習戦略表中盤の全行、余白およびフッターを確認"]},
+    {"page": "W1:016", "status": "pass", "regions": ["S02: 分野別学習戦略表後半、収益認識、特殊な問題、余白およびフッターを確認"]},
+    {"page": "W1:017", "status": "pass", "regions": ["S03: 第2章(1)(2)(3)、3つの留意点、連結キャッシュ・フロー計算書作成基準注8を確認"]},
+    {"page": "W1:018", "status": "pass", "regions": ["S03: 注8の追加検討、資産除去債務基準と1.50%／3.25%の計算例、(4)導入を確認"]},
+    {"page": "W1:019", "status": "pass", "regions": ["S03: Step1～Step5の範囲、差分、対象者、現行結論・代替的考え方の区別を確認"]},
+    {"page": "W1:020", "status": "pass", "regions": ["S03: 章ごとのA・B・C・計・優先度の全41行を確認"]},
+    {"page": "W1:021", "status": "pass", "regions": ["S03: 第2章(5)を確認。S04: 第3章の見出し、導入、(1)(2)を確認。余白およびフッターを確認"]},
+    {"page": "W1:022", "status": "pass", "regions": ["S04: (3)過去問・過去問類題、加工理由、重要度、(4)テキストの重要性、余白およびフッターを確認"]}
+  ],
+  "findings": [
+    "全18枚の処理画像を読める解像度で再確認し、序章の図、表、脚注相当の余白・フッター、全41章の数値表を本文に反映した。",
+    "ページ005の図はGOAL、最短ルート、明確な学習の指針、直近14回の過去問分析、科目の特徴および序章の目的の関係を文章と箇条書きで保持した。",
+    "ページ008-009の会計基準等の全行、ページ010・013の分析数値、ページ019-020のStep別肢数・差分および章別重要度を確認した。",
+    "ページ021は第2章(5)と第3章が同居するため、同一の物理ページを別セクションの領域として記録した。",
+    "対象範囲には問題・選択肢・正誤解説の workbook question block はなく、数値例・過去問形式の分析例は本文中の例として保持した。"
+  ],
+  "corrections": [],
+  "checks": {
+    "numerical": "pass",
+    "diagram": "pass",
+    "false_proposition": "not_applicable"
+  },
+  "unresolved_count": 0,
+  "excluded_pages": [
+    {"page": "W1:023", "printed_page": "18", "reason": "画像は[MEMO]表示のみで空白。実質的な表・図・問題・解答・例・条件なし。inventory manifestの画像裏付け除外を確認。"}
+  ],
+  "downstream_status": "ready_for_chapter_qa_after_this_batch_only"
+}

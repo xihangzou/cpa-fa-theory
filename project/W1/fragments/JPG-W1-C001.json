@@ -1,0 +1,97 @@
+{
+  "batch_id": "JPG-W1-C001",
+  "source_id": "W1",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-W1-C001-S01",
+      "batch_id": "JPG-W1-C001",
+      "chapter": "00",
+      "section": "00.1",
+      "title": "はじめに ～短答対策問題集 序章について～",
+      "expected_pages": ["W1:005"],
+      "processing_pages": ["W1:005"],
+      "output": "chunks/JPG-W1-C001/JPG-W1-C001-S01.md",
+      "status": "pass",
+      "locators": [
+        {
+          "page": "W1:005",
+          "printed_page": null,
+          "source_region": "はじめに、序章の目的を示す図、序章の4項目の概要、末尾の説明および著者表記を全画面確認",
+          "destination_heading": "## はじめに ～短答対策問題集 序章について～"
+        }
+      ],
+      "chunk_sha256": "7b80f84765c7f5bba8674fa7eb7795ead45a694c5abadc4fb151cc2ac7fa726c"
+    },
+    {
+      "id": "JPG-W1-C001-S02",
+      "batch_id": "JPG-W1-C001",
+      "chapter": "00",
+      "section": "00.2",
+      "title": "1. 相手を知る（短答式試験における財務会計論・理論の出題）",
+      "expected_pages": ["W1:006", "W1:007", "W1:008", "W1:009", "W1:010", "W1:011", "W1:012", "W1:013", "W1:014", "W1:015", "W1:016"],
+      "processing_pages": ["W1:006", "W1:007", "W1:008", "W1:009", "W1:010", "W1:011", "W1:012", "W1:013", "W1:014", "W1:015", "W1:016"],
+      "output": "chunks/JPG-W1-C001/JPG-W1-C001-S02.md",
+      "status": "pass",
+      "locators": [
+        {"page": "W1:006", "printed_page": "1", "source_region": "出題範囲の要旨、公式の出題範囲抜粋、適用指針・実務指針への注意、ポイント欄、余白およびフッター", "destination_heading": "## 1. 相手を知る（短答式試験における財務会計論・理論の出題）"},
+        {"page": "W1:007", "printed_page": "2", "source_region": "短答式試験の概要、直近5回の配点表、解答順序と時間配分、過去問多視点分析の導入", "destination_heading": "## 1. 相手を知る（短答式試験における財務会計論・理論の出題）"},
+        {"page": "W1:008", "printed_page": "3", "source_region": "多視点分析①の会計基準・論点表（前半）、表見出し、余白およびフッター", "destination_heading": "## 1. 相手を知る（短答式試験における財務会計論・理論の出題）"},
+        {"page": "W1:009", "printed_page": "4", "source_region": "多視点分析①の会計基準・論点表（後半）、全行、余白およびフッター", "destination_heading": "## 1. 相手を知る（短答式試験における財務会計論・理論の出題）"},
+        {"page": "W1:010", "printed_page": "5", "source_region": "①分析結果、②会計基準論点の出題内訳の説明・表、思考型の例、余白およびフッター", "destination_heading": "## 1. 相手を知る（短答式試験における財務会計論・理論の出題）"},
+        {"page": "W1:011", "printed_page": "6", "source_region": "②の補足、③いつの時代の内容が問われるか、従来・代替的取扱いの問題例、④の導入と表", "destination_heading": "## 1. 相手を知る（短答式試験における財務会計論・理論の出題）"},
+        {"page": "W1:012", "printed_page": "7", "source_region": "④分析結果、結論相違・従来処理・要件相違の問題例と解答、⑤への接続", "destination_heading": "## 1. 相手を知る（短答式試験における財務会計論・理論の出題）"},
+        {"page": "W1:013", "printed_page": "8", "source_region": "⑤理由を問う問題の集計・問題例、⑥難易度の集計、分析結果、ポイント欄", "destination_heading": "## 1. 相手を知る（短答式試験における財務会計論・理論の出題）"},
+        {"page": "W1:014", "printed_page": "9", "source_region": "分野別学習戦略表（前半）、全行、余白およびフッター", "destination_heading": "## 1. 相手を知る（短答式試験における財務会計論・理論の出題）"},
+        {"page": "W1:015", "printed_page": "10", "source_region": "分野別学習戦略表（中盤）、全行、余白およびフッター", "destination_heading": "## 1. 相手を知る（短答式試験における財務会計論・理論の出題）"},
+        {"page": "W1:016", "printed_page": "11", "source_region": "分野別学習戦略表（後半）、特殊な問題、収益認識、余白およびフッター", "destination_heading": "## 1. 相手を知る（短答式試験における財務会計論・理論の出題）"}
+      ],
+      "chunk_sha256": "1fb0ae97acd4b5fa32277ac4faae7a8e618ca33311c6bef391b7bf6ff0597dcb"
+    },
+    {
+      "id": "JPG-W1-C001-S03",
+      "batch_id": "JPG-W1-C001",
+      "chapter": "00",
+      "section": "00.3",
+      "title": "2. 今後の学習において意識してほしいこと",
+      "expected_pages": ["W1:017", "W1:018", "W1:019", "W1:020", "W1:021"],
+      "processing_pages": ["W1:017", "W1:018", "W1:019", "W1:020", "W1:021"],
+      "output": "chunks/JPG-W1-C001/JPG-W1-C001-S03.md",
+      "status": "pass",
+      "locators": [
+        {"page": "W1:017", "printed_page": "12", "source_region": "第2章、(1)内容理解、(2)問題集を解く際の留意点、(3)自習の導入、連結キャッシュ・フロー計算書作成基準注8", "destination_heading": "## 2. 今後の学習において意識してほしいこと"},
+        {"page": "W1:018", "printed_page": "13", "source_region": "注8の読み方、追加で考える事項、資産除去債務基準と計算例、(4)状況別やるべきことの導入", "destination_heading": "## 2. 今後の学習において意識してほしいこと"},
+        {"page": "W1:019", "printed_page": "14", "source_region": "Step1からStep5までの対象範囲、差分肢数、対象者、矢印および各説明", "destination_heading": "## 2. 今後の学習において意識してほしいこと"},
+        {"page": "W1:020", "printed_page": "15", "source_region": "章ごとの重要性の個数と優先度まとめ、全41章のA・B・C・計・優先度表", "destination_heading": "## 2. 今後の学習において意識してほしいこと"},
+        {"page": "W1:021", "printed_page": "16", "source_region": "(5) Step4に進む場合の留意点、ハネル要素の説明、ページ上部から第3章見出し直前まで", "destination_heading": "## 2. 今後の学習において意識してほしいこと"}
+      ],
+      "chunk_sha256": "6f01db0ed359c2d96abf88669981455f4ce7f3c17e01ece5bd6d2401062b83c4"
+    },
+    {
+      "id": "JPG-W1-C001-S04",
+      "batch_id": "JPG-W1-C001",
+      "chapter": "00",
+      "section": "00.4",
+      "title": "3. 短答対策問題集の特徴",
+      "expected_pages": ["W1:021", "W1:022"],
+      "processing_pages": ["W1:021", "W1:022"],
+      "output": "chunks/JPG-W1-C001/JPG-W1-C001-S04.md",
+      "status": "pass",
+      "locators": [
+        {"page": "W1:021", "printed_page": "16", "source_region": "第3章見出し、導入、(1)追加でチェック、(2)■□■の問題および余白", "destination_heading": "## 3. 短答対策問題集の特徴"},
+        {"page": "W1:022", "printed_page": "17", "source_region": "(3)過去問・過去問類題、加工理由、重要度、(4)テキストの重要性、余白およびフッター", "destination_heading": "## 3. 短答対策問題集の特徴"}
+      ],
+      "chunk_sha256": "38e660bb66d7215e56d3526ea2119d0318073ada498587321b7ddbeed9105ed2"
+    }
+  ],
+  "review": "reviews/JPG-W1-C001.json",
+  "excluded_pages": ["W1:023"],
+  "source_scope": {
+    "source_id": "W1",
+    "physical_range": "W1:005-W1:023",
+    "processing_range": "W1:005-W1:022",
+    "chapter": "00",
+    "title": "序章（問題集の使用・学習案内）",
+    "content_authority": "designated existing JPGs only"
+  }
+}
