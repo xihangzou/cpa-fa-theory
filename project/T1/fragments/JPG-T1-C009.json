@@ -1,0 +1,73 @@
+{
+  "batch_id": "JPG-T1-C009",
+  "source_id": "T1",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-T1-C009-S01",
+      "batch_id": "JPG-T1-C009",
+      "chapter": "06",
+      "section": "06.1",
+      "title": "第1節 資産の概念",
+      "expected_pages": ["T1:113", "T1:114", "T1:115"],
+      "processing_pages": ["T1:113", "T1:114", "T1:115"],
+      "output": "chunks/JPG-T1-C009/JPG-T1-C009-S01.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T1:113", "printed_page": null, "source_region": "第6章章扉、短答式・論文式本試験における出題実績表、章評価", "destination_heading": "## 第1節 資産の概念"},
+        {"page": "T1:114", "printed_page": "⑥－1", "source_region": "第1節の扉、1.資産の概念、過去の取引または事象・支配・経済的資源の定義と各説明、フッター", "destination_heading": "## 第1節 資産の概念"},
+        {"page": "T1:115", "printed_page": "⑥－2", "source_region": "2.資産の概念の変遷、静態論・動態論・現行制度の定義、評価基準、注記、フッター", "destination_heading": "## 第1節 資産の概念"}
+      ],
+      "chunk_sha256": "fb61f20ef4daad2fc362da1ee5c769b0567b07587af13bb6ee0609f095729cd4"
+    },
+    {
+      "id": "JPG-T1-C009-S02",
+      "batch_id": "JPG-T1-C009",
+      "chapter": "06",
+      "section": "06.2",
+      "title": "第2節 資産の分類",
+      "expected_pages": ["T1:116", "T1:117", "T1:118"],
+      "processing_pages": ["T1:116", "T1:117", "T1:118"],
+      "output": "chunks/JPG-T1-C009/JPG-T1-C009-S02.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T1:116", "printed_page": "⑥－3", "source_region": "第2節の扉、1.貨幣・費用分類、貨幣性資産・費用性資産の定義・例・評価、資本循環過程図、重視する観点表、フッター", "destination_heading": "## 第2節 資産の分類"},
+        {"page": "T1:117", "printed_page": "⑥－4", "source_region": "2.流動・固定分類、3.金融・事業分類、金融投資・事業投資の比較、金融資産・事業資産の補足表・注記、フッター", "destination_heading": "## 第2節 資産の分類"},
+        {"page": "T1:118", "printed_page": "⑥－5", "source_region": "金融投資・事業投資の評価、B/S・P/Lの視点、時価と取得原価の理由、1,000・1,800・1,400・900・700千円の図、フッター", "destination_heading": "## 第2節 資産の分類"}
+      ],
+      "chunk_sha256": "d6ac784f759fd94aa7be3886ff63503393feb3b58b54baf3618bae43caf8c161"
+    },
+    {
+      "id": "JPG-T1-C009-S03",
+      "batch_id": "JPG-T1-C009",
+      "chapter": "06",
+      "section": "06.3",
+      "title": "第3節 資産の評価",
+      "expected_pages": ["T1:119", "T1:120", "T1:121", "T1:122", "T1:123", "T1:124", "T1:125", "T1:126"],
+      "processing_pages": ["T1:119", "T1:120", "T1:121", "T1:122", "T1:123", "T1:124", "T1:125", "T1:126"],
+      "output": "chunks/JPG-T1-C009/JPG-T1-C009-S03.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T1:119", "printed_page": "⑥－6", "source_region": "第3節の扉、購買市場・売却市場の関係図、過去・現在・将来と評価基準の表、1.(1)取得原価の意味内容、フッター", "destination_heading": "## 第3節 資産の評価"},
+        {"page": "T1:120", "printed_page": "⑥－7", "source_region": "取得原価主義の定義、長所・短所、客観性・検証可能性の注記、フッター", "destination_heading": "## 第3節 資産の評価"},
+        {"page": "T1:121", "printed_page": "⑥－8", "source_region": "操業利益・保有利得の定義、100・130・180・210円の例、仕訳、費用配分の原則の規定と定義、フッター", "destination_heading": "## 第3節 資産の評価"},
+        {"page": "T1:122", "printed_page": "⑥－9", "source_region": "費用配分の原則・取得原価主義・発生主義・費用収益対応の原則の関係表、機械減価償却の図、1,000・500・400・100の数値、フッター", "destination_heading": "## 第3節 資産の評価"},
+        {"page": "T1:123", "printed_page": "⑥－10", "source_region": "2.再調達原価・正味実現可能価額、時価主義の関係図、時価主義の長所・短所、原価－実現と時価－発生の補足、フッター", "destination_heading": "## 第3節 資産の評価"},
+        {"page": "T1:124", "printed_page": "⑥－11", "source_region": "再調達原価の定義・継続企業前提・長所短所、正味実現可能価額の定義・長所短所、フッター", "destination_heading": "## 第3節 資産の評価"},
+        {"page": "T1:125", "printed_page": "⑥－12", "source_region": "設例、第一期・第二期の購入価格・販売価格、再調達原価・正味実現可能価額の仕訳と利益、確認事項、フッター", "destination_heading": "## 第3節 資産の評価"},
+        {"page": "T1:126", "printed_page": "⑥－13", "source_region": "3.割引現価主義、200/(1+0.2)^n=421の図、長所短所、備品・機械・土地・建物の有機的一体利用の注記、フッター", "destination_heading": "## 第3節 資産の評価"}
+      ],
+      "chunk_sha256": "f5b34288deeca58ef5888502ff48579319d25266fe65acd1e5009ea281b592dc"
+    }
+  ],
+  "review": "reviews/JPG-T1-C009.json",
+  "excluded_pages": [],
+  "source_scope": {
+    "source_id": "T1",
+    "physical_range": "T1:113-T1:126",
+    "processing_range": "T1:113-T1:126",
+    "chapter": "06",
+    "title": "資産会計総論",
+    "content_authority": "designated existing JPGs only"
+  }
+}

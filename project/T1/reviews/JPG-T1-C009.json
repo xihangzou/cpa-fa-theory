@@ -1,0 +1,93 @@
+{
+  "batch_id": "JPG-T1-C009",
+  "source_id": "T1",
+  "status": "pass",
+  "reviewed_on": "2026-09-06",
+  "reviewer_model": "GPT-5 current execution model; no model switch",
+  "source_revision": {
+    "delivery_branch": "main",
+    "repository_commit": "a538ee638ea3aa645147ce807e5680c8ffd4da03",
+    "source_catalog": "contracts/source-catalog.json",
+    "source_catalog_sha256": "8358e9cffb068f63df0bdfcc8f99be035e66454ac8710d381f0ff9eb87728079",
+    "page_plan": "contracts/page-plan.json",
+    "page_plan_sha256": "997a7280b171df5803c2a3bb7c2ee8764082e01f3bdb03c194b9129fe18d26c9",
+    "source_manifest": "project/T1/sources.json",
+    "source_manifest_sha256": "760f946d08e1eebf2d79c189103ac2e627f0bb2569dcd80055885fb8b97324cd",
+    "source_map": "project/T1/source-map.json",
+    "source_map_sha256": "3ff42e94bd9f8751f8100c6ff251740a46f67182c468af620438c9768f14b961",
+    "batch_manifest": "project/T1/batches.json",
+    "batch_manifest_sha256": "125ff5fee8f8271b82c3258ced501ed4411b4071b930f08f1ed682e72c2628c4",
+    "inventory_review": "project/T1/inventory-review.json",
+    "inventory_review_sha256": "83e2c59f059ffdec53fcb8fb83a5f1300d5cca0722dcf031db0b459bd7ab8c19",
+    "source_original_root": "/Users/xihangzou/Study/320_CPA/322_財務理論/images/cpa-fa-theory-textbook-1-jpg",
+    "source_pdf": "/Users/xihangzou/Study/320_CPA/322_財務理論/01_テキスト/財務会計論テキスト　理論1.pdf",
+    "source_pdf_sha256": "c09d9d91ce39de787cab04e146719d95b638134399d57112802ffacfa67243f3",
+    "source_image_inventory_sha256": "331ad1ea2ca04d0636c2185b6ab1a8fe5240ebdd3f0c7c546c8703371d497929",
+    "edition": "2024/2025年合格目標",
+    "publication_date": "2023-01-23",
+    "physical_scope": "T1:113-T1:126",
+    "processing_scope": "T1:113-T1:126",
+    "content_authority": "designated existing JPGs only; PDF used only for identity/planning support"
+  },
+  "dependency_commits": [
+    "a2fb2bb829d112522128cdb145523302e9d1e7fd",
+    "1fd8a963ef32e09b5f3f08ecd7d5bb7cc2240a94",
+    "393dc82a64791eb452ea64ccb8cbfc55212718ef"
+  ],
+  "source_images": [
+    {"page": "T1:113", "printed_page": null, "image": "pages/T1/page-113.jpg", "sha256": "d4ad13af4e407d7b94e09253cc81444e1e0ee4ab52a6741fbee1e6769525fb9f"},
+    {"page": "T1:114", "printed_page": "⑥－1", "image": "pages/T1/page-114.jpg", "sha256": "6164e407f16aa12617c68c86b5806c9353c9bdca0bfaf485b0d08e59411ba627"},
+    {"page": "T1:115", "printed_page": "⑥－2", "image": "pages/T1/page-115.jpg", "sha256": "586a8d29bb7047ccceb3b4cb9682f502dc92b9fd6f3fdafd106d175fb977325e"},
+    {"page": "T1:116", "printed_page": "⑥－3", "image": "pages/T1/page-116.jpg", "sha256": "96d7b9b6eb50cff22a13c709869b67e66cfc15d2440604b6cc7726060fa06999"},
+    {"page": "T1:117", "printed_page": "⑥－4", "image": "pages/T1/page-117.jpg", "sha256": "da1c652dfae293cc7b6836cd5f8332a8dcfdd4637f2ceaa2ecb2cf4ee65455a6"},
+    {"page": "T1:118", "printed_page": "⑥－5", "image": "pages/T1/page-118.jpg", "sha256": "8925c3458c49a1402dd5c98ab3935431e2f37054c1d751a6e950747d222207d3"},
+    {"page": "T1:119", "printed_page": "⑥－6", "image": "pages/T1/page-119.jpg", "sha256": "9ce6c71474b34eb0d349ab11e6e4fd9390b9242084ba7b0101be3ec191f3e0c9"},
+    {"page": "T1:120", "printed_page": "⑥－7", "image": "pages/T1/page-120.jpg", "sha256": "95924b61848160062adb3a24c2d8f8cdb2e0f9c24eba6f159a44a5092b6ed94f"},
+    {"page": "T1:121", "printed_page": "⑥－8", "image": "pages/T1/page-121.jpg", "sha256": "5bbb949c543f98cc8149487388a1548021c8d3ecd0bdf85a065487c99080faf2"},
+    {"page": "T1:122", "printed_page": "⑥－9", "image": "pages/T1/page-122.jpg", "sha256": "d7e6a2030262dcb54d91d970e7017d6055ee944ad08dd29080e7317e178a6819"},
+    {"page": "T1:123", "printed_page": "⑥－10", "image": "pages/T1/page-123.jpg", "sha256": "0f72ac293702a0a399664c68cc4fa9d1d316ff815091551090941b1ebb5b9a4d"},
+    {"page": "T1:124", "printed_page": "⑥－11", "image": "pages/T1/page-124.jpg", "sha256": "206ee7da1b320d5a9fac9e568db73cf03ed312e8b35396c41ce583da6c960097"},
+    {"page": "T1:125", "printed_page": "⑥－12", "image": "pages/T1/page-125.jpg", "sha256": "f8e483e16ab7c28e90d76710c5ad85980e0ec89ad6d2482b1a8eb45c4964300c"},
+    {"page": "T1:126", "printed_page": "⑥－13", "image": "pages/T1/page-126.jpg", "sha256": "036c4eede7f31c46de9c3970c70976b2c25b3aa73748fae0503f61bf3a2dd456"}
+  ],
+  "section_outputs": [
+    {"task": "JPG-T1-C009-S01", "chunk": "project/T1/chunks/JPG-T1-C009/JPG-T1-C009-S01.md", "chunk_sha256": "fb61f20ef4daad2fc362da1ee5c769b0567b07587af13bb6ee0609f095729cd4"},
+    {"task": "JPG-T1-C009-S02", "chunk": "project/T1/chunks/JPG-T1-C009/JPG-T1-C009-S02.md", "chunk_sha256": "d6ac784f759fd94aa7be3886ff63503393feb3b58b54baf3618bae43caf8c161"},
+    {"task": "JPG-T1-C009-S03", "chunk": "project/T1/chunks/JPG-T1-C009/JPG-T1-C009-S03.md", "chunk_sha256": "f5b34288deeca58ef5888502ff48579319d25266fe65acd1e5009ea281b592dc"}
+  ],
+  "coverage": [
+    {"page": "T1:113", "status": "pass", "regions": ["JPG-T1-C009-S01; entire chapter divider, title/rating and both exam-history tables", "margins and page identity checked; no learner-content omission"]},
+    {"page": "T1:114", "status": "pass", "regions": ["JPG-T1-C009-S01; section banner and asset definition", "past transaction/event, control and economic-resource explanations, examples, margins and footer checked"]},
+    {"page": "T1:115", "status": "pass", "regions": ["JPG-T1-C009-S01; static theory, dynamic theory, current-system definition and footnote", "cash/expenditure basis callout, margins and footer checked"]},
+    {"page": "T1:116", "status": "pass", "regions": ["JPG-T1-C009-S02; monetary/expense classification, definitions, examples and capital-cycle diagram", "period-profit, measurement and capital-cycle table, margins and footer checked"]},
+    {"page": "T1:117", "status": "pass", "regions": ["JPG-T1-C009-S02; current/fixed classification and normal-cycle/one-year rules", "financial/business investment table and financial-asset/business-asset supplement, footnote, margins and footer checked"]},
+    {"page": "T1:118", "status": "pass", "regions": ["JPG-T1-C009-S02; financial-investment and business-investment evaluation", "B/S and P/L rationale boxes, arrows, 1,000/1,800/1,400/900/700千円 example, margins and footer checked"]},
+    {"page": "T1:119", "status": "pass", "regions": ["JPG-T1-C009-S03; purchase/sale market flow and valuation-basis matrix", "acquisition-cost definition and historical-cost explanation, margins and footer checked"]},
+    {"page": "T1:120", "status": "pass", "regions": ["JPG-T1-C009-S03; acquisition-cost principle definition and land example", "objective/verifiable advantages, unrealized-profit advantage, limitations and footnote checked"]},
+    {"page": "T1:121", "status": "pass", "regions": ["JPG-T1-C009-S03; operating profit/holding gain definition and 100/130/180/210円 example", "journal-entry callout, expense-allocation rule quotation and definition, margins and footer checked"]},
+    {"page": "T1:122", "status": "pass", "regions": ["JPG-T1-C009-S03; relationship table for expense allocation, historical cost, accrual and matching", "machine depreciation diagram and 1,000/500/400/100 amounts, non-manufacturing note, margins and footer checked"]},
+    {"page": "T1:123", "status": "pass", "regions": ["JPG-T1-C009-S03; fair-value framework and fair-value advantages/limitations", "cost-realization and fair-value-accrual supplement, arrows, margins and footer checked"]},
+    {"page": "T1:124", "status": "pass", "regions": ["JPG-T1-C009-S03; replacement-cost definition, continuity premise and advantages/limitations", "NRV definition, advantages/limitations and continuity premise, margins and footer checked"]},
+    {"page": "T1:125", "status": "pass", "regions": ["JPG-T1-C009-S03; complete replacement-cost/NRV example tables and journal entries", "100/120/130円, 200/215/220円, holding/operating/purchase gains and confirmation points checked"]},
+    {"page": "T1:126", "status": "pass", "regions": ["JPG-T1-C009-S03; discounted-present-value definition and 200/(1+0.2)^n=421 diagram", "advantages/limitations, four-asset integrated-use diagram and reliability note, margins and footer checked"]}
+  ],
+  "findings": [
+    "All 14 included processing images were reopened at readable full resolution; every substantive section, table, example, diagram, margin note and footer was mapped to a chunk locator.",
+    "The chapter divider is substantive and is retained in S01; no excluded page exists in this batch.",
+    "Section boundaries at physical 114, 116 and 119 are complete; physical 126 completes section 3 and the chapter without spillover.",
+    "The financial-investment/business-investment and acquisition-cost/fair-value examples preserve their numerical relationships and the source's distinction between realized operating results and holding/purchase gains."
+  ],
+  "corrections": [],
+  "checks": {
+    "numerical": "pass",
+    "diagram": "pass",
+    "false_proposition": "not_applicable"
+  },
+  "unresolved_count": 0,
+  "reviewer_model": "GPT-5 current execution model; no model switch",
+  "dependency_commits": [
+    "a2fb2bb829d112522128cdb145523302e9d1e7fd",
+    "1fd8a963ef32e09b5f3f08ecd7d5bb7cc2240a94",
+    "393dc82a64791eb452ea64ccb8cbfc55212718ef"
+  ]
+}
