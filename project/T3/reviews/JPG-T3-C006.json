@@ -1,0 +1,120 @@
+{
+  "batch_id": "JPG-T3-C006",
+  "source_id": "T3",
+  "status": "pass",
+  "review_date": "2026-09-06",
+  "reviewer_model": "GPT-5",
+  "source_revision": {
+    "repository_commit": "8591fe20d95d4e10679c5372705fc546b2fdf471",
+    "source_pdf_sha256": "1d9f0124a0c8ef759526decc90a1a410f694e2b7fa992b430fc413e783df85bc",
+    "source_image_inventory_sha256": "8e0709aa6cd2d086d9df18627ae7eb466c20cdb59474bbef26038f03d9d40b24",
+    "catalog_image_inventory_sha256": "af94a7c1f91d1eb56611afc242360566950d6f93d5a6ac7d5271c5e8d3f9d170",
+    "batch_boundary_review_id": "JPG-T3-INV-BND-JPG-T3-C006"
+  },
+  "source_images": [
+    {"page": "T3:100", "printed_page": "㉞－23", "image": "pages/T3/page-100.jpg", "sha256": "0e3ffc0551c8d3c83221580343319ee4636d7cdc2b004d34f7b5286647ef273f"},
+    {"page": "T3:101", "printed_page": "㉞－24", "image": "pages/T3/page-101.jpg", "sha256": "10d47d373d78235b8926661be4bef5f0f910395339f50f86d987851c8f1098a7"},
+    {"page": "T3:102", "printed_page": "㉞－25", "image": "pages/T3/page-102.jpg", "sha256": "ed43b40324bdf886f5bedc73be52edc144d665863c98c93a7dfdcf3e7a81bd3c"},
+    {"page": "T3:103", "printed_page": "㉞－26", "image": "pages/T3/page-103.jpg", "sha256": "57735d6e0bb78bc50b30d40745b151472019ea2e721ae10f575e921234ecfe71"},
+    {"page": "T3:104", "printed_page": "㉞－27", "image": "pages/T3/page-104.jpg", "sha256": "1c1d4cd14284e0c2d2ba2e36a4faca23e33d137fb1a9dfe3f39703796d2f0c26"},
+    {"page": "T3:105", "printed_page": "㉞－28", "image": "pages/T3/page-105.jpg", "sha256": "97cd7a06a310b873e07171f1b1cc94ad1954ea2f801e7d116dfde23d7c536846"},
+    {"page": "T3:106", "printed_page": "㉞－29", "image": "pages/T3/page-106.jpg", "sha256": "a621e7c7671fb071a187cc054c8be1783579c9b7f0dd39f397a47353f1003b05"},
+    {"page": "T3:107", "printed_page": "㉞－30", "image": "pages/T3/page-107.jpg", "sha256": "39c2626fbcfae0e652fd124467c9de2fd7ad5ca5d35990d0440f34ea23d48fbf"},
+    {"page": "T3:108", "printed_page": "㉞－31", "image": "pages/T3/page-108.jpg", "sha256": "2985ea667701985c4c9ada24732716b68b708f2c8718b52153fbc46722327dbe"},
+    {"page": "T3:109", "printed_page": "㉞－32", "image": "pages/T3/page-109.jpg", "sha256": "7e207fa1aeb2801549aa62434bd0403ae7072c1eb4630cf1f57f0306346934dd"},
+    {"page": "T3:110", "printed_page": "㉞－33", "image": "pages/T3/page-110.jpg", "sha256": "cb59e7c19903652218a78eb7ec491c85e798a3b27d0a27ac127452fa77c46899"},
+    {"page": "T3:111", "printed_page": "㉞－34", "image": "pages/T3/page-111.jpg", "sha256": "6fa3043079a140fb8e50cc6dfe790793009084de99a3f5d3c1ead4e305884ceb"},
+    {"page": "T3:112", "printed_page": "㉞－35", "image": "pages/T3/page-112.jpg", "sha256": "ce135c6d8962018ebfb92a7c02025f348f56a7a90b7b78af016caf6af9843573"},
+    {"page": "T3:113", "printed_page": "㉞－36", "image": "pages/T3/page-113.jpg", "sha256": "a8b77128c7c167cb41fb392fc7767c85ff4439b335b7586f2cdba54ac3b14974"},
+    {"page": "T3:114", "printed_page": "㉞－37", "image": "pages/T3/page-114.jpg", "sha256": "446d7b400f23ba7bf2ebe75e86f9685eba1962e4ed8d88bea1d28699c149ddbc"},
+    {"page": "T3:115", "printed_page": "㉞－38", "image": "pages/T3/page-115.jpg", "sha256": "7d6883924bccf9676673099c3f81094356e8448728d9d485c315d096e2505196"},
+    {"page": "T3:116", "printed_page": "㉞－39", "image": "pages/T3/page-116.jpg", "sha256": "497bc71c235a8217e8b4c71b4b626feffa9b70f1dd9b15577f4cb137d20e1f64"},
+    {"page": "T3:117", "printed_page": "㉞－40", "image": "pages/T3/page-117.jpg", "sha256": "d0cbb7956592d073653c04c2c9ef0bf8a48a1d13c40246828f1cc6ecfac6703e"},
+    {"page": "T3:118", "printed_page": "㉞－41", "image": "pages/T3/page-118.jpg", "sha256": "4d539a0f382fb39ec79576379b82cff5164badda9f9ceb61cddb1e3e805e4e12"},
+    {"page": "T3:119", "printed_page": "㉞－42", "image": "pages/T3/page-119.jpg", "sha256": "af2e956a9b18bcde2a570baf2fcc0ef3dd55c4c5a1085b444d5e0425194683a5"},
+    {"page": "T3:120", "printed_page": "㉞－43", "image": "pages/T3/page-120.jpg", "sha256": "3e7d06404cb7a65d118bce7997e15a739c5569633968380ecae770ee6d228be7"},
+    {"page": "T3:121", "printed_page": "㉞－44", "image": "pages/T3/page-121.jpg", "sha256": "a2706f6e879ca5984ca16d26220b4e5a59368c50859c0310cbfdfe9551a1d03a"},
+    {"page": "T3:122", "printed_page": "㉞－45", "image": "pages/T3/page-122.jpg", "sha256": "b6913d849c0f9be586536a0529116528bb54467bfb6e4fa6d2737f7b0e35965f"}
+  ],
+  "section_outputs": [
+    {"task": "JPG-T3-C006-S01", "chunk": "project/T3/chunks/JPG-T3-C006/JPG-T3-C006-S01.md", "chunk_sha256": "b2f6ed93d60503473c366e5c9a779d11c4ddc800cdd45b07e021b19ffcaff9a7"},
+    {"task": "JPG-T3-C006-S02", "chunk": "project/T3/chunks/JPG-T3-C006/JPG-T3-C006-S02.md", "chunk_sha256": "fc9d4e7457302a1610d1c68e54188fd94be2f2dfe87a3cc1c96967b6912193c2"},
+    {"task": "JPG-T3-C006-S03", "chunk": "project/T3/chunks/JPG-T3-C006/JPG-T3-C006-S03.md", "chunk_sha256": "dee51b5d91e003f7459b1e323daf01de145acc2b8e8179e26ce847a96c59716f"},
+    {"task": "JPG-T3-C006-S04", "chunk": "project/T3/chunks/JPG-T3-C006/JPG-T3-C006-S04.md", "chunk_sha256": "315ffb65a7beb94a9f3c601c4b8035a4de795aa15017c24409c275639242b0ac"},
+    {"task": "JPG-T3-C006-S05", "chunk": "project/T3/chunks/JPG-T3-C006/JPG-T3-C006-S05.md", "chunk_sha256": "1a57d35381d818c550f454261e25258a1bb7d7a3eb55b438076a47d66aff1743"}
+  ],
+  "coverage": [
+    {"page": "T3:100", "status": "pass", "regions": ["第5節見出し、基本原則、独立販売価格の定義と9,000円・6,000円・12,000円の配分図", "独立販売価格を直接観察できない場合の入力情報と一貫適用、余白・脚注"]},
+    {"page": "T3:101", "status": "pass", "regions": ["値引きの配分の原則とX・Y・Zの50・40・30から96への配分表", "取引価格の事後変動の原則、余白・フッター"]},
+    {"page": "T3:102", "status": "pass", "regions": ["75個・500個の遡及的単価減額設例、売上高7,500・44,250千円、返金負債5,750千円の仕訳と計算", "値引き変更期に既充足履行義務の収益を修正する結論、余白・フッター"]},
+    {"page": "T3:103", "status": "pass", "regions": ["第6節、基本原則、一定期間充足の3要件と(a)(b)要件", "清掃・輸送、顧客所有土地の建設・会計システム拡張、コンサルティングの例、余白・フッター"]},
+    {"page": "T3:104", "status": "pass", "regions": ["一時点充足の判定、進捗度の見積り、合理的見積り、原価回収基準、進捗度方法と判定フロー", "各見積り方法の一貫適用、余白・フッター"]},
+    {"page": "T3:105", "status": "pass", "regions": ["エレベーター改装のインプット法設例、単一履行義務、調達原価除外の理由", "5,000千円・4,000千円・1,500千円・500千円、進捗度20%、収益2,200千円、費用2,000千円の仕訳・計算", "各決算日の見直しと会計上の見積り変更、余白・フッター"]},
+    {"page": "T3:106", "status": "pass", "regions": ["第7節、契約資産・顧客との契約から生じた債権の定義表、認識時点、外貨建契約資産の取扱い", "貸借対照表への計上タイミング図、余白・フッター"]},
+    {"page": "T3:107", "status": "pass", "regions": ["製品A・Bの契約資産と債権の設例、400・800・1,200、2月28日・4月22日・6月22日の仕訳", "契約負債の定義と設例、余白・フッター"]},
+    {"page": "T3:108", "status": "pass", "regions": ["契約負債の対価受領・製品引渡し仕訳", "貸借対照表表示、損益計算書表示、重要な会計方針の注記、余白・フッター"]},
+    {"page": "T3:109", "status": "pass", "regions": ["第8節、保証の2分類、合意仕様保証と保証サービスの区別表、脚注1・2", "従来実務と新基準の保証サービス繰延べ、余白・フッター"]},
+    {"page": "T3:110", "status": "pass", "regions": ["基本保証・延長保証の設例、1,800・1,700・300・50、売上1,530・契約負債270、67.5の繰延べ", "製品保証引当金50の仕訳、余白・フッター"]},
+    {"page": "T3:111", "status": "pass", "regions": ["カスタマー・ロイヤリティー・プログラム、重要な権利の要件、Step2・Step4・Step5の流れ", "従来のポイント引当金2,700（4,500×60%）と販売促進費の性質、余白・フッター"]},
+    {"page": "T3:112", "status": "pass", "regions": ["50,000円購入・5,000ポイント・4,500ポイント使用見込み・0.90円・60%の設例", "45,872円・4,128円・3,211円の仕訳と配分計算、余白・フッター"]},
+    {"page": "T3:113", "status": "pass", "regions": ["本人・代理人の定義と、総額・純額の収益認識表、ステップ2との関連、余白・フッター"]},
+    {"page": "T3:114", "status": "pass", "regions": ["本人判定の3指標、本人・代理人の支配移転図", "ウェブサイト仲介の設例、100,000円・5%・5,000円の手数料仕訳、余白・フッター"]},
+    {"page": "T3:115", "status": "pass", "regions": ["本人・代理人の従来実務、消化仕入の定義と所有権・保管管理責任・リスク・価格決定権", "1,500・1,200・300の代理人仕訳、余白・フッター"]},
+    {"page": "T3:116", "status": "pass", "regions": ["返品権付き販売の背景、3つの会計処理、決算日見直し", "従来実務の20,000・12,000・400の返品調整引当金例、余白・フッター"]},
+    {"page": "T3:117", "status": "pass", "regions": ["400個・原価30円・売価50円、返品20個、変動対価と著しい減額が発生しない可能性の判断", "売上19,000・返金負債1,000・売上原価11,400・返品資産600の仕訳と計算、余白・フッター"]},
+    {"page": "T3:118", "status": "pass", "regions": ["第9節、工事損失の引当金4要件、工事契約の将来損失に関する要件1・2・3・4の整理", "工事損失引当金の計上判断、余白・フッター"]},
+    {"page": "T3:119", "status": "pass", "regions": ["工事原価総額が工事収益総額を超える場合の規定と既計上損益控除", "工事損失引当金の性質、繰入額の売上原価表示、流動負債表示、相殺表示の原則と例外、余白・フッター"]},
+    {"page": "T3:120", "status": "pass", "regions": ["引当金取崩しの要件、橋梁建設の前提と4年度の表", "X1年度・X2年度の仕訳、進捗度15%・45%、売上1,500・3,000、損失引当金275の計算、余白・フッター"]},
+    {"page": "T3:121", "status": "pass", "regions": ["橋梁建設X3・X4年度の仕訳、進捗度80%、売上3,500・2,000、引当金175・100の取崩し", "工事完成・引渡し時の引当金残高ゼロ、余白・フッター"]},
+    {"page": "T3:122", "status": "pass", "regions": ["【MEMO】表記のみを確認。追加の学習本文、図表、仕訳なし。no-content pageとして記録"]}
+  ],
+  "page_fidelity_matrix": [
+    {"pages": ["T3:100", "T3:101", "T3:102"], "sections": ["第5節 Step4", "基本配分", "値引き", "取引価格の事後変動"], "result": "pass"},
+    {"pages": ["T3:103", "T3:104", "T3:105"], "sections": ["第6節 Step5", "一定期間・一時点", "進捗度", "原価回収基準", "インプット法設例"], "result": "pass"},
+    {"pages": ["T3:106", "T3:107", "T3:108"], "sections": ["第7節 開示", "契約資産", "契約負債", "貸借対照表・損益計算書・会計方針"], "result": "pass"},
+    {"pages": ["T3:109", "T3:110", "T3:111", "T3:112", "T3:113", "T3:114", "T3:115", "T3:116", "T3:117"], "sections": ["第8節 保証", "ポイント", "本人・代理人", "消化仕入", "返品権付き販売"], "result": "pass"},
+    {"pages": ["T3:118", "T3:119", "T3:120", "T3:121", "T3:122"], "sections": ["第9節 工事損失", "引当金要件", "表示", "取崩し", "橋梁建設設例", "MEMO no-content"], "result": "pass"}
+  ],
+  "numerical_checks": [
+    {"page": "T3:100", "check": "12,000×9,000÷(9,000＋6,000)=7,200 and 12,000×6,000÷(9,000＋6,000)=4,800.", "result": "pass"},
+    {"page": "T3:101", "check": "Discount 24 is allocated as 10, 8 and 6; resulting transaction prices are 40, 32 and 24 and total 96.", "result": "pass"},
+    {"page": "T3:102", "check": "X1 Q1 sales 100×75=7,500; X1 Q2 sales 90×500−10×75=44,250; refund liability 10×(75＋500)=5,750.", "result": "pass"},
+    {"page": "T3:105", "check": "500÷(4,000−1,500)=20%; (5,000−1,500)×20%＋1,500=2,200; incurred cost 500＋1,500=2,000.", "result": "pass"},
+    {"page": "T3:107", "check": "Product A 400 becomes contract asset; after product B, receivable is 400＋800=1,200; cash receipt is 1,200.", "result": "pass"},
+    {"page": "T3:110", "check": "1,800×1,700÷(1,700＋300)=1,530; 1,800×300÷(1,700＋300)=270; 270÷4=67.5; provision is 50.", "result": "pass"},
+    {"page": "T3:112", "check": "50,000×50,000÷54,500 rounds to 45,872; 50,000×4,500÷54,500 rounds to 4,128; 4,128×3,500÷4,500 rounds to 3,211.", "result": "pass"},
+    {"page": "T3:114", "check": "100,000×5%=5,000 commission revenue.", "result": "pass"},
+    {"page": "T3:115", "check": "1,500 sales less 1,200 payable leaves 300 commission revenue.", "result": "pass"},
+    {"page": "T3:117", "check": "400−20=380; sales 50×380=19,000; refund liability 50×20=1,000; cost 30×380=11,400; return asset 30×20=600.", "result": "pass"},
+    {"page": "T3:120", "check": "1,440÷9,600=15%; (1,440＋3,285)÷10,500=45%; 10,000×45%−1,500=3,000; remaining loss provision is 275.", "result": "pass"},
+    {"page": "T3:121", "check": "Cumulative progress is 80%; 10,000×80%−1,500−3,000=3,500; 3,675−3,500=175; final revenue is 2,000 and remaining provision 100.", "result": "pass"}
+  ],
+  "diagram_checks": [
+    {"pages": ["T3:100", "T3:101"], "check": "Relative standalone-price allocation and proportional discount flow retain the actors, amounts, ratio and resulting allocation.", "result": "pass"},
+    {"pages": ["T3:103", "T3:104", "T3:105"], "check": "The three over-time criteria, point-in-time branch, progress-estimation flow and elevator input-method treatment retain conditions and accounting consequences.", "result": "pass"},
+    {"pages": ["T3:106", "T3:107"], "check": "Contract asset versus unconditional receivable timing and the two-product transfer/payment flow retain the timing and reclassification consequences.", "result": "pass"},
+    {"pages": ["T3:111", "T3:112"], "check": "Point program Step2-Step4-Step5 flow retains the important-right condition, allocation and later recognition timing.", "result": "pass"},
+    {"pages": ["T3:114", "T3:115"], "check": "Principal/agent control flow and consignment ownership/risk flow retain gross-versus-net consequences.", "result": "pass"},
+    {"pages": ["T3:120", "T3:121"], "check": "Bridge-contract progress, loss recognition and provision reversal flow retain yearly inputs, outputs and completion boundary.", "result": "pass"}
+  ],
+  "false_proposition_checks": {"status": "not_applicable", "result": "This theory batch contains no question-and-answer false-proposition set; treatment boundaries are explicitly qualified in the learner text."},
+  "findings": [
+    "All 23 included processing images were reopened at readable resolution and compared with the five section chunks, including margins, sidebars, footers, tables, examples, numerical values and diagram-only meaning.",
+    "The five chunks preserve the chapter and actual section hierarchy without bold, Cloze, Front/Back, integration or card output.",
+    "The frozen batch starts with the Step4 allocation section on T3:100 and ends with the section-9 MEMO-only page T3:122; inventory boundary evidence confirms the range and the final page has no stranded learner content.",
+    "Dense allocation, progress, contract-asset, point-program, principal/agent and construction-loss flows were represented as explicit prose/tables with their conditions, timing, amounts and accounting consequences."
+  ],
+  "corrections": [
+    "Converted all source sections and tables into five bounded structured chunks; preserved the page-102 subsequent-price-change example and page-121 provision reversals.",
+    "Recorded T3:122 as a reviewed no-content MEMO page in the section shard and review coverage without fabricating learner text.",
+    "No outside page, book, web source, OCR text or general-knowledge supplement was used to fill content; the designated JPGs remained the authority."
+  ],
+  "checks": {"numerical": "pass", "diagram": "pass", "false_proposition": "not_applicable"},
+  "unresolved_count": 0,
+  "semantic_boundary": "Automatic checks validate schema, scope, ordering and hashes; semantic completeness is supported by the recorded page-by-page image review.",
+  "dependency_commits": [
+    "a2fb2bb829d112522128cdb145523302e9d1e7fd",
+    "cccf7c381768b18116d49e4847dac5df2b01506c",
+    "0034627e759ba83225ae91dbc5cba1c1825ba3a6"
+  ]
+}

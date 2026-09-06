@@ -1,0 +1,101 @@
+{
+  "batch_id": "JPG-T3-C006",
+  "source_id": "T3",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-T3-C006-S01",
+      "batch_id": "JPG-T3-C006",
+      "chapter": "34",
+      "section": "34.5",
+      "title": "第5節 Step4：履行義務への取引価格の配分",
+      "expected_pages": ["T3:100", "T3:101", "T3:102"],
+      "processing_pages": ["T3:100", "T3:101", "T3:102"],
+      "output": "chunks/JPG-T3-C006/JPG-T3-C006-S01.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T3:100", "printed_page": "㉞－23", "source_region": "第5節見出し、1.基本的な考え方、独立販売価格の定義、9,000円・6,000円・12,000円の比率配分図、2.独立販売価格を直接観察できない場合", "destination_heading": "## 第5節 Step4：履行義務への取引価格の配分"},
+        {"page": "T3:101", "printed_page": "㉞－24", "source_region": "3.値引きの配分、X・Y・Zの独立販売価格50・40・30、取引価格96、値引き24の配分表、4.取引価格の事後的な変動", "destination_heading": "## 第5節 Step4：履行義務への取引価格の配分"},
+        {"page": "T3:102", "printed_page": "㉞－25", "source_region": "取引価格の事後的な変動の設例、75個・500個の販売、90千円への遡及的減額、売上高44,250千円、返金負債5,750千円の仕訳と計算", "destination_heading": "## 第5節 Step4：履行義務への取引価格の配分"}
+      ],
+      "chunk_sha256": "b2f6ed93d60503473c366e5c9a779d11c4ddc800cdd45b07e021b19ffcaff9a7"
+    },
+    {
+      "id": "JPG-T3-C006-S02",
+      "batch_id": "JPG-T3-C006",
+      "chapter": "34",
+      "section": "34.6",
+      "title": "第6節 Step5：履行義務の充足による収益の認識",
+      "expected_pages": ["T3:103", "T3:104", "T3:105"],
+      "processing_pages": ["T3:103", "T3:104", "T3:105"],
+      "output": "chunks/JPG-T3-C006/JPG-T3-C006-S02.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T3:103", "printed_page": "㉞－26", "source_region": "第6節見出し、1.基本的な考え方、2.一定の期間にわたり充足される履行義務、3要件と例示", "destination_heading": "## 第6節 Step5：履行義務の充足による収益の認識"},
+        {"page": "T3:104", "printed_page": "㉞－27", "source_region": "3.一時点で充足される履行義務、4.進捗度の見積り、合理的見積り、原価回収基準、進捗度の見積り方法、判定フロー", "destination_heading": "## 第6節 Step5：履行義務の充足による収益の認識"},
+        {"page": "T3:105", "printed_page": "㉞－28", "source_region": "インプット法のエレベーター改装設例、5,000千円・原価4,000千円・エレベーター1,500千円、進捗度20%、収益2,200千円、費用2,000千円の仕訳と見積り変更", "destination_heading": "## 第6節 Step5：履行義務の充足による収益の認識"}
+      ],
+      "chunk_sha256": "fc9d4e7457302a1610d1c68e54188fd94be2f2dfe87a3cc1c96967b6912193c2"
+    },
+    {
+      "id": "JPG-T3-C006-S03",
+      "batch_id": "JPG-T3-C006",
+      "chapter": "34",
+      "section": "34.7",
+      "title": "第7節 開示",
+      "expected_pages": ["T3:106", "T3:107", "T3:108"],
+      "processing_pages": ["T3:106", "T3:107", "T3:108"],
+      "output": "chunks/JPG-T3-C006/JPG-T3-C006-S03.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T3:106", "printed_page": "㉞－29", "source_region": "第7節見出し、1.契約資産・顧客との契約から生じた債権の定義表、表示時点と貸借対照表の契約資産の図", "destination_heading": "## 第7節 開示"},
+        {"page": "T3:107", "printed_page": "㉞－30", "source_region": "契約資産と顧客との契約から生じた債権の設例、製品A・Bの400・800、契約資産400、売掛金1,200、入金仕訳、契約負債の定義と設例導入", "destination_heading": "## 第7節 開示"},
+        {"page": "T3:108", "printed_page": "㉞－31", "source_region": "契約負債の設例の対価受領・製品引渡し仕訳、貸借対照表表示、損益計算書表示、重要な会計方針の注記", "destination_heading": "## 第7節 開示"}
+      ],
+      "chunk_sha256": "dee51b5d91e003f7459b1e323daf01de145acc2b8e8179e26ce847a96c59716f"
+    },
+    {
+      "id": "JPG-T3-C006-S04",
+      "batch_id": "JPG-T3-C006",
+      "chapter": "34",
+      "section": "34.8",
+      "title": "第8節 特定の状況又は取引における取扱い",
+      "expected_pages": ["T3:109", "T3:110", "T3:111", "T3:112", "T3:113", "T3:114", "T3:115", "T3:116", "T3:117"],
+      "processing_pages": ["T3:109", "T3:110", "T3:111", "T3:112", "T3:113", "T3:114", "T3:115", "T3:116", "T3:117"],
+      "output": "chunks/JPG-T3-C006/JPG-T3-C006-S04.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T3:109", "printed_page": "㉞－32", "source_region": "第8節、1.財又はサービスに対する保証、合意された仕様に従った保証と保証サービスの分類表、従来実務", "destination_heading": "## 第8節 特定の状況又は取引における取扱い"},
+        {"page": "T3:110", "printed_page": "㉞－33", "source_region": "保証サービスの設例、基本保証と延長保証、1,800・1,700・300・50、販売時仕訳と保証引当金仕訳", "destination_heading": "## 第8節 特定の状況又は取引における取扱い"},
+        {"page": "T3:111", "printed_page": "㉞－34", "source_region": "2.カスタマー・ロイヤリティー・プログラム、重要な権利、Step2・Step4・Step5の処理、従来のポイント引当金実務", "destination_heading": "## 第8節 特定の状況又は取引における取扱い"},
+        {"page": "T3:112", "printed_page": "㉞－35", "source_region": "カスタマー・ロイヤリティー・プログラムの設例、50,000円・5,000ポイント・4,500ポイント・0.90円・60%、45,872円と4,128円、3,211円の仕訳と計算", "destination_heading": "## 第8節 特定の状況又は取引における取扱い"},
+        {"page": "T3:113", "printed_page": "㉞－36", "source_region": "3.本人と代理人の区別、本人・代理人の定義、総額と純額の認識表", "destination_heading": "## 第8節 特定の状況又は取引における取扱い"},
+        {"page": "T3:114", "printed_page": "㉞－37", "source_region": "本人と代理人の3指標、支配移転図、ウェブサイト仲介の設例、100,000円・5%・5,000円の手数料仕訳", "destination_heading": "## 第8節 特定の状況又は取引における取扱い"},
+        {"page": "T3:115", "printed_page": "㉞－38", "source_region": "本人・代理人の従来実務、4.消化仕入の定義と設例、所有権・リスク・価格決定権の帰属、1,500・1,200・300の仕訳", "destination_heading": "## 第8節 特定の状況又は取引における取扱い"},
+        {"page": "T3:116", "printed_page": "㉞－39", "source_region": "5.返品権付き販売、3つの会計処理、従来の返品調整引当金実務と20,000・12,000・400の例", "destination_heading": "## 第8節 特定の状況又は取引における取扱い"},
+        {"page": "T3:117", "printed_page": "㉞－40", "source_region": "返品権付き販売の設例、400個・原価30円・売価50円・返品20個、売上19,000・返金負債1,000・売上原価11,400・返品資産600の仕訳と計算", "destination_heading": "## 第8節 特定の状況又は取引における取扱い"}
+      ],
+      "chunk_sha256": "315ffb65a7beb94a9f3c601c4b8035a4de795aa15017c24409c275639242b0ac"
+    },
+    {
+      "id": "JPG-T3-C006-S05",
+      "batch_id": "JPG-T3-C006",
+      "chapter": "34",
+      "section": "34.9",
+      "title": "第9節 工事契約等から損失が見込まれる場合の取扱い",
+      "expected_pages": ["T3:118", "T3:119", "T3:120", "T3:121", "T3:122"],
+      "processing_pages": ["T3:118", "T3:119", "T3:120", "T3:121", "T3:122"],
+      "output": "chunks/JPG-T3-C006/JPG-T3-C006-S05.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T3:118", "printed_page": "㉞－41", "source_region": "第9節、1.工事契約から損失が見込まれる場合の基本的な考え方、引当金4要件、工事損失引当金の計上要件", "destination_heading": "## 第9節 工事契約等から損失が見込まれる場合の取扱い"},
+        {"page": "T3:119", "printed_page": "㉞－42", "source_region": "工事損失引当金に関する規定、引当金の性質、2.その他の論点、原則的表示と相殺表示", "destination_heading": "## 第9節 工事契約等から損失が見込まれる場合の取扱い"},
+        {"page": "T3:120", "printed_page": "㉞－43", "source_region": "工事損失引当金の取崩し、橋梁建設設例の前提条件、各年度の契約金額・原価総額・発生原価、X1・X2仕訳と計算", "destination_heading": "## 第9節 工事契約等から損失が見込まれる場合の取扱い"},
+        {"page": "T3:121", "printed_page": "㉞－44", "source_region": "橋梁建設設例のX3・X4年度仕訳、進捗度80%、売上高3,500・2,000、引当金175・100の取崩しと計算", "destination_heading": "## 第9節 工事契約等から損失が見込まれる場合の取扱い"},
+        {"page": "T3:122", "printed_page": "㉞－45", "source_region": "【MEMO】表記のみ。追加の学習本文、図表、仕訳なし（no-content page）", "destination_heading": "## 第9節 工事契約等から損失が見込まれる場合の取扱い"}
+      ],
+      "chunk_sha256": "1a57d35381d818c550f454261e25258a1bb7d7a3eb55b438076a47d66aff1743"
+    }
+  ],
+  "review": "reviews/JPG-T3-C006.json"
+}
