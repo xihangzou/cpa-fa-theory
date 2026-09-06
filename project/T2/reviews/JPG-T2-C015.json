@@ -1,0 +1,257 @@
+{
+  "batch_id": "JPG-T2-C015",
+  "checks": {
+    "diagram": "pass",
+    "false_proposition": "not_applicable",
+    "numerical": "pass"
+  },
+  "corrections": [],
+  "section_outputs": [
+    {
+      "task": "JPG-T2-C015-S01",
+      "chunk_sha256": "d8601ddb55fdcfbb0ed1e5c8cb0b8c29658567fb327076b500555bf0dccc7063"
+    },
+    {
+      "task": "JPG-T2-C015-S02",
+      "chunk_sha256": "ef288cc7a9b206fb7edc48d5e4a371adbdfc7fa2cdfda1aa53154f750649bf81"
+    },
+    {
+      "task": "JPG-T2-C015-S03",
+      "chunk_sha256": "9946e52d5bc2a6875f4b6a35af4591d701c2840b8f927c789e4e9ee83d918ca6"
+    }
+  ],
+  "coverage": [
+    {
+      "page": "T2:277",
+      "regions": [
+        "section opener and independent-versus-assigned treatment definitions/table",
+        "10-dollar sale, forward contract and 123/124/121/122/120/121/119 rate table",
+        "independent and assigned journal-entry comparison"
+      ],
+      "status": "pass"
+    },
+    {
+      "page": "T2:278",
+      "regions": [
+        "independent treatment at reservation, closing and settlement dates",
+        "spot-rate translation, valuation and net-profit timing",
+        "hedge-accounting necessity"
+      ],
+      "status": "pass"
+    },
+    {
+      "page": "T2:279",
+      "regions": [
+        "assigned treatment and direct-forward difference definitions",
+        "allocation from reservation to settlement and importance exception",
+        "simplified method and direct-forward-difference income-statement display"
+      ],
+      "status": "pass"
+    },
+    {
+      "page": "T2:280",
+      "regions": [
+        "independent-versus-assigned fundamental distinction",
+        "cash-flow-hedge rationale for assigned treatment",
+        "application requirements and same-currency/same-amount condition"
+      ],
+      "status": "pass"
+    },
+    {
+      "page": "T2:281",
+      "regions": [
+        "future-cash-flow fixation and eligible monetary receivables/payables",
+        "foreign-currency securities supplement",
+        "foreign-currency held-to-maturity bond inclusion"
+      ],
+      "status": "pass"
+    },
+    {
+      "page": "T2:282",
+      "regions": [
+        "forward and currency-swap eligibility",
+        "receipt/payment-currency-amount criterion",
+        "two direct-flat currency-swap diagrams with 100-dollar and 10,000/12,000-yen examples"
+      ],
+      "status": "pass"
+    },
+    {
+      "page": "T2:283",
+      "regions": [
+        "currency-option scope and exercise-certainty requirement",
+        "1-dollar-at-100-yen purchased-right example",
+        "policy, continuation and no-switching requirements"
+      ],
+      "status": "pass"
+    },
+    {
+      "page": "T2:284",
+      "regions": [
+        "section 8 opener and home-country principle",
+        "temporal-method rationale and subordinate-branch diagram",
+        "1-dollar-at-100-yen land example and branch basic approach"
+      ],
+      "status": "pass"
+    },
+    {
+      "page": "T2:285",
+      "regions": [
+        "inventory and head-office transaction conversion table",
+        "income-and-expense period-average exception",
+        "balance-sheet-item closing-rate exception and exchange-difference treatment"
+      ],
+      "status": "pass"
+    },
+    {
+      "page": "T2:286",
+      "regions": [
+        "section 9 opener and local-country principle",
+        "closing-rate-method proportionality rationale",
+        "10/6/4 foreign-currency balance-sheet diagram and subsidiary basic approach"
+      ],
+      "status": "pass"
+    },
+    {
+      "page": "T2:287",
+      "regions": [
+        "net-assets conversion table with acquisition, occurrence and closing rates",
+        "non-controlling interest treatment",
+        "lower-subsidiary 60-percent consolidation diagram"
+      ],
+      "status": "pass"
+    },
+    {
+      "page": "T2:288",
+      "regions": [
+        "income-and-expense period-average principle and closing-rate exception",
+        "parent-transaction rate and exchange-difference treatment",
+        "10-dollar-at-100-yen parent-subsidiary transaction diagram"
+      ],
+      "status": "pass"
+    },
+    {
+      "page": "T2:289",
+      "regions": [
+        "conversion-method summary table for balance-sheet and income-statement items",
+        "translation-adjustment definition and CR/HR balance-sheet diagram",
+        "translation-adjustment presentation as other comprehensive income/equity"
+      ],
+      "status": "pass"
+    },
+    {
+      "page": "T2:290",
+      "regions": [
+        "conventional asset/liability presentation view",
+        "10/6/4 example with 120 historical rate, 100 closing rate and 80 adjustment",
+        "current net-assets presentation view"
+      ],
+      "status": "pass"
+    },
+    {
+      "page": "T2:291",
+      "regions": [
+        "reason translation adjustment is not a net-income component",
+        "parent and non-controlling ownership-ratio treatment",
+        "tax-effect recognition only when realization conditions are clear"
+      ],
+      "status": "pass"
+    },
+    {
+      "page": "T2:292",
+      "regions": [
+        "subsidiary-interest hedge definition",
+        "parent separate-statements historical-cost and fair-value treatment",
+        "deferred-hedge accounting and timing mismatch"
+      ],
+      "status": "pass"
+    },
+    {
+      "page": "T2:293",
+      "regions": [
+        "consolidated hedge treatment and excess-amount rule",
+        "10-dollar loan example with 100-to-110 rates",
+        "20/10 subsidiary balance sheet, 2,200/1,100 conversion, 100 translation adjustment and 100 deferred loss"
+      ],
+      "status": "pass"
+    },
+    {
+      "page": "T2:294",
+      "regions": [
+        "goodwill closing-rate ending-balance treatment",
+        "period-average amortization treatment",
+        "historical-rate parent-attribution and closing-rate subsidiary-attribution views"
+      ],
+      "status": "pass"
+    },
+    {
+      "page": "T2:295",
+      "regions": [
+        "uniform accounting principle for parent and subsidiary",
+        "interim IFRS/US-GAAP and designated-international-standard use conditions",
+        "five required difference corrections and unreasonable-treatment correction rule"
+      ],
+      "status": "pass"
+    }
+  ],
+  "dependency_commits": [
+    "a2fb2bb829d112522128cdb145523302e9d1e7fd",
+    "558bb1e92a2bd7e550af9c2034dc695efde6f19d",
+    "fb4082260d3af7598cb417c2dd83a82cd224dc6d"
+  ],
+  "findings": [
+    "All 19 included processing images were reopened at readable full-page resolution and compared with the three section chunks, including margins, sidebars, supplements, tables, diagrams, journal-entry relationships, numerical examples and section boundaries.",
+    "Physical pages T2:277-T2:295 are the inventory-approved processing set for this batch. T2:296 (printed page ㉘-43) was reopened and is excluded by the manifest as a blank MEMO page with no substantive text, figure or table.",
+    "The range resolves into three complete sections: 28.7 on T2:277-T2:283, 28.8 on T2:284-T2:285, and 28.9 on T2:286-T2:295. No example, table, diagram or condition crosses the batch boundary.",
+    "Numerical checks included the 10-dollar independent-versus-assigned forward example, the 100-dollar direct-flat currency-swap diagrams, the 10/6/4 subsidiary balance-sheet example, the 120-to-100 translation-adjustment example with 80 difference, and the 10-dollar 100-to-110 subsidiary-interest hedge example with 100 translation adjustment and 100 deferred hedge loss.",
+    "Diagram checks preserved the independent/assigned treatment timeline, currency-swap cash-flow directions, branch/subsidiary proportionality and consolidation diagrams, CR/HR translation-adjustment views, and the subsidiary-interest hedge relationship.",
+    "Definitions, distinctions, timing, conditions, exceptions, procedures, table rows, journal-entry directions and the five interim-treatment correction categories were preserved without outside-source supplementation. No unresolved markers, invented facts or unlabelled false propositions remain."
+  ],
+  "reviewer_model": "Existing issue #61 source review carried forward; no model switch",
+  "source_id": "T2",
+  "source_images": [
+    {"page": "T2:277", "printed_page": "㉘-24", "sha256": "92392677ca19adc7e596acf2dfee6d961988f9364d9ea5f3fb751f02a5c6fc16"},
+    {"page": "T2:278", "printed_page": "㉘-25", "sha256": "e2c29a837634651c3bb591a4a0dbc30ea0a570e7430c708ca9c80135d452ca9a"},
+    {"page": "T2:279", "printed_page": "㉘-26", "sha256": "4d0593a524af5899d8eedb12ee31f967504a0e2fc8c97b5c95837c961f0198a1"},
+    {"page": "T2:280", "printed_page": "㉘-27", "sha256": "473e3210c0ee99b74a189197766022836b21cf873eb37ff82a9f7096cf38a851"},
+    {"page": "T2:281", "printed_page": "㉘-28", "sha256": "1e39738523d92a0414ce15bb46b7370b52e311b0a23776c736f731cbd11c549a"},
+    {"page": "T2:282", "printed_page": "㉘-29", "sha256": "550be00e262d49991bea887539d7384f430d33dc4b84c7862e176daf9d8c09eb"},
+    {"page": "T2:283", "printed_page": "㉘-30", "sha256": "5ddffdcf28a76e75b821fa54db737a3af38669003259cc822bb0e3120a2afee4"},
+    {"page": "T2:284", "printed_page": "㉘-31", "sha256": "199433d6271c163843b0eda30ca92769fdb21556d7e5f098e44d14414a07b663"},
+    {"page": "T2:285", "printed_page": "㉘-32", "sha256": "9356290bb60c20e01b61c6a0e3a1560339968c25e0f65302eff11ac4b4a3288e"},
+    {"page": "T2:286", "printed_page": "㉘-33", "sha256": "31dc5ab400dceef2ed89cee2aaaf1d9403dfa4e8afa4a9831a61bd9f3688be37"},
+    {"page": "T2:287", "printed_page": "㉘-34", "sha256": "a63f87ce0b12813aed93d8bc22d303ca5a435e54ee2a324d57d118a6c58c5ac4"},
+    {"page": "T2:288", "printed_page": "㉘-35", "sha256": "a049ee10138271d4a568696ef527ded88b6a56536b201858735f1590651afc21"},
+    {"page": "T2:289", "printed_page": "㉘-36", "sha256": "10148f1497319b0f83867656533d5960f06620c81066b97b094f03fc3d688053"},
+    {"page": "T2:290", "printed_page": "㉘-37", "sha256": "e5d4282d6b9113c17921fd60e339e7fc51050458f8be126178beeddd5c0535d7"},
+    {"page": "T2:291", "printed_page": "㉘-38", "sha256": "bf1b1e64f10a45e8607be9ad5724c017e695572aa7c9d5956cdbed39aa43472c"},
+    {"page": "T2:292", "printed_page": "㉘-39", "sha256": "1532437afad71d7b6f45b3361cd09bf5b140f79d862dfd06e9140150642eb8fa"},
+    {"page": "T2:293", "printed_page": "㉘-40", "sha256": "378b83660b6f04e21da1cc69f3d49b001184ee0f0e8ba009392404599f82a653"},
+    {"page": "T2:294", "printed_page": "㉘-41", "sha256": "bee131cfa1a7dc196d94ee8a58986052461d7f286cb1c05fe9f5eaa02b45a4b0"},
+    {"page": "T2:295", "printed_page": "㉘-42", "sha256": "f5de6e1bdc48b7301f6a932ee61dd4a720ef0d32ef93c3545ef68f69cc8cea3d"}
+  ],
+  "source_revision": {
+    "batch_manifest_sha256": "959f880a026c8b1ca149f12f39fb954b06f86d5600eb0f8207c406139e9546e3",
+    "content_authority": "designated existing JPGs only; PDF used only for identity/planning support",
+    "edition": "2024/2025年合格目標",
+    "image_folder": "/Users/xihangzou/Study/320_CPA/322_財務理論/images/cpa-fa-theory-textbook-2-jpg",
+    "inventory_review_sha256": "b0f2b10e53d792d7ee563a24810b117c95a09599769fefc3d58138466e6f1384",
+    "page_plan": "contracts/page-plan.json",
+    "page_plan_sha256": "997a7280b171df5803c2a3bb7c2ee8764082e01f3bdb03c194b9129fe18d26c9",
+    "physical_scope": "T2:277-T2:296",
+    "pilot_gate_sha256": "712db4eed9c2c6d373d53b85c225c894b3877ed4eb085c4a1be6821d350a4cbc",
+    "processing_scope": "T2:277-T2:295",
+    "publication_date": "2023-05-04",
+    "source_catalog": "contracts/source-catalog.json",
+    "source_catalog_sha256": "8358e9cffb068f63df0bdfcc8f99be035e66454ac8710d381f0ff9eb87728079",
+    "source_id": "T2",
+    "source_image_inventory_sha256": "d577500ca271c7d4f0e8a1103b481e38e2494cc9c236d9fe954b35938a9a1c91",
+    "source_manifest": "project/T2/sources.json",
+    "source_manifest_sha256": "35cf038c8b38aa4d44abb1f9a9791db1f51f59e6bac41645e5df53c3b09e12b4",
+    "source_map": "project/T2/source-map.json",
+    "source_map_sha256": "de4c75bc119b6501ecb1871fccb717cb421c7790d365d0f1eb2ebd493d58ba44",
+    "source_pdf": "/Users/xihangzou/Study/320_CPA/322_財務理論/01_テキスト/財務会計論テキスト　理論2.pdf",
+    "source_pdf_sha256": "ba4b33c8881021044b6360bfd10899f1b1f882bda3ccc7df3f1f895e9cc55ba5"
+  },
+  "status": "pass",
+  "unresolved_count": 0
+}

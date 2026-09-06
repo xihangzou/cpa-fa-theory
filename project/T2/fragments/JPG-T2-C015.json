@@ -1,0 +1,208 @@
+{
+  "batch_id": "JPG-T2-C015",
+  "review": "reviews/JPG-T2-C015.json",
+  "source_id": "T2",
+  "status": "pass",
+  "tasks": [
+    {
+      "batch_id": "JPG-T2-C015",
+      "chapter": "28",
+      "chunk_sha256": "d8601ddb55fdcfbb0ed1e5c8cb0b8c29658567fb327076b500555bf0dccc7063",
+      "expected_pages": [
+        "T2:277",
+        "T2:278",
+        "T2:279",
+        "T2:280",
+        "T2:281",
+        "T2:282",
+        "T2:283"
+      ],
+      "id": "JPG-T2-C015-S01",
+      "locators": [
+        {
+          "destination_heading": "## 第7節 為替予約等",
+          "page": "T2:277",
+          "printed_page": "㉘-24",
+          "source_region": "section opener; definition and independent-versus-assigned treatment table; 10-dollar sale and forward-contract example with rates and journal-entry comparison"
+        },
+        {
+          "destination_heading": "## 第7節 為替予約等",
+          "page": "T2:278",
+          "printed_page": "㉘-25",
+          "source_region": "independent treatment at reservation, closing and settlement dates; hedge-accounting necessity and net-profit timing"
+        },
+        {
+          "destination_heading": "## 第7節 為替予約等",
+          "page": "T2:279",
+          "printed_page": "㉘-26",
+          "source_region": "assigned treatment at reservation, closing and settlement dates; spot-forward difference, allocation and simplified method"
+        },
+        {
+          "destination_heading": "## 第7節 為替予約等",
+          "page": "T2:280",
+          "printed_page": "㉘-27",
+          "source_region": "fundamental difference between independent and assigned treatment; reason assigned treatment is permitted; hedge-application requirements"
+        },
+        {
+          "destination_heading": "## 第7節 為替予約等",
+          "page": "T2:281",
+          "printed_page": "㉘-28",
+          "source_region": "eligible foreign-currency monetary receivables and payables; securities supplement; future-cash-flow fixation requirement"
+        },
+        {
+          "destination_heading": "## 第7節 為替予約等",
+          "page": "T2:282",
+          "printed_page": "㉘-29",
+          "source_region": "eligible forward, currency-swap and currency-option types; two direct-flat currency-swap diagrams and 100-dollar cash-flow examples"
+        },
+        {
+          "destination_heading": "## 第7節 為替予約等",
+          "page": "T2:283",
+          "printed_page": "㉘-30",
+          "source_region": "currency-option eligibility where exercise is certain; 1-dollar-at-100-yen right example; policy and continuation requirements"
+        }
+      ],
+      "output": "chunks/JPG-T2-C015/JPG-T2-C015-S01.md",
+      "processing_pages": [
+        "T2:277",
+        "T2:278",
+        "T2:279",
+        "T2:280",
+        "T2:281",
+        "T2:282",
+        "T2:283"
+      ],
+      "section": "28.7",
+      "status": "pass",
+      "title": "第7節 為替予約等"
+    },
+    {
+      "batch_id": "JPG-T2-C015",
+      "chapter": "28",
+      "chunk_sha256": "ef288cc7a9b206fb7edc48d5e4a371adbdfc7fa2cdfda1aa53154f750649bf81",
+      "expected_pages": [
+        "T2:284",
+        "T2:285"
+      ],
+      "id": "JPG-T2-C015-S02",
+      "locators": [
+        {
+          "destination_heading": "## 第8節 在外支店の外貨表示財務諸表項目の換算",
+          "page": "T2:284",
+          "printed_page": "㉘-31",
+          "source_region": "section opener; home-country principle and temporal-method rationale; dependency diagram and 1-dollar-at-100-yen land example; branch-conversion basic approach"
+        },
+        {
+          "destination_heading": "## 第8節 在外支店の外貨表示財務諸表項目の換算",
+          "page": "T2:285",
+          "printed_page": "㉘-32",
+          "source_region": "specific conversion table for inventory and head-office transactions; income-and-expense and balance-sheet exceptions; exchange-difference treatment"
+        }
+      ],
+      "output": "chunks/JPG-T2-C015/JPG-T2-C015-S02.md",
+      "processing_pages": [
+        "T2:284",
+        "T2:285"
+      ],
+      "section": "28.8",
+      "status": "pass",
+      "title": "第8節 在外支店の外貨表示財務諸表項目の換算"
+    },
+    {
+      "batch_id": "JPG-T2-C015",
+      "chapter": "28",
+      "chunk_sha256": "9946e52d5bc2a6875f4b6a35af4591d701c2840b8f927c789e4e9ee83d918ca6",
+      "expected_pages": [
+        "T2:286",
+        "T2:287",
+        "T2:288",
+        "T2:289",
+        "T2:290",
+        "T2:291",
+        "T2:292",
+        "T2:293",
+        "T2:294",
+        "T2:295"
+      ],
+      "id": "JPG-T2-C015-S03",
+      "locators": [
+        {
+          "destination_heading": "## 第9節 在外子会社の外貨表示財務諸表項目の換算",
+          "page": "T2:286",
+          "printed_page": "㉘-33",
+          "source_region": "section opener; local-country principle and closing-rate-method rationale; 10/6/4 proportionality diagram; subsidiary-conversion basic approach and practical supplement"
+        },
+        {
+          "destination_heading": "## 第9節 在外子会社の外貨表示財務諸表項目の換算",
+          "page": "T2:287",
+          "printed_page": "㉘-34",
+          "source_region": "specific conversion method introduction; net-assets table; acquisition-time, occurrence-time and closing-time rates; lower-subsidiary 60-percent consolidation diagram"
+        },
+        {
+          "destination_heading": "## 第9節 在外子会社の外貨表示財務諸表項目の換算",
+          "page": "T2:288",
+          "printed_page": "㉘-35",
+          "source_region": "income-and-expense rate alternatives; parent-transaction rate rule; 10-dollar-at-100-yen diagram; summary of conversion methods"
+        },
+        {
+          "destination_heading": "## 第9節 在外子会社の外貨表示財務諸表項目の換算",
+          "page": "T2:289",
+          "printed_page": "㉘-36",
+          "source_region": "conversion-method summary table; foreign-currency translation adjustment definition; closing-rate and historical-rate balance-sheet diagram"
+        },
+        {
+          "destination_heading": "## 第9節 在外子会社の外貨表示財務諸表項目の換算",
+          "page": "T2:290",
+          "printed_page": "㉘-37",
+          "source_region": "translation-adjustment display; conventional asset/liability view with 10/6/4 and 120-to-100 rate example; current net-assets view"
+        },
+        {
+          "destination_heading": "## 第9節 在外子会社の外貨表示財務諸表項目の換算",
+          "page": "T2:291",
+          "printed_page": "㉘-38",
+          "source_region": "reason translation adjustment is excluded from net income; parent and non-controlling ownership-ratio treatment; tax-effect condition"
+        },
+        {
+          "destination_heading": "## 第9節 在外子会社の外貨表示財務諸表項目の換算",
+          "page": "T2:292",
+          "printed_page": "㉘-39",
+          "source_region": "subsidiary-interest hedge; parent separate-statements treatment; historical-cost investment, fair-value hedge instrument and deferred-hedge accounting"
+        },
+        {
+          "destination_heading": "## 第9節 在外子会社の外貨表示財務諸表項目の換算",
+          "page": "T2:293",
+          "printed_page": "㉘-40",
+          "source_region": "consolidated hedge treatment; 10-dollar borrowing example with 100-to-110 rates, 20/10 subsidiary balance sheet, 100 translation adjustment and 100 deferred hedge loss"
+        },
+        {
+          "destination_heading": "## 第9節 在外子会社の外貨表示財務諸表項目の換算",
+          "page": "T2:294",
+          "printed_page": "㉘-41",
+          "source_region": "goodwill closing-rate treatment and amortization average-rate treatment; historical-rate versus closing-rate attribution views; independence supplement"
+        },
+        {
+          "destination_heading": "## 第9節 在外子会社の外貨表示財務諸表項目の換算",
+          "page": "T2:295",
+          "printed_page": "㉘-42",
+          "source_region": "foreign-subsidiary accounting-treatment principle and interim treatment; IFRS/US-GAAP use conditions and five required difference corrections"
+        }
+      ],
+      "output": "chunks/JPG-T2-C015/JPG-T2-C015-S03.md",
+      "processing_pages": [
+        "T2:286",
+        "T2:287",
+        "T2:288",
+        "T2:289",
+        "T2:290",
+        "T2:291",
+        "T2:292",
+        "T2:293",
+        "T2:294",
+        "T2:295"
+      ],
+      "section": "28.9",
+      "status": "pass",
+      "title": "第9節 在外子会社の外貨表示財務諸表項目の換算"
+    }
+  ]
+}
