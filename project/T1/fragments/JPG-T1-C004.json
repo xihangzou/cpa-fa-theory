@@ -1,0 +1,37 @@
+{
+  "batch_id": "JPG-T1-C004",
+  "source_id": "T1",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-T1-C004-S01",
+      "batch_id": "JPG-T1-C004",
+      "chapter": "02",
+      "section": "02.9",
+      "title": "第9節 重要性の原則",
+      "expected_pages": ["T1:062", "T1:063", "T1:064", "T1:065"],
+      "processing_pages": ["T1:062", "T1:063", "T1:064", "T1:065"],
+      "output": "chunks/JPG-T1-C004/JPG-T1-C004-S01.md",
+      "status": "pass",
+      "chunk_sha256": "bf2f2fdd00a0dbc49f06df34b18800ccd09a361b0304219fd2483f581055be41",
+      "locators": [
+        {"page": "T1:062", "printed_page": "②－21", "source_region": "第9節の扉、企業会計原則注解注1の規定、1.重要性の原則の意味内容と位置付け、会計処理と表示の参考表、2.重要性の原則における2つの側面", "destination_heading": "## 第9節 重要性の原則"},
+        {"page": "T1:063", "printed_page": "②－22", "source_region": "情報提供機能とコスト・ベネフィットによる簡便処理の説明、コスト大・効用小の図、重要性の原則の適用例、重要性の乏しい場合の会計処理例・表示例、重要性の高い場合の表示例", "destination_heading": "## 第9節 重要性の原則"},
+        {"page": "T1:064", "printed_page": "②－23", "source_region": "3.重要性の判断基準、意思決定への影響による基本基準、量的重要性・質的重要性の表、金額的重要性と質的重要性の表示例", "destination_heading": "## 第9節 重要性の原則"},
+        {"page": "T1:065", "printed_page": "②－24", "source_region": "4.重要性の原則と他の一般原則との関係、正規の簿記の原則との関係、ペン10本・1本100円・7本使用の仕訳例、簿外資産300、明瞭性の原則との関係と注記", "destination_heading": "## 第9節 重要性の原則"}
+      ]
+    }
+  ],
+  "review": "reviews/JPG-T1-C004.json",
+  "excluded_pages": [
+    {"page": "T1:066", "printed_page": "②－25", "disposition": "exclude", "reason": "Blank chapter-end MEMO page with no learner content."}
+  ],
+  "source_scope": {
+    "source_id": "T1",
+    "physical_range": "T1:062-T1:066",
+    "processing_range": "T1:062-T1:065",
+    "chapter": "02",
+    "title": "一般原則",
+    "content_authority": "designated existing JPGs only"
+  }
+}

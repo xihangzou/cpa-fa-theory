@@ -1,0 +1,51 @@
+{
+  "batch_id": "JPG-T1-C004",
+  "source_id": "T1",
+  "status": "pass",
+  "source_images": [
+    {"page": "T1:062", "sha256": "28094dccaf3f61d7c0ea3311e49e95183df6a4ea704523bbad283024d40232e9"},
+    {"page": "T1:063", "sha256": "4db46780655df755c795a8a12ab39a44e6ba528e604be21910cdf8651ccff629"},
+    {"page": "T1:064", "sha256": "c56459c0e6d1cfacfa28b1d88fda2fa1474750e1379e4b54c305fb7e2b5d0b6e"},
+    {"page": "T1:065", "sha256": "7a1ca4c040cf72ba231dd9ef280e5d49f50afe6580d83c65daf3e714d67b4dfa"}
+  ],
+  "section_outputs": [
+    {"task": "JPG-T1-C004-S01", "chunk_sha256": "bf2f2fdd00a0dbc49f06df34b18800ccd09a361b0304219fd2483f581055be41"}
+  ],
+  "coverage": [
+    {"page": "T1:062", "regions": ["section 9 title and quoted enterprise-accounting note", "meaning and positioning definition", "accounting treatment versus presentation reference table", "two-sided rule and strict-versus-convenient treatment", "margins and footer"], "status": "pass"},
+    {"page": "T1:063", "regions": ["information-supply and cost-benefit explanation", "cost-large/usefulness-small diagram", "application examples for minor items in treatment and presentation", "high-importance presentation examples", "margins and footer"], "status": "pass"},
+    {"page": "T1:064", "regions": ["judgment criterion and basic decision table", "quantitative and qualitative importance table", "quantitative display example with 20+50=70", "qualitative display example with 仮払金2,000", "margins and footer"], "status": "pass"},
+    {"page": "T1:065", "regions": ["relationship overview", "regular-bookkeeping relationship and off-book asset/liability note", "strict and simplified pen accounting entries", "off-book asset 300 and relationship diagram meaning", "clarity relationship and explanatory note", "margins and footer"], "status": "pass"}
+  ],
+  "findings": [
+    "All four included processing JPGs were reopened at readable resolution and matched to the single section chunk.",
+    "The chunk preserves the quoted rule, definitions, strict/convenient distinction, cost-benefit rationale, all listed minor/high-importance examples, quantitative and qualitative judgment criteria, 20+50=70 display example, pen entries and the resulting off-book asset of 300, and both general-principle relationships.",
+    "The page 065 accounting example preserves the 10 pens at 100 each, 7 used, strict treatment with 700 expense and 300 B/S supplies, and simplified one-time expense treatment of 1,000.",
+    "Page 066 was checked and excluded because it is a blank chapter-end MEMO page; no substantive content crosses the batch boundary.",
+    "This theory section contains no question/answer or false-proposition layout; that specialized check is not applicable."
+  ],
+  "corrections": [],
+  "checks": {
+    "numerical": "pass",
+    "diagram": "pass",
+    "false_proposition": "not_applicable"
+  },
+  "unresolved_count": 0,
+  "reviewer_model": "current execution model; no model switch",
+  "dependency_commits": [
+    "a2fb2bb829d112522128cdb145523302e9d1e7fd",
+    "1fd8a963ef32e09b5f3f08ecd7d5bb7cc2240a94",
+    "7507151c638a73a41fc13b9d4c4481c8888307e0"
+  ],
+  "source_revision": {
+    "verified_main_commit": "f572177b435af68176856966890afb426ad49f11",
+    "source_catalog_sha256": "8358e9cffb068f63df0bdfcc8f99be035e66454ac8710d381f0ff9eb87728079",
+    "page_plan_sha256": "997f7280a171df5803c2a3bb7c2ee8764082e01f3bdb03c194b9129fe18d26c9",
+    "source_manifest_sha256": "760f946d08e1eebf2d79c189103ac2e627f0bb2569dcd80055885fb8b97324cd",
+    "source_map_sha256": "3ff42e94bd9f8751f8100c6ff251740a46f67182c468af620438c9768f14b961",
+    "batch_manifest_sha256": "125ff5fee8f8271b82c3258ced501ed4411b4071b930f08f1ed682e72c2628c4",
+    "inventory_review_sha256": "83e2c59f059ffdec53fcb8fb83a5f1300d5cca0722dcf031db0b459bd7ab8c19",
+    "source_image_inventory_sha256": "331ad1ea2ca04d0636c2185b6ab1a8fe5240ebdd3f0c7c546c8703371d497929",
+    "source_pdf_sha256": "c09d9d91ce39de787cab04e146719d95b638134399d57112802ffacfa67243f3"
+  }
+}
