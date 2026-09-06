@@ -1,0 +1,45 @@
+{
+  "batch_id": "JPG-T2-C002",
+  "source_id": "T2",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-T2-C002-S01",
+      "batch_id": "JPG-T2-C002",
+      "chapter": "21",
+      "section": "21.7",
+      "title": "第7節 棚卸資産に関するその他の論点",
+      "expected_pages": ["T2:031", "T2:032", "T2:033", "T2:034", "T2:035", "T2:036", "T2:037"],
+      "processing_pages": ["T2:031", "T2:032", "T2:033", "T2:034", "T2:035", "T2:036", "T2:037"],
+      "output": "chunks/JPG-T2-C002/JPG-T2-C002-S01.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T2:031", "printed_page": "㉑-24", "source_region": "第7節扉、1.収益性の低下の判断及び簿価切下げの単位、個別品目原則と一括単位の2条件", "destination_heading": "## 第7節 棚卸資産に関するその他の論点"},
+        {"page": "T2:032", "printed_page": "㉑-25", "source_region": "2.切放し法と洗替え法、両方法の論拠、減損会計との比較図、本会計基準の選択適用と継続適用", "destination_heading": "## 第7節 棚卸資産に関するその他の論点"},
+        {"page": "T2:033", "printed_page": "㉑-26", "source_region": "補足：切放し法と洗替え法のその他の論点、要因別適用の見解、切放し法・洗替え法の数値例と仕訳、選択適用批判", "destination_heading": "## 第7節 棚卸資産に関するその他の論点"},
+        {"page": "T2:034", "printed_page": "㉑-27", "source_region": "3.正味売却価額の下落が収益性の低下と結びつかない場合、将来販売時点との関係図と例外", "destination_heading": "## 第7節 棚卸資産に関するその他の論点"},
+        {"page": "T2:035", "printed_page": "㉑-28", "source_region": "4.品質低下・陳腐化・低価法評価損の相違表と本会計基準の同一取扱い", "destination_heading": "## 第7節 棚卸資産に関するその他の論点"},
+        {"page": "T2:036", "printed_page": "㉑-29", "source_region": "5.売価還元法を採用している場合の収益性の低下、原則法、例外法、値下額等を除外した原価率式", "destination_heading": "## 第7節 棚卸資産に関するその他の論点"},
+        {"page": "T2:037", "printed_page": "㉑-30", "source_region": "6.トレーディング目的棚卸資産の時価評価・評価差額・時価定義・純額表示と重要性例外", "destination_heading": "## 第7節 棚卸資産に関するその他の論点"}
+      ],
+      "chunk_sha256": "e3b8e3a6637035ec3aa4a7eebafdf411e7fd270b134dc35da108fd4ec1588bd9"
+    },
+    {
+      "id": "JPG-T2-C002-S02",
+      "batch_id": "JPG-T2-C002",
+      "chapter": "21",
+      "section": "21.8",
+      "title": "第8節 開示",
+      "expected_pages": ["T2:038", "T2:039"],
+      "processing_pages": ["T2:038", "T2:039"],
+      "output": "chunks/JPG-T2-C002/JPG-T2-C002-S02.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T2:038", "printed_page": "㉑-31", "source_region": "第8節扉、1.損益の計上区分、売上原価・製造原価・特別損失の条件、注1–3と臨時事象例", "destination_heading": "## 第8節 開示"},
+        {"page": "T2:039", "printed_page": "㉑-32", "source_region": "2.損益の表示方法、注記又は独立掲記の原則と重要性例外、70・100・150・200・30の数値例", "destination_heading": "## 第8節 開示"}
+      ],
+      "chunk_sha256": "f1649e120afa33dec3f824b82e10a20e2ba0e524ab25d89f36a00026a1209ef7"
+    }
+  ],
+  "review": "reviews/JPG-T2-C002.json"
+}
