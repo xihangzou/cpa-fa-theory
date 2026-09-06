@@ -1,0 +1,59 @@
+{
+  "batch_id": "JPG-T2-C022",
+  "review": "reviews/JPG-T2-C022.json",
+  "source_id": "T2",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-T2-C022-S01",
+      "batch_id": "JPG-T2-C022",
+      "chapter": "31",
+      "section": "31.5",
+      "title": "第5節 会計上の見積りの変更の取扱い",
+      "chunk_sha256": "35f230c3bdcfbf7007f173b1fa8b936e632df9b4b2bf91dfcab97129cb76c497",
+      "expected_pages": ["T2:401", "T2:402", "T2:403", "T2:404"],
+      "processing_pages": ["T2:401", "T2:402", "T2:403", "T2:404"],
+      "output": "chunks/JPG-T2-C022/JPG-T2-C022-S01.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T2:401", "printed_page": "㉛-20", "source_region": "第5節 opener; 1. 会計上の見積りの変更に関する基本的な考え方; 遡及処理と将来処理の対比; 耐用年数短縮のキャッチ・アップ方式／プロスペクティブ方式; 10,000・5年・4年の設例", "destination_heading": "## 第5節 会計上の見積りの変更の取扱い"},
+        {"page": "T2:402", "printed_page": "㉛-21", "source_region": "2. 原則的な取扱い; 変更期間のみ／将来期間への影響の区分; 注記事項; X3年度・5,000百万円・耐用年数10年から6年の設例", "destination_heading": "## 第5節 会計上の見積りの変更の取扱い"},
+        {"page": "T2:403", "printed_page": "㉛-22", "source_region": "3. 会計方針の変更と会計上の見積りの変更の区別困難; 注記事項; 減価償却方法変更の取扱いの導入", "destination_heading": "## 第5節 会計上の見積りの変更の取扱い"},
+        {"page": "T2:404", "printed_page": "㉛-23", "source_region": "減価償却方法変更の国際基準／現行取扱い比較; 見積り変更説と会計方針変更説の論拠; 本会計基準の取扱い", "destination_heading": "## 第5節 会計上の見積りの変更の取扱い"}
+      ]
+    },
+    {
+      "id": "JPG-T2-C022-S02",
+      "batch_id": "JPG-T2-C022",
+      "chapter": "31",
+      "section": "31.6",
+      "title": "第6節 過去の誤謬の取扱い",
+      "chunk_sha256": "2af8718a31d11884f649fdeff343fa6256a2c381edd4d358cf49826d30bcbcc2",
+      "expected_pages": ["T2:405", "T2:406", "T2:407", "T2:408"],
+      "processing_pages": ["T2:405", "T2:406", "T2:407", "T2:408"],
+      "output": "chunks/JPG-T2-C022/JPG-T2-C022-S02.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T2:405", "printed_page": "㉛-24", "source_region": "第6節 opener; 過去の誤謬の従来／本会計基準の基本的取扱い; 500万円過少計上のX2／X3年度比較設例", "destination_heading": "## 第6節 過去の誤謬の取扱い"},
+        {"page": "T2:406", "printed_page": "㉛-25", "source_region": "過去の誤謬と会計上の見積りの変更; 貸倒引当金2,400万円から2,800万円のケース1／ケース2; 修正再表示の具体的取扱い", "destination_heading": "## 第6節 過去の誤謬の取扱い"},
+        {"page": "T2:407", "printed_page": "㉛-26", "source_region": "過去の誤謬に関する注記事項; 実務上修正再表示が不可能な場合の二つの見解", "destination_heading": "## 第6節 過去の誤謬の取扱い"},
+        {"page": "T2:408", "printed_page": "㉛-27", "source_region": "実務上不可能な場合の現行取扱いの留意点; 本会計基準と国際財務報告基準の相違点まとめ", "destination_heading": "## 第6節 過去の誤謬の取扱い"}
+      ]
+    },
+    {
+      "id": "JPG-T2-C022-S03",
+      "batch_id": "JPG-T2-C022",
+      "chapter": "31",
+      "section": "31.7",
+      "title": "第7節 会計上の見積りの開示に関する会計基準",
+      "chunk_sha256": "77561efd307b6e47bae453b159d2be3b74e59cf2f516700cba9a7a2133517a31",
+      "expected_pages": ["T2:409"],
+      "processing_pages": ["T2:409"],
+      "output": "chunks/JPG-T2-C022/JPG-T2-C022-S03.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T2:409", "printed_page": "㉛-28", "source_region": "第7節 opener; 2020年3月31日公表の会計基準; 開示目的; 開示項目の識別; 注記事項3項目と主要な補足情報", "destination_heading": "## 第7節 会計上の見積りの開示に関する会計基準"}
+      ]
+    }
+  ]
+}

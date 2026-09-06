@@ -1,0 +1,68 @@
+{
+  "batch_id": "JPG-T2-C022",
+  "source_id": "T2",
+  "status": "pass",
+  "unresolved_count": 0,
+  "delivery_branch": "main",
+  "repository_revision_reviewed": "14c9baef4c3fe48cf690b3e0f07d7454cf535bc0",
+  "reviewed_on": "2026-09-06",
+  "reviewer_model": "GPT-5 (current execution model; no model switch)",
+  "dependency_commits": [
+    "a2fb2bb829d112522128cdb145523302e9d1e7fd",
+    "558bb1e92a2bd7e550af9c2034dc695efde6f19d",
+    "a6e69fbb64cc16aa5800f0aa6a3cf32c7ae449a3"
+  ],
+  "source_images": [
+    {"page": "T2:401", "printed_page": "㉛-20", "sha256": "a61ec5849763b9fc97a814697cfa4f827417bddc420019fcc92c981a0f7ee9c3"},
+    {"page": "T2:402", "printed_page": "㉛-21", "sha256": "1b98c5c17b355a062d8161961d881ac6bd8ef1b967120098609e264e6f28b4f9"},
+    {"page": "T2:403", "printed_page": "㉛-22", "sha256": "e00aa3ced01c3e075a78a2ce24c3097b4a2b25956c6dbd9d215a1b06131bd32b"},
+    {"page": "T2:404", "printed_page": "㉛-23", "sha256": "65cedd7df09cfe17f82c1d46234cf467f3ca02cab20993f9d4ebcf13032a465e"},
+    {"page": "T2:405", "printed_page": "㉛-24", "sha256": "b2a653309ede4d397bf39f167cc3fc95a6cf8e016a818f62cc2324599f26c7fd"},
+    {"page": "T2:406", "printed_page": "㉛-25", "sha256": "5a72bb0656722e52cee9c2c0358fed0f809ea47c7e6350ada9b670567fd59a64"},
+    {"page": "T2:407", "printed_page": "㉛-26", "sha256": "a890a2d7c386f8854d57c6647297e04b2a74704373a0928eb5860113f970ee69"},
+    {"page": "T2:408", "printed_page": "㉛-27", "sha256": "1b78bc418ee58be61b1a02fe53973f4bb8f9f1e148ad49b047f8fb3e90d6928f"},
+    {"page": "T2:409", "printed_page": "㉛-28", "sha256": "4ed1ee48566fda5a298af38dfa0731aab6a06dd5daae3faa06f231b7780b6bae"}
+  ],
+  "excluded_pages": [
+    {"page": "T2:410", "printed_page": "㉛-29", "reason": "【MEMO】の白紙ページ。画像確認により実質的な本文・図表なし。"}
+  ],
+  "section_outputs": [
+    {"task": "JPG-T2-C022-S01", "chunk_sha256": "35f230c3bdcfbf7007f173b1fa8b936e632df9b4b2bf91dfcab97129cb76c497"},
+    {"task": "JPG-T2-C022-S02", "chunk_sha256": "2af8718a31d11884f649fdeff343fa6256a2c381edd4d358cf49826d30bcbcc2"},
+    {"task": "JPG-T2-C022-S03", "chunk_sha256": "77561efd307b6e47bae453b159d2be3b74e59cf2f516700cba9a7a2133517a31"}
+  ],
+  "coverage": [
+    {"page": "T2:401", "regions": ["section 5 opener; basic treatment; prospective versus catch-up comparison; useful-life example"], "status": "pass"},
+    {"page": "T2:402", "regions": ["principled treatment; period-only versus future-period effects; notes; useful-life-change example"], "status": "pass"},
+    {"page": "T2:403", "regions": ["difficult distinction between policy and estimate changes; notes; depreciation-method change opening"], "status": "pass"},
+    {"page": "T2:404", "regions": ["depreciation-method comparison; both views and all subpoints; current-standard treatment"], "status": "pass"},
+    {"page": "T2:405", "regions": ["section 6 basic treatment; prior-year error comparison; numerical example and comparative statements"], "status": "pass"},
+    {"page": "T2:406", "regions": ["error versus estimate-change supplement; allowance cases; correction restatement rules"], "status": "pass"},
+    {"page": "T2:407", "regions": ["error-restatement notes; practical-impossibility supplement; both views"], "status": "pass"},
+    {"page": "T2:408", "regions": ["practical-impossibility conclusion; Japan versus IFRS comparison table"], "status": "pass"},
+    {"page": "T2:409", "regions": ["section 7 opener; disclosure purpose; item identification; note items and supporting information"], "status": "pass"}
+  ],
+  "findings": [
+    "All 9 inventory-approved processing images T2:401-T2:409 were reopened at readable full-page resolution and compared with the 3 section chunks, including margins, supplement boxes, tables, numerical examples and diagram-only relationships.",
+    "The expected batch range T2:401-T2:410 is complete: T2:401-T2:409 are included and T2:410 is the image-confirmed blank MEMO exclusion recorded by the inventory ledger.",
+    "The batch preserves sections 5 through 7 of chapter 31, including the prospective treatment of estimate changes, depreciation-method treatment, error restatement, allowance examples, practical-impossibility views, the Japan/IFRS comparison table and the estimate-disclosure standard.",
+    "Numerical checks covered 10,000/5 years/4 years/2,000/2,500/500, 5,000百万円/10年/6年/4,000百万円/500百万円/1,000百万円, 500万円/4,000万円/3,500万円/3,200万円/3,700万円, and 2,400万円/2,800万円/400万円.",
+    "Diagram and table checks covered the catch-up versus prospective treatment, the comparative financial statements, allowance case split, and the Japan versus IFRS treatment table. No unresolved marker, invented content or out-of-batch locator remains."
+  ],
+  "corrections": [],
+  "checks": {
+    "numerical": "pass",
+    "diagram": "pass",
+    "false_proposition": "not_applicable"
+  },
+  "verification": {
+    "json_fragment": "pass",
+    "json_review": "pass",
+    "source_image_sha256": "9/9 computed from designated T2 JPGs; all match project/T2/sources.json",
+    "semantic_full_page_review": "pass",
+    "unresolved_marker_scan": "pass",
+    "scoped_diff_check": "pass (git diff --check)",
+    "check_batch": "pass (./.venv/bin/python workflow/scripts/source_md.py check-batch project/T2 --batch JPG-T2-C022)",
+    "repository_tests": "31/31 passed (./.venv/bin/python -m unittest discover -s workflow/tests -v)"
+  }
+}
