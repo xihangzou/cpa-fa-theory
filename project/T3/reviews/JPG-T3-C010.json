@@ -1,0 +1,117 @@
+{
+  "batch_id": "JPG-T3-C010",
+  "source_id": "T3",
+  "status": "pass",
+  "review_date": "2026-09-06",
+  "reviewer_model": "GPT-5",
+  "source_revision": {
+    "repository_commit": "8591fe20d95d4e10679c5372705fc546b2fdf471",
+    "source_pdf_sha256": "1d9f0124a0c8ef759526decc90a1a410f694e2b7fa992b430fc413e783df85bc",
+    "source_image_inventory_sha256": "8e0709aa6cd2d086d9df18627ae7eb466c20cdb59474bbef26038f03d9d40b24",
+    "catalog_image_inventory_sha256": "af94a7c1f91d1eb56611afc242360566950d6f93d5a6ac7d5271c5e8d3f9d170",
+    "batch_boundary_review_id": "JPG-T3-INV-BND-JPG-T3-C010"
+  },
+  "source_images": [
+    {"page":"T3:179","printed_page":null,"image":"pages/T3/page-179.jpg","sha256":"660e64852a253390d2d5464ae7790c708d4db32e504158aa8035a1acf3a260c1"},
+    {"page":"T3:180","printed_page":"㊱－1","image":"pages/T3/page-180.jpg","sha256":"abc9f6be1a99031eaa65c37cd619a94b805d05b622658a057c7d2426a046bf1c"},
+    {"page":"T3:181","printed_page":"㊱－2","image":"pages/T3/page-181.jpg","sha256":"601cbf9f25f453d7948e306b5135d05d0f4805f07545264bcd289a5dc723eb57"},
+    {"page":"T3:182","printed_page":"㊱－3","image":"pages/T3/page-182.jpg","sha256":"b03dc722a84ddd83e9366501fb1f043ddb70b367c746b85e94f931d2d207f0d7"},
+    {"page":"T3:183","printed_page":"㊱－4","image":"pages/T3/page-183.jpg","sha256":"6d488862d601026dbb8c6832a9e8449b72d58a3f9c2b024fa9cd6bebcf5870f1"},
+    {"page":"T3:184","printed_page":"㊱－5","image":"pages/T3/page-184.jpg","sha256":"9d07675812aa61fb2e5ffbe909e18164836c837dbb1ab4e3f3064770d08f242d"},
+    {"page":"T3:185","printed_page":"㊱－6","image":"pages/T3/page-185.jpg","sha256":"87bdd2c8c1f9ee7ae5d755759a7421b3801d291acc3550a34d6c01be548505aa"},
+    {"page":"T3:186","printed_page":"㊱－7","image":"pages/T3/page-186.jpg","sha256":"775e42b2214d590a637b61944738168a3cc81fe50b8b85bebae2da4fc9bc7e4f"},
+    {"page":"T3:187","printed_page":"㊱－8","image":"pages/T3/page-187.jpg","sha256":"644b082b8cff9d62615e1badd93aedf6154b00ae20dc55304c3cf5295f3ac076"},
+    {"page":"T3:188","printed_page":"㊱－9","image":"pages/T3/page-188.jpg","sha256":"168647cf7375a39b457f0a9f3696c99cf851940be6d498c11c806a72590af19d"},
+    {"page":"T3:189","printed_page":"㊱－10","image":"pages/T3/page-189.jpg","sha256":"196f84563ea0fdab1b84554d406d4031bbad48296e9eb09a13a1c0a07006a5dc"},
+    {"page":"T3:190","printed_page":"㊱－11","image":"pages/T3/page-190.jpg","sha256":"00fb28aef484b505b4ad9ddec911fac9a23dd568850605f25812593d788116ca"},
+    {"page":"T3:191","printed_page":"㊱－12","image":"pages/T3/page-191.jpg","sha256":"dded8dbffb96f95568e8e7ef0fab3f35398d694809733d990d643fe0adb6f331"},
+    {"page":"T3:192","printed_page":"㊱－13","image":"pages/T3/page-192.jpg","sha256":"2a26625c06a750548f673ad7f29ae544c914116ad2ebdafdee7c524b06d0e2eb"},
+    {"page":"T3:193","printed_page":"㊱－14","image":"pages/T3/page-193.jpg","sha256":"da1bbfd0c784b2ffd05231f5fd903409c4c090c2dd37274a17d90eac08496e59"},
+    {"page":"T3:194","printed_page":"㊱－15","image":"pages/T3/page-194.jpg","sha256":"3a12475ec4fd83ef1a5fa0c5b5f4b48e2daa13bf9a08f0ce5d8163b2e9bf5e55"},
+    {"page":"T3:195","printed_page":"㊱－16","image":"pages/T3/page-195.jpg","sha256":"c3355cbfd7f356d17d625e976553965db9ed8d837175ef9554d1f8dab49b1d62"},
+    {"page":"T3:196","printed_page":"㊱－17","image":"pages/T3/page-196.jpg","sha256":"36ac37cdc5b05d80c5d28c661a4fa609f728e742dbe5db5fc27a72b88e3c4c5f"},
+    {"page":"T3:197","printed_page":"㊱－18","image":"pages/T3/page-197.jpg","sha256":"d093a8300d98f05fa7ead089a317b7af3f0f162c98315d3425e8c647a9c5d0eb"},
+    {"page":"T3:198","printed_page":"㊱－19","image":"pages/T3/page-198.jpg","sha256":"2bd4e88bdc5755fa097726ede97ec754f1fe2e5a9d7c8e0e789251eb724a6ca3"},
+    {"page":"T3:199","printed_page":"㊱－20","image":"pages/T3/page-199.jpg","sha256":"2f8d3c966642b9d3867614ec69f6fe1da0c4e8ca9fc11178991981c6078a9da9"},
+    {"page":"T3:200","printed_page":"㊱－21","image":"pages/T3/page-200.jpg","sha256":"9ef10f21e8d81663aa502abf2bedead8bf36818ab2299994702d7498995e45f6"},
+    {"page":"T3:201","printed_page":"㊱－22","image":"pages/T3/page-201.jpg","sha256":"0b7107103e65480f2608e2ea8993d9e14e3b170535458fc57739a2d087d1c383"},
+    {"page":"T3:202","printed_page":"㊱－23","image":"pages/T3/page-202.jpg","sha256":"464184c9305ed0a3a91bac626c21cdad7d71f7813076b3b7c7775fd2f63c68f1"}
+  ],
+  "section_outputs": [
+    {"task":"JPG-T3-C010-S01","chunk":"project/T3/chunks/JPG-T3-C010/JPG-T3-C010-S01.md","chunk_sha256":"eb8659159b49fa158883dcf154aa26598750d1b6ff90551a953ba856290de95c"},
+    {"task":"JPG-T3-C010-S02","chunk":"project/T3/chunks/JPG-T3-C010/JPG-T3-C010-S02.md","chunk_sha256":"ade4aa28ce93abe84ce2366dee5b1b3aaef802fc421f833c23e004dca97dab0b"},
+    {"task":"JPG-T3-C010-S03","chunk":"project/T3/chunks/JPG-T3-C010/JPG-T3-C010-S03.md","chunk_sha256":"596263cef54262a38b0a1108f64640ea8a8e8fc62fa02837c8d87f43ea68dccb"},
+    {"task":"JPG-T3-C010-S04","chunk":"project/T3/chunks/JPG-T3-C010/JPG-T3-C010-S04.md","chunk_sha256":"57124e90bf1a0cfc2575326a5d8d4240d555e21a0c40fbc76f82d21b24f8840a"},
+    {"task":"JPG-T3-C010-S05","chunk":"project/T3/chunks/JPG-T3-C010/JPG-T3-C010-S05.md","chunk_sha256":"f6732e311e771e38f1c4b048bef5ee25293de00b6755726b85c25f20c26a11e2"},
+    {"task":"JPG-T3-C010-S06","chunk":"project/T3/chunks/JPG-T3-C010/JPG-T3-C010-S06.md","chunk_sha256":"556a15cea6686c4002f359836cbb2632315014aa1570d14feff585e41256b888"}
+  ],
+  "coverage": [
+    {"page":"T3:179","status":"pass","regions":["chapter title, source-book cross-reference, both examination-history tables, margins and footer area"]},
+    {"page":"T3:180","status":"pass","regions":["section 1 definition and principle, reason for application, investment/balance-sheet and profit/loss table, no-consolidated-statements supplement, related-company/non-consolidated-subsidiary diagrams, margins and footer"]},
+    {"page":"T3:181","status":"pass","regions":["section 2 introduction, non-consolidated-subsidiary cross-reference, related-company basic view, former holding criterion/current influence criterion table and explanation"]},
+    {"page":"T3:182","status":"pass","regions":["concrete related-company definition, 20% rule, 15%-20% conditions, five influence indicators, close/agreed voter rule"]},
+    {"page":"T3:183","status":"pass","regions":["remaining concrete判定 text, clear-no-influence and rehabilitation/bankruptcy exclusions, full decision flow and all numbered branches"]},
+    {"page":"T3:184","status":"pass","regions":["decision-flow continuation, three equity-method scope rules, exclusion and materiality limits, non-consolidated-subsidiary reason table"]},
+    {"page":"T3:185","status":"pass","regions":["scope summary diagram, specific scope rule, A/B/C/D/E/F structure, 20/30% calculation, unrealized-profit boundary notes and footer"]},
+    {"page":"T3:186","status":"pass","regions":["section 3 feature table, complete-consolidation versus one-line-consolidation explanation, four-row difference table"]},
+    {"page":"T3:187","status":"pass","regions":["additional-acquisition and partial-sale diagrams, transaction classification, goodwill/sale-profit conclusions, non-consolidated-subsidiary treatment"]},
+    {"page":"T3:188","status":"pass","regions":["section 4 application rule, substantive-equivalence explanation, accounting-policy-unification rule and first direction diagram"]},
+    {"page":"T3:189","status":"pass","regions":["two policy-unification cases, no-reverse-alignment note, latest-financial-statements rule, repair/disclosure table, date timeline, bankruptcy and fire cases"]},
+    {"page":"T3:190","status":"pass","regions":["section 5 asset/liability valuation rule, related/non-consolidated table, partial/full definitions and simplicity-method condition"]},
+    {"page":"T3:191","status":"pass","regions":["partial-method and full-method comparison tables, X1/X2/X3 dates, 10/15/5 and 10/50/5 ratios, land values, valuation formulas and rationale"]},
+    {"page":"T3:192","status":"pass","regions":["investment-capital difference and goodwill/negative-goodwill table, investment-profit calculation, all three journal-entry directions"]},
+    {"page":"T3:193","status":"pass","regions":["profit/loss presentation sections, operating-income/expense classification, netting exception, A-D example with 220/△60"]},
+    {"page":"T3:194","status":"pass","regions":["A-company case, 30%, 43,000/100,000/35,000/44,000 amounts, goodwill 2,500, 2,700 profit entry and 250 amortization entry"]},
+    {"page":"T3:195","status":"pass","regions":["unrealized-profit elimination rule, downstream/upstream table, 1,000 cost/1,500 sale, S and A diagrams, full/partial elimination and seller-side exception"]},
+    {"page":"T3:196","status":"pass","regions":["downstream rationale, parent/non-consolidated-subsidiary diagram, 500/300 entries, account-selection table and both entries"]},
+    {"page":"T3:197","status":"pass","regions":["dividend reduction rule and entry, materiality principle, staged-investment related-company supplement, margins and footer"]},
+    {"page":"T3:198","status":"pass","regions":["section 6 cost/equity comparison table, three cost-method problems, same-year/delayed-year diagram and timing explanation"]},
+    {"page":"T3:199","status":"pass","regions":["dividend-policy profit-manipulation diagram, capital-deficit burden table including contractual, loan, guarantee and full-burden cases"]},
+    {"page":"T3:200","status":"pass","regions":["deficit accounting and presentation bullets, zero investment/loan/liability sequence, cessation of related status, four migration rules"]},
+    {"page":"T3:201","status":"pass","regions":["S-company migration case, X3/X4 data, 13,000×30%=3,900, goodwill 2,000/200, valuation and elimination entries, 105,700/107,200/1,500/4,800/25,600 calculations"]},
+    {"page":"T3:202","status":"pass","regions":["additional acquisition, partial sale and market-issue increase table, other comprehensive-income exclusion, two disclosure requirements, margins and footer"]}
+  ],
+  "page_fidelity_matrix": [
+    {"pages":["T3:179","T3:180"],"sections":["chapter overview","持分法とは"],"result":"pass"},
+    {"pages":["T3:181","T3:182","T3:183","T3:184","T3:185"],"sections":["持分法の適用範囲","related-company 判定 flow","持分法適用範囲 and A-F example"],"result":"pass"},
+    {"pages":["T3:186","T3:187"],"sections":["連結会計と持分法会計","four difference rows","additional/partial transactions"],"result":"pass"},
+    {"pages":["T3:188","T3:189"],"sections":["持分法の適用","accounting-policy unification","latest financial statements and subsequent events"],"result":"pass"},
+    {"pages":["T3:190","T3:191","T3:192","T3:193","T3:194","T3:195","T3:196","T3:197"],"sections":["valuation","goodwill and investment profit","unrealized profit","dividends","materiality"],"result":"pass"},
+    {"pages":["T3:198","T3:199","T3:200","T3:201","T3:202"],"sections":["cost/equity comparison","capital deficit","cessation","equity-to-consolidation","additional/partial transactions","disclosures"],"result":"pass"}
+  ],
+  "numerical_checks": [
+    {"pages":["T3:185"],"check":"A-company profit preserves 200 own profit plus B-company 100×20%=20, yielding 220; parent/investor 30% yields 66.","result":"pass"},
+    {"pages":["T3:191"],"check":"Partial/full valuation preserves land cost 1,000, land values 1,200/1,500/2,000, partial 10%/15%/5%, full 10%/50%/5% and the stated formulas.","result":"pass"},
+    {"pages":["T3:194"],"check":"A-company case preserves goodwill 43,000−(100,000+35,000)×30%=2,500, investor profit 2,700 and goodwill amortization 250.","result":"pass"},
+    {"pages":["T3:195","T3:196"],"check":"Unrealized-profit examples preserve cost 1,000, sale 1,500, profit 500, related-company 20% elimination 100, non-consolidated-subsidiary full elimination 500 and upstream parent share 300.","result":"pass"},
+    {"pages":["T3:201"],"check":"Migration example preserves 13,000×30%=3,900, goodwill 2,000 and amortization 200, equity-method value 105,700, control-date value 107,200, step-acquisition gain 1,500, goodwill 4,800 and NCI 25,600.","result":"pass"}
+  ],
+  "diagram_checks": [
+    {"pages":["T3:180","T3:185"],"check":"Related-company/non-consolidated-subsidiary scope diagrams retain actors, ownership percentages, inclusion/exclusion and profit-flow meaning.","result":"pass"},
+    {"pages":["T3:183","T3:184","T3:185"],"check":"Related-company decision tree retains all numbered tests, YES/NO boundaries, exceptions and final scope decision.","result":"pass"},
+    {"pages":["T3:187","T3:188","T3:189"],"check":"Additional/partial transaction and accounting-policy-unification diagrams retain ownership changes, alignment direction and accounting consequence.","result":"pass"},
+    {"pages":["T3:191","T3:195","T3:196"],"check":"Valuation, downstream/upstream elimination and account-direction diagrams retain dates, actors, amounts, arrows and full/partial boundaries.","result":"pass"},
+    {"pages":["T3:198","T3:199","T3:201"],"check":"Cost-method timing, dividend-policy incentive, capital-deficit responsibility and equity-to-consolidation flow retain timing and accounting consequences.","result":"pass"}
+  ],
+  "false_proposition_checks": {"status":"not_applicable","result":"This theory batch contains no question-and-answer false-proposition set; negative scope, exclusion and treatment boundaries remain explicitly qualified."},
+  "findings": [
+    "All 24 included processing images were reopened at readable resolution and compared with the six section chunks, including margins, sidebars, footers, tables, examples, numerical values, journal entries and diagram-only meaning.",
+    "The six chunks preserve chapter and section hierarchy, Japanese source titles, separate physical and printed locators, tables/formulas and no bold, Cloze, Front/Back, integration or card output.",
+    "The frozen batch begins with the chapter-36 overview on physical page 179 and ends with the disclosure requirements on physical page 202; no section, example, diagram or condition is stranded at a batch boundary.",
+    "The dense related-company decision tree, valuation comparisons, unrealized-profit flows and equity-to-consolidation example were represented as explicit prose, tables, formulas and accounting entries without relying on raw media for comprehension.",
+    "The designated T3 JPGs remained the content authority. The PDF was used only as a bounded transcription aid and identity/planning cross-check; no web, other textbook, general knowledge or OCR output was used as learner-text authority."
+  ],
+  "corrections": [
+    "Normalized source spacing and represented diagram labels as structured prose and tables while preserving source conditions, timing, labels, amounts, percentages and journal-entry relationships.",
+    "Retained the source distinctions between related and non-consolidated subsidiaries, partial and full fair-value methods, downstream and upstream elimination, cost and equity methods, and equity-to-consolidation migration.",
+    "No unresolved marker, out-of-scope page or unlabelled false statement remains."
+  ],
+  "checks": {"numerical":"pass","diagram":"pass","false_proposition":"not_applicable"},
+  "unresolved_count": 0,
+  "semantic_boundary": "Automatic checks validate schema, scope, ordering and hashes; semantic completeness is supported by the recorded page-by-page image review.",
+  "dependency_commits": [
+    "a2fb2bb829d112522128cdb145523302e9d1e7fd",
+    "cccf7c381768b18116d49e4847dac5df2b01506c",
+    "0034627e759ba83225ae91dbc5cba1c1825ba3a6"
+  ]
+}

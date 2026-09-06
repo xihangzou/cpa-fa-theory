@@ -1,0 +1,116 @@
+{
+  "batch_id": "JPG-T3-C010",
+  "source_id": "T3",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-T3-C010-S01",
+      "batch_id": "JPG-T3-C010",
+      "chapter": "36",
+      "section": "36.1",
+      "title": "第1節 持分法とは",
+      "expected_pages": ["T3:179", "T3:180"],
+      "processing_pages": ["T3:179", "T3:180"],
+      "output": "chunks/JPG-T3-C010/JPG-T3-C010-S01.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T3:179", "printed_page": null, "source_region": "第36章タイトル、短答式・論文式本試験の出題実績表", "destination_heading": "## 第1節 持分法とは"},
+        {"page": "T3:180", "printed_page": "㊱－1", "source_region": "第1節、1.持分法とは、2.持分法を適用する理由、連結財務諸表が作成されない場合の補足と図表", "destination_heading": "## 第1節 持分法とは"}
+      ],
+      "chunk_sha256": "eb8659159b49fa158883dcf154aa26598750d1b6ff90551a953ba856290de95c"
+    },
+    {
+      "id": "JPG-T3-C010-S02",
+      "batch_id": "JPG-T3-C010",
+      "chapter": "36",
+      "section": "36.2",
+      "title": "第2節 持分法の適用範囲",
+      "expected_pages": ["T3:181", "T3:182", "T3:183", "T3:184", "T3:185"],
+      "processing_pages": ["T3:181", "T3:182", "T3:183", "T3:184", "T3:185"],
+      "output": "chunks/JPG-T3-C010/JPG-T3-C010-S02.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T3:181", "printed_page": "㊱－2", "source_region": "第2節、1.非連結子会社となる会社、2.(1)関連会社の判定に関する基本的な考え方", "destination_heading": "## 第2節 持分法の適用範囲"},
+        {"page": "T3:182", "printed_page": "㊱－3", "source_region": "2.(2)具体的な関連会社の判定、関連会社の定義と議決権所有要件", "destination_heading": "## 第2節 持分法の適用範囲"},
+        {"page": "T3:183", "printed_page": "㊱－4", "source_region": "具体的な関連会社の判定、15%以上20%未満の追加要件、緊密者・同意者の議決権、関連会社判定フロー", "destination_heading": "## 第2節 持分法の適用範囲"},
+        {"page": "T3:184", "printed_page": "㊱－5", "source_region": "関連会社判定フロー、3.持分法適用の範囲、持分法除外規定と重要性", "destination_heading": "## 第2節 持分法の適用範囲"},
+        {"page": "T3:185", "printed_page": "㊱－6", "source_region": "4.関連会社の判定及び持分法適用の範囲のまとめ、持分法の具体的な適用範囲とA〜Fの図表", "destination_heading": "## 第2節 持分法の適用範囲"}
+      ],
+      "chunk_sha256": "ade4aa28ce93abe84ce2366dee5b1b3aaef802fc421f833c23e004dca97dab0b"
+    },
+    {
+      "id": "JPG-T3-C010-S03",
+      "batch_id": "JPG-T3-C010",
+      "chapter": "36",
+      "section": "36.3",
+      "title": "第3節 連結会計と持分法会計",
+      "expected_pages": ["T3:186", "T3:187"],
+      "processing_pages": ["T3:186", "T3:187"],
+      "output": "chunks/JPG-T3-C010/JPG-T3-C010-S03.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T3:186", "printed_page": "㊱－7", "source_region": "第3節、1.連結会計と持分法会計の特徴、2.具体的な相違点の比較表", "destination_heading": "## 第3節 連結会計と持分法会計"},
+        {"page": "T3:187", "printed_page": "㊱－8", "source_region": "追加取得・一部売却の取引イメージ、3.持分法適用非連結子会社の会計処理", "destination_heading": "## 第3節 連結会計と持分法会計"}
+      ],
+      "chunk_sha256": "596263cef54262a38b0a1108f64640ea8a8e8fc62fa02837c8d87f43ea68dccb"
+    },
+    {
+      "id": "JPG-T3-C010-S04",
+      "batch_id": "JPG-T3-C010",
+      "chapter": "36",
+      "section": "36.4",
+      "title": "第4節 持分法の適用に当たって",
+      "expected_pages": ["T3:188", "T3:189"],
+      "processing_pages": ["T3:188", "T3:189"],
+      "output": "chunks/JPG-T3-C010/JPG-T3-C010-S04.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T3:188", "printed_page": "㊱－9", "source_region": "第4節、1.持分法の適用、2.会計方針の統一と統一方向の図", "destination_heading": "## 第4節 持分法の適用に当たって"},
+        {"page": "T3:189", "printed_page": "㊱－10", "source_region": "会計方針統一の二つのケース、3.使用する財務諸表、決算日差異と修正・注記のケース", "destination_heading": "## 第4節 持分法の適用に当たって"}
+      ],
+      "chunk_sha256": "57124e90bf1a0cfc2575326a5d8d4240d555e21a0c40fbc76f82d21b24f8840a"
+    },
+    {
+      "id": "JPG-T3-C010-S05",
+      "batch_id": "JPG-T3-C010",
+      "chapter": "36",
+      "section": "36.5",
+      "title": "第5節 持分法の具体的な会計処理",
+      "expected_pages": ["T3:190", "T3:191", "T3:192", "T3:193", "T3:194", "T3:195", "T3:196", "T3:197"],
+      "processing_pages": ["T3:190", "T3:191", "T3:192", "T3:193", "T3:194", "T3:195", "T3:196", "T3:197"],
+      "output": "chunks/JPG-T3-C010/JPG-T3-C010-S05.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T3:190", "printed_page": "㊱－11", "source_region": "第5節、1.(1)資産・負債の時価評価方法、関連会社と非連結子会社、三つの評価方法", "destination_heading": "## 第5節 持分法の具体的な会計処理"},
+        {"page": "T3:191", "printed_page": "㊱－12", "source_region": "それぞれの方法の比較、部分時価評価法・全面時価評価法の取得割合・土地時価・評価表、評価方法の理由", "destination_heading": "## 第5節 持分法の具体的な会計処理"},
+        {"page": "T3:192", "printed_page": "㊱－13", "source_region": "2.投資と資本の差額及び償却、3.(1)投資損益の計算、3.(2)のれん償却と仕訳", "destination_heading": "## 第5節 持分法の具体的な会計処理"},
+        {"page": "T3:193", "printed_page": "㊱－14", "source_region": "3.(3)持分法による投資損益の表示、営業外損益区分、原則表示と相殺表示の例", "destination_heading": "## 第5節 持分法の具体的な会計処理"},
+        {"page": "T3:194", "printed_page": "㊱－15", "source_region": "持分法の会計処理の設例、A社取得状況、のれん2,500、利益按分仕訳2,700、償却仕訳250", "destination_heading": "## 第5節 持分法の具体的な会計処理"},
+        {"page": "T3:195", "printed_page": "㊱－16", "source_region": "4.(1)未実現損益の消去方法、ダウンストリーム・アップストリーム表、1,000原価・1,500売価の図", "destination_heading": "## 第5節 持分法の具体的な会計処理"},
+        {"page": "T3:196", "printed_page": "㊱－17", "source_region": "未実現損益消去の理由、親会社・非連結子会社の図、4.(3)勘定科目、ダウンストリーム・アップストリーム仕訳", "destination_heading": "## 第5節 持分法の具体的な会計処理"},
+        {"page": "T3:197", "printed_page": "㊱－18", "source_region": "5.受取配当金の処理、6.重要性の原則、持分法適用関連会社に関する規定", "destination_heading": "## 第5節 持分法の具体的な会計処理"}
+      ],
+      "chunk_sha256": "f6732e311e771e38f1c4b048bef5ee25293de00b6755726b85c25f20c26a11e2"
+    },
+    {
+      "id": "JPG-T3-C010-S06",
+      "batch_id": "JPG-T3-C010",
+      "chapter": "36",
+      "section": "36.6",
+      "title": "第6節 持分法会計におけるその他の論点",
+      "expected_pages": ["T3:198", "T3:199", "T3:200", "T3:201", "T3:202"],
+      "processing_pages": ["T3:198", "T3:199", "T3:200", "T3:201", "T3:202"],
+      "output": "chunks/JPG-T3-C010/JPG-T3-C010-S06.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T3:198", "printed_page": "㊱－19", "source_region": "第6節、1.(1)原価法と持分法の比較、1.(2)原価法の問題点、同一年度認識図", "destination_heading": "## 第6節 持分法会計におけるその他の論点"},
+        {"page": "T3:199", "printed_page": "㊱－20", "source_region": "原価法による利益操作の図、2.(1)資本の欠損を負担する範囲の表", "destination_heading": "## 第6節 持分法会計におけるその他の論点"},
+        {"page": "T3:200", "printed_page": "㊱－21", "source_region": "2.(2)負担した債務超過額の会計処理と表示、3.関連会社等に該当しなくなった場合、4.持分法から連結への移行", "destination_heading": "## 第6節 持分法会計におけるその他の論点"},
+        {"page": "T3:201", "printed_page": "㊱－22", "source_region": "持分法から連結への移行の設例、X3・X4取得、時価評価、再評価、相殺消去の仕訳と計算", "destination_heading": "## 第6節 持分法会計におけるその他の論点"},
+        {"page": "T3:202", "printed_page": "㊱－23", "source_region": "5.追加取得・一部売却等、時価発行増資等、6.注記事項", "destination_heading": "## 第6節 持分法会計におけるその他の論点"}
+      ],
+      "chunk_sha256": "556a15cea6686c4002f359836cbb2632315014aa1570d14feff585e41256b888"
+    }
+  ],
+  "review": "reviews/JPG-T3-C010.json"
+}
