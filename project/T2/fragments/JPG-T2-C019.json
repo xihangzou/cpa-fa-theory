@@ -1,0 +1,71 @@
+{
+  "batch_id": "JPG-T2-C019",
+  "source_id": "T2",
+  "status": "pass",
+  "review": "reviews/JPG-T2-C019.json",
+  "tasks": [
+    {
+      "id": "JPG-T2-C019-S01",
+      "batch_id": "JPG-T2-C019",
+      "chapter": "30",
+      "section": "30.1",
+      "title": "第1節 リース取引の概要と判定",
+      "expected_pages": ["T2:347", "T2:348", "T2:349", "T2:350", "T2:351", "T2:352", "T2:353"],
+      "processing_pages": ["T2:347", "T2:348", "T2:349", "T2:350", "T2:351", "T2:352", "T2:353"],
+      "output": "chunks/JPG-T2-C019/JPG-T2-C019-S01.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T2:347", "printed_page": null, "source_region": "chapter title, importance stars, related calculation text and short-answer/essay exam-history tables", "destination_heading": "## 第1節 リース取引の概要と判定"},
+        {"page": "T2:348", "printed_page": "㉚-1", "source_region": "section opener; 1.リース取引の概要 definition and lessor/lessee/manufacturer relationship diagram; 2.リース取引の分類 table", "destination_heading": "## 第1節 リース取引の概要と判定"},
+        {"page": "T2:349", "printed_page": "㉚-2", "source_region": "finance-lease non-cancellable and full-pay-out definitions; non-cancellable examples and timeline", "destination_heading": "## 第1節 リース取引の概要と判定"},
+        {"page": "T2:350", "printed_page": "㉚-3", "source_region": "3.ファイナンス・リース取引の分類; 4.具体的な判定基準; current-value and economic-useful-life criteria", "destination_heading": "## 第1節 リース取引の概要と判定"},
+        {"page": "T2:351", "printed_page": "㉚-4", "source_region": "current-value/economic-useful-life caution; maintenance-cost deduction and 2,451 example; discount-rate table", "destination_heading": "## 第1節 リース取引の概要と判定"},
+        {"page": "T2:352", "printed_page": "㉚-5", "source_region": "criteria summary; 5.所有権が移転するか否かの判定 table and bargain-purchase-option diagram", "destination_heading": "## 第1節 リース取引の概要と判定"},
+        {"page": "T2:353", "printed_page": "㉚-6", "source_region": "bargain-purchase-option 2,810 example; real-estate exception; complete classification flow", "destination_heading": "## 第1節 リース取引の概要と判定"}
+      ],
+      "chunk_sha256": "d3d7f0b96fbea92cb4149d87ce5a0769fc2c3e63a41780a6522d5e41586928f2"
+    },
+    {
+      "id": "JPG-T2-C019-S02",
+      "batch_id": "JPG-T2-C019",
+      "chapter": "30",
+      "section": "30.2",
+      "title": "第2節 ファイナンス・リース取引の借手の会計処理の概要等",
+      "expected_pages": ["T2:354", "T2:355", "T2:356", "T2:357", "T2:358"],
+      "processing_pages": ["T2:354", "T2:355", "T2:356", "T2:357", "T2:358"],
+      "output": "chunks/JPG-T2-C019/JPG-T2-C019-S02.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T2:354", "printed_page": "㉚-7", "source_region": "section opener; 1.(1) sale-treatment rule; (2) substance-over-form and liability-recognition reasons", "destination_heading": "## 第2節 ファイナンス・リース取引の借手の会計処理の概要等"},
+        {"page": "T2:355", "printed_page": "㉚-8", "source_region": "installment-purchase and borrowing-purchase similarity diagrams and accounting conclusions", "destination_heading": "## 第2節 ファイナンス・リース取引の借手の会計処理の概要等"},
+        {"page": "T2:356", "printed_page": "㉚-9", "source_region": "ordinary sale comparison; exception treatment; three materiality cases; lessee/lessor summary", "destination_heading": "## 第2節 ファイナンス・リース取引の借手の会計処理の概要等"},
+        {"page": "T2:357", "printed_page": "㉚-10", "source_region": "old-standard problem awareness; two disclosure/exception concerns; principle-versus-exception diagrams", "destination_heading": "## 第2節 ファイナンス・リース取引の借手の会計処理の概要等"},
+        {"page": "T2:358", "printed_page": "㉚-11", "source_region": "2. ownership-transfer versus ownership-transfer-outside features and cost/return distinctions", "destination_heading": "## 第2節 ファイナンス・リース取引の借手の会計処理の概要等"}
+      ],
+      "chunk_sha256": "c2afa36e8a9bb81db29c25d431cc3737602b579cb7f3cc8e82ee200a44f6d3aa"
+    },
+    {
+      "id": "JPG-T2-C019-S03",
+      "batch_id": "JPG-T2-C019",
+      "chapter": "30",
+      "section": "30.3",
+      "title": "第3節 ファイナンス・リース取引の借手の具体的な会計処理",
+      "expected_pages": ["T2:359", "T2:360", "T2:361", "T2:362", "T2:363", "T2:364", "T2:365", "T2:366", "T2:367"],
+      "processing_pages": ["T2:359", "T2:360", "T2:361", "T2:362", "T2:363", "T2:364", "T2:365", "T2:366", "T2:367"],
+      "output": "chunks/JPG-T2-C019/JPG-T2-C019-S03.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T2:359", "printed_page": "㉚-12", "source_region": "section opener; 1.開始日の処理; 2.(1)リース料総額の内訳 diagram; (2)利息相当額の控除", "destination_heading": "## 第3節 ファイナンス・リース取引の借手の具体的な会計処理"},
+        {"page": "T2:360", "printed_page": "㉚-13", "source_region": "2.(3)利息法; payment allocation and interest-rate table; (4)重要性が乏しい場合の例外法 and 10% formula", "destination_heading": "## 第3節 ファイナンス・リース取引の借手の具体的な会計処理"},
+        {"page": "T2:361", "printed_page": "㉚-14", "source_region": "5-year/10,000/7% comparison example; principal, interest and depreciation amounts; method summary", "destination_heading": "## 第3節 ファイナンス・リース取引の借手の具体的な会計処理"},
+        {"page": "T2:362", "printed_page": "㉚-15", "source_region": "3.計上額 table; liability-versus-asset valuation views; current-system conclusion", "destination_heading": "## 第3節 ファイナンス・リース取引の借手の具体的な会計処理"},
+        {"page": "T2:363", "printed_page": "㉚-16", "source_region": "4.減価償却 ownership-transfer comparison; useful-life/residual-value exceptions", "destination_heading": "## 第3節 ファイナンス・リース取引の借手の具体的な会計処理"},
+        {"page": "T2:364", "printed_page": "㉚-17", "source_region": "5.残価保証 definition, 5,000/1,000 example, current-value treatment and diagram", "destination_heading": "## 第3節 ファイナンス・リース取引の借手の具体的な会計処理"},
+        {"page": "T2:365", "printed_page": "㉚-18", "source_region": "6.(1)中途解約 journal entries; (2) ownership-transfer/end-of-term treatment table", "destination_heading": "## 第3節 ファイナンス・リース取引の借手の具体的な会計処理"},
+        {"page": "T2:366", "printed_page": "㉚-19", "source_region": "7.(1) balance-sheet presentation; vehicle/software 1,000/300/700/100 example; current/non-current classification", "destination_heading": "## 第3節 ファイナンス・リース取引の借手の具体的な会計処理"},
+        {"page": "T2:367", "printed_page": "㉚-20", "source_region": "7.(2) notes, note example, and not-required account-by-account amounts", "destination_heading": "## 第3節 ファイナンス・リース取引の借手の具体的な会計処理"}
+      ],
+      "chunk_sha256": "ed3ccdeda4bef47b6ca046a60844c1bd626b3012ba28428cb1795d9f3715e1d2"
+    }
+  ]
+}
