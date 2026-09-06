@@ -1,0 +1,197 @@
+{
+  "issue": 19,
+  "issue_id": "JPG-W2-PILOT-QA",
+  "plan_id": "cpa-fa-theory-jpg-md-20260905",
+  "status": "pass",
+  "reviewed_on": "2026-09-06",
+  "reviewer_model": "GPT-5 (current execution model; no model switch)",
+  "delivery_branch": "main",
+  "repository_revision_reviewed": "0034627e759ba83225ae91dbc5cba1c1825ba3a6",
+  "source_revision": {
+    "source_id": "W2",
+    "edition": "2024/2025年合格目標",
+    "publication_date": "2023-01-23",
+    "physical_scope": "W2:004-W2:021",
+    "processing_scope": "W2:004-W2:021",
+    "content_authority": "designated existing JPGs only; PDF used only for identity/planning support",
+    "image_folder": "/Users/xihangzou/Study/320_CPA/322_財務理論/images/cpa-fa-theory-short-answer-workbook-2-jpg",
+    "source_pdf": "/Users/xihangzou/Study/320_CPA/322_財務理論/02_問題集/財務会計論短答対策問題集　理論2.pdf",
+    "source_pdf_sha256": "4344d7dc71d2193679eb9c7a0cd6a911fe3d8d2b89b4336ce51d7fca5a17245a",
+    "source_image_inventory_sha256": "b4869e8e314f3daef7ab13daf05fea4b4b4b7f335b2855f218f3baae1c59b7b4",
+    "source_catalog": "contracts/source-catalog.json",
+    "source_catalog_sha256": "8358e9cffb068f63df0bdfcc8f99be035e66454ac8710d381f0ff9eb87728079",
+    "page_plan": "contracts/page-plan.json",
+    "page_plan_sha256": "997a7280b171df5803c2a3bb7c2ee8764082e01f3bdb03c194b9129fe18d26c9",
+    "source_manifest": "project/W2/sources.json",
+    "source_manifest_sha256": "85d02fa6fd47f8e9722addfe2880b3984114d8a7f443b29a3deee4d67d64458d",
+    "source_map": "project/W2/source-map.json",
+    "source_map_sha256": "09b1110117e1b0cb717866ece77048fe39ca7f517d06281e6604c2b146729442",
+    "batch_manifest": "project/W2/batches.json",
+    "batch_manifest_sha256": "cbcdbf3bed4e8ffec62ef5f1fc062548c848fa5a9d8b6c7ed2341d7695a9da26",
+    "inventory_review": "project/W2/inventory-review.json",
+    "inventory_review_sha256": "9c7d8d5e0ddda4d7ad3cca1a1f83c7f86366d6906a3801720954ee94f254558d"
+  },
+  "dependencies": [
+    {
+      "issue": 1,
+      "artifact": "JPG-000 helper and batch-aware validation",
+      "commit": "a2fb2bb829d112522128cdb145523302e9d1e7fd",
+      "ancestor_of_review_revision": true
+    },
+    {
+      "issue": 6,
+      "artifact": "W2 source inventory, source map and batch ledger",
+      "commit": "15f290a42d77b6bd9e02b1a019801683fc4a4af5",
+      "ancestor_of_review_revision": true
+    },
+    {
+      "issue": 12,
+      "artifact": "W2 C001 pilot chunks, fragment shard and source review",
+      "commit": "53995e66976f54cf870351e6841c82674ed3bb3a",
+      "ancestor_of_review_revision": true,
+      "expected_outputs": [
+        "project/W2/chunks/JPG-W2-C001/",
+        "project/W2/fragments/JPG-W2-C001.json",
+        "project/W2/reviews/JPG-W2-C001.json"
+      ]
+    }
+  ],
+  "pilot_batch": {
+    "batch_id": "JPG-W2-C001",
+    "chapter": "21",
+    "title": "棚卸資産の評価に関する会計基準",
+    "expected_page_count": 18,
+    "processing_page_count": 18,
+    "excluded_pages": [],
+    "sections": [
+      {
+        "task": "JPG-W2-C001-S01",
+        "section": "21.1",
+        "pages": "W2:004-W2:005",
+        "chunk": "project/W2/chunks/JPG-W2-C001/JPG-W2-C001-S01.md",
+        "chunk_sha256": "4ad4d8a74a30db8db0e109e58aa8fab933f1ecd9d47b5cd63e26421295055a8c"
+      },
+      {
+        "task": "JPG-W2-C001-S02",
+        "section": "21.2",
+        "pages": "W2:004-W2:007",
+        "chunk": "project/W2/chunks/JPG-W2-C001/JPG-W2-C001-S02.md",
+        "chunk_sha256": "5bf9b0fb0227448a40e1c5ac28482a368e9d9d500d4f072d480de865e4684c1a"
+      },
+      {
+        "task": "JPG-W2-C001-S03",
+        "section": "21.3",
+        "pages": "W2:006-W2:009",
+        "chunk": "project/W2/chunks/JPG-W2-C001/JPG-W2-C001-S03.md",
+        "chunk_sha256": "492b53e9783d4052089b4fca11647ed34aebea986ad66c0b6268c7fae8c0a577"
+      },
+      {
+        "task": "JPG-W2-C001-S04",
+        "section": "21.4",
+        "pages": "W2:008-W2:009",
+        "chunk": "project/W2/chunks/JPG-W2-C001/JPG-W2-C001-S04.md",
+        "chunk_sha256": "cdfb9e8280df38d07e3799ecdfbd4029cc75b4fda37a9bf65e20045e0e06125d"
+      },
+      {
+        "task": "JPG-W2-C001-S05",
+        "section": "21.5",
+        "pages": "W2:010-W2:017",
+        "chunk": "project/W2/chunks/JPG-W2-C001/JPG-W2-C001-S05.md",
+        "chunk_sha256": "f4473fd89b8a5b799073a0eb9d52128e74effdd209fd8b7d5f4c8da5d374f289"
+      },
+      {
+        "task": "JPG-W2-C001-S06",
+        "section": "21.6",
+        "pages": "W2:016-W2:019",
+        "chunk": "project/W2/chunks/JPG-W2-C001/JPG-W2-C001-S06.md",
+        "chunk_sha256": "ce57b1b41f23a7fccbed4d8579bf4e917b7cc2f83f2191a682976cb9b72fe7cc"
+      },
+      {
+        "task": "JPG-W2-C001-S07",
+        "section": "21.7",
+        "pages": "W2:018-W2:021",
+        "chunk": "project/W2/chunks/JPG-W2-C001/JPG-W2-C001-S07.md",
+        "chunk_sha256": "156340a0f6990e8b014886905bbeb9394b42831f5f2b8378f851eb7edb9f12c6"
+      }
+    ]
+  },
+  "source_image_hashes": {
+    "W2:004": "bd8af96bd67fa4bad9dd8aa1954b5cc3cfa76298b5ca3a3a4105166052171fd4",
+    "W2:005": "4b95a452181f5bb389e27e9f5b7d0c62d2a61b012d0df902472609f3913b84c6",
+    "W2:006": "83ef6a70c0ac9640511be0bc0554591f0881596249f0a03ff6105e818870d62b",
+    "W2:007": "144e18c7005bc562af0e563d21c5d8f3f54e06679dca25ee687c89417786b6ce",
+    "W2:008": "0a0b0efb775fdd9d494d9b20ce0ed20da54e2c668db84b3a2bb56412420996d2",
+    "W2:009": "13cc15afabc24565aef0b2f498a9a52a997756dfa6c230c75f43061c121a70f0",
+    "W2:010": "412d711f4c04a1e0694d9e52579e55ce427f8af5236dff065e4fca3562f8e0e2",
+    "W2:011": "df01074ecd7fc4340792593009e5ed50dbcfe52a42c39b91fa3301548ef86125",
+    "W2:012": "febef2e47b60183cacacc06e3e88f879b7eca0798dc46d34d309ead499d286e5",
+    "W2:013": "6d5cc1df3dff4430ed4f279bcb219c7a9d8de847074f6e0a2885bdbe8c0c4865",
+    "W2:014": "3fe20aa848ffafb91b5de12d1aaa5d5871158f0b3fff6adb5a77dc89728d112c",
+    "W2:015": "6f0e6fd789b57e1035666aa080419784125d39056202875b68ae5f2a831f84a8",
+    "W2:016": "da1816db2bb49831144b8ee4ce2a6ae3f75127ca6319337dcc1a1fa954a7c649",
+    "W2:017": "3812f738ea6589f869952f1facb4c9cd65054ac9fbd7cde68f23d420350e14a2",
+    "W2:018": "dea6a6a114d1f6a2c636117d284884e925e45e102532828adbaca0352bd80962",
+    "W2:019": "da39b8ecfe2bf023e2c78b176ffbc6b0cefa12187bf758caa1f42a94fabf57e8",
+    "W2:020": "e04cf357a72c45b790034ad65b30d50ac0ab54f8f7dfdd7524011b46f1d80c46",
+    "W2:021": "e0aed3d1da6c13b2d4cf873c78dc37f5f84b2ca88f784ed240cafbbd72c1ea2b"
+  },
+  "page_findings": [
+    {"page":"W2:004","printed_page":"21-1","chunks":["JPG-W2-C001-S01","JPG-W2-C001-S02"],"coverage":"Chapter heading, sections 1 and 2, questions 1-7 and importance/past-question labels.","positive":"The two section boundaries, question statements, definitions and inclusion distinctions are preserved.","negative":"No omitted question, condition, diagram or table-only meaning; margins and footer checked.","result":"pass"},
+    {"page":"W2:005","printed_page":"21-2","chunks":["JPG-W2-C001-S01","JPG-W2-C001-S02"],"coverage":"Answers, verdicts, citations and source explanations where printed for questions 1-7; section 3 boundary.","positive":"Every answer is paired with its question ID and source verdict; printed citations and explanations are retained where present, and bold source emphasis is represented as ordinary Markdown text.","negative":"No unlabelled false proposition or missing source answer text; margins and footer checked.","result":"pass"},
+    {"page":"W2:006","printed_page":"21-3","chunks":["JPG-W2-C001-S02","JPG-W2-C001-S03"],"coverage":"Questions 8-13 and section 3 opening, including importance and H27 label.","positive":"Re-acquisition cost, net selling value, permitted evaluation methods and selection-condition statements are preserved.","negative":"No section-boundary or question-link omission; margins and footer checked.","result":"pass"},
+    {"page":"W2:007","printed_page":"21-4","chunks":["JPG-W2-C001-S02","JPG-W2-C001-S03"],"coverage":"Answers and explanations for questions 8-13, including every 追加でチェック note.","positive":"Purchase-incidental-cost, net-selling-value deduction, LIFO, method-continuity and individual-method distinctions are preserved.","negative":"No missing additional-check note, verdict or source-printed citation; margins and footer checked.","result":"pass"},
+    {"page":"W2:008","printed_page":"21-5","chunks":["JPG-W2-C001-S03","JPG-W2-C001-S04"],"coverage":"Questions 14-19 and section 4 opening.","positive":"Final-purchase-cost conditions, FIFO limitation, purchase discount treatment and inventory-quantity-method distinctions are preserved.","negative":"No omitted question or section transition; no diagram/table-only meaning; margins and footer checked.","result":"pass"},
+    {"page":"W2:009","printed_page":"21-6","chunks":["JPG-W2-C001-S03","JPG-W2-C001-S04"],"coverage":"Answers and explanations for questions 14-19, including continuous-record and physical-count notes.","positive":"All six verdicts, source-printed citations where present, and the additional checks for questions 17-18 are preserved.","negative":"No missing cost/non-cost classification or quantity-calculation condition; margins and footer checked.","result":"pass"},
+    {"page":"W2:010","printed_page":"21-7","chunks":["JPG-W2-C001-S05"],"coverage":"Section 5 opening and questions 20-26, including importance and H20/H26 labels.","positive":"Book-value treatment, net selling value estimation, market-price limits and related transaction conditions are preserved.","negative":"No omitted question statement or source label; no table/diagram-only meaning; margins and footer checked.","result":"pass"},
+    {"page":"W2:011","printed_page":"21-8","chunks":["JPG-W2-C001-S05"],"coverage":"Answers, citations and source explanations where printed for questions 20-26.","positive":"The lower-of-cost treatment, physical/economic deterioration, sales-result evidence and reasonable-value qualifications are preserved.","negative":"No missing verdict, source-printed citation or source answer text; margins and footer checked.","result":"pass"},
+    {"page":"W2:012","printed_page":"21-9","chunks":["JPG-W2-C001-S05"],"coverage":"Questions 27-33 and all importance labels.","positive":"Future-sale versus period-end value, abnormal-price handling, negative values, delayed/disposal inventory and prescribed alternatives are preserved.","negative":"No omitted question or condition; margins and footer checked.","result":"pass"},
+    {"page":"W2:013","printed_page":"21-10","chunks":["JPG-W2-C001-S05"],"coverage":"Answers and source explanations where printed for questions 27-33.","positive":"The period-end value rule, negative-value limit, cutoff/exception treatment and the reasonable-value limitation are preserved.","negative":"No missing additional-check or false-proposition correction; margins and footer checked.","result":"pass"},
+    {"page":"W2:014","printed_page":"21-11","chunks":["JPG-W2-C001-S05"],"coverage":"Questions 34-41, including replacement-cost, multiple-market, grouping and retail-method statements.","positive":"All eight statements and their source importance/past-question labels are preserved.","negative":"No omitted market, grouping or retail-method condition; no diagram/table-only meaning; margins and footer checked.","result":"pass"},
+    {"page":"W2:015","printed_page":"21-12","chunks":["JPG-W2-C001-S05"],"coverage":"Answers and explanations for questions 34-41, including additional checks.","positive":"Replacement-cost continuity, market-route selection, grouping, retail-method write-down and value-rate corrections are preserved.","negative":"No missing source-printed citation or correction of question 41; margins and footer checked.","result":"pass"},
+    {"page":"W2:016","printed_page":"21-13","chunks":["JPG-W2-C001-S05","JPG-W2-C001-S06"],"coverage":"Questions 42-47, section 6 opening and question 48.","positive":"Value-rate treatment, cutback/reversal method distinctions, factor-specific choice rule and trading-purpose valuation conditions are preserved.","negative":"No section transition or question-link omission; no diagram/table-only meaning; margins and footer checked.","result":"pass"},
+    {"page":"W2:017","printed_page":"21-14","chunks":["JPG-W2-C001-S05","JPG-W2-C001-S06"],"coverage":"Answers and explanations for questions 42-48.","positive":"The source verdicts, source-printed citations where present, factor distinction, non-forced treatment and trading-inventory profit recognition are preserved.","negative":"No omitted continuation or additional-check note; margins and footer checked.","result":"pass"},
+    {"page":"W2:018","printed_page":"21-15","chunks":["JPG-W2-C001-S06","JPG-W2-C001-S07"],"coverage":"Question 49, section 7 opening and questions 50-54.","positive":"Net presentation for trading inventory and the five evaluation-loss presentation statements are preserved with labels.","negative":"No section transition or question statement omitted; no diagram/table-only meaning; margins and footer checked.","result":"pass"},
+    {"page":"W2:019","printed_page":"21-16","chunks":["JPG-W2-C001-S06","JPG-W2-C001-S07"],"coverage":"Answers and explanations for questions 49-54, including all additional-check notes.","positive":"Net sales presentation, loss classification, dual special-loss conditions, materiality exception and question 54 correction are preserved.","negative":"No missing verdict, source-printed citation, additional check or false-proposition label; margins and footer checked.","result":"pass"},
+    {"page":"W2:020","printed_page":"21-17","chunks":["JPG-W2-C001-S07"],"coverage":"Questions 55-58, importance and H26 label.","positive":"Disclosure alternatives, sales-expense distinction, sample-use transfer treatment and traditional forced-lowest-value distinction are preserved.","negative":"No omitted question statement or source label; no diagram/table-only meaning; margins and footer checked.","result":"pass"},
+    {"page":"W2:021","printed_page":"21-18","chunks":["JPG-W2-C001-S07"],"coverage":"Answers and explanations for questions 55-58.","positive":"The two disclosure methods, prohibited sales-expense treatment, permitted sample-use expense and prohibition of the old-rule rationale are preserved.","negative":"No missing verdict, source-printed citation or explanation; all 58 question-answer links are complete and margins/footer checked.","result":"pass"}
+  ],
+  "source_specific_conventions": {
+    "headings": "Use # for 第21章, ## for each numbered section, and ### for each numbered 問題. Preserve the seven source section titles and do not flatten sections.",
+    "locators": "Physical page IDs W2:NNN are separate from printed labels 21-N; section citations may share a page only inside the single owning batch and must name the source region and destination heading.",
+    "page_ownership": "JPG-W2-C001 owns every included physical page W2:004-W2:021 exactly once; there are no excluded pages in this batch.",
+    "content": "Designated JPGs are authoritative. Preserve question wording, importance and past-question labels, verdicts, citations, explanations, conditions, exceptions and additional-check notes. PDF is identity/planning support only.",
+    "tables_and_diagrams": "No diagram- or table-only meaning occurs in this pilot; no source figure or table is silently omitted.",
+    "format": "Source Markdown contains no bold, Cloze, Front/Back, integration or card output. Only presentation decoration was normalized; no learner-content correction was required.",
+    "question_layout": "Every source question remains a numbered ### topic with its problem statement and 判定; source-printed 出典 and 解説 fields are retained where present. Incorrect propositions remain explicitly labelled 誤り; 正しい statements remain labelled 正しい. 追加でチェック notes remain attached to their source question."
+  },
+  "semantic_review": {
+    "status": "pass",
+    "all_pages_reopened": true,
+    "review_resolution": "readable full-page resolution",
+    "positive_preservation_examples": [
+      "Definitions and scope conditions: W2:004-W2:007, including questions 3-9.",
+      "Method, timing and classification distinctions: W2:006-W2:009 and W2:016-W2:019.",
+      "Exception and condition wording: W2:010-W2:015, including questions 20-47.",
+      "Presentation and disclosure distinctions: W2:018-W2:021, including questions 49-58."
+    ],
+    "negative_checks": [
+      "All 18 designated images were reopened and matched against the seven saved chunks and their locators.",
+      "All original question IDs 1-58 occur exactly once; every question has its paired verdict, source-printed citations and explanations are retained where present, and all additional-check notes are retained.",
+      "No missing definition, condition, exception, question label, source-printed citation or explanation where printed, diagram/table meaning or false-proposition label was found.",
+      "No unresolved marker, invented content, stale chunk hash or out-of-batch locator remains."
+    ],
+    "corrections": [],
+    "unresolved_count": 0,
+    "false_proposition_check": "pass"
+  },
+  "checks": [
+    {"command":"./.venv/bin/python workflow/scripts/source_md.py check-manifest project/W2","exit":0,"result":"pass"},
+    {"command":"./.venv/bin/python workflow/scripts/source_md.py check-batch project/W2 --batch JPG-W2-C001","exit":0,"result":"pass"},
+    {"command":"./.venv/bin/python -m unittest discover -s workflow/tests -v","exit":0,"result":"31 tests passed"},
+    {"command":"python3 -m json.tool project/W2/qa/pilot.json and prerequisite JSON records","exit":0,"result":"valid JSON"},
+    {"command":"git diff --check","exit":0,"result":"pass"},
+    {"command":"source-image SHA-256 verification for W2:004-W2:021","exit":0,"result":"18/18 match the inventory"},
+    {"command":"question-ID, verdict, source-printed answer text and unresolved-marker audit for JPG-W2-C001","exit":0,"result":"58/58 IDs complete; source-printed citations/explanations retained where present; no unresolved or unlabelled false proposition"}
+  ],
+  "review_boundary": "This pilot gate approves only W2 C001 conventions and its seven current chunks. It does not assemble W2, edit canonical tasks, review another batch, execute descendants, or generate cards."
+}
