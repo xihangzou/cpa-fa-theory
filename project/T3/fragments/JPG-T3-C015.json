@@ -1,0 +1,26 @@
+{
+  "batch_id": "JPG-T3-C015",
+  "source_id": "T3",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-T3-C015-S01",
+      "batch_id": "JPG-T3-C015",
+      "chapter": "38",
+      "section": "38.7",
+      "title": "第7節 開示",
+      "expected_pages": ["T3:273", "T3:274", "T3:275", "T3:276"],
+      "processing_pages": ["T3:273", "T3:274", "T3:275", "T3:276"],
+      "output": "chunks/JPG-T3-C015/JPG-T3-C015-S01.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T3:273", "printed_page": "㊳－52", "source_region": "第7節『開示』、1.のれん及び負ののれんの表示、現行制度上の表示方法、のれんの表示に関する別の見解と①・②の理由", "destination_heading": "## 第7節 開示"},
+        {"page": "T3:274", "printed_page": "㊳－53", "source_region": "③一括償却と保守主義、2.企業結合に関する注記事項、49項の取得とされた企業結合の注記事項(1)〜(5)", "destination_heading": "## 第7節 開示"},
+        {"page": "T3:275", "printed_page": "㊳－54", "source_region": "49-2、連結財務諸表を作成しない場合の50項・51項、52項の共通支配下の取引等に係る注記事項", "destination_heading": "## 第7節 開示"},
+        {"page": "T3:276", "printed_page": "㊳－55", "source_region": "53項の子会社による親会社の吸収合併、54項の共同支配投資企業、55項の重要な後発事象等", "destination_heading": "## 第7節 開示"}
+      ],
+      "chunk_sha256": "e31c8d76d43b5886a08650bce8fd7e925bff919e39c090bc4d8494c0b7f948fd"
+    }
+  ],
+  "review": "reviews/JPG-T3-C015.json"
+}

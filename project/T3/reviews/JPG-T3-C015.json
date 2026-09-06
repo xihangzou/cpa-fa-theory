@@ -1,0 +1,64 @@
+{
+  "batch_id": "JPG-T3-C015",
+  "source_id": "T3",
+  "status": "pass",
+  "review_date": "2026-09-07",
+  "reviewer_model": "GPT-5",
+  "source_revision": {
+    "repository_commit": "47e1eaaf57d5403219b612414ccacaf57f475753",
+    "source_pdf_sha256": "1d9f0124a0c8ef759526decc90a1a410f694e2b7fa992b430fc413e783df85bc",
+    "source_image_inventory_sha256": "8e0709aa6cd2d086d9df18627ae7eb466c20cdb59474bbef26038f03d9d40b24",
+    "catalog_image_inventory_sha256": "af94a7c1f91d1eb56611afc242360566950d6f93d5a6ac7d5271c5e8d3f9d170",
+    "batch_boundary_review_id": "JPG-T3-INV-BND-JPG-T3-C015"
+  },
+  "source_images": [
+    {"page": "T3:273", "printed_page": "㊳－52", "image": "pages/T3/page-273.jpg", "sha256": "8c6ff3f2ce4c68ee758fba5c89d71f9fbe7980e9295fe6dce98ae3cc7909b9dc"},
+    {"page": "T3:274", "printed_page": "㊳－53", "image": "pages/T3/page-274.jpg", "sha256": "26e51cda347dc45a9ac359b7c60a333cb27e8f86a5f240ad3b8b49ca97a98e55"},
+    {"page": "T3:275", "printed_page": "㊳－54", "image": "pages/T3/page-275.jpg", "sha256": "d0e54f447c20b402527461c07a06c6d269bf9c0ce52087582c49e53960c1187a"},
+    {"page": "T3:276", "printed_page": "㊳－55", "image": "pages/T3/page-276.jpg", "sha256": "2e02b32dfba4553009962bd7d4a5f9c9f55255f35f1c6e485f1942887b325e39"}
+  ],
+  "section_outputs": [
+    {"task": "JPG-T3-C015-S01", "chunk": "project/T3/chunks/JPG-T3-C015/JPG-T3-C015-S01.md", "chunk_sha256": "e31c8d76d43b5886a08650bce8fd7e925bff919e39c090bc4d8494c0b7f948fd"}
+  ],
+  "coverage": [
+    {"page": "T3:273", "status": "pass", "regions": ["第7節見出し、のれん・負ののれんの表示区分表", "別の見解、保守主義・償却期間・営業損益の理由", "余白、脚注相当表示、ページ㊳－52を確認"]},
+    {"page": "T3:274", "status": "pass", "regions": ["一括償却と過度の保守主義の説明", "49項の重要性・連結/個別財務諸表の代替記載", "企業結合の概要、業績期間、取得原価の算定・配分、比較情報の全項目", "余白、枠線、ページ㊳－53を確認"]},
+    {"page": "T3:275", "status": "pass", "regions": ["49-2の見直し注記", "50項逆取得と51項段階取得の継続開示・連結移行条件", "52項の共通支配下取引の概要、会計処理、追加取得、持分変動", "余白、枠線、ページ㊳－54を確認"]},
+    {"page": "T3:276", "status": "pass", "regions": ["53項の子会社による親会社吸収合併と比較影響額", "54項の共同支配投資企業の注記、理由・重要性・代替記載", "55項の後発事象、除外される項目、未確定事項、未完了企業結合", "枠線、余白、ページ㊳－55および章末境界を確認"]}
+  ],
+  "page_fidelity_matrix": [
+    {"pages": ["T3:273"], "sections": ["第7節、のれん及び負ののれんの表示"], "result": "pass"},
+    {"pages": ["T3:274"], "sections": ["一括償却に対する三つの理由、取得とされた企業結合の注記事項"], "result": "pass"},
+    {"pages": ["T3:275"], "sections": ["49-2、連結財務諸表を作成しない場合、共通支配下の取引等"], "result": "pass"},
+    {"pages": ["T3:276"], "sections": ["子会社の吸収合併、共同支配投資企業、重要な後発事象等"], "result": "pass"}
+  ],
+  "numerical_checks": [
+    {"pages": ["T3:274"], "check": "49項の注記事項を(1)〜(5)の順序で保持し、段階取得、第25項、第49項(3)③、取得原価配分、比較情報の条件を落としていない。", "result": "pass"},
+    {"pages": ["T3:275"], "check": "49-2、50項、51項、52項の項番号、参照項、除外条件、影響額の継続開示条件を保持している。", "result": "pass"},
+    {"pages": ["T3:276"], "check": "55項の参照範囲と除外項目（49項(2)、(4)③、(5)、50項、51項、53項）を保持している。", "result": "pass"}
+  ],
+  "diagram_checks": [
+    {"pages": ["T3:273", "T3:274"], "check": "表示区分表と注記事項の列挙構造を表・見出し・番号付き項目として再現し、図表依存の意味はないことを確認した。", "result": "pass"},
+    {"pages": ["T3:275", "T3:276"], "check": "連結/個別財務諸表、逆取得・段階取得、共通支配下取引、共同支配投資企業、後発事象の適用条件と代替記載の関係を本文で保持した。", "result": "pass"}
+  ],
+  "false_proposition_checks": {"status": "not_applicable", "result": "この理論範囲には問題・選択肢・正誤判定のセットはなく、適用条件と除外条件を本文の限定として保持した。"},
+  "findings": [
+    "指定された4画像をすべて原寸で再確認し、本文、表、項番号、参照項、条件、例外、余白、枠線、脚注相当表示およびページ境界をチャンクと照合した。",
+    "第7節の章・節・項目階層、表示区分表、49項から55項までの注記事項、重要性・継続開示・連結財務諸表作成の条件を保持した。",
+    "ページ273の節頭からページ276の章末までに、表・列挙・条件・例外の未完了継続はない。",
+    "画像のみで意味を補う必要のある図はなく、表示表と注記事項の構造をMarkdown表・見出し・番号付き項目として表現した。"
+  ],
+  "corrections": [
+    "画像確認に基づき、ページ275の49-2、50項、51項、52項およびページ276の53項、54項、55項を一つの節チャンクに連続配置した。",
+    "連結財務諸表と個別財務諸表の代替記載、重要性が乏しい場合の企業結合全体注記、継続開示、未確定事項の除外を一般化せず明示した。",
+    "未解決マーカー、範囲外ページ、外部資料由来の補足、太字、Cloze、Front/Back、統合出力、カード出力はない。"
+  ],
+  "checks": {"numerical": "pass", "diagram": "pass", "false_proposition": "not_applicable"},
+  "unresolved_count": 0,
+  "semantic_boundary": "自動チェックはスキーマ、範囲、順序、ハッシュ整合性を検証し、意味の完全性は指定画像のページ別レビュー記録で裏付ける。",
+  "dependency_commits": [
+    "a2fb2bb829d112522128cdb145523302e9d1e7fd",
+    "cccf7c381768b18116d49e4847dac5df2b01506c",
+    "0034627e759ba83225ae91dbc5cba1c1825ba3a6"
+  ]
+}
