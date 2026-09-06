@@ -1,0 +1,42 @@
+{
+  "batch_id": "JPG-T2-C018",
+  "review": "reviews/JPG-T2-C018.json",
+  "source_id": "T2",
+  "status": "pass",
+  "tasks": [
+    {
+      "batch_id": "JPG-T2-C018",
+      "chapter": "29",
+      "chunk_sha256": "00dc0ebf6d76b521b644fce1e6e23c698c3f45b651149d41c9ede6e53bce69c8",
+      "expected_pages": [
+        "T2:333", "T2:334", "T2:335", "T2:336", "T2:337", "T2:338", "T2:339",
+        "T2:340", "T2:341", "T2:342", "T2:343", "T2:344", "T2:345", "T2:346"
+      ],
+      "id": "JPG-T2-C018-S01",
+      "locators": [
+        {"destination_heading": "## 第6節 連結財務諸表における税効果会計", "page": "T2:333", "printed_page": "㉙-36", "source_region": "section 6 opener, 1.連結財務諸表における税効果会計の必要性 and individual-to-consolidated temporary-difference diagram"},
+        {"destination_heading": "## 第6節 連結財務諸表における税効果会計", "page": "T2:334", "printed_page": "㉙-37", "source_region": "設例 with P/S 1,000/400 profit, 40% tax, 200-to-250 intercompany sale, 50 unrealized profit elimination and 20 deferred-tax entries; next-year 270 sale and 852 reconciliation"},
+        {"destination_heading": "## 第6節 連結財務諸表における税効果会計", "page": "T2:335", "printed_page": "㉙-38", "source_region": "2.一時差異の分類 definition, future-deductible/future-taxable meaning table, asset/liability inequalities and examples"},
+        {"destination_heading": "## 第6節 連結財務諸表における税効果会計", "page": "T2:336", "printed_page": "㉙-39", "source_region": "3.子会社の資産及び負債の時価評価による評価差額, tax-rate-change and reversal rules, 1,000-to-1,500 land example and 40%/42% entries"},
+        {"destination_heading": "## 第6節 連結財務諸表における税効果会計", "page": "T2:337", "printed_page": "㉙-40", "source_region": "4.(1)未実現損益の消去の特殊性, parent-to-subsidiary 200-to-250 diagram, X1 tax timing and distinct-company explanation"},
+        {"destination_heading": "## 第6節 連結財務諸表における税効果会計", "page": "T2:338", "printed_page": "㉙-41", "source_region": "4.(2)連結上の税効果会計の必要性 and (3)適用する税率等, seller/buyer treatment, seller-year rate, no remeasurement, no recoverability and deferred-method conclusion"},
+        {"destination_heading": "## 第6節 連結財務諸表における税効果会計", "page": "T2:339", "printed_page": "㉙-42", "source_region": "補足 未実現損益の消去に係る一時差異と繰延法, Japan/IFRS distinction, deferred-vs-asset-liability views, 40%/45% numerical comparison"},
+        {"destination_heading": "## 第6節 連結財務諸表における税効果会計", "page": "T2:340", "printed_page": "㉙-43", "source_region": "補足 認識の限度, 80-to-150 sale and 20 expense case, 50 taxable-income cap, 20 DTA entry and 70-versus-50 warning"},
+        {"destination_heading": "## 第6節 連結財務諸表における税効果会計", "page": "T2:341", "printed_page": "㉙-44", "source_region": "5.債権・債務の相殺消去による貸倒引当金減額, tax-deductibility two-case table, DTA/DTL treatment, 40%/100 allowance diagram and entries"},
+        {"destination_heading": "## 第6節 連結財務諸表における税効果会計", "page": "T2:342", "printed_page": "㉙-45", "source_region": "6.子会社株式の取得に伴い発生したのれん, (1) goodwill and temporary difference, (2) feedback-loop explanation and 600/700/200/100/400 example"},
+        {"destination_heading": "## 第6節 連結財務諸表における税効果会計", "page": "T2:343", "printed_page": "㉙-46", "source_region": "7.(1)子会社に対する投資に係る差異の発生原因, investment-time equality diagram, post-investment profit/FX/goodwill causes; (2) resolution cases"},
+        {"destination_heading": "## 第6節 連結財務諸表における税効果会計", "page": "T2:344", "printed_page": "㉙-47", "source_region": "補足 子会社投資差異の具体的税効果, future-deductible criteria and future-taxable dividend/other-resolution exceptions"},
+        {"destination_heading": "## 第6節 連結財務諸表における税効果会計", "page": "T2:345", "printed_page": "㉙-48", "source_region": "補足 会計基準の規定, retained-earnings dividend condition, investment-time/post-investment diagrams and X5 tax 120 entry"},
+        {"destination_heading": "## 第6節 連結財務諸表における税効果会計", "page": "T2:346", "printed_page": "㉙-49", "source_region": "補足 減算と加算の見分け方 and 8.取得関連費用と子会社投資の一時差異, asset/liability comparison rules and acquisition-cost treatment"}
+      ],
+      "output": "chunks/JPG-T2-C018/JPG-T2-C018-S01.md",
+      "processing_pages": [
+        "T2:333", "T2:334", "T2:335", "T2:336", "T2:337", "T2:338", "T2:339",
+        "T2:340", "T2:341", "T2:342", "T2:343", "T2:344", "T2:345", "T2:346"
+      ],
+      "section": "29.6",
+      "status": "pass",
+      "title": "第6節 連結財務諸表における税効果会計"
+    }
+  ]
+}

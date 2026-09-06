@@ -1,0 +1,74 @@
+{
+  "batch_id": "JPG-T2-C018",
+  "source_id": "T2",
+  "status": "pass",
+  "unresolved_count": 0,
+  "delivery_branch": "main",
+  "repository_revision_reviewed": "cb933d9c1d36dcbf6a59df6995c043e5e72cc9aa",
+  "dependency_commits": [
+    "a2fb2bb829d112522128cdb145523302e9d1e7fd",
+    "558bb1e92a2bd7e550af9c2034dc695efde6f19d",
+    "fb4082260d3af7598cb417c2dd83a82cd224dc6d"
+  ],
+  "source_images": [
+    {"page": "T2:333", "printed_page": "㉙-36", "sha256": "47147eec78fdc3da78d71242993e55eea9c8017ad6e8b2b89988618ce8516ef5"},
+    {"page": "T2:334", "printed_page": "㉙-37", "sha256": "37d6d0c28fe95083bc78c8a5bc20370b6de19a6f7df860e69a42600f8271e377"},
+    {"page": "T2:335", "printed_page": "㉙-38", "sha256": "704e2be840ab8412de3d006666977d916245d33af43a3737ba9df0d8fb0b486b"},
+    {"page": "T2:336", "printed_page": "㉙-39", "sha256": "48c4695d07a74d06278a919e2abf2d572058fc32b8c71ac188413dab81e1af1b"},
+    {"page": "T2:337", "printed_page": "㉙-40", "sha256": "e2209ad10a67daf4c8e749bb480fed7e8d23e447f1a2f716c7bf51af35d84a1f"},
+    {"page": "T2:338", "printed_page": "㉙-41", "sha256": "3a2e57622c5c2079f013165a853f6d41b62458eeb372c14e19cb0329f621fc9a"},
+    {"page": "T2:339", "printed_page": "㉙-42", "sha256": "24eea1c58adafc9596c674419be6c33b53464d3ee8cc1cd89d31f1c896d7002d"},
+    {"page": "T2:340", "printed_page": "㉙-43", "sha256": "7badd71e539f6b107c87242aa37f16d902b6c3c0a4a00891f7cfbb55707c7332"},
+    {"page": "T2:341", "printed_page": "㉙-44", "sha256": "5794fc0c059d9bfa22b21c1769b03c923f84d7c31a8bce413ab03afd951cfcd4"},
+    {"page": "T2:342", "printed_page": "㉙-45", "sha256": "7ff4f61af6d1e2b420dc0d54bb3ab5e8cfec835b19d751cdd5a155452e188b11"},
+    {"page": "T2:343", "printed_page": "㉙-46", "sha256": "01227efa07ec194fa37863331277091687bbe4a2360d1415f252ae8fe5b7efd1"},
+    {"page": "T2:344", "printed_page": "㉙-47", "sha256": "e23f6b8842fee9d622954987ac4be5207d50febe7f8b12f04e17d462fbe5c70a"},
+    {"page": "T2:345", "printed_page": "㉙-48", "sha256": "3fa020e66b70df8a78e1a66b13637109fa213f18ae250deefa56e7e0037e93e8"},
+    {"page": "T2:346", "printed_page": "㉙-49", "sha256": "b3c4274e2a6ca71236da8791514abeb053d7ac7e79d7d72e692f9c7a16f53643"}
+  ],
+  "section_outputs": [
+    {"task": "JPG-T2-C018-S01", "chunk_sha256": "00dc0ebf6d76b521b644fce1e6e23c698c3f45b651149d41c9ede6e53bce69c8"}
+  ],
+  "coverage": [
+    {"page": "T2:333", "regions": ["section 6 opener and consolidated-tax-effect necessity diagram"], "status": "pass"},
+    {"page": "T2:334", "regions": ["P/S consolidated-tax-effect example, 40% tax, 50 unrealized profit, 20 entries and 852 reconciliation"], "status": "pass"},
+    {"page": "T2:335", "regions": ["classification definition, meaning table, asset/liability inequalities and examples"], "status": "pass"},
+    {"page": "T2:336", "regions": ["subsidiary fair-value difference rules and 1,000/1,500 land entries"], "status": "pass"},
+    {"page": "T2:337", "regions": ["unrealized-profit elimination special nature, tax timing and company-role diagram"], "status": "pass"},
+    {"page": "T2:338", "regions": ["consolidated necessity, seller-year tax rate, no remeasurement, no recoverability and deferred-method conclusion"], "status": "pass"},
+    {"page": "T2:339", "regions": ["deferred-method versus asset-liability-method supplement and 40%/45% comparison"], "status": "pass"},
+    {"page": "T2:340", "regions": ["recognition limit and 80/150/20 case with 50 taxable-income cap"], "status": "pass"},
+    {"page": "T2:341", "regions": ["intercompany receivable/payable elimination and allowance two-case table, diagram and entries"], "status": "pass"},
+    {"page": "T2:342", "regions": ["goodwill and temporary difference, feedback loop and capital-elimination example"], "status": "pass"},
+    {"page": "T2:343", "regions": ["subsidiary-investment difference causes, investment-time equality and resolution cases"], "status": "pass"},
+    {"page": "T2:344", "regions": ["specific tax-effect criteria for future-deductible and future-taxable investment differences"], "status": "pass"},
+    {"page": "T2:345", "regions": ["standard dividend-retained-earnings rule, investment/post-investment diagrams and 120 entry"], "status": "pass"},
+    {"page": "T2:346", "regions": ["deductible/addable difference direction rules and acquisition-related-cost difference"], "status": "pass"}
+  ],
+  "findings": [
+    "All 14 inventory-approved included processing images T2:333-T2:346 were reopened at readable full-page resolution and compared with the section chunk, including margins, sidebars, supplement boxes, tables, diagrams, journal entries, numerical examples and boundary headings.",
+    "Physical pages T2:333-T2:346 carry printed labels ㉙-36 through ㉙-49, are all included by the C018 batch ledger, and have no excluded/no-content page.",
+    "The batch contains the complete section 29.6, from the section opener through topic 8.取得関連費用と子会社に対する投資に係る一時差異; no example, table, diagram or section continues beyond T2:346.",
+    "Definitions, classification distinctions, conditions, exceptions, timing, asset/liability direction rules, tax rates, journal-entry directions, amounts, formulas and diagram relationships were preserved without outside-source supplementation.",
+    "Numerical checks covered P/S 1,000/400, 40% tax, 200/250/270 intercompany sales, 50 unrealized profit, 20 deferred-tax adjustment, 1,000/1,500 land, 200/210/300 tax-effect amounts, 80/150/20 recognition-limit case, 100/40 allowance, 600/700/200/100/400 goodwill example, 40%/45% method comparison and 120 dividend tax.",
+    "No true/false proposition layout occurs in this theory section; false-proposition review is not applicable. No unresolved marker, invented content or out-of-batch locator remains."
+  ],
+  "corrections": [],
+  "checks": {
+    "numerical": "pass",
+    "diagram": "pass",
+    "false_proposition": "not_applicable"
+  },
+  "verification": {
+    "json_fragment": "pass",
+    "json_review": "pass",
+    "source_image_sha256": "14/14 computed from designated T2 JPGs; all match project/T2/sources.json",
+    "semantic_full_page_review": "pass",
+    "unresolved_marker_scan": "pass",
+    "scoped_diff_check": "pass",
+    "check_batch": "pass (./.venv/bin/python workflow/scripts/source_md.py check-batch project/T2 --batch JPG-T2-C018)",
+    "git_diff_check": "pass (git diff --check)"
+  },
+  "reviewed_on": "2026-09-06",
+  "reviewer_model": "current execution model; no model switch"
+}
