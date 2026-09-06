@@ -1,0 +1,87 @@
+{
+  "batch_id": "JPG-T3-C005",
+  "source_id": "T3",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-T3-C005-S01",
+      "batch_id": "JPG-T3-C005",
+      "chapter": "34",
+      "section": "34.1",
+      "title": "第1節 基準公表の経緯と新たな基準の概要",
+      "expected_pages": ["T3:077", "T3:078", "T3:079", "T3:080", "T3:081", "T3:082", "T3:083", "T3:084"],
+      "processing_pages": ["T3:077", "T3:078", "T3:079", "T3:080", "T3:081", "T3:082", "T3:083", "T3:084"],
+      "output": "chunks/JPG-T3-C005/JPG-T3-C005-S01.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T3:077", "printed_page": null, "source_region": "第34章タイトル、短答式・論文式本試験の出題実績表", "destination_heading": "## 第1節 基準公表の経緯と新たな基準の概要"},
+        {"page": "T3:078", "printed_page": "㉞－1", "source_region": "第1節見出し、1.日本基準の問題点、2.会計基準開発に当たっての基本的な方針", "destination_heading": "## 第1節 基準公表の経緯と新たな基準の概要"},
+        {"page": "T3:079", "printed_page": "㉞－2", "source_region": "補足 代替的な取扱い、3.個別財務諸表における取扱い", "destination_heading": "## 第1節 基準公表の経緯と新たな基準の概要"},
+        {"page": "T3:080", "printed_page": "㉞－3", "source_region": "4.適用範囲、除外される7項目、顧客の定義、固定資産売却の取扱い、5.基本原則冒頭", "destination_heading": "## 第1節 基準公表の経緯と新たな基準の概要"},
+        {"page": "T3:081", "printed_page": "㉞－4", "source_region": "5.会計処理の基本となる原則、6.収益認識の5つのステップと各ステップの説明", "destination_heading": "## 第1節 基準公表の経緯と新たな基準の概要"},
+        {"page": "T3:082", "printed_page": "㉞－5", "source_region": "5ステップの支配移転図、商品X販売・2年間保守サービスの設例、12,000の配分表", "destination_heading": "## 第1節 基準公表の経緯と新たな基準の概要"},
+        {"page": "T3:083", "printed_page": "㉞－6", "source_region": "5ステップの契約・履行義務・取引価格・配分・収益の関係図、7.(1)実現主義との比較", "destination_heading": "## 第1節 基準公表の経緯と新たな基準の概要"},
+        {"page": "T3:084", "printed_page": "㉞－7", "source_region": "実現主義と本会計基準の具体例、製品販売と据付サービスの区分、適用後の収益認識", "destination_heading": "## 第1節 基準公表の経緯と新たな基準の概要"}
+      ],
+      "chunk_sha256": "44ecedc29b5c3c7796212edd6eb1d8e12a3de0162def7a75aa029d85da0e6a6e"
+    },
+    {
+      "id": "JPG-T3-C005-S02",
+      "batch_id": "JPG-T3-C005",
+      "chapter": "34",
+      "section": "34.2",
+      "title": "第2節 Step1：契約の識別",
+      "expected_pages": ["T3:085", "T3:086", "T3:087", "T3:088", "T3:089", "T3:090"],
+      "processing_pages": ["T3:085", "T3:086", "T3:087", "T3:088", "T3:089", "T3:090"],
+      "output": "chunks/JPG-T3-C005/JPG-T3-C005-S02.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T3:085", "printed_page": "㉞－8", "source_region": "第2節、1.契約とは、契約識別の5要件と事後見直しの前提", "destination_heading": "## 第2節 Step1：契約の識別"},
+        {"page": "T3:086", "printed_page": "㉞－9", "source_region": "2.完全に未履行の契約、3.5要件を満たしていない場合の分類と仕訳", "destination_heading": "## 第2節 Step1：契約の識別"},
+        {"page": "T3:087", "printed_page": "㉞－10", "source_region": "未充足時の負債処理フロー、4.契約の結合、5.契約変更の定義と独立契約の要件導入", "destination_heading": "## 第2節 Step1：契約の識別"},
+        {"page": "T3:088", "printed_page": "㉞－11", "source_region": "契約変更を独立契約として処理する2要件とパソコン追加販売の具体例・仕訳", "destination_heading": "## 第2節 Step1：契約の識別"},
+        {"page": "T3:089", "printed_page": "㉞－12", "source_region": "独立契約でない契約変更の状況その1〜その3と判定フロー", "destination_heading": "## 第2節 Step1：契約の識別"},
+        {"page": "T3:090", "printed_page": "㉞－13", "source_region": "状況その1・その2の具体例、製品a/b/cの配分仕訳、建設契約の累積的修正", "destination_heading": "## 第2節 Step1：契約の識別"}
+      ],
+      "chunk_sha256": "1bc1950968a9ec9484da2117e544e5476c6ad1531a346688fbd986d69963380d"
+    },
+    {
+      "id": "JPG-T3-C005-S03",
+      "batch_id": "JPG-T3-C005",
+      "chapter": "34",
+      "section": "34.3",
+      "title": "第3節 Step2：履行義務の識別",
+      "expected_pages": ["T3:091", "T3:092", "T3:093"],
+      "processing_pages": ["T3:091", "T3:092", "T3:093"],
+      "output": "chunks/JPG-T3-C005/JPG-T3-C005-S03.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T3:091", "printed_page": "㉞－14", "source_region": "第3節、履行義務の識別の目的、1.識別、2.別個の財又はサービスの2要件", "destination_heading": "## 第3節 Step2：履行義務の識別"},
+        {"page": "T3:092", "printed_page": "㉞－15", "source_region": "別個の財又はサービスの2要件、製品とセットアップの独立性、契約観点の判断図", "destination_heading": "## 第3節 Step2：履行義務の識別"},
+        {"page": "T3:093", "printed_page": "㉞－16", "source_region": "区分識別できない3要因、設備と据付サービスの具体例・分析・結論", "destination_heading": "## 第3節 Step2：履行義務の識別"}
+      ],
+      "chunk_sha256": "e07ccc9eb554adbda137b89319dab31e4fb223f1bb0c1ea625d9ddb45d203f2b"
+    },
+    {
+      "id": "JPG-T3-C005-S04",
+      "batch_id": "JPG-T3-C005",
+      "chapter": "34",
+      "section": "34.4",
+      "title": "第4節 Step3：取引価格の算定",
+      "expected_pages": ["T3:094", "T3:095", "T3:096", "T3:097", "T3:098", "T3:099"],
+      "processing_pages": ["T3:094", "T3:095", "T3:096", "T3:097", "T3:098", "T3:099"],
+      "output": "chunks/JPG-T3-C005/JPG-T3-C005-S04.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T3:094", "printed_page": "㉞－17", "source_region": "第4節Step3、1.取引価格と収益認識、2.取引価格の定義・留意点", "destination_heading": "## 第4節 Step3：取引価格の算定"},
+        {"page": "T3:095", "printed_page": "㉞－18", "source_region": "消費税の設例・仕訳、3.取引価格算定に考慮する4つの影響、図解", "destination_heading": "## 第4節 Step3：取引価格の算定"},
+        {"page": "T3:096", "printed_page": "㉞－19", "source_region": "4.変動対価の定義、含まれる項目、最頻値と期待値の方法、数値設例", "destination_heading": "## 第4節 Step3：取引価格の算定"},
+        {"page": "T3:097", "printed_page": "㉞－20", "source_region": "返金負債、見積りの制限、重要な金融要素と1年以内の実務上の簡便法、後払い・前払い図", "destination_heading": "## 第4節 Step3：取引価格の算定"},
+        {"page": "T3:098", "printed_page": "㉞－21", "source_region": "6.現金以外の対価、時価評価、時価を合理的に見積れない場合、7.顧客に支払われる対価の定義", "destination_heading": "## 第4節 Step3：取引価格の算定"},
+        {"page": "T3:099", "printed_page": "㉞－22", "source_region": "顧客に支払われる対価の減額時点、1,500千円前払・2,000千円販売の設例・仕訳・計算", "destination_heading": "## 第4節 Step3：取引価格の算定"}
+      ],
+      "chunk_sha256": "b601e660e8b9dc7ada7c0bf68b069b9eb1f968269026a4a1870237f77facf7f0"
+    }
+  ],
+  "review": "reviews/JPG-T3-C005.json"
+}

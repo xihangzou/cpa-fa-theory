@@ -1,0 +1,109 @@
+{
+  "batch_id": "JPG-T3-C005",
+  "source_id": "T3",
+  "status": "pass",
+  "review_date": "2026-09-06",
+  "reviewer_model": "GPT-5",
+  "source_revision": {
+    "repository_commit": "da3599e14040292be828f382f81523da609e4763",
+    "source_pdf_sha256": "1d9f0124a0c8ef759526decc90a1a410f694e2b7fa992b430fc413e783df85bc",
+    "source_image_inventory_sha256": "8e0709aa6cd2d086d9df18627ae7eb466c20cdb59474bbef26038f03d9d40b24",
+    "catalog_image_inventory_sha256": "af94a7c1f91d1eb56611afc242360566950d6f93d5a6ac7d5271c5e8d3f9d170",
+    "batch_boundary_review_id": "JPG-T3-INV-BND-JPG-T3-C005"
+  },
+  "source_images": [
+    {"page": "T3:077", "printed_page": null, "image": "pages/T3/page-077.jpg", "sha256": "64a1e17003c21e97e06537ae1f1ae2e72b197e0872129f2080baca27f97a2d8c"},
+    {"page": "T3:078", "printed_page": "㉞－1", "image": "pages/T3/page-078.jpg", "sha256": "20708aef8a3298e8eb22e6f4222234b25453192c3aaf44fbe2e43a4d8f8479d3"},
+    {"page": "T3:079", "printed_page": "㉞－2", "image": "pages/T3/page-079.jpg", "sha256": "ce2874efd782d987320314cda88bc2e36c8bb5b00a259961322c39bbb09d8473"},
+    {"page": "T3:080", "printed_page": "㉞－3", "image": "pages/T3/page-080.jpg", "sha256": "d30b15ebb98ac3dcb91d0fcc0d10aecd32a1ce1e94b8dc499c2d5a01c43d8988"},
+    {"page": "T3:081", "printed_page": "㉞－4", "image": "pages/T3/page-081.jpg", "sha256": "edc215b0a88ec3bb4fa343a2a6a661bf3d82ac279f55324c72c7793cde21f8bf"},
+    {"page": "T3:082", "printed_page": "㉞－5", "image": "pages/T3/page-082.jpg", "sha256": "df8f410043d77110d86c5d2444e9e4c63853ebf3381a4df409ac0bb6fb2d8c49"},
+    {"page": "T3:083", "printed_page": "㉞－6", "image": "pages/T3/page-083.jpg", "sha256": "76197daa71a726c5b2b51d4da642a78f8f76384cf908ffde1718566d894af4f5"},
+    {"page": "T3:084", "printed_page": "㉞－7", "image": "pages/T3/page-084.jpg", "sha256": "8dcd63d7a6698d855bfe23285f78a77d14bd6ea2c92f9fd118e12d53f227eec0"},
+    {"page": "T3:085", "printed_page": "㉞－8", "image": "pages/T3/page-085.jpg", "sha256": "390fb7c1df43b00ceafbad62e9bf5423009ef05eb8eca7a26bb6001d5377032b"},
+    {"page": "T3:086", "printed_page": "㉞－9", "image": "pages/T3/page-086.jpg", "sha256": "b258c2b40d2772b0f6c0e435594f90823613e87e423dab5865831bb16cea4357"},
+    {"page": "T3:087", "printed_page": "㉞－10", "image": "pages/T3/page-087.jpg", "sha256": "d60a4d6166729a879bd6e6208d03826dfd2d7f09f37dc740f0334c3f2b29cee4"},
+    {"page": "T3:088", "printed_page": "㉞－11", "image": "pages/T3/page-088.jpg", "sha256": "c7072559eb0c48b5b73c7a5e35071db41d5536dd72f5657e141bd53cc2cc2769"},
+    {"page": "T3:089", "printed_page": "㉞－12", "image": "pages/T3/page-089.jpg", "sha256": "9c0ee5e7cc9bef95c5eda5356e3ec17ce4379a248258e06963ef32518b5cfdfb"},
+    {"page": "T3:090", "printed_page": "㉞－13", "image": "pages/T3/page-090.jpg", "sha256": "bd8000be65eaa323504b7fb4acc054731881a4828ef4b2798b98dd10bb4ac844"},
+    {"page": "T3:091", "printed_page": "㉞－14", "image": "pages/T3/page-091.jpg", "sha256": "d9051d460d5ee6e59c1c339e2cece4836a9e76d7d5dc37742828850766201a81"},
+    {"page": "T3:092", "printed_page": "㉞－15", "image": "pages/T3/page-092.jpg", "sha256": "ea2a2b5233eb0fcf6344837921cccabea20c6dc0b2e7419e1792cb67717695d9"},
+    {"page": "T3:093", "printed_page": "㉞－16", "image": "pages/T3/page-093.jpg", "sha256": "456594ed7a9f3c60bf78b5b3f71317805bec30446b9f0ab72dbc798179033197"},
+    {"page": "T3:094", "printed_page": "㉞－17", "image": "pages/T3/page-094.jpg", "sha256": "4467991afad0d96d5ab789ae9fbe04842d592f316f27673ee38f383f0d17a8bb"},
+    {"page": "T3:095", "printed_page": "㉞－18", "image": "pages/T3/page-095.jpg", "sha256": "98a2035c474df23069571555380dc52a178a23c20ab417b16256476dbb2d1347"},
+    {"page": "T3:096", "printed_page": "㉞－19", "image": "pages/T3/page-096.jpg", "sha256": "e217f1ec9623d6122c36fa9fff20ad12e6db2c7e2a62cf75f825d15773aec85c"},
+    {"page": "T3:097", "printed_page": "㉞－20", "image": "pages/T3/page-097.jpg", "sha256": "05b80d33fb72d366066533d6943adbe8b4163c495e52643190f4bc4fdf927f23"},
+    {"page": "T3:098", "printed_page": "㉞－21", "image": "pages/T3/page-098.jpg", "sha256": "6ca6cb51a39d7add16b4b49f438ebc181d9db60a8be5846e1b63242660815044"},
+    {"page": "T3:099", "printed_page": "㉞－22", "image": "pages/T3/page-099.jpg", "sha256": "5c5672bbae6f6eb6422c197bb1b34d47bfa25ad89bf90eff703a8789ccd51504"}
+  ],
+  "section_outputs": [
+    {"task": "JPG-T3-C005-S01", "chunk": "project/T3/chunks/JPG-T3-C005/JPG-T3-C005-S01.md", "chunk_sha256": "44ecedc29b5c3c7796212edd6eb1d8e12a3de0162def7a75aa029d85da0e6a6e"},
+    {"task": "JPG-T3-C005-S02", "chunk": "project/T3/chunks/JPG-T3-C005/JPG-T3-C005-S02.md", "chunk_sha256": "1bc1950968a9ec9484da2117e544e5476c6ad1531a346688fbd986d69963380d"},
+    {"task": "JPG-T3-C005-S03", "chunk": "project/T3/chunks/JPG-T3-C005/JPG-T3-C005-S03.md", "chunk_sha256": "e07ccc9eb554adbda137b89319dab31e4fb223f1bb0c1ea625d9ddb45d203f2b"},
+    {"task": "JPG-T3-C005-S04", "chunk": "project/T3/chunks/JPG-T3-C005/JPG-T3-C005-S04.md", "chunk_sha256": "b601e660e8b9dc7ada7c0bf68b069b9eb1f968269026a4a1870237f77facf7f0"}
+  ],
+  "coverage": [
+    {"page": "T3:077", "status": "pass", "regions": ["chapter title and both examination-history tables; margins and footer area checked"]},
+    {"page": "T3:078", "status": "pass", "regions": ["section 1 heading, Japanese-standard problem paragraphs, international-standard context, publication date and application date", "section 2 heading and both basic-policy alternatives; margins and footer ㉞－1 checked"]},
+    {"page": "T3:079", "status": "pass", "regions": ["alternative-treatment supplement, shipment-to-control timing, shipment/arrival examples and installment-sales boundary", "individual-financial-statements treatment and footer ㉞－2 checked"]},
+    {"page": "T3:080", "status": "pass", "regions": ["seven scope exclusions, both footnotes, customer definition and fixed-asset-sale boundary", "basic principle and customer-control viewpoint; footer ㉞－3 checked"]},
+    {"page": "T3:081", "status": "pass", "regions": ["five-step table, each step definition, boxed recognition rule, asset-control timing and explanatory paragraphs", "margins and footer ㉞－4 checked"]},
+    {"page": "T3:082", "status": "pass", "regions": ["enterprise/customer transfer diagram and recognition timing", "A/B example, 12,000 consideration, 10,000/2,000 standalone prices, 1,000 per-year allocation and all five step rows", "margins and footer ㉞－5 checked"]},
+    {"page": "T3:083", "status": "pass", "regions": ["contract-to-obligation-to-allocation diagram with 12,000, 10,000, 2,000, current 10,000 and current/next-year 1,000", "realization-principle comparison and two-column table; footer ㉞－6 checked"]},
+    {"page": "T3:084", "status": "pass", "regions": ["product plus installation example, inspection/control transfer, separate fulfillment timing and comparison conclusion", "post-application boundary for customer contracts versus financial instruments/fixed assets and conceptual-framework discussion", "margins and footer ㉞－7 checked"]},
+    {"page": "T3:085", "status": "pass", "regions": ["section 2 introduction, contract definition, all five identification requirements, consideration collectability note and no-reassessment rule", "five-condition summary diagram and footer ㉞－8 checked"]},
+    {"page": "T3:086", "status": "pass", "regions": ["fully unperformed-contract definition and both conditions", "two treatments when five conditions are not met, cash/receivable entries and refund/transfer-liability boundary", "margins and footer ㉞－9 checked"]},
+    {"page": "T3:087", "status": "pass", "regions": ["contract-identification decision flow", "contract-combination definition, same-customer timing and three conditions", "contract-modification definition and independent-contract criteria introduction; footer ㉞－10 checked"]},
+    {"page": "T3:088", "status": "pass", "regions": ["independent-contract two conditions", "100-unit/50,000-yen and additional 30-unit/40,000-yen computer example, separate-contract rationale, diagram and 500万/120万 entries", "margins and footer ㉞－11 checked"]},
+    {"page": "T3:089", "status": "pass", "regions": ["non-independent modification situations 1-3, treatment of distinct versus non-distinct remaining goods/services", "decision flow and cumulative adjustment boundary; footer ㉞－12 checked"]},
+    {"page": "T3:090", "status": "pass", "regions": ["situation 1 product a/b/c dates, prices, allocation diagram and 300/250/250 entries", "situation 2 construction contract, 250万/290万, 10%/40% progress, 25万/91万 contract-asset entries", "margins and footer ㉞－13 checked"]},
+    {"page": "T3:091", "status": "pass", "regions": ["section 3 Step2 introduction,履行義務の単位, separate-good versus series distinction", "two requirements for distinct goods/services and examples of product and continuous cleaning", "margins and footer ㉞－14 checked"]},
+    {"page": "T3:092", "status": "pass", "regions": ["first distinctness requirement, product/setup benefit examples and service-provider distinction", "second requirement, contract-viewpoint diagram, case 1/case 2 outcome descriptions", "margins and footer ㉞－15 checked"]},
+    {"page": "T3:093", "status": "pass", "regions": ["three indicators that promises cannot be separately identified", "equipment and setup concrete example, modification/integration/interdependence analysis and two-obligation conclusion", "margins and footer ㉞－16 checked"]},
+    {"page": "T3:094", "status": "pass", "regions": ["section 4 Step3, transaction-price purpose, allocated-price revenue rule, transaction-price definition and third-party collection exclusion", "contract-condition and no-cancel/no-renewal/no-change assumptions, margins and footer ㉞－17 checked"]},
+    {"page": "T3:095", "status": "pass", "regions": ["third-party consumption-tax example, 200 sales/20 tax/220 cash entry", "four transaction-price effects and diagram including noncash/customer consideration", "margins and footer ㉞－18 checked"]},
+    {"page": "T3:096", "status": "pass", "regions": ["variable-consideration definition and seven source examples", "most-likely/expected-value rule, construction 100/150 example, computer 25/0/2/5 probabilities and @22.9 calculation", "margins and footer ㉞－19 checked"]},
+    {"page": "T3:097", "status": "pass", "regions": ["refund-liability definition and reporting-date reassessment", "constraint example with 30%-60% discount and 40% threshold", "significant-financing adjustment, one-year expedient and postpaid/prepaid finance-income/expense diagram", "margins and footer ㉞－20 checked"]},
+    {"page": "T3:098", "status": "pass", "regions": ["noncash consideration construction example, fair-value rule and standalone-price fallback", "customer consideration definition/table with cashback and coupons", "margins and footer ㉞－21 checked"]},
+    {"page": "T3:099", "status": "pass", "regions": ["customer consideration exclusion and variable-consideration rule", "later-of-two-events reduction timing", "E company 15,000千円 annual purchase, 1,500千円 upfront payment, 2,000千円 sale, 10% allocation, 200千円 reduction, 1,800千円 sales entry and calculations", "margins and footer ㉞－22 checked"]}
+  ],
+  "page_fidelity_matrix": [
+    {"pages": ["T3:077", "T3:078", "T3:079", "T3:080", "T3:081", "T3:082", "T3:083", "T3:084"], "sections": ["chapter overview", "基準公表の経緯と新たな基準の概要", "five-step example", "realization principle comparison"], "result": "pass"},
+    {"pages": ["T3:085", "T3:086", "T3:087", "T3:088", "T3:089", "T3:090"], "sections": ["契約の識別", "contract combination", "contract modification", "independent and non-independent modification examples"], "result": "pass"},
+    {"pages": ["T3:091", "T3:092", "T3:093"], "sections": ["履行義務の識別", "distinct goods/services", "three non-distinctness indicators", "equipment/setup example"], "result": "pass"},
+    {"pages": ["T3:094", "T3:095", "T3:096", "T3:097", "T3:098", "T3:099"], "sections": ["取引価格", "variable consideration", "significant financing component", "noncash consideration", "customer consideration"], "result": "pass"}
+  ],
+  "numerical_checks": [
+    {"page": "T3:082", "check": "The 12,000 consideration is allocated to product X 10,000 and maintenance 2,000; maintenance revenue is 1,000 in each of two years.", "result": "pass"},
+    {"page": "T3:090", "check": "The separate-contract example preserves 600/2=300, 300+200=500, 500/2=250 and entries 300/250/250; the construction example preserves 250×10%=25 and 290×40%-25=91.", "result": "pass"},
+    {"page": "T3:096", "check": "Expected value preserves (@25-@0)×40% + (@25-@2)×30% + (@25-@5)×30% = @22.9.", "result": "pass"},
+    {"page": "T3:095", "check": "Consumption tax example preserves cash 220, sales 200 and provisional consumption tax 20.", "result": "pass"},
+    {"page": "T3:099", "check": "Customer consideration preserves 1,500/15,000=10%, 2,000×10%=200 and sales 2,000-200=1,800.", "result": "pass"}
+  ],
+  "diagram_checks": [
+    {"pages": ["T3:081", "T3:082", "T3:083"], "check": "The five-step flow, control-transfer timing and contract-to-obligation-to-allocation diagram are represented with all amounts and timing conclusions.", "result": "pass"},
+    {"pages": ["T3:089", "T3:090"], "check": "The contract-modification decision tree, separate-contract treatment and cumulative-adjustment treatment retain their branch conditions and accounting consequences.", "result": "pass"},
+    {"pages": ["T3:092", "T3:093"], "check": "The distinctness diagram and equipment/setup analysis retain the two viewpoints and the three non-distinctness indicators.", "result": "pass"},
+    {"pages": ["T3:095", "T3:097", "T3:098", "T3:099"], "check": "The transaction-price effects, financing timing, noncash consideration and customer-payment reduction flows retain arrows, actors, timing and accounting consequences.", "result": "pass"}
+  ],
+  "false_proposition_checks": {"status": "not_applicable", "result": "This theory batch contains no question-and-answer false-proposition set. Negative treatment boundaries in the contract and transaction-price examples remain explicitly qualified."},
+  "findings": [
+    "All 23 included processing images were reopened at readable resolution and compared with the four section chunks, including margins, sidebars, footers, tables, examples, numerical values and diagram-only meaning.",
+    "The four chunks preserve chapter and section hierarchy without bold, Cloze, Front/Back, integration or card output.",
+    "The frozen batch starts with the chapter-34 overview on physical page 77 and ends with the customer-consideration example on physical page 99; inventory boundary evidence confirms no example, diagram or condition is stranded at either boundary.",
+    "The dense contract-modification,履行義務 and transaction-price diagrams were converted into explicit decision paths, actors, conditions, formulas and accounting consequences; no figure is required for comprehension of the retained content."
+  ],
+  "corrections": [
+    "Normalized source spacing and represented diagram labels as structured prose/tables while preserving source conditions, timing, labels, amounts and journal-entry relationships.",
+    "Retained the source's alternative shipment treatment, seven scope exclusions, five contract criteria, three contract-modification situations, three non-distinctness indicators, variable-consideration constraint and later-of-two-events customer-payment rule.",
+    "No outside page, book, web source, OCR text or general-knowledge supplement was used to fill content; the designated JPGs remained the authority."
+  ],
+  "checks": {"numerical": "pass", "diagram": "pass", "false_proposition": "not_applicable"},
+  "unresolved_count": 0,
+  "semantic_boundary": "Automatic checks validate schema, scope, ordering and hashes; semantic completeness is supported by the recorded page-by-page image review.",
+  "dependency_commits": [
+    "a2fb2bb829d112522128cdb145523302e9d1e7fd",
+    "cccf7c381768b18116d49e4847dac5df2b01506c",
+    "0034627e759ba83225ae91dbc5cba1c1825ba3a6"
+  ]
+}
