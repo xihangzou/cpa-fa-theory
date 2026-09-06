@@ -1,0 +1,84 @@
+{
+  "batch_id": "JPG-T2-C011",
+  "source_id": "T2",
+  "status": "pass",
+  "reviewed_on": "2026-09-06",
+  "reviewer_model": "GPT-5 (current execution model; no model switch)",
+  "source_revision": {
+    "delivery_branch": "main",
+    "repository_commit": "4c116170eac7090052af0f32dab0a5a4bd2f22f8",
+    "source_catalog": "contracts/source-catalog.json",
+    "source_catalog_sha256": "8358e9cffb068f63df0bdfcc8f99be035e66454ac8710d381f0ff9eb87728079",
+    "page_plan": "contracts/page-plan.json",
+    "page_plan_sha256": "997a7280b171df5803c2a3bb7c2ee8764082e01f3bdb03c194b9129fe18d26c9",
+    "source_manifest": "project/T2/sources.json",
+    "source_manifest_sha256": "35cf038c8b38aa4d44abb1f9a9791db1f51f59e6bac41645e5df53c3b09e12b4",
+    "source_map": "project/T2/source-map.json",
+    "source_map_sha256": "de4c75bc119b6501ecb1871fccb717cb421c7790d365d0f1eb2ebd493d58ba44",
+    "batch_manifest": "project/T2/batches.json",
+    "batch_manifest_sha256": "959f880a026c8b1ca149f12f39fb954b06f86d5600eb0f8207c406139e9546e3",
+    "inventory_review": "project/T2/inventory-review.json",
+    "inventory_review_sha256": "b0f2b10e53d792d7ee563a24810b117c95a09599769fefc3d58138466e6f1384",
+    "source_original_root": "/Users/xihangzou/Study/320_CPA/322_財務理論/images/cpa-fa-theory-textbook-2-jpg",
+    "source_pdf": "/Users/xihangzou/Study/320_CPA/322_財務理論/01_テキスト/財務会計論テキスト　理論2.pdf",
+    "source_pdf_sha256": "ba4b33c8881021044b6360bfd10899f1b1f882bda3ccc7df3f1f895e9cc55ba5",
+    "source_image_inventory_sha256": "d577500ca271c7d4f0e8a1103b481e38e2494cc9c236d9fe954b35938a9a1c91",
+    "edition": "2024/2025年合格目標",
+    "publication_date": "2023-05-04",
+    "physical_scope": "T2:209-T2:214",
+    "processing_scope": "T2:209-T2:213",
+    "content_authority": "designated existing JPGs only; PDF used only for identity/planning support"
+  },
+  "dependency_commits": [
+    "a2fb2bb829d112522128cdb145523302e9d1e7fd",
+    "558bb1e92a2bd7e550af9c2034dc695efde6f19d",
+    "fb4082260d3af7598cb417c2dd83a82cd224dc6d"
+  ],
+  "source_images": [
+    {"page": "T2:209", "printed_page": "㉖-42", "image": "pages/T2/page-209.jpg", "sha256": "75d8c3b441693bcbef37b73e9b49db2b0a5ed123b1f98bc0153d54669a4a6f84"},
+    {"page": "T2:210", "printed_page": "㉖-43", "image": "pages/T2/page-210.jpg", "sha256": "aa841be081eb93b5ced711445bafc64ce1365133c6dc52c3b49f0b1b4bd2b098"},
+    {"page": "T2:211", "printed_page": "㉖-44", "image": "pages/T2/page-211.jpg", "sha256": "3c905a5b91e45d04f9bd5f834654e8fb1465cae8e7e12af4c641590d338188e2"},
+    {"page": "T2:212", "printed_page": "㉖-45", "image": "pages/T2/page-212.jpg", "sha256": "f5d9c1ae0f5f1b68a3ff3c523e9332bf9b65e3036fe5bffb084419a91efeb5bd"},
+    {"page": "T2:213", "printed_page": "㉖-46", "image": "pages/T2/page-213.jpg", "sha256": "5ae764fa12ca3a818e394fdf0cbf7d5246b8cead687fe36dae5be84c39259560"}
+  ],
+  "section_outputs": [
+    {"task": "JPG-T2-C011-S01", "chunk": "project/T2/chunks/JPG-T2-C011/JPG-T2-C011-S01.md", "chunk_sha256": "eed4d696f14eb20785d3fd4b6b6a7c67455c21da91363820aa2189fe3243aa41"}
+  ],
+  "coverage": [
+    {"page": "T2:209", "status": "pass", "regions": ["第8節の公表日", "作成目的", "株主資本の変動を示す図", "設定背景"]},
+    {"page": "T2:210", "status": "pass", "regions": ["表示区分と貸借対照表との整合性", "資本金8,000・200・8,200の表示例", "その他有価証券評価差額金120・40・160の表示例"]},
+    {"page": "T2:211", "status": "pass", "regions": ["株主資本と株主資本以外の表示方法の比較表", "表示差異の2理由", "選択可能性", "連結・個別当期純利益の表示"]},
+    {"page": "T2:212", "status": "pass", "regions": ["記載範囲の2つの考え方", "純資産全項目説", "その他有価証券評価差額金10億円から9億円の図", "株主資本のみ説と3論拠"]},
+    {"page": "T2:213", "status": "pass", "regions": ["現行の中間的な考え方", "名称の検討", "連結・個別注記事項の全項目", "親会社80％保有・自己株式10株と連結18株の図", "個別会社の注記特則"]}
+  ],
+  "page_fidelity_matrix": [
+    {"pages": ["T2:209"], "chunk": "JPG-T2-C011-S01", "sections": ["第8節の作成目的と設定背景"], "result": "pass"},
+    {"pages": ["T2:210", "T2:211"], "chunk": "JPG-T2-C011-S01", "sections": ["表示と財務諸表間の整合", "株主資本・株主資本以外の表示", "当期純利益の表示"], "result": "pass"},
+    {"pages": ["T2:212", "T2:213"], "chunk": "JPG-T2-C011-S01", "sections": ["記載範囲の2説と現行の考え方", "注記事項"], "result": "pass"}
+  ],
+  "numerical_checks": [
+    {"pages": ["T2:210"], "check": "資本金の当期首残高8,000に新株発行200を加え、当期末残高8,200とする関係、及びその他有価証券評価差額金120+40=160を保持した。", "result": "pass"},
+    {"pages": ["T2:212"], "check": "その他有価証券評価差額金10億円の10％変動を10億円から9億円、将来の株式売却益1億円減少として保持した。", "result": "pass"},
+    {"pages": ["T2:213"], "check": "親会社の自己株式10株と子会社保有の親会社株式10株×80％を連結上18株とする関係を保持した。", "result": "pass"}
+  ],
+  "diagram_checks": [
+    {"pages": ["T2:209"], "check": "純資産の部のうち主として株主に帰属する株主資本の変動を株主資本等変動計算書で開示する関係を保持した。", "result": "pass"},
+    {"pages": ["T2:210"], "check": "当期首・変動額・当期末の残高が前期・当期貸借対照表と整合する関係を表にした。", "result": "pass"},
+    {"pages": ["T2:213"], "check": "親会社80％保有、親会社自己株式10株、子会社保有の親会社株式10株、連結上18株の関係を表にした。", "result": "pass"}
+  ],
+  "question_pair_checks": {"status": "not_applicable", "result": "この理論範囲には設問と解答の組はない。"},
+  "findings": [
+    "Included processing images T2:209-T2:213 were reopened at readable full-page resolution and compared against the section chunk, including margins, tables, diagrams, footnotes and numerical examples.",
+    "T2:214 was reopened and is excluded by the inventory as a blank MEMO page; it was not processed or cited as learner content.",
+    "The five-page processing range contains one actual source section, 第8節; all subsections 1-5 remain in one section chunk without flattening or cross-batch content.",
+    "No unresolved marker, invented cross-source content, question-answer pair or out-of-batch locator remains."
+  ],
+  "corrections": [
+    "Normalized layout and spacing only; definitions, conditions, display distinctions, numerical relationships, tables and diagram meaning were checked against the designated JPGs.",
+    "Converted diagram-only relationships into faithful prose and tables while retaining direction, labels, comparison, conditions and numerical labels."
+  ],
+  "excluded_pages": [{"page": "T2:214", "printed_page": "㉖-47", "reason": "【MEMO】の白紙ページ。画像確認により実質的な本文・図表なし。"}],
+  "checks": {"numerical": "pass", "diagram": "pass", "false_proposition": "not_applicable"},
+  "unresolved_count": 0,
+  "semantic_boundary": "Structural/hash checks validate scope and consistency; semantic completeness is supported by the recorded page-by-page image review. The designated JPGs are authoritative; the PDF was used only for identity/planning support."
+}

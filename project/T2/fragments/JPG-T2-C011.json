@@ -1,0 +1,67 @@
+{
+  "batch_id": "JPG-T2-C011",
+  "source_id": "T2",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-T2-C011-S01",
+      "batch_id": "JPG-T2-C011",
+      "chapter": "26",
+      "section": "26.8",
+      "title": "第8節 株主資本等変動計算書に関する会計基準",
+      "expected_pages": ["T2:209", "T2:210", "T2:211", "T2:212", "T2:213", "T2:214"],
+      "processing_pages": ["T2:209", "T2:210", "T2:211", "T2:212", "T2:213"],
+      "output": "chunks/JPG-T2-C011/JPG-T2-C011-S01.md",
+      "status": "pass",
+      "chunk_sha256": "eed4d696f14eb20785d3fd4b6b6a7c67455c21da91363820aa2189fe3243aa41",
+      "locators": [
+        {
+          "page": "T2:209",
+          "printed_page": "㉖-42",
+          "source_region": "第8節扉、会計基準の公表日、第1項の作成目的と株主資本の変動を示す図、第2項の設定背景",
+          "destination_heading": "## 第8節 株主資本等変動計算書に関する会計基準"
+        },
+        {
+          "page": "T2:210",
+          "printed_page": "㉖-43",
+          "source_region": "第3項(1)の表示区分と期首・期末残高の整合性、資本金8,000・200・8,200及び評価・換算差額等120・40・160の図表",
+          "destination_heading": "## 第8節 株主資本等変動計算書に関する会計基準"
+        },
+        {
+          "page": "T2:211",
+          "printed_page": "㉖-44",
+          "source_region": "第3項(2)の株主資本と株主資本以外の表示方法・理由・選択、第3項(3)の連結及び個別当期純利益の表示",
+          "destination_heading": "## 第8節 株主資本等変動計算書に関する会計基準"
+        },
+        {
+          "page": "T2:212",
+          "printed_page": "㉖-45",
+          "source_region": "第4項の2つの考え方、純資産全項目説の国際的調和・10億円から9億円の影響、株主資本のみ説の論拠3点",
+          "destination_heading": "## 第8節 株主資本等変動計算書に関する会計基準"
+        },
+        {
+          "page": "T2:213",
+          "printed_page": "㉖-46",
+          "source_region": "第4項③の現行の考え方と名称検討、第5項の連結・個別注記事項、親会社80％保有・自己株式10株と連結18株の図表",
+          "destination_heading": "## 第8節 株主資本等変動計算書に関する会計基準"
+        }
+      ]
+    }
+  ],
+  "review": "reviews/JPG-T2-C011.json",
+  "excluded_pages": [
+    {
+      "page": "T2:214",
+      "printed_page": "㉖-47",
+      "reason": "【MEMO】の白紙ページ。画像確認により実質的な本文・図表なし。"
+    }
+  ],
+  "source_scope": {
+    "source_id": "T2",
+    "physical_range": "T2:209-T2:214",
+    "processing_range": "T2:209-T2:213",
+    "chapter": "26",
+    "title": "資本会計（会計基準論点）",
+    "content_authority": "designated existing JPGs only"
+  }
+}
