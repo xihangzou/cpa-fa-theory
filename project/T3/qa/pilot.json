@@ -1,0 +1,114 @@
+{
+  "pilot_id": "JPG-T3-PILOT-QA",
+  "source_id": "T3",
+  "batch_id": "JPG-T3-C001",
+  "status": "pass",
+  "review_date": "2026-09-06",
+  "reviewer_model": "GPT-5",
+  "review_scope": {
+    "physical_pages": [
+      "T3:007", "T3:008", "T3:009", "T3:010", "T3:011", "T3:012",
+      "T3:013", "T3:014", "T3:015", "T3:016", "T3:017", "T3:018",
+      "T3:019", "T3:020", "T3:021", "T3:022", "T3:023", "T3:024",
+      "T3:025", "T3:026", "T3:027", "T3:028", "T3:029", "T3:030"
+    ],
+    "page_count": 24,
+    "chapters": ["33"],
+    "sections": ["33.1", "33.2", "33.3", "33.4", "33.5"],
+    "source_authority": "Exact designated T3 JPGs; PDF and OCR are identity/planning aids only."
+  },
+  "source_revision": {
+    "repository_base_commit": "fb4082260d3af7598cb417c2dd83a82cd224dc6d",
+    "dependency_commits": {
+      "issue_1_helper": "a2fb2bb829d112522128cdb145523302e9d1e7fd",
+      "issue_4_inventory": "cccf7c381768b18116d49e4847dac5df2b01506c",
+      "issue_10_pilot_conversion": "a5ef6597e2184c32b0bbe8197aebbfb93d97f710"
+    },
+    "source_pdf_sha256": "1d9f0124a0c8ef759526decc90a1a410f694e2b7fa992b430fc413e783df85bc",
+    "source_image_inventory_sha256": "8e0709aa6cd2d086d9df18627ae7eb466c20cdb59474bbef26038f03d9d40b24",
+    "catalog_image_inventory_sha256": "af94a7c1f91d1eb56611afc242360566950d6f93d5a6ac7d5271c5e8d3f9d170"
+  },
+  "chunk_hashes": {
+    "JPG-T3-C001-S01": "04d2b1c6563b429edb586aa1647b11be9f85291a9be819b002f7fcc80d0661ec",
+    "JPG-T3-C001-S02": "5876d2acd1d89fe0bd7c2339e09cb4d461cf480b32085331d21d951effeab55d",
+    "JPG-T3-C001-S03": "3ab86e153b3c8188bd67a23d3a001eb5c7d954083a6961aa701c603d95cb3e33",
+    "JPG-T3-C001-S04": "f44edfffe8d18bfb5840dd95fb80e8c0ea9d1e570fbf24ef50c5e3d0d9bb828a",
+    "JPG-T3-C001-S05": "ce85f51687ad2219e76b162d1121412e40451bdf51e365168a9a652356f5f407"
+  },
+  "source_specific_conventions": {
+    "headings": "Use source chapter as #, actual section as ##, and source numbered topics/subtopics as ###/####; retain the Japanese source titles.",
+    "locators": "Keep physical T3 page IDs separate from printed labels ㉝－1 through ㉝－23; section locators may share a page only within this single batch owner.",
+    "chapter_overview": "Retain the six page-007 cross-references to 財務計算テキスト chapters and both examination-history tables as navigation/content context.",
+    "tables_and_formulas": "Represent tables, journal entries, calculations and comparison boundaries as Markdown tables or explicit text; preserve amounts, units and debit/credit direction.",
+    "diagrams": "Verbalize actor flows, arrows, component decomposition, conditions and accounting consequences so the source meaning remains usable without raw media.",
+    "question_layouts": "Not applicable: this theory pilot contains no question-to-answer layout or false-proposition set; no labels were present to link or preserve.",
+    "exclusions": "Inventory-owned exclusions are physical pages 001-006 before the pilot; no page inside T3:007-T3:030 is excluded. Pages after T3:030 are outside this issue."
+  },
+  "page_review": [
+    {"page": "T3:007", "chunks": ["JPG-T3-C001-S01"], "result": "pass", "coverage": "chapter title, six cross-references, short-answer history table, margins and footer"},
+    {"page": "T3:008", "chunks": ["JPG-T3-C001-S01"], "result": "pass", "coverage": "essay history table, row labels, values, header and footer"},
+    {"page": "T3:009", "chunks": ["JPG-T3-C001-S01"], "result": "pass", "coverage": "financial-instrument definition/table, commodity boundary, fair-value definition, market and incidental-cost supplements"},
+    {"page": "T3:010", "chunks": ["JPG-T3-C001-S02"], "result": "pass", "coverage": "occurrence definition, recognition rule, securities/goods/services conditions, entry and exception"},
+    {"page": "T3:011", "chunks": ["JPG-T3-C001-S02"], "result": "pass", "coverage": "settlement-date supplement, four dates, both recognition bases and all entries, forward-contract and loan supplement"},
+    {"page": "T3:012", "chunks": ["JPG-T3-C001-S03"], "result": "pass", "coverage": "three derecognition conditions, examples, amounts and journal entries"},
+    {"page": "T3:013", "chunks": ["JPG-T3-C001-S03"], "result": "pass", "coverage": "A/B/C servicing flow, two approaches, definitions and two financial components"},
+    {"page": "T3:014", "chunks": ["JPG-T3-C001-S03"], "result": "pass", "coverage": "component versus integrated approach diagrams, survival conclusions and current-system rationale"},
+    {"page": "T3:015", "chunks": ["JPG-T3-C001-S03"], "result": "pass", "coverage": "control-transfer purpose, off/on-balance flow and all three requirements"},
+    {"page": "T3:016", "chunks": ["JPG-T3-C001-S03"], "result": "pass", "coverage": "legal-protection condition, buyback/invalid-transfer boundary and A/B/C example flow"},
+    {"page": "T3:017", "chunks": ["JPG-T3-C001-S03"], "result": "pass", "coverage": "benefit-enjoyment condition, restriction boundary, D/E example and competitor exception"},
+    {"page": "T3:018", "chunks": ["JPG-T3-C001-S03"], "result": "pass", "coverage": "special-purpose-company conditions, investor application, no-buyback condition, repo and F/G example"},
+    {"page": "T3:019", "chunks": ["JPG-T3-C001-S03"], "result": "pass", "coverage": "cross-transaction definition, both examples, amounts, entries and trading-security exception"},
+    {"page": "T3:020", "chunks": ["JPG-T3-C001-S03"], "result": "pass", "coverage": "financial-liability conditions, table, entries, secondary-liability diagram and fair-value rule"},
+    {"page": "T3:021", "chunks": ["JPG-T3-C001-S03"], "result": "pass", "coverage": "full derecognition rule, 1,000/1,050/50 example, partial allocation and 913/87/137 calculation"},
+    {"page": "T3:022", "chunks": ["JPG-T3-C001-S03"], "result": "pass", "coverage": "new asset/liability rule, 1,050/30/50/30 example and recourse flow"},
+    {"page": "T3:023", "chunks": ["JPG-T3-C001-S04"], "result": "pass", "coverage": "asset evaluation principle, objective-value rationale, investor/company table, three information purposes and holding-purpose boundary"},
+    {"page": "T3:024", "chunks": ["JPG-T3-C001-S04"], "result": "pass", "coverage": "liability evaluation rule, derivative exception and summary table"},
+    {"page": "T3:025", "chunks": ["JPG-T3-C001-S05"], "result": "pass", "coverage": "money-claim carrying-value formula, amortized-cost exception, trading-purpose rule and three fair-value reasons"},
+    {"page": "T3:026", "chunks": ["JPG-T3-C001-S05"], "result": "pass", "coverage": "amortized-cost definition/method/condition/rationale, 1% and 9,000/10,000 example, credit-decline boundary"},
+    {"page": "T3:027", "chunks": ["JPG-T3-C001-S05"], "result": "pass", "coverage": "9,070/10,000/5% example, 454/476 entries, collection and period-allocation conclusion"},
+    {"page": "T3:028", "chunks": ["JPG-T3-C001-S05"], "result": "pass", "coverage": "three claim classifications, definitions, general-claim method and formula"},
+    {"page": "T3:029", "chunks": ["JPG-T3-C001-S05"], "result": "pass", "coverage": "doubtful-claim continuity, financial-content and cash-flow methods, 10,000/4%/8,890/1,110/9,246/356 timeline and both entries"},
+    {"page": "T3:030", "chunks": ["JPG-T3-C001-S05"], "result": "pass", "coverage": "bankruptcy-reorganization formula, individual/aggregate allowance methods, direct-deduction exception and uncollected-interest rule"}
+  ],
+  "semantic_review": {
+    "positive_examples": [
+      "T3:009 retains the financial-instrument definition, classification table and the ordinary-purchase versus difference-settlement boundary.",
+      "T3:011 retains both recognition bases with all four dates and every journal-entry line.",
+      "T3:013-T3:014 converts the two derecognition diagrams into component lists, control-transfer tests and whole-asset conclusions.",
+      "T3:021-T3:022 retain partial-derecognition allocation, new rights/obligations, formulas, amounts and entry direction.",
+      "T3:029-T3:030 retain the allowance formulas, numerical discounting, both permitted treatments and the bankruptcy exception."
+    ],
+    "negative_or_boundary_examples": [
+      "T3:007 initially omitted six explicit study-reference lines; the pilot correction restored them and refreshed S01 hashes.",
+      "T3:016 preserves that a buyback right or bankruptcy invalidation prevents control transfer.",
+      "T3:017 preserves that a restriction can still permit transfer when sale to many other third parties remains possible.",
+      "T3:018 preserves that the benefit-enjoyment test applies to security holders when the transferee is a special-purpose company.",
+      "T3:019 preserves that same-price trading-purpose securities are not automatically a cross transaction.",
+      "T3:030 preserves direct deduction as an exception for bankruptcy/reorganization claims, not as the general allowance treatment."
+    ],
+    "question_answer_links": {"status": "not_applicable", "reason": "No question layout appears in this theory pilot."},
+    "false_proposition_labels": {"status": "not_applicable", "reason": "No false-proposition set appears in this theory pilot; negative source boundaries remain explicitly qualified."}
+  },
+  "corrections": [
+    "Added the six page-007 財務計算テキスト cross-references omitted by the initial pilot chunk.",
+    "Updated the S01 chunk hash in the fragment and batch review records.",
+    "No other learner-text correction was required; no outside page, book, web source, OCR text or general-knowledge supplement was used."
+  ],
+  "checks": {
+    "check_manifest": "pass",
+    "check_batch": "pass",
+    "json_parse": "pass",
+    "git_diff_check": "pass",
+    "unresolved_count": 0,
+    "semantic_verdict": "PASS",
+    "automatic_check_boundary": "Schema, scope, ordering and hash checks do not independently prove image-to-text completeness; the PASS here is based on the recorded full-page visual review plus those checks."
+  },
+  "downstream": {
+    "status": "ready",
+    "canonical_tasks_unchanged": true,
+    "merged_markdown_created": false,
+    "cards_created": false,
+    "shared_manifests_changed": false,
+    "raw_source_media_tracked": false
+  }
+}

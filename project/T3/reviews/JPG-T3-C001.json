@@ -5,7 +5,7 @@
   "review_date": "2026-09-06",
   "reviewer_model": "GPT-5",
   "source_revision": {
-    "repository_commit": "5a5172858c90def7f4a6939307c875acb366666a",
+    "repository_commit": "fb4082260d3af7598cb417c2dd83a82cd224dc6d",
     "source_pdf_sha256": "1d9f0124a0c8ef759526decc90a1a410f694e2b7fa992b430fc413e783df85bc",
     "source_image_inventory_sha256": "8e0709aa6cd2d086d9df18627ae7eb466c20cdb59474bbef26038f03d9d40b24",
     "catalog_image_inventory_sha256": "af94a7c1f91d1eb56611afc242360566950d6f93d5a6ac7d5271c5e8d3f9d170",
@@ -38,7 +38,7 @@
     {"page": "T3:030", "printed_page": "㉝－23", "image": "pages/T3/page-030.jpg", "sha256": "f5d3ca39d043483c1a980bc0961b335bf3457920d72d983d9e22ccfa6669fb60"}
   ],
   "section_outputs": [
-    {"task": "JPG-T3-C001-S01", "chunk": "project/T3/chunks/JPG-T3-C001/JPG-T3-C001-S01.md", "chunk_sha256": "7b2fbaac09203d0df2affb90284a48064f722053029cf8b538d7627de176af13"},
+    {"task": "JPG-T3-C001-S01", "chunk": "project/T3/chunks/JPG-T3-C001/JPG-T3-C001-S01.md", "chunk_sha256": "04d2b1c6563b429edb586aa1647b11be9f85291a9be819b002f7fcc80d0661ec"},
     {"task": "JPG-T3-C001-S02", "chunk": "project/T3/chunks/JPG-T3-C001/JPG-T3-C001-S02.md", "chunk_sha256": "5876d2acd1d89fe0bd7c2339e09cb4d461cf480b32085331d21d951effeab55d"},
     {"task": "JPG-T3-C001-S03", "chunk": "project/T3/chunks/JPG-T3-C001/JPG-T3-C001-S03.md", "chunk_sha256": "3ab86e153b3c8188bd67a23d3a001eb5c7d954083a6961aa701c603d95cb3e33"},
     {"task": "JPG-T3-C001-S04", "chunk": "project/T3/chunks/JPG-T3-C001/JPG-T3-C001-S04.md", "chunk_sha256": "f44edfffe8d18bfb5840dd95fb80e8c0ea9d1e570fbf24ef50c5e3d0d9bb828a"},
@@ -105,7 +105,7 @@
   ],
   "corrections": [
     "Normalized OCR/PDF spacing artifacts only; all wording, labels, amounts and journal-entry relationships were checked against the designated JPGs.",
-    "Retained the examination-history tables and the source's study-reference lines in the chapter-overview chunk.",
+    "Added the six source study-reference lines from physical page T3:007 to the chapter-overview chunk; the earlier pilot version had omitted them.",
     "Retained the source's three control-transfer requirements, special-purpose-company exception, cross-transaction boundary, and direct-deduction exception rather than collapsing them into a general rule.",
     "Retained the source's numerical examples, formulas, both journal-entry alternatives and the cash-flow discounting timeline; no content from outside physical pages 007–030 was used."
   ],
