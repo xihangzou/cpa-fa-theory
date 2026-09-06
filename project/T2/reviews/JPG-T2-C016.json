@@ -1,0 +1,84 @@
+{
+  "batch_id": "JPG-T2-C016",
+  "status": "blocked",
+  "source_id": "T2",
+  "delivery_branch": "main",
+  "reviewed_on": "2026-09-06",
+  "reviewer_model": "GPT-5.6 Sol (current execution model; no model switch)",
+  "repository_revision_reviewed": "033b0cf9d269e638ae50b9841e93b73c512ff612",
+  "dependency_commits": [
+    "a2fb2bb829d112522128cdb145523302e9d1e7fd",
+    "558bb1e92a2bd7e550af9c2034dc695efde6f19d",
+    "fb4082260d3af7598cb417c2dd83a82cd224dc6d"
+  ],
+  "source_images": [
+    {"page":"T2:297","printed_page":null,"sha256":"d068f4b82f3e174cf51b74b0cddfa1c5d0c005d136b7f6069e81ff7287dafdce"},
+    {"page":"T2:298","printed_page":"㉙-1","sha256":"0963fbd85028aade22c99c9994d294074247f4cf7016045015287d6020bb4418"},
+    {"page":"T2:299","printed_page":"㉙-2","sha256":"1f9a78c6bad498cd000c1331b124bb15a8e27d138142b56a3283ee37b0b25b2d"},
+    {"page":"T2:300","printed_page":"㉙-3","sha256":"1473615a3016171150ebd49e12940a4542639caf4fdf0b8db48a8c12da8bcb8e"},
+    {"page":"T2:301","printed_page":"㉙-4","sha256":"aed24c4d9134bcaee64d7f07baad138801b05f0e2bc754952aea14366c71be2c"},
+    {"page":"T2:302","printed_page":"㉙-5","sha256":"c116bb6a81b5b8871fddf975173c571e7ef4b144439133c1c4bd77a253b51191"},
+    {"page":"T2:303","printed_page":"㉙-6","sha256":"ca63bfe6238c4a8e26c8c74d7174596c159a7e7f601b911f812d1627e18fe84a"},
+    {"page":"T2:304","printed_page":"㉙-7","sha256":"d9fe83a6be2ee6b8f7799b73323596254d1cc4970ee9b8892e1ad9e960273d86"},
+    {"page":"T2:305","printed_page":"㉙-8","sha256":"44fe55e037d450aed931a3380dda8aa8c0838f761c48cb9023b618346dea2350"},
+    {"page":"T2:306","printed_page":"㉙-9","sha256":"ef57f5a939cbe97043fe1013daf9126b1a3a940444bebbd4130bf48572aaa9e2"},
+    {"page":"T2:307","printed_page":"㉙-10","sha256":"08566fc7cc969339336b2bb3567229ce8b0db614933b4a262e0d75c3727679df"},
+    {"page":"T2:308","printed_page":"㉙-11","sha256":"6b2c7837b5ca9f6e9115b7e9cc8997f023c234d78f9c0a9c353451d0f4c352b5"},
+    {"page":"T2:309","printed_page":"㉙-12","sha256":"bf09322829329353653f2fcbcc7b0928ff6b7635ee4f012b0eaf8ed8ee580f2b"},
+    {"page":"T2:310","printed_page":"㉙-13","sha256":"48b3c48bf904fd8b6509a930447ea15b2c7aaea891ee2c287411654d56097bdc"},
+    {"page":"T2:311","printed_page":"㉙-14","sha256":"185c27d8673a24a27772943bcafc311648cb800c38a7aeda9a30f16eba49dac5"},
+    {"page":"T2:312","printed_page":"㉙-15","sha256":"9da20bcb851298290ec60126cc77e69c771319e5e5ef8c37994cba429d9c94d0"},
+    {"page":"T2:313","printed_page":"㉙-16","sha256":"b3d921c1d60d3e4ead0c9a3dab1b40a7a3017591e5b621d1b669719c5805f2ba"},
+    {"page":"T2:314","printed_page":"㉙-17","sha256":"9cedff9deeb95e2a89adc4ef4582c4595ad45cc496e2506a7127107d77400d0a"}
+  ],
+  "section_outputs": [
+    {"task":"JPG-T2-C016-S01","chunk_sha256":"e9b57f34cf4ccfa0279dd947447c684d7ac5acdfa2e44aa95d7ab73c903f6765"},
+    {"task":"JPG-T2-C016-S02","chunk_sha256":"b198852b5be0de55c5c3dc31803ba4538a2fc4590db7d744fd14105777ce0c83"},
+    {"task":"JPG-T2-C016-S03","chunk_sha256":"c84551d65822d2ec65b1564aa39de66f36a2f9ae7dfca1f7f13ea343b0a4a4b4"}
+  ],
+  "coverage": [
+    {"page":"T2:297","regions":["chapter title and importance stars","related calculation-text references","short-answer exam-history table","essay exam-history table"],"status":"pass"},
+    {"page":"T2:298","regions":["section 1 opener","1.税額計算の仕組み","tax/accounting comparison table","profit-to-taxable-income adjustment diagram"],"status":"pass"},
+    {"page":"T2:299","regions":["2.税額計算の具体例","X1/X2 loan-loss timing table","1,000/100/900 adjustment diagrams","法人税等の範囲 supplement"],"status":"pass"},
+    {"page":"T2:300","regions":["3.(1) tax-effect necessity problems","3.(2) P/L problem","900/1,000 taxable-income and 400/360 tax example"],"status":"pass"},
+    {"page":"T2:301","regions":["3.(3) B/S prepayment problem","3.(4) DTA solution entries 40","X1/X2 adjusted tax and profit tables"],"status":"pass"},
+    {"page":"T2:302","regions":["3.(5) purpose definition","balance-sheet-purpose supplement"],"status":"pass"},
+    {"page":"T2:303","regions":["section 2 opener","deferred-method definition","deferred-method features"],"status":"pass"},
+    {"page":"T2:304","regions":["40% to 45% deferred-method example","DTA 40 and 540/555 after-tax-profit values","deferred-method tax-rate rule"],"status":"pass"},
+    {"page":"T2:305","regions":["asset-liability-method definition","current-method adoption","asset-liability-method features","DTA 45 example"],"status":"pass"},
+    {"page":"T2:306","regions":["predicted-tax-rate rule","40 to 45 remeasurement by 5","deferred versus asset-liability method comparison table"],"status":"pass"},
+    {"page":"T2:307","regions":["section 3 opener","temporary and timing difference definitions","1,000/100/900 dual-view example"],"status":"pass"},
+    {"page":"T2:308","regions":["scope difference","other-securities 1,000 to 1,100 example","subset relationship diagram"],"status":"pass"},
+    {"page":"T2:309","regions":["current-system rule","permanent-difference definition and examples","resolving versus permanent comparison"],"status":"pass"},
+    {"page":"T2:310","regions":["future-deductible/future-taxable definitions","loan-loss future-deductible example","carryforward-loss equivalence rule"],"status":"pass"},
+    {"page":"T2:311","regions":["carryforward-loss assumptions","△8,000/10,000/6,000 table with 50% limit","DTA 3,200/2,000/1,200 entries"],"status":"pass"},
+    {"page":"T2:312","regions":["recoverability condition","3,000 loss versus future taxable income 2,000","DTA write-down 400 leaving 800"],"status":"pass"},
+    {"page":"T2:313","regions":["carryforward foreign-tax-credit supplement","immateriality exception","difference relationship diagram","complete examples table"],"status":"pass"},
+    {"page":"T2:314","regions":["standard future-deductible/future-taxable examples","DTA asset nature and DTL liability nature","asset-definition supplement"],"status":"pass"}
+  ],
+  "checks": {
+    "diagram": "pass",
+    "numerical": "pass",
+    "false_proposition": "not_applicable"
+  },
+  "corrections": [],
+  "findings": [
+    "All 18 included processing images T2:297-T2:314 were reopened at readable full-page resolution and compared with the three section chunks, including margins, supplements, tables, diagrams, journal entries, examples and boundary headings.",
+    "Physical page 297 is the included chapter opener with no printed label; pages 298-314 carry printed labels ㉙-1 through ㉙-17. No excluded/no-content page occurs inside this batch.",
+    "The batch contains complete sections 29.1 and 29.2 plus the inventory-approved bounded continuation of section 29.3 through physical page 314. The inventory boundary review records no stranded object or unplanned cross-boundary continuation at page 314; later chapter-29 content is owned by JPG-T2-C017 and was not read or used.",
+    "Numerical checks include 1,000/100/900; tax rate 40%; 400/360 and adjusted 360/400; deferred-tax entries 40; 40% to 45% tax-rate change; deferred-method 540/555; asset-liability-method 545/550; +5 remeasurement; other-securities 1,000 to 1,100; carryforward loss △8,000/10,000/6,000 with 50% limit; DTA 3,200/2,000/1,200; and recoverability write-down 400 leaving DTA 800.",
+    "The relationship diagram preserves permanent differences as outside tax-effect accounting, timing differences as a subset of temporary differences, future-taxable differences leading to deferred tax liabilities, future-deductible differences and equivalent items leading to deferred tax assets, and direct-to-equity valuation gains/losses.",
+    "No question-answer or false-proposition layout occurs in this theory batch.",
+    "BLOCKER: this chat runtime has no repository command-execution checkout and outbound shell access to GitHub is blocked. The required repository-native check-batch command and git diff --check therefore could not be run. Structural PASS is not claimed despite completed semantic review and local JSON/hash checks."
+  ],
+  "verification": {
+    "json_fragment": "pass",
+    "json_review": "pass",
+    "source_image_sha256": "18/18 computed from designated Drive JPGs; page 297 independently matched project/T2/sources.json",
+    "semantic_full_page_review": "pass",
+    "unresolved_marker_scan": "pass",
+    "check_batch": "blocked_runtime_no_repo_command_execution",
+    "git_diff_check": "blocked_runtime_no_repo_command_execution"
+  },
+  "unresolved_count": 0
+}
