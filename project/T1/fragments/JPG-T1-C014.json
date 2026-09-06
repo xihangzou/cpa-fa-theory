@@ -1,0 +1,79 @@
+{
+  "batch_id": "JPG-T1-C014",
+  "source_id": "T1",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-T1-C014-S01",
+      "batch_id": "JPG-T1-C014",
+      "chapter": "10",
+      "section": "10.1",
+      "title": "第1節 負債会計総論",
+      "expected_pages": ["T1:181", "T1:182", "T1:183", "T1:184"],
+      "processing_pages": ["T1:181", "T1:182", "T1:183", "T1:184"],
+      "output": "chunks/JPG-T1-C014/JPG-T1-C014-S01.md",
+      "status": "pass",
+      "chunk_sha256": "ea5e6e0d9a65c2db22ef52ea474866c9815cea5b1e035240a185b938ba2bbc50",
+      "locators": [
+        {"page": "T1:181", "printed_page": null, "source_region": "第10章の章扉、章タイトル、財務計算テキスト1第4章引当金への関連、短答式・論文式本試験の出題実績表", "destination_heading": "## 第1節 負債会計総論"},
+        {"page": "T1:182", "printed_page": "⑩－1", "source_region": "第1節の扉、1.負債の意義、2.負債の分類、法律上の債務（確定債務・条件付債務）の定義と例、会計的負債の定義・修繕引当金の例、分類図", "destination_heading": "## 第1節 負債会計総論"},
+        {"page": "T1:183", "printed_page": "⑩－2", "source_region": "修繕引当金と負債の定義の補足、3.流動負債と固定負債、4.流動負債の表示に関する諸論点、6項目の列挙と100分の5の表示規定", "destination_heading": "## 第1節 負債会計総論"},
+        {"page": "T1:184", "printed_page": "⑩－3", "source_region": "5.固定負債の表示に関する諸論点、固定負債5項目、引当金の一年内使用額・100分の5の規定、負債の時価評価の式・信用リスク・負債のパラドックス", "destination_heading": "## 第1節 負債会計総論"}
+      ]
+    },
+    {
+      "id": "JPG-T1-C014-S02",
+      "batch_id": "JPG-T1-C014",
+      "chapter": "10",
+      "section": "10.2",
+      "title": "第2節 引当金",
+      "expected_pages": ["T1:185", "T1:186", "T1:187", "T1:188", "T1:189", "T1:190", "T1:191", "T1:192", "T1:193", "T1:194", "T1:195", "T1:196"],
+      "processing_pages": ["T1:185", "T1:186", "T1:187", "T1:188", "T1:189", "T1:190", "T1:191", "T1:192", "T1:193", "T1:194", "T1:195", "T1:196"],
+      "output": "chunks/JPG-T1-C014/JPG-T1-C014-S02.md",
+      "status": "pass",
+      "chunk_sha256": "5f2651c78ad5410ba9bef8375c1b9abe14bdc3e5f1b1df928b244037ba8c6610",
+      "locators": [
+        {"page": "T1:185", "printed_page": "⑩－4", "source_region": "第2節の扉、1.引当金の意義と設定要件、4要件、修繕引当金の適用例、地震損失引当金の反例と利益留保の説明", "destination_heading": "## 第2節 引当金"},
+        {"page": "T1:186", "printed_page": "⑩－5", "source_region": "2.引当金の設定目的、3.引当金の計上論拠、原因発生主義・費用収益対応の原則の定義表と修繕・製品保証の図解", "destination_heading": "## 第2節 引当金"},
+        {"page": "T1:187", "printed_page": "⑩－6", "source_region": "貸借対照表の観点からの設定目的、4.損益計算の観点からの3分類表、損失性引当金の設定論拠", "destination_heading": "## 第2節 引当金"},
+        {"page": "T1:188", "printed_page": "⑩－7", "source_region": "5.貸借対照表の観点からの分類、評価性・負債性（債務性あり・なし）、6.資金留保効果、7.企業会計原則注解18の11項目と現行制度上の注意", "destination_heading": "## 第2節 引当金"},
+        {"page": "T1:189", "printed_page": "⑩－8", "source_region": "貸倒引当金の定義、原則法・例外法①・例外法②の表示規定、受取手形5,000・売掛金2,400・引当金2,600の表示例と注記", "destination_heading": "## 第2節 引当金"},
+        {"page": "T1:190", "printed_page": "⑩－9", "source_region": "製品保証引当金、有償保証契約、賞与引当金、役員賞与と引当金、修繕引当金の定義", "destination_heading": "## 第2節 引当金"},
+        {"page": "T1:191", "printed_page": "⑩－10", "source_region": "国際財務報告基準における将来の修繕費の処理、航空機のエンジン3億円・機体24億円の図、IFRS処理と日本処理の仕訳", "destination_heading": "## 第2節 引当金"},
+        {"page": "T1:192", "printed_page": "⑩－11", "source_region": "会社計算規則の引当金規定、株主優待引当金、5.各種引当金の計上区分、6.各種引当金の分類と損益計算書表示区分の表", "destination_heading": "## 第2節 引当金"},
+        {"page": "T1:193", "printed_page": "⑩－12", "source_region": "8.引当金の認識、1%×100の期待値例、9.引当金の測定、期待値方式・最頻値方式の表", "destination_heading": "## 第2節 引当金"},
+        {"page": "T1:194", "printed_page": "⑩－13", "source_region": "10.引当金と各項目の異同点、貸倒引当金と減価償却累計額、引当金と積立金、負債性引当金と未払費用の3比較表", "destination_heading": "## 第2節 引当金"},
+        {"page": "T1:195", "printed_page": "⑩－14", "source_region": "11.租税特別措置法上の準備金、意義、海外投資等損失準備金・輸入製品国内市場開拓準備金の例、会計処理", "destination_heading": "## 第2節 引当金"},
+        {"page": "T1:196", "printed_page": "⑩－15", "source_region": "12.特別法上の準備金、渇水準備引当金の例、会計上の性格、固定負債の次の区分表示、租税特別措置法上・特別法上の準備金のまとめ表", "destination_heading": "## 第2節 引当金"}
+      ]
+    },
+    {
+      "id": "JPG-T1-C014-S03",
+      "batch_id": "JPG-T1-C014",
+      "chapter": "10",
+      "section": "10.3",
+      "title": "第3節 偶発債務と偶発損失",
+      "expected_pages": ["T1:197", "T1:198", "T1:199", "T1:200"],
+      "processing_pages": ["T1:197", "T1:198", "T1:199", "T1:200"],
+      "output": "chunks/JPG-T1-C014/JPG-T1-C014-S03.md",
+      "status": "pass",
+      "chunk_sha256": "c69641834fe704f9704cdee9147d60341e9e7eab970d00f930fec5c1170db7aa",
+      "locators": [
+        {"page": "T1:197", "printed_page": "⑩－16", "source_region": "第3節の扉、1.偶発事象と偶発利益・偶発損失、偶発事象と後発事象の時系列図、偶発利益・偶発損失の処理", "destination_heading": "## 第3節 偶発債務と偶発損失"},
+        {"page": "T1:198", "printed_page": "⑩－17", "source_region": "2.偶発債務、意義、債務保証の保証人・債務者・債権者の関係図、求償権、仕訳、注記規定", "destination_heading": "## 第3節 偶発債務と偶発損失"},
+        {"page": "T1:199", "printed_page": "⑩－18", "source_region": "債務保証の会計処理と表示、引当金要件を満たさない場合・満たす場合、総額から引当金を控除する注記、偶発損失の2分類と関係図", "destination_heading": "## 第3節 偶発債務と偶発損失"},
+        {"page": "T1:200", "printed_page": "⑩－19", "source_region": "債務保証1,000万円の一連の会計処理、X1・X2・X3年度の仕訳と注記、損失可能性・見積可能性別の取扱い表", "destination_heading": "## 第3節 偶発債務と偶発損失"}
+      ]
+    }
+  ],
+  "review": "reviews/JPG-T1-C014.json",
+  "excluded_pages": [],
+  "source_scope": {
+    "source_id": "T1",
+    "physical_range": "T1:181-T1:200",
+    "processing_range": "T1:181-T1:200",
+    "chapter": "10",
+    "title": "負債会計",
+    "content_authority": "designated existing JPGs only"
+  }
+}
