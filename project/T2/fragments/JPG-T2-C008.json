@@ -1,0 +1,101 @@
+{
+  "batch_id": "JPG-T2-C008",
+  "source_id": "T2",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-T2-C008-S01",
+      "batch_id": "JPG-T2-C008",
+      "chapter": "25",
+      "section": "25.1",
+      "title": "第1節 本会計基準の適用対象",
+      "expected_pages": ["T2:143", "T2:144", "T2:145"],
+      "processing_pages": ["T2:143", "T2:144", "T2:145"],
+      "output": "chunks/JPG-T2-C008/JPG-T2-C008-S01.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T2:143", "printed_page": null, "source_region": "第25章の章扉、章タイトル、短答式・論文式本試験における出題実績、5論点一覧", "destination_heading": "## 第1節 本会計基準の適用対象"},
+        {"page": "T2:144", "printed_page": "㉕-1", "source_region": "第1節扉、1.除去とは、2.資産除去債務とは、原子力発電所の図、環境修復や修繕の補足", "destination_heading": "## 第1節 本会計基準の適用対象"},
+        {"page": "T2:145", "printed_page": "㉕-2", "source_region": "対象・対象外の全表、取得時/使用中/使用終了前後の境界図、法律上の義務に準じる例、アスベストの図", "destination_heading": "## 第1節 本会計基準の適用対象"}
+      ],
+      "chunk_sha256": "82e21d30838556636525504cc2e455e9f885e453a32aac7c27259b0b30a108f6"
+    },
+    {
+      "id": "JPG-T2-C008-S02",
+      "batch_id": "JPG-T2-C008",
+      "chapter": "25",
+      "section": "25.2",
+      "title": "第2節 資産除去債務に関する会計処理",
+      "expected_pages": ["T2:146", "T2:147", "T2:148", "T2:149", "T2:150", "T2:151", "T2:152"],
+      "processing_pages": ["T2:146", "T2:147", "T2:148", "T2:149", "T2:150", "T2:151", "T2:152"],
+      "output": "chunks/JPG-T2-C008/JPG-T2-C008-S02.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T2:146", "printed_page": "㉕-3", "source_region": "第2節扉、基本目的、将来支出100億円・2年・1%の割引現在価値図", "destination_heading": "## 第2節 資産除去債務に関する会計処理"},
+        {"page": "T2:147", "printed_page": "㉕-4", "source_region": "負債計上時点、合理的見積りができない場合、資産除去債務の算定", "destination_heading": "## 第2節 資産除去債務に関する会計処理"},
+        {"page": "T2:148", "printed_page": "㉕-5", "source_region": "割引前将来キャッシュ・フロー、割引率、4注記、70%/30%の期待値例、減損会計基準との差", "destination_heading": "## 第2節 資産除去債務に関する会計処理"},
+        {"page": "T2:149", "printed_page": "㉕-6", "source_region": "割引率の補足、無リスク率の3論拠、5%/8%の5,000の例とパラドックス図", "destination_heading": "## 第2節 資産除去債務に関する会計処理"},
+        {"page": "T2:150", "printed_page": "㉕-7", "source_region": "除去費用の資産計上、3,777/3,000/777の仕訳、時の経過による調整額39、割引率固定の論拠", "destination_heading": "## 第2節 資産除去債務に関する会計処理"},
+        {"page": "T2:151", "printed_page": "㉕-8", "source_region": "貸借対照表の一年基準、損益計算書の費用配分区分、営業外費用/営業費用の見解と論拠", "destination_heading": "## 第2節 資産除去債務に関する会計処理"},
+        {"page": "T2:152", "printed_page": "㉕-9", "source_region": "履行差額の原則処理と早期除去の例外、3,777/900/920/20の仕訳、見解比較、100→120→122の図", "destination_heading": "## 第2節 資産除去債務に関する会計処理"}
+      ],
+      "chunk_sha256": "209d4a211ebaaca00b5c4c72037fd2021668bc8e8e7bb72db1d9a9049a8bc48e"
+    },
+    {
+      "id": "JPG-T2-C008-S03",
+      "batch_id": "JPG-T2-C008",
+      "chapter": "25",
+      "section": "25.3",
+      "title": "第3節 資産除去債務の会計処理に関する様々な見解とその論拠",
+      "expected_pages": ["T2:153", "T2:154", "T2:155", "T2:156", "T2:157"],
+      "processing_pages": ["T2:153", "T2:154", "T2:155", "T2:156", "T2:157"],
+      "output": "chunks/JPG-T2-C008/JPG-T2-C008-S03.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T2:153", "printed_page": "㉕-10", "source_region": "第3節扉、連続意見書の規定・論拠・問題点、1,000/100/80の設例と245の仕訳", "destination_heading": "## 第3節 資産除去債務の会計処理に関する様々な見解とその論拠"},
+        {"page": "T2:154", "printed_page": "㉕-11", "source_region": "引当金処理の主張、1,000/100/80の225・20の設例、引当金処理と両建処理の比較表", "destination_heading": "## 第3節 資産除去債務の会計処理に関する様々な見解とその論拠"},
+        {"page": "T2:155", "printed_page": "㉕-12", "source_region": "B社の両処理の前提、3,000/900/5%の仕訳比較、引当金処理の2論拠、双務未履行の説明", "destination_heading": "## 第3節 資産除去債務の会計処理に関する様々な見解とその論拠"},
+        {"page": "T2:156", "printed_page": "㉕-13", "source_region": "除去費用の資産性補足、両建処理の3論拠、3,000対3,777/3,900の図、採用理由", "destination_heading": "## 第3節 資産除去債務の会計処理に関する様々な見解とその論拠"},
+        {"page": "T2:157", "printed_page": "㉕-14", "source_region": "除去費用を別資産とする2見解と現行処理、土地関連除去費用の費用配分", "destination_heading": "## 第3節 資産除去債務の会計処理に関する様々な見解とその論拠"}
+      ],
+      "chunk_sha256": "a753338bbb726f4fa9fd9f65d3a3726590d322a4179d6bbef5eec5f1285c0787"
+    },
+    {
+      "id": "JPG-T2-C008-S04",
+      "batch_id": "JPG-T2-C008",
+      "chapter": "25",
+      "section": "25.4",
+      "title": "第4節 資産除去債務に関するその他の会計処理",
+      "expected_pages": ["T2:158", "T2:159", "T2:160", "T2:161", "T2:162", "T2:163", "T2:164"],
+      "processing_pages": ["T2:158", "T2:159", "T2:160", "T2:161", "T2:162", "T2:163", "T2:164"],
+      "output": "chunks/JPG-T2-C008/JPG-T2-C008-S04.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T2:158", "printed_page": "㉕-15", "source_region": "第4節扉、使用の都度発生する場合の原則法と一括費用処理の説明", "destination_heading": "## 第4節 資産除去債務に関するその他の会計処理"},
+        {"page": "T2:159", "printed_page": "㉕-16", "source_region": "C社の使用都度発生例、原則法/容認法の仕訳、366・622・11・94・669・97、各年度の費用表", "destination_heading": "## 第4節 資産除去債務に関するその他の会計処理"},
+        {"page": "T2:160", "printed_page": "㉕-17", "source_region": "見積り変更の基本と増加/減少時の割引率、D社例の前提と見積額・割引率表", "destination_heading": "## 第4節 資産除去債務に関するその他の会計処理"},
+        {"page": "T2:161", "printed_page": "㉕-18", "source_region": "D社例の取得時・決算時・変更時の仕訳、1,035・31・32・279・300・40・472・加重平均2.9%", "destination_heading": "## 第4節 資産除去債務に関するその他の会計処理"},
+        {"page": "T2:162", "printed_page": "㉕-19", "source_region": "将来キャッシュ・フロー見積り変更の3アプローチ比較、プロスペクティブ採用の論拠、賃借建物の例外処理", "destination_heading": "## 第4節 資産除去債務に関するその他の会計処理"},
+        {"page": "T2:163", "printed_page": "㉕-20", "source_region": "敷金1,000、返還見込なし400、5年、80の仕訳例、減損の兆候", "destination_heading": "## 第4節 資産除去債務に関するその他の会計処理"},
+        {"page": "T2:164", "printed_page": "㉕-21", "source_region": "複数の有形固定資産から構成される場合の原則、設備A/Bの1,000の一括計上、更新・除去の仕訳", "destination_heading": "## 第4節 資産除去債務に関するその他の会計処理"}
+      ],
+      "chunk_sha256": "9dc65262e8c4000c9e2aa07d33010246c5b1110d9dbfec06bc585c988d81ed02"
+    },
+    {
+      "id": "JPG-T2-C008-S05",
+      "batch_id": "JPG-T2-C008",
+      "chapter": "25",
+      "section": "25.5",
+      "title": "第5節 注記事項",
+      "expected_pages": ["T2:165"],
+      "processing_pages": ["T2:165"],
+      "output": "chunks/JPG-T2-C008/JPG-T2-C008-S05.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T2:165", "printed_page": "㉕-22", "source_region": "第5節扉、資産除去債務に関する注記事項5項目、重要性が乏しい場合の除外", "destination_heading": "## 第5節 注記事項"}
+      ],
+      "chunk_sha256": "529215f63fd6a7b4b4becc058ead0341b98390b937e8b6f92cc0b14f33aaf319"
+    }
+  ],
+  "review": "reviews/JPG-T2-C008.json"
+}
