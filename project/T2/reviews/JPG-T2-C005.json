@@ -1,0 +1,127 @@
+{
+  "batch_id": "JPG-T2-C005",
+  "source_id": "T2",
+  "status": "pass",
+  "reviewed_on": "2026-09-06",
+  "reviewer_model": "GPT-5 (current execution model; no model switch)",
+  "source_revision": {
+    "delivery_branch": "main",
+    "repository_commit": "34db8aafb939b7304b2cb691ac87f7d92f35f911",
+    "source_catalog": "contracts/source-catalog.json",
+    "source_catalog_sha256": "8358e9cffb068f63df0bdfcc8f99be035e66454ac8710d381f0ff9eb87728079",
+    "page_plan": "contracts/page-plan.json",
+    "page_plan_sha256": "997a7280b171df5803c2a3bb7c2ee8764082e01f3bdb03c194b9129fe18d26c9",
+    "source_manifest": "project/T2/sources.json",
+    "source_manifest_sha256": "35cf038c8b38aa4d44abb1f9a9791db1f51f59e6bac41645e5df53c3b09e12b4",
+    "source_map": "project/T2/source-map.json",
+    "source_map_sha256": "de4c75bc119b6501ecb1871fccb717cb421c7790d365d0f1eb2ebd493d58ba44",
+    "batch_manifest": "project/T2/batches.json",
+    "batch_manifest_sha256": "959f880a026c8b1ca149f12f39fb954b06f86d5600eb0f8207c406139e9546e3",
+    "inventory_review": "project/T2/inventory-review.json",
+    "inventory_review_sha256": "b0f2b10e53d792d7ee563a24810b117c95a09599769fefc3d58138466e6f1384",
+    "source_original_root": "/Users/xihangzou/Study/320_CPA/322_財務理論/images/cpa-fa-theory-textbook-2-jpg",
+    "source_pdf": "/Users/xihangzou/Study/320_CPA/322_財務理論/01_テキスト/財務会計論テキスト　理論2.pdf",
+    "source_pdf_sha256": "ba4b33c8881021044b6360bfd10899f1b1f882bda3ccc7df3f1f895e9cc55ba5",
+    "source_image_inventory_sha256": "d577500ca271c7d4f0e8a1103b481e38e2494cc9c236d9fe954b35938a9a1c91",
+    "edition": "2024/2025年合格目標",
+    "publication_date": "2023-05-04",
+    "physical_scope": "T2:086-T2:100",
+    "processing_scope": "T2:086-T2:100",
+    "content_authority": "designated existing JPGs only; PDF used only for identity/planning support"
+  },
+  "dependency_commits": [
+    "a2fb2bb829d112522128cdb145523302e9d1e7fd",
+    "558bb1e92a2bd7e550af9c2034dc695efde6f19d",
+    "fb4082260d3af7598cb417c2dd83a82cd224dc6d"
+  ],
+  "source_images": [
+    {"page": "T2:086", "printed_page": "㉓-23", "image": "pages/T2/page-086.jpg", "sha256": "22ebc8ef053eec43598b8ae6bb05390ddc8338449427698e92765ef6682b0f94"},
+    {"page": "T2:087", "printed_page": "㉓-24", "image": "pages/T2/page-087.jpg", "sha256": "e416f286f6d90104221861cba39f0ecd50bdb097a236b9ea1b7666848552af1b"},
+    {"page": "T2:088", "printed_page": "㉓-25", "image": "pages/T2/page-088.jpg", "sha256": "2792c141578fde073611c3abbc29ef962fcc3ca73d5098a92cd864e2022f9c52"},
+    {"page": "T2:089", "printed_page": "㉓-26", "image": "pages/T2/page-089.jpg", "sha256": "6df4b47ece807b6581b3cc1f1a20e91078b1e65e1157e360929c0391596f43f7"},
+    {"page": "T2:090", "printed_page": "㉓-27", "image": "pages/T2/page-090.jpg", "sha256": "97ef397341cce92a85a14d2c048941cc3e63dede340d4e1da91944960a009d8b"},
+    {"page": "T2:091", "printed_page": "㉓-28", "image": "pages/T2/page-091.jpg", "sha256": "86df31bb5b02702c3d24b0db98dcf7aa5d13924bda52e399cfc50e73dccde810"},
+    {"page": "T2:092", "printed_page": "㉓-29", "image": "pages/T2/page-092.jpg", "sha256": "c563af52cc00d2e2f7ca2298ecd6703784e2e14d179418d5b74ab73900169054"},
+    {"page": "T2:093", "printed_page": "㉓-30", "image": "pages/T2/page-093.jpg", "sha256": "2174a6e4c15bbcac063b726c668d84939a2e46ce6199ab99a1d102736eb397c5"},
+    {"page": "T2:094", "printed_page": "㉓-31", "image": "pages/T2/page-094.jpg", "sha256": "7b766d05b3b6af2a87b1ebffca7b217b2c76a6fa05ecdc6bd386b20ee451cb38"},
+    {"page": "T2:095", "printed_page": "㉓-32", "image": "pages/T2/page-095.jpg", "sha256": "31b071bd4077adcd202e2b06089f59851bd3fd9108d27fae7c674c9ae0fdeb24"},
+    {"page": "T2:096", "printed_page": "㉓-33", "image": "pages/T2/page-096.jpg", "sha256": "ee923b0155cb8066f8c14bbb822f5053c956b3a2208b1577bb22b400ea5af027"},
+    {"page": "T2:097", "printed_page": "㉓-34", "image": "pages/T2/page-097.jpg", "sha256": "7e3bc186fe0d59380f34fb2869f1c5d05ba5f0a3ef345602aa5b6a430cb94052"},
+    {"page": "T2:098", "printed_page": "㉓-35", "image": "pages/T2/page-098.jpg", "sha256": "39a650d5db0ea8de52644d988027ca0d01d38ec3a52cda7698c1ff29c71a7f97"},
+    {"page": "T2:099", "printed_page": "㉓-36", "image": "pages/T2/page-099.jpg", "sha256": "4753b4ce83a3813269130f67f620a8619eb1d29f538d024a90cd1901ac20102c"},
+    {"page": "T2:100", "printed_page": "㉓-37", "image": "pages/T2/page-100.jpg", "sha256": "94214008ff19231bd11a4a729a7a22be8b58376607d4ea37781581e82e90a5f9"}
+  ],
+  "section_outputs": [
+    {"task": "JPG-T2-C005-S01", "chunk": "project/T2/chunks/JPG-T2-C005/JPG-T2-C005-S01.md", "chunk_sha256": "f5b769151c571d2f9b8a371067656b3762f9c503770d1a9a412834ba188bf3d9"},
+    {"task": "JPG-T2-C005-S02", "chunk": "project/T2/chunks/JPG-T2-C005/JPG-T2-C005-S02.md", "chunk_sha256": "817f49f65f291fa30436e5c22cae3a4a26d9db3913f39b59309c96debc1353f9"},
+    {"task": "JPG-T2-C005-S03", "chunk": "project/T2/chunks/JPG-T2-C005/JPG-T2-C005-S03.md", "chunk_sha256": "b0b88c326e7193aa674a0907ffd86ea748384fb437b8de2fff85bfbeb144162b"},
+    {"task": "JPG-T2-C005-S04", "chunk": "project/T2/chunks/JPG-T2-C005/JPG-T2-C005-S04.md", "chunk_sha256": "5dd94ac3b9799d5c7627a97f532ec9dceb1bca5f393fe0ad41ddab2ce8be5a5b"}
+  ],
+  "coverage": [
+    {"page": "T2:086", "status": "pass", "regions": ["第8節扉、将来C/Fの算定、企業固有の事情を反映"]},
+    {"page": "T2:087", "status": "pass", "regions": ["現在の状況を反映、間接的な支出、利息等の取扱い", "本文・余白・フッター"]},
+    {"page": "T2:088", "status": "pass", "regions": ["資産除去債務の補足、建設仮勘定の本文・注1・注2、数値図"]},
+    {"page": "T2:089", "status": "pass", "regions": ["最頻値・期待値、リスク、現金基準・発生基準"]},
+    {"page": "T2:090", "status": "pass", "regions": ["第9節扉、共用資産の定義・2例、のれん分割の要件・方法、図"]},
+    {"page": "T2:091", "status": "pass", "regions": ["原則法・例外法の比較表、グルーピングのイメージ図"]},
+    {"page": "T2:092", "status": "pass", "regions": ["原則法の共用資産・のれんの取扱い、判定順序、配分図"]},
+    {"page": "T2:093", "status": "pass", "regions": ["原則法の具体例、A/B/C表、共用資産を含む判定表、配分計算"]},
+    {"page": "T2:094", "status": "pass", "regions": ["例外法の本文、共用資産・のれんの配分及び優先配分の図"]},
+    {"page": "T2:095", "status": "pass", "regions": ["兆候と原則法・例外法の関係、相違点表、主要な資産の補足"]},
+    {"page": "T2:096", "status": "pass", "regions": ["第10節扉、減価償却、根拠の資本循環・未償却原価図、表示規定"]},
+    {"page": "T2:097", "status": "pass", "regions": ["戻入れを行わない理由、10,000・4,000・5,000の時系列と仕訳"]},
+    {"page": "T2:098", "status": "pass", "regions": ["貸借対照表表示の原則・例外1～3、1,000・300・500の表示例、P/L、注記"]},
+    {"page": "T2:099", "status": "pass", "regions": ["第11節扉、FASBモデルの比較表、投資失敗の説明、10,000・4,000の仕訳図"]},
+    {"page": "T2:100", "status": "pass", "regions": ["IASモデルの比較表、5,000・12,000の戻入れ上限、IFRSのれん補足"]}
+  ],
+  "page_fidelity_matrix": [
+    {"page": "T2:086", "chunk": "JPG-T2-C005-S01", "sections": ["chapter title", "section 8", "topics 1-2"], "result": "pass"},
+    {"page": "T2:087", "chunk": "JPG-T2-C005-S01", "sections": ["topics 3-4", "indirect expenses", "interest and tax"], "result": "pass"},
+    {"page": "T2:088", "chunk": "JPG-T2-C005-S01", "sections": ["ARO supplement", "construction in progress", "notes 1-2"], "result": "pass"},
+    {"page": "T2:089", "chunk": "JPG-T2-C005-S01", "sections": ["topic 5", "mode/expected value", "cash/accrual basis"], "result": "pass"},
+    {"page": "T2:090", "chunk": "JPG-T2-C005-S02", "sections": ["topics 1-2", "goodwill split diagram and criteria"], "result": "pass"},
+    {"page": "T2:091", "chunk": "JPG-T2-C005-S02", "sections": ["topic 3", "principle/exception table and diagram"], "result": "pass"},
+    {"page": "T2:092", "chunk": "JPG-T2-C005-S02", "sections": ["topic 4", "common asset/goodwill rules and diagram"], "result": "pass"},
+    {"page": "T2:093", "chunk": "JPG-T2-C005-S02", "sections": ["principle-method tables", "560/540/365/195/105 example", "65 allocation"], "result": "pass"},
+    {"page": "T2:094", "chunk": "JPG-T2-C005-S02", "sections": ["topic 5", "exception-method table and allocation diagram"], "result": "pass"},
+    {"page": "T2:095", "chunk": "JPG-T2-C005-S02", "sections": ["method-selection supplement", "difference table", "major-asset supplement"], "result": "pass"},
+    {"page": "T2:096", "chunk": "JPG-T2-C005-S03", "sections": ["topic 1", "unamortized-cost rationale", "post-impairment display rules"], "result": "pass"},
+    {"page": "T2:097", "chunk": "JPG-T2-C005-S03", "sections": ["topic 2", "reversal reasons", "10,000/4,000/5,000 example"], "result": "pass"},
+    {"page": "T2:098", "chunk": "JPG-T2-C005-S03", "sections": ["topics 3-5", "four balance-sheet display formats", "disclosure items"], "result": "pass"},
+    {"page": "T2:099", "chunk": "JPG-T2-C005-S04", "sections": ["chapter title", "FASB model table", "sale and repurchase example"], "result": "pass"},
+    {"page": "T2:100", "chunk": "JPG-T2-C005-S04", "sections": ["IAS model table", "reversal cap", "goodwill reversal supplement"], "result": "pass"}
+  ],
+  "numerical_checks": [
+    {"page": "T2:088", "check": "ARO example preserves 100, 10, 40, 110, 30, 80 and the correct 70 loss when removal cost is excluded from future C/F.", "result": "pass"},
+    {"page": "T2:088", "check": "Construction-in-progress example preserves 800−300−100=400 and progress rates A20%, B50%, C90%.", "result": "pass"},
+    {"page": "T2:093", "check": "Principle-method example preserves 560, 540, 365, △195, △105, common-asset 100/60, and 65 excess allocation.", "result": "pass"},
+    {"page": "T2:093", "check": "Allocation calculations preserve A: △65×(100÷250)=△26 and 74; B: △65×(150÷250)=△39 and 111; C=120; common asset=60.", "result": "pass"},
+    {"page": "T2:097", "check": "No-reversal example preserves acquisition 10,000, impairment 6,000, recovery from 4,000 to 5,000 and the prohibited 1,000 reversal.", "result": "pass"},
+    {"page": "T2:098", "check": "Balance-sheet example preserves acquisition cost 1,000, depreciation 300, impairment 500, and all 200 net carrying amounts.", "result": "pass"},
+    {"page": "T2:099", "check": "FASB example preserves land 10,000, cash 4,000, impairment loss 6,000 and 4,000 repurchase.", "result": "pass"}
+  ],
+  "diagram_checks": [
+    {"pages": ["T2:086", "T2:087"], "check": "Future cash inflow less future cash outflow, current-use assumptions, unplanned changes, indirect costs and excluded interest/tax relationships are preserved.", "result": "pass"},
+    {"page": "T2:088", "check": "ARO and construction-in-progress diagrams preserve the 110/30/80 versus 70 distinction, the 500/800/△300/△100 timing and non-allocation before completion.", "result": "pass"},
+    {"pages": ["T2:090", "T2:091", "T2:092", "T2:094", "T2:095"], "check": "Goodwill splitting, principle/exception grouping, allocation order, and common-asset/goodwill difference diagrams are represented without losing direction or hierarchy.", "result": "pass"},
+    {"pages": ["T2:093", "T2:097", "T2:099", "T2:100"], "check": "The numerical time-series and allocation diagrams preserve the sequence of recognition, measurement, allocation, reversal cap and model differences.", "result": "pass"}
+  ],
+  "question_pair_checks": {"status": "not_applicable", "result": "This theory batch contains no question-to-answer pairs or false-proposition labels."},
+  "findings": [
+    "All 15 included processing images were reopened at readable full-page resolution and compared against the four section chunks, including margins, sidebars, footers, tables, formulas, numerical examples and diagram-only meaning.",
+    "The four physical-page section boundaries match the frozen plan: section 8 (86-89), section 9 (90-95), section 10 (96-98) and section 11 (99-100).",
+    "Definitions, conditions, exceptions, timing, rationale, calculation labels, allocation tables, display formats and model comparisons are represented in structured Markdown.",
+    "No source object crosses the batch boundary; all 15 pages are included, owned once by this batch and cited exactly once by the ordered section shard."
+  ],
+  "corrections": [
+    "No source-content correction was required after image comparison; only Markdown structure and PDF spacing artifacts were normalized."
+  ],
+  "excluded_pages": [],
+  "checks": {
+    "numerical": "pass",
+    "diagram": "pass",
+    "false_proposition": "not_applicable"
+  },
+  "unresolved_count": 0,
+  "semantic_boundary": "Structural/hash checks validate scope and consistency; semantic completeness is supported by the recorded page-by-page image review. The designated JPGs are authoritative; the PDF was used only for identity/planning support."
+}

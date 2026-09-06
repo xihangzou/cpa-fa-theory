@@ -1,0 +1,84 @@
+{
+  "batch_id": "JPG-T2-C005",
+  "source_id": "T2",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-T2-C005-S01",
+      "batch_id": "JPG-T2-C005",
+      "chapter": "23",
+      "section": "23.8",
+      "title": "第8節 将来キャッシュ・フローの見積り",
+      "expected_pages": ["T2:086", "T2:087", "T2:088", "T2:089"],
+      "processing_pages": ["T2:086", "T2:087", "T2:088", "T2:089"],
+      "output": "chunks/JPG-T2-C005/JPG-T2-C005-S01.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T2:086", "printed_page": "㉓-23", "source_region": "第8節扉、将来キャッシュ・フローの算定、企業に固有の事情を反映、出題区分とフッター", "destination_heading": "## 第8節 将来キャッシュ・フローの見積り"},
+        {"page": "T2:087", "printed_page": "㉓-24", "source_region": "現在の状況を反映、計画されていない設備増強・事業再編、遊休資産、合理的設備投資、間接支出、利息・法人税等", "destination_heading": "## 第8節 将来キャッシュ・フローの見積り"},
+        {"page": "T2:088", "printed_page": "㉓-25", "source_region": "資産除去債務を計上した場合の減損会計、100・10・40・110・30・80の図、建設仮勘定の取扱い本文と注1・注2の図", "destination_heading": "## 第8節 将来キャッシュ・フローの見積り"},
+        {"page": "T2:089", "printed_page": "㉓-26", "source_region": "将来キャッシュ・フローの見積り方法、最頻値・期待値、乖離リスク、現金基準・発生基準", "destination_heading": "## 第8節 将来キャッシュ・フローの見積り"}
+      ],
+      "chunk_sha256": "f5b769151c571d2f9b8a371067656b3762f9c503770d1a9a412834ba188bf3d9"
+    },
+    {
+      "id": "JPG-T2-C005-S02",
+      "batch_id": "JPG-T2-C005",
+      "chapter": "23",
+      "section": "23.9",
+      "title": "第9節 共用資産とのれん",
+      "expected_pages": ["T2:090", "T2:091", "T2:092", "T2:093", "T2:094", "T2:095"],
+      "processing_pages": ["T2:090", "T2:091", "T2:092", "T2:093", "T2:094", "T2:095"],
+      "output": "chunks/JPG-T2-C005/JPG-T2-C005-S02.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T2:090", "printed_page": "㉓-27", "source_region": "第9節扉、共用資産の定義と2例、のれんの帳簿価額の分割、前提図、分割要件と分割方法", "destination_heading": "## 第9節 共用資産とのれん"},
+        {"page": "T2:091", "printed_page": "㉓-28", "source_region": "共用資産・のれんに係る資産のグルーピング、原則法と例外法の比較表、両方法のイメージ図", "destination_heading": "## 第9節 共用資産とのれん"},
+        {"page": "T2:092", "printed_page": "㉓-29", "source_region": "原則法による場合の共用資産・のれんの取扱い、減損の判定順序、増加額と超過額の配分、原則法イメージ", "destination_heading": "## 第9節 共用資産とのれん"},
+        {"page": "T2:093", "printed_page": "㉓-30", "source_region": "原則法の具体例、A・B・C・共用資産の帳簿価額、減損兆候、割引前C/F、回収可能価額、減損損失と配分計算", "destination_heading": "## 第9節 共用資産とのれん"},
+        {"page": "T2:094", "printed_page": "㉓-31", "source_region": "例外法による場合の共用資産・のれんの配分、配分後の判定、優先配分、共用資産とのれんの配分図", "destination_heading": "## 第9節 共用資産とのれん"},
+        {"page": "T2:095", "printed_page": "㉓-32", "source_region": "減損の兆候と原則法・例外法の関係、共用資産とのれんの会計処理の相違点、主要な資産に該当しない理由", "destination_heading": "## 第9節 共用資産とのれん"}
+      ],
+      "chunk_sha256": "817f49f65f291fa30436e5c22cae3a4a26d9db3913f39b59309c96debc1353f9"
+    },
+    {
+      "id": "JPG-T2-C005-S03",
+      "batch_id": "JPG-T2-C005",
+      "chapter": "23",
+      "section": "23.10",
+      "title": "第10節 減損処理後の会計処理及び財務諸表の開示",
+      "expected_pages": ["T2:096", "T2:097", "T2:098"],
+      "processing_pages": ["T2:096", "T2:097", "T2:098"],
+      "output": "chunks/JPG-T2-C005/JPG-T2-C005-S03.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T2:096", "printed_page": "㉓-33", "source_region": "第10節扉、減価償却、減損処理後に減価償却を行う根拠、資本循環図、表示に関する規定", "destination_heading": "## 第10節 減損処理後の会計処理及び財務諸表の開示"},
+        {"page": "T2:097", "printed_page": "㉓-34", "source_region": "減損損失の戻入れを行わない理由、土地10,000・4,000・5,000の数値例と仕訳図", "destination_heading": "## 第10節 減損処理後の会計処理及び財務諸表の開示"},
+        {"page": "T2:098", "printed_page": "㉓-35", "source_region": "貸借対照表表示の原則法・例外1～3、建物1,000・300・500の表示例、損益計算書表示、注記事項", "destination_heading": "## 第10節 減損処理後の会計処理及び財務諸表の開示"}
+      ],
+      "chunk_sha256": "b0b88c326e7193aa674a0907ffd86ea748384fb437b8de2fff85bfbeb144162b"
+    },
+    {
+      "id": "JPG-T2-C005-S04",
+      "batch_id": "JPG-T2-C005",
+      "chapter": "23",
+      "section": "23.11",
+      "title": "第11節 減損会計をめぐる2つのモデル",
+      "expected_pages": ["T2:099", "T2:100"],
+      "processing_pages": ["T2:099", "T2:100"],
+      "output": "chunks/JPG-T2-C005/JPG-T2-C005-S04.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T2:099", "printed_page": "㉓-36", "source_region": "第11節扉、海外の2モデルの説明、アメリカ（FASB）モデルの特徴表・投資失敗の説明・10,000と4,000の仕訳図", "destination_heading": "## 第11節 減損会計をめぐる2つのモデル"},
+        {"page": "T2:100", "printed_page": "㉓-37", "source_region": "IASモデルの特徴表、回収可能価額5,000・12,000の戻入れ上限、IFRSにおけるのれんの戻入れ禁止理由", "destination_heading": "## 第11節 減損会計をめぐる2つのモデル"}
+      ],
+      "chunk_sha256": "5dd94ac3b9799d5c7627a97f532ec9dceb1bca5f393fe0ad41ddab2ce8be5a5b"
+    }
+  ],
+  "review": "reviews/JPG-T2-C005.json",
+  "excluded_pages": [],
+  "source_scope": {
+    "expected_pages": ["T2:086", "T2:087", "T2:088", "T2:089", "T2:090", "T2:091", "T2:092", "T2:093", "T2:094", "T2:095", "T2:096", "T2:097", "T2:098", "T2:099", "T2:100"],
+    "processing_pages": ["T2:086", "T2:087", "T2:088", "T2:089", "T2:090", "T2:091", "T2:092", "T2:093", "T2:094", "T2:095", "T2:096", "T2:097", "T2:098", "T2:099", "T2:100"]
+  }
+}
