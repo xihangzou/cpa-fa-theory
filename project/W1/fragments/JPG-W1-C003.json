@@ -1,0 +1,151 @@
+{
+  "batch_id": "JPG-W1-C003",
+  "source_id": "W1",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-W1-C003-S01",
+      "batch_id": "JPG-W1-C003",
+      "chapter": "02",
+      "section": "02.1",
+      "title": "1. 真実性の原則",
+      "expected_pages": ["W1:032", "W1:033"],
+      "processing_pages": ["W1:032", "W1:033"],
+      "output": "chunks/JPG-W1-C003/JPG-W1-C003-S01.md",
+      "status": "pass",
+      "locators": [
+        {"page": "W1:032", "printed_page": "②-1", "source_region": "1. 真実性の原則、問題1から問題4の問題文、重要度・過去問表示、ページ余白およびフッター", "destination_heading": "## 1. 真実性の原則"},
+        {"page": "W1:033", "printed_page": "②-2", "source_region": "問題1から問題4の正誤、根拠説明および追加説明、ページ余白およびフッター", "destination_heading": "## 1. 真実性の原則"}
+      ],
+      "chunk_sha256": "0767b4b935f9a9d208843dd396333ce030af9aada3900866f2bf1d467a131caa"
+    },
+    {
+      "id": "JPG-W1-C003-S02",
+      "batch_id": "JPG-W1-C003",
+      "chapter": "02",
+      "section": "02.2",
+      "title": "2. 正規の簿記の原則",
+      "expected_pages": ["W1:032", "W1:033"],
+      "processing_pages": ["W1:032", "W1:033"],
+      "output": "chunks/JPG-W1-C003/JPG-W1-C003-S02.md",
+      "status": "pass",
+      "locators": [
+        {"page": "W1:032", "printed_page": "②-1", "source_region": "2. 正規の簿記の原則、問題5および問題6の問題文、重要度・過去問表示、ページ余白およびフッター", "destination_heading": "## 2. 正規の簿記の原則"},
+        {"page": "W1:033", "printed_page": "②-2", "source_region": "問題5および問題6の正誤、根拠説明および追加説明、ページ余白およびフッター", "destination_heading": "## 2. 正規の簿記の原則"}
+      ],
+      "chunk_sha256": "158b7b4625c30d26a9348e4df0d738b59808ff9ecee209b60765c43e35c0b7c5"
+    },
+    {
+      "id": "JPG-W1-C003-S03",
+      "batch_id": "JPG-W1-C003",
+      "chapter": "02",
+      "section": "02.3",
+      "title": "3. 資本取引・損益取引区分の原則",
+      "expected_pages": ["W1:034", "W1:035"],
+      "processing_pages": ["W1:034", "W1:035"],
+      "output": "chunks/JPG-W1-C003/JPG-W1-C003-S03.md",
+      "status": "pass",
+      "locators": [
+        {"page": "W1:034", "printed_page": "②-3", "source_region": "問題7の正規の簿記の原則の問題文、3. 資本取引・損益取引区分の原則、問題8から問題10の問題文、重要度・過去問表示、ページ余白およびフッター", "destination_heading": "## 3. 資本取引・損益取引区分の原則"},
+        {"page": "W1:035", "printed_page": "②-4", "source_region": "問題7から問題10の正誤、根拠説明および追加説明、ページ余白およびフッター", "destination_heading": "## 3. 資本取引・損益取引区分の原則"}
+      ],
+      "chunk_sha256": "96cf669eb75d9e87eeab40d6e2ed25976ceca28fc0387cc8ea9dfdfcc8e3e35a"
+    },
+    {
+      "id": "JPG-W1-C003-S04",
+      "batch_id": "JPG-W1-C003",
+      "chapter": "02",
+      "section": "02.4",
+      "title": "4. 明瞭性の原則",
+      "expected_pages": ["W1:036", "W1:037", "W1:038", "W1:039"],
+      "processing_pages": ["W1:036", "W1:037", "W1:038", "W1:039"],
+      "output": "chunks/JPG-W1-C003/JPG-W1-C003-S04.md",
+      "status": "pass",
+      "locators": [
+        {"page": "W1:036", "printed_page": "②-5", "source_region": "4. 明瞭性の原則、問題11から問題15の問題文、重要度・過去問表示、ページ余白およびフッター", "destination_heading": "## 4. 明瞭性の原則"},
+        {"page": "W1:037", "printed_page": "②-6", "source_region": "問題11から問題15の正誤、法令・基準参照、根拠説明および追加説明、ページ余白およびフッター", "destination_heading": "## 4. 明瞭性の原則"},
+        {"page": "W1:038", "printed_page": "②-7", "source_region": "問題16から問題20の問題文、重要度・過去問表示、ページ余白およびフッター", "destination_heading": "## 4. 明瞭性の原則"},
+        {"page": "W1:039", "printed_page": "②-8", "source_region": "問題16から問題20の正誤、法令・基準参照、根拠説明および追加説明、ページ余白およびフッター", "destination_heading": "## 4. 明瞭性の原則"}
+      ],
+      "chunk_sha256": "1cd993db58eb4be7dbab1eff0c87442545782275f1d11978cde9ca3a60b3ff99"
+    },
+    {
+      "id": "JPG-W1-C003-S05",
+      "batch_id": "JPG-W1-C003",
+      "chapter": "02",
+      "section": "02.5",
+      "title": "5. 継続性の原則",
+      "expected_pages": ["W1:040", "W1:041"],
+      "processing_pages": ["W1:040", "W1:041"],
+      "output": "chunks/JPG-W1-C003/JPG-W1-C003-S05.md",
+      "status": "pass",
+      "locators": [
+        {"page": "W1:040", "printed_page": "②-9", "source_region": "5. 継続性の原則、問題21から問題25の問題文、6. 保守主義の原則冒頭、ページ余白およびフッター", "destination_heading": "## 5. 継続性の原則"},
+        {"page": "W1:041", "printed_page": "②-10", "source_region": "問題21から問題25の正誤、根拠説明および追加説明、ページ余白およびフッター", "destination_heading": "## 5. 継続性の原則"}
+      ],
+      "chunk_sha256": "39556a0b625b5a26e3810d23891bd785daeff978c79c1f65628ec1cbf55e0cc0"
+    },
+    {
+      "id": "JPG-W1-C003-S06",
+      "batch_id": "JPG-W1-C003",
+      "chapter": "02",
+      "section": "02.6",
+      "title": "6. 保守主義の原則",
+      "expected_pages": ["W1:040", "W1:041", "W1:042", "W1:043"],
+      "processing_pages": ["W1:040", "W1:041", "W1:042", "W1:043"],
+      "output": "chunks/JPG-W1-C003/JPG-W1-C003-S06.md",
+      "status": "pass",
+      "locators": [
+        {"page": "W1:040", "printed_page": "②-9", "source_region": "6. 保守主義の原則、問題26および問題27の問題文、ページ余白およびフッター", "destination_heading": "## 6. 保守主義の原則"},
+        {"page": "W1:041", "printed_page": "②-10", "source_region": "問題26および問題27の正誤、根拠説明および追加説明、ページ余白およびフッター", "destination_heading": "## 6. 保守主義の原則"},
+        {"page": "W1:042", "printed_page": "②-11", "source_region": "問題28および問題29の問題文、重要度・過去問表示、ページ余白およびフッター", "destination_heading": "## 6. 保守主義の原則"},
+        {"page": "W1:043", "printed_page": "②-12", "source_region": "問題28および問題29の正誤、法令・基準参照、根拠説明および追加説明、ページ余白およびフッター", "destination_heading": "## 6. 保守主義の原則"}
+      ],
+      "chunk_sha256": "72a4d39aa152a487ec60d7168c4c11d5b69f379366e64c74c1dfdc83f733a6b9"
+    },
+    {
+      "id": "JPG-W1-C003-S07",
+      "batch_id": "JPG-W1-C003",
+      "chapter": "02",
+      "section": "02.7",
+      "title": "7. 単一性の原則",
+      "expected_pages": ["W1:042", "W1:043"],
+      "processing_pages": ["W1:042", "W1:043"],
+      "output": "chunks/JPG-W1-C003/JPG-W1-C003-S07.md",
+      "status": "pass",
+      "locators": [
+        {"page": "W1:042", "printed_page": "②-11", "source_region": "7. 単一性の原則、問題30の問題文、ページ余白およびフッター", "destination_heading": "## 7. 単一性の原則"},
+        {"page": "W1:043", "printed_page": "②-12", "source_region": "問題30の正誤、根拠説明および追加説明、ページ余白およびフッター", "destination_heading": "## 7. 単一性の原則"}
+      ],
+      "chunk_sha256": "8bc86ca61ff805271774405a7408365f05b17aadd82706a7de7bdc095f3d8151"
+    },
+    {
+      "id": "JPG-W1-C003-S08",
+      "batch_id": "JPG-W1-C003",
+      "chapter": "02",
+      "section": "02.8",
+      "title": "8. 重要性の原則",
+      "expected_pages": ["W1:042", "W1:043", "W1:044", "W1:045"],
+      "processing_pages": ["W1:042", "W1:043", "W1:044", "W1:045"],
+      "output": "chunks/JPG-W1-C003/JPG-W1-C003-S08.md",
+      "status": "pass",
+      "locators": [
+        {"page": "W1:042", "printed_page": "②-11", "source_region": "8. 重要性の原則、問題31から問題32の問題文、ページ余白およびフッター", "destination_heading": "## 8. 重要性の原則"},
+        {"page": "W1:043", "printed_page": "②-12", "source_region": "問題31から問題32の正誤、根拠説明および追加説明、ページ余白およびフッター", "destination_heading": "## 8. 重要性の原則"},
+        {"page": "W1:044", "printed_page": "②-13", "source_region": "問題33の問題文、重要度・過去問表示、ページ余白およびフッター", "destination_heading": "## 8. 重要性の原則"},
+        {"page": "W1:045", "printed_page": "②-14", "source_region": "問題33の正誤、基準参照、根拠説明および追加説明、ページ余白およびフッター", "destination_heading": "## 8. 重要性の原則"}
+      ],
+      "chunk_sha256": "47245feecbe38ba979d515bb23259afdfcda8ac7b2d9e262dfb627e3b44c8073"
+    }
+  ],
+  "review": "reviews/JPG-W1-C003.json",
+  "excluded_pages": [],
+  "source_scope": {
+    "source_id": "W1",
+    "physical_range": "W1:032-W1:045",
+    "processing_range": "W1:032-W1:045",
+    "chapter": "02",
+    "title": "一般原則",
+    "content_authority": "designated existing JPGs only"
+  }
+}
