@@ -1,0 +1,67 @@
+{
+  "batch_id": "JPG-T3-C017",
+  "source_id": "T3",
+  "status": "pass",
+  "unresolved_count": 0,
+  "reviewer_model": "GPT-5",
+  "source_images": [
+    {"page": "T3:301", "printed_page": "㊴－24", "image": "pages/T3/page-301.jpg", "sha256": "24759a5f9a7714599850c7b76960f0d0038ffcb6e1a8b1a38520b4d4342c479d"},
+    {"page": "T3:302", "printed_page": "㊴－25", "image": "pages/T3/page-302.jpg", "sha256": "09a87be3d1376ea3926b4d9cd96e19831f941fafe9e499637aebb843a5af2931"},
+    {"page": "T3:303", "printed_page": "㊴－26", "image": "pages/T3/page-303.jpg", "sha256": "b14a70f89a1fa381f52a46ba543bdc2bc8fc721fec858f674e1701909a99f664"},
+    {"page": "T3:304", "printed_page": "㊴－27", "image": "pages/T3/page-304.jpg", "sha256": "5b538fbc19cae1cb1f113588fbf7e9d1cf0c46b8d15a2cf81b02ff3c37fdf4d8"},
+    {"page": "T3:305", "printed_page": "㊴－28", "image": "pages/T3/page-305.jpg", "sha256": "e72db935ce2beb95ebf068382d17e25ebc3649099942f5555ca99053e7f6174b"},
+    {"page": "T3:306", "printed_page": "㊴－29", "image": "pages/T3/page-306.jpg", "sha256": "c1f5ad2f13afe075caa389afa02c0b5d0584423961c698d008480ee12d2d309a"},
+    {"page": "T3:307", "printed_page": "㊴－30", "image": "pages/T3/page-307.jpg", "sha256": "b182718690438500a249adc0f0478e7fc118f67013ae1897cab1308ef6e41de9"},
+    {"page": "T3:308", "printed_page": "㊴－31", "image": "pages/T3/page-308.jpg", "sha256": "9743e6e94317c752ed714265a10cb74e2bc18ed27aa16b4f168f35f57043bcde"},
+    {"page": "T3:309", "printed_page": "㊴－32", "image": "pages/T3/page-309.jpg", "sha256": "7bd0747ab70ef01d4ca6d45b55bb006a1ec26a132be8f0d44dbc32d47bbd9e4c"},
+    {"page": "T3:310", "printed_page": "㊴－33", "image": "pages/T3/page-310.jpg", "sha256": "c358cfb8ec012c74c48e96d567a92bd858fa18a2848cf7bfb9fb60de40866a5e"},
+    {"page": "T3:311", "printed_page": "㊴－34", "image": "pages/T3/page-311.jpg", "sha256": "3ef98506538d5c2c2831f45789d3214ffc6ff34be823c0155b731362d36555d8"},
+    {"page": "T3:312", "printed_page": "㊴－35", "image": "pages/T3/page-312.jpg", "sha256": "8b6910f56f6fdf485671b25f220279ced97d60eefb1ca3018967cd7547ac7309"},
+    {"page": "T3:313", "printed_page": "㊴－36", "image": "pages/T3/page-313.jpg", "sha256": "7b4155184dcc7a83d195c74ffea1f83dfc628d7f1971bf3cf466950711f25303"},
+    {"page": "T3:314", "printed_page": "㊴－37", "image": "pages/T3/page-314.jpg", "sha256": "a4d1c5bd4e3cb4a1f628a4c4987a0cfae2ab4e1bc6ca73f8b9b8d2d207f1c539"},
+    {"page": "T3:315", "printed_page": "㊴－38", "image": "pages/T3/page-315.jpg", "sha256": "dd6f59ac8f0346b36378fbf705b3ea7f80bbc371501c2cef77273859b03c1627"},
+    {"page": "T3:316", "printed_page": "㊴－39", "image": "pages/T3/page-316.jpg", "sha256": "8cc5819028389b97ffc35e68b293b55354f073ac8098bbfd334f8a157a365448"}
+  ],
+  "section_outputs": [
+    {"task": "JPG-T3-C017-S01", "chunk": "project/T3/chunks/JPG-T3-C017/JPG-T3-C017-S01.md", "chunk_sha256": "d4e6f73b883eb2ac59c5cb1af519e2901269ddaf29b18ddd03682adb2c69165c"},
+    {"task": "JPG-T3-C017-S02", "chunk": "project/T3/chunks/JPG-T3-C017/JPG-T3-C017-S02.md", "chunk_sha256": "5d6b7c158825f0501dd3fc6b2bb38ffe45a0ab7266fd4234e1eb72483f0bee03"},
+    {"task": "JPG-T3-C017-S03", "chunk": "project/T3/chunks/JPG-T3-C017/JPG-T3-C017-S03.md", "chunk_sha256": "72603dd32d57dfb235fa6aad508b93900a2d36a76302c24bc16b9c6fad8accc2"},
+    {"task": "JPG-T3-C017-S04", "chunk": "project/T3/chunks/JPG-T3-C017/JPG-T3-C017-S04.md", "chunk_sha256": "3c477cd67d215ebc6a610f2063cbd1f32e4e331c8d8a1e6888fa40a3408a52ab"}
+  ],
+  "coverage": [
+    {"page": "T3:301", "status": "pass", "regions": ["第5節の分類、キー概念の図と優先関係", "本文、枠、欄外、脚注相当表示、ページ境界をS01と照合"]},
+    {"page": "T3:302", "status": "pass", "regions": ["子会社の場合の個別処理、700/500と300/500の数値・仕訳、連結処理", "本文、表、数値、仕訳、欄外およびページ番号をS01と照合"]},
+    {"page": "T3:303", "status": "pass", "regions": ["関連会社の場合の個別処理、800/500と400/500の数値・仕訳、連結処理", "本文、表、数値、仕訳、欄外およびページ番号をS01と照合"]},
+    {"page": "T3:304", "status": "pass", "regions": ["子会社・関連会社以外の場合の処理、仕訳、2つの整理表", "本文、表、数値、欄外およびページ番号をS01と照合"]},
+    {"page": "T3:305", "status": "pass", "regions": ["株式のみの個別・連結整理表、現金等と株式の個別整理表", "表の行列、評価額、損益、連結処理、欄外およびページ番号をS01と照合"]},
+    {"page": "T3:306", "status": "pass", "regions": ["第6節の企業結合前後の関係図、投資清算の説明、仕訳、継続的関与", "図の主体・矢印、本文、仕訳、欄外およびページ番号をS02と照合"]},
+    {"page": "T3:307", "status": "pass", "regions": ["投資継続の説明・仕訳、第7節/第8節への分類、未取扱い範囲", "本文、分類図、欄外およびページ番号をS02と照合"]},
+    {"page": "T3:308", "status": "pass", "regions": ["第7節の子会社の場合の関係図、3行の個別・連結処理表、3注記", "図、表、注記、欄外およびページ番号をS03と照合"]},
+    {"page": "T3:309", "status": "pass", "regions": ["第7節の関連会社の場合の関係図、2行の個別・連結処理表、注記", "図、表、注記、欄外およびページ番号をS03と照合"]},
+    {"page": "T3:310", "status": "pass", "regions": ["第7節の子会社・関連会社以外の場合の関係図、2行の個別・連結処理表、注記", "図、表、注記、欄外およびページ番号をS03と照合"]},
+    {"page": "T3:311", "status": "pass", "regions": ["第8節の関係図、子会社の場合の持分減少・増加の導入と図", "図、本文、欄外およびページ番号をS04と照合"]},
+    {"page": "T3:312", "status": "pass", "regions": ["子会社の場合の持分減少、60%から56%の計算、持分変動と連結処理表", "図、計算式、表、脚注、欄外およびページ番号をS04と照合"]},
+    {"page": "T3:313", "status": "pass", "regions": ["子会社の場合の持分増加、60%から73%の計算、処理表、事業分離との境界注記", "図、計算式、表、注記、欄外およびページ番号をS04と照合"]},
+    {"page": "T3:314", "status": "pass", "regions": ["関連会社の場合の持分減少・増加の図表、処理表、残存関連会社株式の評価注記", "図、表、注記、欄外およびページ番号をS04と照合"]},
+    {"page": "T3:315", "status": "pass", "regions": ["子会社・関連会社以外の場合の持分減少・増加の図表と投資性格の注記", "図、表、注記、欄外およびページ番号をS04と照合"]},
+    {"page": "T3:316", "status": "pass", "regions": ["[MEMO]のみの白紙。学習本文なし", "範囲終端と次章への未継続を確認"]}
+  ],
+  "findings": [
+    "指定された16画像をすべて高解像度で再確認し、本文、表、仕訳、数値、図、余白、欄外の重要度表示、注記、ページ番号およびセクション境界を対応するチャンクと照合した。",
+    "第5節では、共通支配下の取引を上位概念とする点、700/500・300/500および800/500・400/500の差額処理、時価・帳簿価額・移転損益・取得原価の関係を保持した。",
+    "第6節から第8節では、投資の清算・継続、企業結合前後の持分変動、子会社・関連会社・その他の区別、のれん・持分変動差額・資本剰余金および連結上の消去の境界を保持した。",
+    "ページ316は[MEMO]のみの白紙であり、内容補完のために範囲外画像を使用していない。"
+  ],
+  "corrections": [],
+  "checks": {
+    "numerical": "pass",
+    "diagram": "pass",
+    "false_proposition": "not_applicable"
+  },
+  "dependency_commits": [
+    "a2fb2bb829d112522128cdb145523302e9d1e7fd",
+    "cccf7c381768b18116d49e4847dac5df2b01506c",
+    "0034627e759ba83225ae91dbc5cba1c1825ba3a6",
+    "117874231bdc7324c0e9a4b4ed0e994740d8e58d"
+  ]
+}

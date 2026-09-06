@@ -1,0 +1,80 @@
+{
+  "batch_id": "JPG-T3-C017",
+  "source_id": "T3",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-T3-C017-S01",
+      "batch_id": "JPG-T3-C017",
+      "chapter": "39",
+      "section": "39.5",
+      "title": "第5節 受取対価が現金等の財産と分離先企業の株式である場合",
+      "expected_pages": ["T3:301", "T3:302", "T3:303", "T3:304", "T3:305"],
+      "processing_pages": ["T3:301", "T3:302", "T3:303", "T3:304", "T3:305"],
+      "output": "chunks/JPG-T3-C017/JPG-T3-C017-S01.md",
+      "status": "pass",
+      "chunk_sha256": "d4e6f73b883eb2ac59c5cb1af519e2901269ddaf29b18ddd03682adb2c69165c",
+      "locators": [
+        {"page": "T3:301", "printed_page": "㊴－24", "source_region": "第5節の見出し、3分類、共通支配下の取引と投資の継続・清算の2つのキー概念および優先関係", "destination_heading": "## 第5節 受取対価が現金等の財産と分離先企業の株式である場合"},
+        {"page": "T3:302", "printed_page": "㊴－25", "source_region": "1.子会社となる場合、個別処理、700と500および300と500の数値例・仕訳、連結処理", "destination_heading": "## 第5節 受取対価が現金等の財産と分離先企業の株式である場合"},
+        {"page": "T3:303", "printed_page": "㊴－26", "source_region": "2.関連会社となる場合、個別処理、800と500および400と500の数値例・仕訳、連結処理", "destination_heading": "## 第5節 受取対価が現金等の財産と分離先企業の株式である場合"},
+        {"page": "T3:304", "printed_page": "㊴－27", "source_region": "3.子会社・関連会社以外、時価処理・仕訳、分離元企業の会計処理の考え方のまとめ表", "destination_heading": "## 第5節 受取対価が現金等の財産と分離先企業の株式である場合"},
+        {"page": "T3:305", "printed_page": "㊴－28", "source_region": "対価が株式のみの場合の個別・連結整理表、現金等と株式の場合の個別財務諸表整理表", "destination_heading": "## 第5節 受取対価が現金等の財産と分離先企業の株式である場合"}
+      ]
+    },
+    {
+      "id": "JPG-T3-C017-S02",
+      "batch_id": "JPG-T3-C017",
+      "chapter": "39",
+      "section": "39.6",
+      "title": "第6節 被結合企業の株主に係る会計処理",
+      "expected_pages": ["T3:306", "T3:307"],
+      "processing_pages": ["T3:306", "T3:307"],
+      "output": "chunks/JPG-T3-C017/JPG-T3-C017-S02.md",
+      "status": "pass",
+      "chunk_sha256": "5d6b7c158825f0501dd3fc6b2bb38ffe45a0ab7266fd4234e1eb72483f0bee03",
+      "locators": [
+        {"page": "T3:306", "printed_page": "㊴－29", "source_region": "第6節の見出し、企業結合前後の取引イメージ、投資が清算されたとみる場合の説明・仕訳・継続的関与の例", "destination_heading": "## 第6節 被結合企業の株主に係る会計処理"},
+        {"page": "T3:307", "printed_page": "㊴－30", "source_region": "投資が継続しているとみる場合の説明・仕訳、第7節・第8節への分類、現金と株式の併用は本テキストで扱わない旨", "destination_heading": "## 第6節 被結合企業の株主に係る会計処理"}
+      ]
+    },
+    {
+      "id": "JPG-T3-C017-S03",
+      "batch_id": "JPG-T3-C017",
+      "chapter": "39",
+      "section": "39.7",
+      "title": "第7節 受取対価が現金等の財産のみである場合の被結合企業の株主に係る会計処理",
+      "expected_pages": ["T3:308", "T3:309", "T3:310"],
+      "processing_pages": ["T3:308", "T3:309", "T3:310"],
+      "output": "chunks/JPG-T3-C017/JPG-T3-C017-S03.md",
+      "status": "pass",
+      "chunk_sha256": "72603dd32d57dfb235fa6aad508b93900a2d36a76302c24bc16b9c6fad8accc2",
+      "locators": [
+        {"page": "T3:308", "printed_page": "㊴－31", "source_region": "第7節の見出し、子会社を被結合企業とした企業結合の図、子会社・関連会社・その他の3行整理表と注記", "destination_heading": "## 第7節 受取対価が現金等の財産のみである場合の被結合企業の株主に係る会計処理"},
+        {"page": "T3:309", "printed_page": "㊴－32", "source_region": "関連会社を被結合企業とした企業結合の図、関連会社・子会社または関連会社・その他の2行整理表と注記", "destination_heading": "## 第7節 受取対価が現金等の財産のみである場合の被結合企業の株主に係る会計処理"},
+        {"page": "T3:310", "printed_page": "㊴－33", "source_region": "子会社・関連会社以外を被結合企業とした企業結合の図および2行整理表と注記", "destination_heading": "## 第7節 受取対価が現金等の財産のみである場合の被結合企業の株主に係る会計処理"}
+      ]
+    },
+    {
+      "id": "JPG-T3-C017-S04",
+      "batch_id": "JPG-T3-C017",
+      "chapter": "39",
+      "section": "39.8",
+      "title": "第8節 受取対価が結合企業の株式のみである場合の被結合企業の株主に係る会計処理",
+      "expected_pages": ["T3:311", "T3:312", "T3:313", "T3:314", "T3:315", "T3:316"],
+      "processing_pages": ["T3:311", "T3:312", "T3:313", "T3:314", "T3:315", "T3:316"],
+      "output": "chunks/JPG-T3-C017/JPG-T3-C017-S04.md",
+      "status": "pass",
+      "chunk_sha256": "3c477cd67d215ebc6a610f2063cbd1f32e4e331c8d8a1e6888fa40a3408a52ab",
+      "locators": [
+        {"page": "T3:311", "printed_page": "㊴－34", "source_region": "第8節の見出し、企業結合前後の図、子会社を被結合企業とした場合の持分減少・増加の導入", "destination_heading": "## 第8節 受取対価が結合企業の株式のみである場合の被結合企業の株主に係る会計処理"},
+        {"page": "T3:312", "printed_page": "㊴－35", "source_region": "子会社の場合の持分減少、60%から56%の数値例、持分変動と連結処理表", "destination_heading": "## 第8節 受取対価が結合企業の株式のみである場合の被結合企業の株主に係る会計処理"},
+        {"page": "T3:313", "printed_page": "㊴－36", "source_region": "子会社の場合の持分増加、60%から73%の数値例、持分変動と事業分離との境界注記", "destination_heading": "## 第8節 受取対価が結合企業の株式のみである場合の被結合企業の株主に係る会計処理"},
+        {"page": "T3:314", "printed_page": "㊴－37", "source_region": "関連会社の場合の持分減少・増加、個別・連結処理表、関連会社株式の残存評価注記", "destination_heading": "## 第8節 受取対価が結合企業の株式のみである場合の被結合企業の株主に係る会計処理"},
+        {"page": "T3:315", "printed_page": "㊴－38", "source_region": "子会社・関連会社以外の場合の持分減少・増加、個別・連結処理表と投資性格の注記", "destination_heading": "## 第8節 受取対価が結合企業の株式のみである場合の被結合企業の株主に係る会計処理"},
+        {"page": "T3:316", "printed_page": "㊴－39", "source_region": "[MEMO]のみの白紙。学習本文なし。範囲終端の確認", "destination_heading": "## 第8節 受取対価が結合企業の株式のみである場合の被結合企業の株主に係る会計処理"}
+      ]
+    }
+  ],
+  "review": "reviews/JPG-T3-C017.json"
+}
