@@ -1,0 +1,201 @@
+{
+  "issue": 16,
+  "issue_id": "JPG-T2-PILOT-QA",
+  "plan_id": "cpa-fa-theory-jpg-md-20260905",
+  "status": "pass",
+  "reviewed_on": "2026-09-06",
+  "reviewer_model": "GPT-5 (current execution model; no model switch)",
+  "delivery_branch": "main",
+  "repository_revision_reviewed": "a6e69fbb64cc16aa5800f0aa6a3cf32c7ae449a3",
+  "source_revision": {
+    "source_id": "T2",
+    "edition": "2024/2025年合格目標",
+    "publication_date": "2023-05-04",
+    "physical_scope": "T2:007-T2:030",
+    "processing_scope": "T2:007-T2:030",
+    "content_authority": "designated existing JPGs only; PDF used only for identity/planning support",
+    "image_folder": "/Users/xihangzou/Study/320_CPA/322_財務理論/images/cpa-fa-theory-textbook-2-jpg",
+    "source_pdf": "/Users/xihangzou/Study/320_CPA/322_財務理論/01_テキスト/財務会計論テキスト　理論2.pdf",
+    "source_pdf_sha256": "ba4b33c8881021044b6360bfd10899f1b1f882bda3ccc7df3f1f895e9cc55ba5",
+    "source_image_inventory_sha256": "d577500ca271c7d4f0e8a1103b481e38e2494cc9c236d9fe954b35938a9a1c91",
+    "source_catalog": "contracts/source-catalog.json",
+    "source_catalog_sha256": "8358e9cffb068f63df0bdfcc8f99be035e66454ac8710d381f0ff9eb87728079",
+    "page_plan": "contracts/page-plan.json",
+    "page_plan_sha256": "997a7280b171df5803c2a3bb7c2ee8764082e01f3bdb03c194b9129fe18d26c9",
+    "source_manifest": "project/T2/sources.json",
+    "source_manifest_sha256": "35cf038c8b38aa4d44abb1f9a9791db1f51f59e6bac41645e5df53c3b09e12b4",
+    "source_map": "project/T2/source-map.json",
+    "source_map_sha256": "de4c75bc119b6501ecb1871fccb717cb421c7790d365d0f1eb2ebd493d58ba44",
+    "batch_manifest": "project/T2/batches.json",
+    "batch_manifest_sha256": "959f880a026c8b1ca149f12f39fb954b06f86d5600eb0f8207c406139e9546e3",
+    "inventory_review": "project/T2/inventory-review.json",
+    "inventory_review_sha256": "b0f2b10e53d792d7ee563a24810b117c95a09599769fefc3d58138466e6f1384"
+  },
+  "dependencies": [
+    {
+      "issue": 1,
+      "artifact": "JPG-000 helper and batch-aware validation",
+      "commit": "a2fb2bb829d112522128cdb145523302e9d1e7fd",
+      "ancestor_of_review_revision": true
+    },
+    {
+      "issue": 3,
+      "artifact": "T2 source inventory, source map and batch ledger",
+      "commit": "558bb1e92a2bd7e550af9c2034dc695efde6f19d",
+      "ancestor_of_review_revision": true
+    },
+    {
+      "issue": 9,
+      "artifact": "T2 C001 pilot chunks, fragment shard and source review",
+      "commit": "72b3e1c",
+      "ancestor_of_review_revision": true,
+      "expected_outputs": [
+        "project/T2/chunks/JPG-T2-C001/",
+        "project/T2/fragments/JPG-T2-C001.json",
+        "project/T2/reviews/JPG-T2-C001.json"
+      ]
+    }
+  ],
+  "pilot_batch": {
+    "batch_id": "JPG-T2-C001",
+    "chapter": "21",
+    "title": "棚卸資産の評価に関する会計基準",
+    "expected_page_count": 24,
+    "processing_page_count": 24,
+    "excluded_pages": [],
+    "sections": [
+      {
+        "task": "JPG-T2-C001-S01",
+        "section": "21.1",
+        "pages": "T2:007-T2:009",
+        "chunk": "project/T2/chunks/JPG-T2-C001/JPG-T2-C001-S01.md",
+        "chunk_sha256": "4368f606d053e217f378cf7df7843a0ba3746d9293d5d0321e869b91e5447ba4"
+      },
+      {
+        "task": "JPG-T2-C001-S02",
+        "section": "21.2",
+        "pages": "T2:010-T2:012",
+        "chunk": "project/T2/chunks/JPG-T2-C001/JPG-T2-C001-S02.md",
+        "chunk_sha256": "4b54e3a9a556e8b56a6a706f7a88334ca7d4702887b019919db6ec7e44eb6bf5"
+      },
+      {
+        "task": "JPG-T2-C001-S03",
+        "section": "21.3",
+        "pages": "T2:013-T2:014",
+        "chunk": "project/T2/chunks/JPG-T2-C001/JPG-T2-C001-S03.md",
+        "chunk_sha256": "612fdc0d3510c5740b0452c4f30f06d9b2d528f440839e37829d827e7fdbb51f"
+      },
+      {
+        "task": "JPG-T2-C001-S04",
+        "section": "21.4",
+        "pages": "T2:015-T2:020",
+        "chunk": "project/T2/chunks/JPG-T2-C001/JPG-T2-C001-S04.md",
+        "chunk_sha256": "8220e30f1b246f714c7e5eab62fc70c4aefea2ba2ada05517c480669f6a6eee0"
+      },
+      {
+        "task": "JPG-T2-C001-S05",
+        "section": "21.5",
+        "pages": "T2:021-T2:025",
+        "chunk": "project/T2/chunks/JPG-T2-C001/JPG-T2-C001-S05.md",
+        "chunk_sha256": "785282c94dc62390906d672a21de1f900ac9c6e523a78a789c01b5e8c9ca1ac3"
+      },
+      {
+        "task": "JPG-T2-C001-S06",
+        "section": "21.6",
+        "pages": "T2:026-T2:030",
+        "chunk": "project/T2/chunks/JPG-T2-C001/JPG-T2-C001-S06.md",
+        "chunk_sha256": "6ea739c9cff5e9ba0a8f1d4478ee98aa551c27f198b819b88f71ade4af2f15ec"
+      }
+    ]
+  },
+  "source_image_hashes": {
+    "T2:007": "7b0ff20aff8141fc1c1fc102dd348f7282c2c0bc029cb8ee57a44209451d2f48",
+    "T2:008": "ba587b5ace9517a061ef84379239f3dc83de1c3a9c01bfcef0372599a41596ec",
+    "T2:009": "6f02ceb3f21c7eac3b942242ccecebcfb4692203fbcb4e96bccc4e6d3a5d7681",
+    "T2:010": "2a4df586d378773d4a424cb45c40d0e6e0f69a2f7ecdaefb407e87e1706f280d",
+    "T2:011": "124af966b65e6a5b4881294b6d8cf9f232000aac9bb15bdb968ddf2ca3b78a46",
+    "T2:012": "a75e754b09b2b576abb367a11f4518c5952df773cd821a65125eabf28d61a8b5",
+    "T2:013": "b153bff34f0c6ea3ab41c6955ca16d701bd6f9fb2ee12b0026fce13ad0534c37",
+    "T2:014": "481ad47c337aae7a7536b620fd006225d5386d3202607a9f819d2ba8f392219c",
+    "T2:015": "5d318aaea211d0ccfc22bab9d5808e35e04393953af4b93896899bb1a2fbe4b1",
+    "T2:016": "09f84e8190f57b52b0c7a23a34b32e772f89fe1aca69acf35db81f503ed3a0e8",
+    "T2:017": "07099c40064e1c475c1877dc1355ce6fe0b9c06ac86ce06f7cc9ede221760527",
+    "T2:018": "2ff75f02fca6b7b3f7b91ea83f8c108ffc831d5b5eca88235eff76106bd65658",
+    "T2:019": "a58a9bcf1bc072235df1aeaf839e32fc621bc6e2cd0ad984b3c6e073bb983821",
+    "T2:020": "3a9255030c7094ffe31d52eb0bb9286de866f9c5967f67bd94832a394287ceef",
+    "T2:021": "8f638447f2935d5b44fde08a9291a7f4b15f53ef6432317ee333b542553a1d45",
+    "T2:022": "91a1fbdcd45dc54fd28e6be20b594e3f074e99944e378e1e93e6468af83aab10",
+    "T2:023": "87d9d8229fb5e05583123a10d7769eecee64e8b7608d656d8b502f80eaf1769f",
+    "T2:024": "23f7c339a97ca8e1523506de33c8cc6b84a5a59e7e753f3895c30dc5530a61e7",
+    "T2:025": "1faeaff6fbdd100e2c514b080d63788ec57d7469d16edbae9f69aa04e117f518",
+    "T2:026": "12c7c124f4fd2d26681871b1c13374234b771ebef061a7b53894260369b74730",
+    "T2:027": "468fd25d7abfff58d9c2bc76ccaa807d8cf0a8fda96dca2b22739828b377600e",
+    "T2:028": "7ec1cecef40686065c9816d62621c12aac262ae7f38ced14c06dcacba3bca64c",
+    "T2:029": "985a7ad821638b036d9f9991e08e3a7a96e546006e9c5076200d576b39d46874",
+    "T2:030": "17c0fae3fd71f7aea6bde2199371c1605fff704ee65c81f74df3ecb1fb421be3"
+  },
+  "page_findings": [
+    {"page":"T2:007","printed_page":null,"chunk":"JPG-T2-C001-S01","coverage":"chapter title; short-answer and essay exam-history tables; eight-section topic list","positive":"chapter identity, both tables and all eight topic rows preserved","negative":"no omitted source unit; no question-answer pair in scope","result":"pass"},
+    {"page":"T2:008","printed_page":"㉑-1","chunk":"JPG-T2-C001-S01","coverage":"section opener; definition; four 連続意見書 classifications; trading supplement","positive":"definition, ownership/sale and short-term-consumption conditions preserved","negative":"no missing definition or condition; source wording not supplemented","result":"pass"},
+    {"page":"T2:009","printed_page":"㉑-2","chunk":"JPG-T2-C001-S01","coverage":"complete included/not-included item tables; fixed/current-asset distinctions; construction supplement","positive":"all table rows and classification outcomes preserved","negative":"no omitted row or unlabelled classification","result":"pass"},
+    {"page":"T2:010","printed_page":"㉑-3","chunk":"JPG-T2-C001-S02","coverage":"purchase cost formula; external/internal incidental costs; 100/10/150 correspondence diagram","positive":"formula, cost categories, timing and both correspondence cases preserved","negative":"no diagram-only relationship lost","result":"pass"},
+    {"page":"T2:011","printed_page":"㉑-4","chunk":"JPG-T2-C001-S02","coverage":"discount distinctions; two theories; 500/3%/15 example; both journal-entry layouts","positive":"definitions, rationale, arithmetic and debit/credit amounts preserved","negative":"no journal-entry side, amount or theory label omitted","result":"pass"},
+    {"page":"T2:012","printed_page":"㉑-5","chunk":"JPG-T2-C001-S02","coverage":"payment-consideration diagram; 485/15/500 financing example; production cost","positive":"nested relation of acquisition-cost and payment-consideration views preserved","negative":"no financing distinction or standard/planned-cost condition omitted","result":"pass"},
+    {"page":"T2:013","printed_page":"㉑-6","chunk":"JPG-T2-C001-S03","coverage":"expense and closing-inventory formulas; perpetual and periodic inventory methods","positive":"definitions, equations and pros/cons preserved","negative":"no formula term or method boundary omitted","result":"pass"},
+    {"page":"T2:014","printed_page":"㉑-7","chunk":"JPG-T2-C001-S03","coverage":"ideal quantity calculation; three-method diagram; inventory shrinkage","positive":"diagram relationships and cost/non-cost classification preserved","negative":"no shrinkage definition or quantity method distinction omitted","result":"pass"},
+    {"page":"T2:015","printed_page":"㉑-8","chunk":"JPG-T2-C001-S04","coverage":"four permitted methods; continuity; excluded LIFO/final-purchase-cost method; individual method","positive":"method list, priority and individual-method table/example preserved","negative":"no method-status or example amount omitted","result":"pass"},
+    {"page":"T2:016","printed_page":"㉑-9","chunk":"JPG-T2-C001-S04","coverage":"average-cost, total-average, moving-average and FIFO definitions/pros/cons","positive":"each definition and advantage/disadvantage distinction preserved","negative":"no average-method boundary or FIFO consequence omitted","result":"pass"},
+    {"page":"T2:017","printed_page":"㉑-10","chunk":"JPG-T2-C001-S04","coverage":"LIFO status/definition/pros/cons; FIFO-LIFO diagram; 100/150/250/300 example","positive":"direction of physical flow, P/L and B/S values preserved","negative":"no comparison arrow, value or LIFO disadvantage omitted","result":"pass"},
+    {"page":"T2:018","printed_page":"㉑-11","chunk":"JPG-T2-C001-S04","coverage":"retail-inventory method; grouping; cost-rate formula; two-stage closing calculation; applications","positive":"denominator wording and both formulas preserved","negative":"no grouping caveat or application boundary omitted","result":"pass"},
+    {"page":"T2:019","printed_page":"㉑-12","chunk":"JPG-T2-C001-S04","coverage":"final-purchase-cost method; March receipt/sales table; account; cases 1 and 2","positive":"table, @223 calculation, 17,840 and 26,760 cases preserved","negative":"no quantity comparison or acquisition-cost conclusion omitted","result":"pass"},
+    {"page":"T2:020","printed_page":"㉑-13","chunk":"JPG-T2-C001-S04","coverage":"standard treatment; reason not prescribed; permitted cases","positive":"both restriction reasons and materiality/period-profit exceptions preserved","negative":"no condition or source-specific qualification omitted","result":"pass"},
+    {"page":"T2:021","printed_page":"㉑-14","chunk":"JPG-T2-C001-S05","coverage":"lower-of-cost-or-market; 100/80 and 100/120; former/current treatment; mandatory rationale","positive":"definition, numerical outcomes and transition from exception to mandatory rule preserved","negative":"no valuation-loss condition omitted","result":"pass"},
+    {"page":"T2:022","printed_page":"㉑-15","chunk":"JPG-T2-C001-S05","coverage":"traditional/current acquisition-cost views; conservative rationale; timing diagram","positive":"both views and the expense-before-revenue timing relationship preserved","negative":"no rationale or diagram direction omitted","result":"pass"},
+    {"page":"T2:023","printed_page":"㉑-16","chunk":"JPG-T2-C001-S05","coverage":"residual-useful-cost and recoverable-cost theories; two markets; 100/80/120/96 and losses","positive":"market direction, 20/4 losses and expense-allocation diagram preserved","negative":"no theory-to-market mapping or numerical label omitted","result":"pass"},
+    {"page":"T2:024","printed_page":"㉑-17","chunk":"JPG-T2-C001-S05","coverage":"market values; net selling value/replacement cost; basic treatment; rationale","positive":"definitions, terminology equivalence and mandatory write-down rule preserved","negative":"no cost component or recovery rationale omitted","result":"pass"},
+    {"page":"T2:025","printed_page":"㉑-18","chunk":"JPG-T2-C001-S05","coverage":"investment recovery forms; four-asset comparison; inventory conclusion","positive":"all four asset columns, recovery forms and impairment criteria preserved","negative":"no comparison criterion or inventory-only conclusion omitted","result":"pass"},
+    {"page":"T2:026","printed_page":"㉑-19","chunk":"JPG-T2-C001-S06","coverage":"future-sale versus period-end net selling value; both rationales; adopted wording","positive":"two time-point alternatives and the standard's inclusive wording preserved","negative":"no estimation-difficulty or short-investment rationale omitted","result":"pass"},
+    {"page":"T2:027","printed_page":"㉑-20","chunk":"JPG-T2-C001-S06","coverage":"net selling value calculation; market price; reasonable value; sales/contracts/relative transactions","positive":"formula, exceptions and no-estimate practical case preserved","negative":"no reasonable-value example or boundary omitted","result":"pass"},
+    {"page":"T2:028","printed_page":"㉑-21","chunk":"JPG-T2-C001-S06","coverage":"stagnant/disposal inventory; abnormal price; negative net selling value; 100/120/30 example and entries","positive":"two alternative methods, △20/△50 reasoning and provision entry preserved","negative":"no negative-value limitation or journal-entry amount omitted","result":"pass"},
+    {"page":"T2:029","printed_page":"㉑-22","chunk":"JPG-T2-C001-S06","coverage":"multiple selling markets; three routes; 100/110 and 5:5 weighted average 105","positive":"normal versus unsegmentable-market treatment and arithmetic preserved","negative":"no route example or weighted-average condition omitted","result":"pass"},
+    {"page":"T2:030","printed_page":"㉑-23","chunk":"JPG-T2-C001-S06","coverage":"replacement-cost exception; raw-material condition; continuity/incidental-cost rules; summary diagram","positive":"all three exception families and the summary hierarchy preserved","negative":"no condition, continuation requirement or fee-materiality caveat omitted","result":"pass"}
+  ],
+  "source_specific_conventions": {
+    "headings": "Use # for 第21章, ## for each numbered 節, ### for numbered topics, and #### for definition/advantage/disadvantage or bounded subtopics. Preserve source section titles; do not flatten sections.",
+    "locators": "Physical page IDs T2:NNN are separate from printed labels ㉑-N; T2:007 has no printed label. Section citations may share a page only within this batch owner and must name the source region and destination heading.",
+    "page_ownership": "JPG-T2-C001 owns every included physical page T2:007-T2:030 exactly once; there are no excluded pages in this batch.",
+    "content": "Designated JPGs are authoritative. Preserve source terminology, definitions, conditions, exceptions, timing, numerical values, journal-entry relationships, tables and diagram meaning. PDF is identity/planning support only.",
+    "tables_and_diagrams": "Convert essential diagram relationships to faithful prose/tables while retaining direction, labels, comparisons and values; retain debit/credit/amount relationships as tables.",
+    "format": "Source Markdown contains no bold, Cloze, Front/Back, integration or card output. Only OCR/PDF spacing artifacts were normalized; no learner-content correction was required.",
+    "question_layout": "Not applicable: this theory pilot contains no question-to-answer pairs or false-proposition labels."
+  },
+  "semantic_review": {
+    "status": "pass",
+    "all_pages_reopened": true,
+    "review_resolution": "readable full-page resolution",
+    "positive_preservation_examples": [
+      "Definitions and conditions: T2:008, T2:009, T2:012, T2:024, T2:027 and T2:030.",
+      "Tables, formulas and journal entries: T2:010, T2:011, T2:013, T2:018, T2:019 and T2:028.",
+      "Diagram-only meaning: T2:010, T2:012, T2:014, T2:017, T2:023, T2:025, T2:026 and T2:030.",
+      "Numerical examples: 500/15/485, 100/150/250/300, 17,840/26,760, 100/80/120/96, 100/120/30 and weighted-average 105 were checked against the images."
+    ],
+    "negative_checks": [
+      "No missing definition, condition, exception, procedure, formula, table row, diagram relationship, numerical value or journal-entry line was found across T2:007-T2:030.",
+      "No unresolved marker, invented content, unlabelled false proposition or out-of-batch locator remains.",
+      "No page is excluded or left without coverage; no source object crosses the T2:030 batch boundary."
+    ],
+    "corrections": [],
+    "unresolved_count": 0,
+    "false_proposition_check": "not_applicable"
+  },
+  "checks": [
+    {"command":"./.venv/bin/python workflow/scripts/source_md.py check-manifest project/T2","exit":0,"result":"pass"},
+    {"command":"./.venv/bin/python workflow/scripts/source_md.py check-batch project/T2 --batch JPG-T2-C001","exit":0,"result":"pass"},
+    {"command":"./.venv/bin/python -m unittest discover -s workflow/tests -v","exit":0,"result":"31 tests passed"},
+    {"command":"python -m json.tool project/T2/qa/pilot.json and prerequisite JSON records","exit":0,"result":"valid JSON"},
+    {"command":"git diff --check","exit":0,"result":"pass"},
+    {"command":"source-image SHA-256 verification for T2:007-T2:030","exit":0,"result":"24/24 match the inventory"},
+    {"command":"prohibited-marker and unresolved-marker scan for scoped outputs","exit":0,"result":"none"}
+  ],
+  "review_boundary": "This pilot gate approves only T2 C001 conventions and its six current chunks. It does not assemble T2, edit canonical tasks, review another batch, execute descendants, or generate cards."
+}
