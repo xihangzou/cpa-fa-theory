@@ -1,0 +1,144 @@
+{
+  "batch_id": "JPG-T3-C009",
+  "source_id": "T3",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-T3-C009-S01",
+      "batch_id": "JPG-T3-C009",
+      "chapter": "35",
+      "section": "35.5",
+      "title": "第5節 子会社株式の追加取得及び一部売却等",
+      "expected_pages": ["T3:155", "T3:156", "T3:157", "T3:158", "T3:159", "T3:160"],
+      "processing_pages": ["T3:155", "T3:156", "T3:157", "T3:158", "T3:159", "T3:160"],
+      "output": "chunks/JPG-T3-C009/JPG-T3-C009-S01.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T3:155", "printed_page": "㉟－32", "source_region": "第5節タイトル、1.新規連結・段階取得と追加取得・一部売却の考え方の違い、2.追加取得・一部売却の会計処理", "destination_heading": "## 第5節 子会社株式の追加取得及び一部売却等"},
+        {"page": "T3:156", "printed_page": "㉟－33", "source_region": "追加取得持分と追加投資額の設例、貸借対照表、評価差額、連結仕訳、注記", "destination_heading": "## 第5節 子会社株式の追加取得及び一部売却等"},
+        {"page": "T3:157", "printed_page": "㉟－34", "source_region": "売却持分と売却価額の設例、連結仕訳、のれん償却、注記", "destination_heading": "## 第5節 子会社株式の追加取得及び一部売却等"},
+        {"page": "T3:158", "printed_page": "㉟－35", "source_region": "売却差額の図、3.一部売却のその他の論点、親会社説と経済的単一体説の比較", "destination_heading": "## 第5節 子会社株式の追加取得及び一部売却等"},
+        {"page": "T3:159", "printed_page": "㉟－36", "source_region": "一部売却と関連する法人税等の補足、税効果設例、連結仕訳", "destination_heading": "## 第5節 子会社株式の追加取得及び一部売却等"},
+        {"page": "T3:160", "printed_page": "㉟－37", "source_region": "税効果設例の損益計算書数値、税差引、のれん減額の補足", "destination_heading": "## 第5節 子会社株式の追加取得及び一部売却等"}
+      ],
+      "chunk_sha256": "58b1abfe5eb89f7e307b9f3f393734be86fb94b2e9be92bb6c8e8212905e51d5"
+    },
+    {
+      "id": "JPG-T3-C009-S02",
+      "batch_id": "JPG-T3-C009",
+      "chapter": "35",
+      "section": "35.5",
+      "title": "第5節 子会社株式の追加取得及び一部売却等",
+      "expected_pages": ["T3:161", "T3:162"],
+      "processing_pages": ["T3:161", "T3:162"],
+      "output": "chunks/JPG-T3-C009/JPG-T3-C009-S02.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T3:161", "printed_page": "㉟－38", "source_region": "4.子会社の時価発行増資等、持分変動差額の条件・ケース比較、差額が生じる場合の設例", "destination_heading": "## 第5節 子会社株式の追加取得及び一部売却等"},
+        {"page": "T3:162", "printed_page": "㉟－39", "source_region": "時価発行増資等の仕訳、本会計基準における規定、5.資本剰余金が負の値となる場合", "destination_heading": "## 第5節 子会社株式の追加取得及び一部売却等"}
+      ],
+      "chunk_sha256": "a7a1f8e890b13298f23e2ac422b0e92b4c899781982cfa780a95e5c65219083f"
+    },
+    {
+      "id": "JPG-T3-C009-S03",
+      "batch_id": "JPG-T3-C009",
+      "chapter": "35",
+      "section": "35.5",
+      "title": "第5節 子会社株式の追加取得及び一部売却等",
+      "expected_pages": ["T3:163"],
+      "processing_pages": ["T3:163"],
+      "output": "chunks/JPG-T3-C009/JPG-T3-C009-S03.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T3:163", "printed_page": "㉟－40", "source_region": "6.連結子会社が保有する自己株式に関する連結財務諸表上の取扱い、取得・処分の図、論点補足", "destination_heading": "## 第5節 子会社株式の追加取得及び一部売却等"}
+      ],
+      "chunk_sha256": "7c0b33d7bb147b7fcaefa193180c438738d9fc5b63b3552c8e72b2ee0dc16d90"
+    },
+    {
+      "id": "JPG-T3-C009-S04",
+      "batch_id": "JPG-T3-C009",
+      "chapter": "35",
+      "section": "35.6",
+      "title": "第6節 債権と債務の相殺消去",
+      "expected_pages": ["T3:164"],
+      "processing_pages": ["T3:164"],
+      "output": "chunks/JPG-T3-C009/JPG-T3-C009-S04.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T3:164", "printed_page": "㉟－41", "source_region": "第6節タイトル、債権債務の相殺消去、割引手形図、引当金、社債", "destination_heading": "## 第6節 債権と債務の相殺消去"}
+      ],
+      "chunk_sha256": "f6118c3c4b307c9780d2bd981926f231bef18440e02e88a56c57c6ed660ace73"
+    },
+    {
+      "id": "JPG-T3-C009-S05",
+      "batch_id": "JPG-T3-C009",
+      "chapter": "35",
+      "section": "35.7",
+      "title": "第7節 連結会社相互間の取引高の消去及び未実現損益の消去",
+      "expected_pages": ["T3:165", "T3:166", "T3:167", "T3:168"],
+      "processing_pages": ["T3:165", "T3:166", "T3:167", "T3:168"],
+      "output": "chunks/JPG-T3-C009/JPG-T3-C009-S05.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T3:165", "printed_page": "㉟－42", "source_region": "第7節タイトル、1.基本原則、2.取引高相殺、実質的な連結会社間取引の図、3.未実現損益の消去導入", "destination_heading": "## 第7節 連結会社相互間の取引高の消去及び未実現損益の消去"},
+        {"page": "T3:166", "printed_page": "㉟－43", "source_region": "現行制度の全額消去、ダウン・ストリーム／アップ・ストリーム、親会社説、原価800・売価1000・非支配株主40%の例", "destination_heading": "## 第7節 連結会社相互間の取引高の消去及び未実現損益の消去"},
+        {"page": "T3:167", "printed_page": "㉟－44", "source_region": "アップ・ストリームの仕訳、経済的単一体説、ダウン・ストリーム／アップ・ストリームの仕訳", "destination_heading": "## 第7節 連結会社相互間の取引高の消去及び未実現損益の消去"},
+        {"page": "T3:168", "printed_page": "㉟－45", "source_region": "未実現損失の消去規定、10,000簿価・4,000売却・8,000時価の設例、償却性資産補足", "destination_heading": "## 第7節 連結会社相互間の取引高の消去及び未実現損益の消去"}
+      ],
+      "chunk_sha256": "30417049a1fc2c745909e4536b13e68e26e109e113dec31bc9091e65f5ffd02d"
+    },
+    {
+      "id": "JPG-T3-C009-S06",
+      "batch_id": "JPG-T3-C009",
+      "chapter": "35",
+      "section": "35.8",
+      "title": "第8節 当期純損益と連結基礎概念",
+      "expected_pages": ["T3:169"],
+      "processing_pages": ["T3:169"],
+      "output": "chunks/JPG-T3-C009/JPG-T3-C009-S06.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T3:169", "printed_page": "㉟－46", "source_region": "第8節タイトル、親会社説（従来）、経済的単一体説（現行）、表示比較表", "destination_heading": "## 第8節 当期純損益と連結基礎概念"}
+      ],
+      "chunk_sha256": "8974eb58d223d7c6ffeddf9ff69acbd418fea2a5eaef0fa2b68cfa0573723f09"
+    },
+    {
+      "id": "JPG-T3-C009-S07",
+      "batch_id": "JPG-T3-C009",
+      "chapter": "35",
+      "section": "35.9",
+      "title": "第9節 連結会計におけるその他の論点",
+      "expected_pages": ["T3:170", "T3:171", "T3:172", "T3:173", "T3:174"],
+      "processing_pages": ["T3:170", "T3:171", "T3:172", "T3:173", "T3:174"],
+      "output": "chunks/JPG-T3-C009/JPG-T3-C009-S07.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T3:170", "printed_page": "㉟－47", "source_region": "第9節タイトル、1.資本の欠損、債務超過、現行制度、通常の取扱い", "destination_heading": "## 第9節 連結会計におけるその他の論点"},
+        {"page": "T3:171", "printed_page": "㉟－48", "source_region": "非支配株主の合意、債務超過設例、3年間の表、仕訳と負担額", "destination_heading": "## 第9節 連結会計におけるその他の論点"},
+        {"page": "T3:172", "printed_page": "㉟－49", "source_region": "親会社説・経済的単一体説の比較、2.親会社株式等、連結子会社・持分法適用会社", "destination_heading": "## 第9節 連結会計におけるその他の論点"},
+        {"page": "T3:173", "printed_page": "㉟－50", "source_region": "親会社株式等の売却仕訳設例、比例連結の意義、60%の貸借対照表・損益計算書図", "destination_heading": "## 第9節 連結会計におけるその他の論点"},
+        {"page": "T3:174", "printed_page": "㉟－51", "source_region": "比例連結の比較表、親会社説・持分法との比較、現行制度上の不採用理由と建物・機械装置例", "destination_heading": "## 第9節 連結会計におけるその他の論点"}
+      ],
+      "chunk_sha256": "e31e325e55f41e9eafde734b9770d6438e5dc329654b5e52cf3bf98ce59dd774"
+    },
+    {
+      "id": "JPG-T3-C009-S08",
+      "batch_id": "JPG-T3-C009",
+      "chapter": "35",
+      "section": "35.10",
+      "title": "第10節 連結財務諸表の表示及び注記事項",
+      "expected_pages": ["T3:175", "T3:176", "T3:177", "T3:178"],
+      "processing_pages": ["T3:175", "T3:176", "T3:177", "T3:178"],
+      "output": "chunks/JPG-T3-C009/JPG-T3-C009-S08.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T3:175", "printed_page": "㉟－52", "source_region": "第10節タイトル、5種類の財務書類、1.連結貸借対照表の表示規定", "destination_heading": "## 第10節 連結財務諸表の表示及び注記事項"},
+        {"page": "T3:176", "printed_page": "㉟－53", "source_region": "2.連結損益計算書、営業・経常・純損益計算、2計算書方式と1計算書方式、表示図", "destination_heading": "## 第10節 連結財務諸表の表示及び注記事項"},
+        {"page": "T3:177", "printed_page": "㉟－54", "source_region": "科目集約、製品販売と役務給付の補足、3.連結株主資本等変動計算書・連結キャッシュ・フロー計算書", "destination_heading": "## 第10節 連結財務諸表の表示及び注記事項"},
+        {"page": "T3:178", "printed_page": "㉟－55", "source_region": "4.注記事項、連結範囲・決算期差異・会計方針等、後発事象の定義と2つの時系列図", "destination_heading": "## 第10節 連結財務諸表の表示及び注記事項"}
+      ],
+      "chunk_sha256": "c3b8b9af7e8be50d650889a030f427488810d1ddbdfd15432d0ea3c8ca4af6c5"
+    }
+  ],
+  "review": "reviews/JPG-T3-C009.json"
+}
