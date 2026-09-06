@@ -1,0 +1,95 @@
+{
+  "batch_id": "JPG-T3-C008",
+  "source_id": "T3",
+  "status": "pass",
+  "review_date": "2026-09-06",
+  "reviewer_model": "GPT-5",
+  "source_revision": {
+    "repository_commit": "8591fe20d95d4e10679c5372705fc546b2fdf471",
+    "source_pdf_sha256": "1d9f0124a0c8ef759526decc90a1a410f694e2b7fa992b430fc413e783df85bc",
+    "source_image_inventory_sha256": "8e0709aa6cd2d086d9df18627ae7eb466c20cdb59474bbef26038f03d9d40b24",
+    "catalog_image_inventory_sha256": "af94a7c1f91d1eb56611afc242360566950d6f93d5a6ac7d5271c5e8d3f9d170",
+    "batch_boundary_review_id": "JPG-T3-INV-BND-JPG-T3-C008"
+  },
+  "source_images": [
+    {"page": "T3:138", "printed_page": "㉟－15", "image": "pages/T3/page-138.jpg", "sha256": "9ed62e8951be5139aaff98f38372af085c8e0bc123fb06dae7fa37f9e0f63a4f"},
+    {"page": "T3:139", "printed_page": "㉟－16", "image": "pages/T3/page-139.jpg", "sha256": "ae2a5b594c005f25999030269ab4a1c77f451b8dc8045817f562f49fa85328a0"},
+    {"page": "T3:140", "printed_page": "㉟－17", "image": "pages/T3/page-140.jpg", "sha256": "a078b662aba4b285fea0727ec4e0c180cdc32044f256f7ba626356a94fe39f25"},
+    {"page": "T3:141", "printed_page": "㉟－18", "image": "pages/T3/page-141.jpg", "sha256": "56d441f021f8924cf883ca1c50404d6106608c04f55a7c77ab9eacedafa60fec"},
+    {"page": "T3:142", "printed_page": "㉟－19", "image": "pages/T3/page-142.jpg", "sha256": "ba08e3cce16a78f8416b08204f080c8cadf89e115f4b456538af7c992de03c85"},
+    {"page": "T3:143", "printed_page": "㉟－20", "image": "pages/T3/page-143.jpg", "sha256": "d7b3079ce2cab1ab86a9f2fee6fad82420abd8add7adbd731e04f6769b1483a5"},
+    {"page": "T3:144", "printed_page": "㉟－21", "image": "pages/T3/page-144.jpg", "sha256": "e0e548bfd050cc73a92ae9f58ca6cf0b7868431258a5e24f3899be9e33eda46c"},
+    {"page": "T3:145", "printed_page": "㉟－22", "image": "pages/T3/page-145.jpg", "sha256": "c015dc0a6e9bf3636699395a40501babf26b621660cae77c803c79cd8746c847"},
+    {"page": "T3:146", "printed_page": "㉟－23", "image": "pages/T3/page-146.jpg", "sha256": "1d3b2194a44495af0768d68f27808bbe744470fad45367a0124b5d71a8a3c187"},
+    {"page": "T3:147", "printed_page": "㉟－24", "image": "pages/T3/page-147.jpg", "sha256": "1cc946177aa3210a043c648829bcdf297789119fe0baad8a4cf85a070d13823d"},
+    {"page": "T3:148", "printed_page": "㉟－25", "image": "pages/T3/page-148.jpg", "sha256": "79bc1657cea712639638ca48698a57cf3eb4c380b5fc0dc2a321c6eb92b0e312"},
+    {"page": "T3:149", "printed_page": "㉟－26", "image": "pages/T3/page-149.jpg", "sha256": "3136f58f5e6d0f7c4a925db69be3e7e55e5ebdd7ea9dfd8ef8650386d582f50e"},
+    {"page": "T3:150", "printed_page": "㉟－27", "image": "pages/T3/page-150.jpg", "sha256": "cb11609da7462022df2730ca4ffb3820451a1a38e126c44f88e01ba28c921b7e"},
+    {"page": "T3:151", "printed_page": "㉟－28", "image": "pages/T3/page-151.jpg", "sha256": "b47e42fccfad9a817114847702409a5ab6bcd0ac9ab5616e22d56513622f8203"},
+    {"page": "T3:152", "printed_page": "㉟－29", "image": "pages/T3/page-152.jpg", "sha256": "6f6d43149f56faaa7f5803c118e9063b6370927362aff9590f02c2cb63c82cf0"},
+    {"page": "T3:153", "printed_page": "㉟－30", "image": "pages/T3/page-153.jpg", "sha256": "45719c8f03d9aa0893feb7f8784237b122f0b59f7cad8fb85becb8fd1bd6f10b"},
+    {"page": "T3:154", "printed_page": "㉟－31", "image": "pages/T3/page-154.jpg", "sha256": "2156154b86a87a762dfd7c9df79baefef9d898d4f55b8d7c258be6fbe6eca855"}
+  ],
+  "section_outputs": [
+    {"task": "JPG-T3-C008-S01", "chunk": "project/T3/chunks/JPG-T3-C008/JPG-T3-C008-S01.md", "chunk_sha256": "3a949116c98940db8fa443ac0d502847a809a168178191f3cbdb82fc52f85cfd"}
+  ],
+  "coverage": [
+    {"page": "T3:138", "status": "pass", "regions": ["chapter/section title", "basic consolidation principle", "four capital-consolidation steps", "subsections 1-3 and all list items", "margins and footer ㉟－15"]},
+    {"page": "T3:139", "status": "pass", "regions": ["current/previous method table", "three acquisition dates, percentages and land fair values", "full/partial fair-value journal entries and formulas", "current-treatment rationale", "margins and footer ㉟－16"]},
+    {"page": "T3:140", "status": "pass", "regions": ["full/partial method definition and emphasis tables", "two method diagrams and accounting-concept conclusions", "valuation-timing supplement", "margins and footer ㉟－17"]},
+    {"page": "T3:141", "status": "pass", "regions": ["method difference comparison table", "valuation-difference treatment", "immateriality exception", "3/1 versus 3/31 timeline and principle/exception methods", "margins and footer ㉟－18"]},
+    {"page": "T3:142", "status": "pass", "regions": ["investment/capital offset rule", "control-date fair-value investment rule", "step-acquisition table", "individual and consolidated entries including 200 and 12,000", "margins and footer ㉟－19"]},
+    {"page": "T3:143", "status": "pass", "regions": ["former treatment and 1,000+10,800=11,800", "current-standard rationale", "former-principle rationale", "both P/S investment-flow diagrams", "margins and footer ㉟－20"]},
+    {"page": "T3:144", "status": "pass", "regions": ["acquisition-related-cost treatment in consolidated and separate statements", "three components of subsidiary capital", "tax-effect qualification", "new-stock-warrants exclusion", "margins and footer ㉟－21"]},
+    {"page": "T3:145", "status": "pass", "regions": ["two stock-warrant views", "1,000 exercise/non-exercise table and 60/40 allocation", "inter-subsidiary offset diagram with P/S1/S2 and 60%/80%", "consolidation-scope table and timing diagrams", "margins and footer ㉟－22"]},
+    {"page": "T3:146", "status": "pass", "regions": ["new-consolidation and deconsolidation scope diagrams", "goodwill definition", "35,000 fair net assets and 38,000/34,000 cases", "margins and footer ㉟－23"]},
+    {"page": "T3:147", "status": "pass", "regions": ["goodwill asset recognition and 20-year rule", "3,000 goodwill property/equity/investment diagram", "excess-earning-power meaning", "20-year amortization rationale and 30-year note", "margins and footer ㉟－24"]},
+    {"page": "T3:148", "status": "pass", "regions": ["negative-goodwill review steps", "1,200 investment and 1,000/1,500/800/1,400/300 balance sheet", "100 liability omission and 1,300 land correction", "200 negative-goodwill profit treatment", "presentation table and no-liability note", "margins and footer ㉟－25"]},
+    {"page": "T3:149", "status": "pass", "regions": ["purchase/full goodwill method comparison table", "definitions, scope and conceptual bases", "estimated-goodwill terminology", "margins and footer ㉟－26"]},
+    {"page": "T3:150", "status": "pass", "regions": ["24,000/60% example and 50,000/20,000/30,000 balance sheet", "5,000 fair-value difference", "parent-company and economic-single-entity entries", "3,000 and 2,000 goodwill calculations", "control-premium example 1,700, 20, 2, 60 and 40", "margins and footer ㉟－27"]},
+    {"page": "T3:151", "status": "pass", "regions": ["full-goodwill rationale from subsidiary-asset treatment", "land fair-value full-recognition note", "current treatment", "objective-measurement and self-created-goodwill criticisms", "margins and footer ㉟－28"]},
+    {"page": "T3:152", "status": "pass", "regions": ["non-controlling interest at acquisition and after acquisition", "parent-company/economic-single-entity/current presentation table", "return-obligation and equity classification boundary", "margins and footer ㉟－29"]},
+    {"page": "T3:153", "status": "pass", "regions": ["IFRS two measurement methods", "synergy versus no-synergy distinction", "fair-value measurement rationale", "purchase/full-goodwill relationship table", "margins and footer ㉟－30"]},
+    {"page": "T3:154", "status": "pass", "regions": ["2,000 book net assets, 400 valuation difference, 100 shares and @30", "relationship 1 entries, 960 NCI and 360 goodwill", "relationship 2 entries, 1,200 NCI, 600 goodwill and 240 NCI goodwill", "margins and footer ㉟－31"]}
+  ],
+  "page_fidelity_matrix": [
+    {"pages": ["T3:138", "T3:139", "T3:140", "T3:141"], "sections": ["1-3. 子会社の資産及び負債の評価", "全面時価評価法・部分時価評価法", "評価差額", "決算日差異"], "result": "pass"},
+    {"pages": ["T3:142", "T3:143", "T3:144", "T3:145"], "sections": ["4. 親会社の投資と子会社の資本との相殺消去", "段階取得", "相殺する子会社の資本", "新株予約権・子会社相互間・連結範囲"], "result": "pass"},
+    {"pages": ["T3:146", "T3:147", "T3:148", "T3:149", "T3:150", "T3:151"], "sections": ["5. のれんの計上", "負ののれん", "購入のれん方式・全部のれん方式", "推定のれん", "全部のれん方式の根拠と批判"], "result": "pass"},
+    {"pages": ["T3:152", "T3:153", "T3:154"], "sections": ["6. 非支配株主持分の計上", "7. のれんの計上範囲と非支配株主持分の測定との関係"], "result": "pass"}
+  ],
+  "numerical_checks": [
+    {"page": "T3:139", "check": "土地1,000原価から全面評価差額500、部分評価差額20/250/200を再計算できる。", "result": "pass"},
+    {"page": "T3:142", "check": "段階取得10株×@100=1,000、90株×@120=10,800、資本時価12,000、評価差額200を保持する。", "result": "pass"},
+    {"page": "T3:148", "check": "負ののれん設例の1,200投資、土地1,500→1,300、追加負債100、負ののれん500→200を保持する。", "result": "pass"},
+    {"page": "T3:150", "check": "24,000×60%、純資産35,000、評価差額5,000、親会社説のれん3,000、非支配帰属推定2,000を保持する。", "result": "pass"},
+    {"page": "T3:150", "check": "支配プレミアム除外計算(20-2)×60-1,700×60%=60、非支配帰属40を保持する。", "result": "pass"},
+    {"page": "T3:154", "check": "識別可能純資産2,400、非支配40%、市場価格@30、関係性①の960/360、関係性②の1,200/600/240を保持する。", "result": "pass"}
+  ],
+  "diagram_checks": [
+    {"pages": ["T3:140", "T3:141"], "check": "全面/部分時価評価法の対象範囲、時点、親会社説・経済的単一体説の関係と3/1・3/31処理を文章・表で保持する。", "result": "pass"},
+    {"pages": ["T3:143", "T3:145"], "check": "段階取得の投資観、子会社相互間のP-S1-S2関係、相殺消去順序を文章で保持する。", "result": "pass"},
+    {"pages": ["T3:146", "T3:147", "T3:148"], "check": "新規連結/連結除外の期間、のれんの構成、負ののれんの修正手順と仕訳を文章・表で保持する。", "result": "pass"},
+    {"pages": ["T3:150", "T3:154"], "check": "親会社説/経済的単一体説及び非支配株主持分測定と購入/全部のれんの関係を仕訳・数値で保持する。", "result": "pass"}
+  ],
+  "false_proposition_checks": {"status": "not_applicable", "result": "本バッチは理論説明・設例のページであり、問題文と正誤選択肢のレイアウトはない。相反する制度・例外の境界は本文として明示した。"},
+  "findings": [
+    "T3:138からT3:154までの17枚を全て読みやすい解像度で再確認し、本文、欄外、補足、表、仕訳、数値、タイムライン、図解、脚注及びフッターを対応付けた。",
+    "全ページは第35章第4節に属し、T3:155から始まる第5節は処理範囲外である。",
+    "同一ページ内の複数トピックを一つの物理ページ所有バッチ内で分離し、本文では見出し・表・明示的な文章により図解の意味を保持した。",
+    "設例の金額、持分割合、取得日、仕訳の借貸方向、制度上の現行/従来・例外の区別を画像と照合した。"
+  ],
+  "corrections": [
+    "画像照合の際にPDF抽出に生じた空白・文字分離を正規化し、画像にない補足は追加しなかった。",
+    "全面/部分時価評価法、段階取得、負ののれん、全部のれん方式、非支配株主持分測定の数値と境界を画像に合わせて記録した。",
+    "図解は学習上必要な主体、時点、持分、評価範囲、仕訳及び帰結を文章・表に変換し、画像ファイル自体は追加しなかった。"
+  ],
+  "checks": {"numerical": "pass", "diagram": "pass", "false_proposition": "not_applicable"},
+  "unresolved_count": 0,
+  "semantic_boundary": "自動チェックはスキーマ、範囲、順序及びハッシュ整合性を検証する。意味的完全性のPASSは、17枚の指定画像をページ単位で再確認し、表・仕訳・数値・図解を照合した証拠に基づく。",
+  "dependency_commits": [
+    "a2fb2bb829d112522128cdb145523302e9d1e7fd",
+    "cccf7c381768b18116d49e4847dac5df2b01506c",
+    "0034627e759ba83225ae91dbc5cba1c1825ba3a6"
+  ]
+}

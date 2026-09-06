@@ -1,0 +1,39 @@
+{
+  "batch_id": "JPG-T3-C008",
+  "source_id": "T3",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-T3-C008-S01",
+      "batch_id": "JPG-T3-C008",
+      "chapter": "35",
+      "section": "35.4",
+      "title": "第4節 資本連結",
+      "expected_pages": ["T3:138", "T3:139", "T3:140", "T3:141", "T3:142", "T3:143", "T3:144", "T3:145", "T3:146", "T3:147", "T3:148", "T3:149", "T3:150", "T3:151", "T3:152", "T3:153", "T3:154"],
+      "processing_pages": ["T3:138", "T3:139", "T3:140", "T3:141", "T3:142", "T3:143", "T3:144", "T3:145", "T3:146", "T3:147", "T3:148", "T3:149", "T3:150", "T3:151", "T3:152", "T3:153", "T3:154"],
+      "output": "chunks/JPG-T3-C008/JPG-T3-C008-S01.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T3:138", "printed_page": "㉟－15", "source_region": "第4節タイトル、1.連結貸借対照表の基本原則、2.資本連結、3.子会社の資産及び負債の評価の基本原則", "destination_heading": "## 第4節 資本連結"},
+        {"page": "T3:139", "printed_page": "㉟－16", "source_region": "補足：全面時価評価法・部分時価評価法の評価時点と範囲、S社株式と土地の時価推移、両方法の仕訳と計算、現行取扱いの論拠", "destination_heading": "## 第4節 資本連結"},
+        {"page": "T3:140", "printed_page": "㉟－17", "source_region": "3.(1)全面時価評価法と部分時価評価法の意義・重視する点、両方法の図解、時価評価する時点の補足", "destination_heading": "## 第4節 資本連結"},
+        {"page": "T3:141", "printed_page": "㉟－18", "source_region": "3.(2)相違点の比較表、(3)評価差額、(4)重要性が乏しい場合、決算日と支配獲得日の差異の補足", "destination_heading": "## 第4節 資本連結"},
+        {"page": "T3:142", "printed_page": "㉟－19", "source_region": "4.(1)投資と資本の相殺消去、(2)投資金額、段階取得の設例と個別・連結仕訳", "destination_heading": "## 第4節 資本連結"},
+        {"page": "T3:143", "printed_page": "㉟－20", "source_region": "4.(3)従来の処理、(4)本会計基準と従来処理の論拠、段階取得の2つの投資観の図解", "destination_heading": "## 第4節 資本連結"},
+        {"page": "T3:144", "printed_page": "㉟－21", "source_region": "取得関連費用の取扱い、4.(5)相殺する子会社の資本の3項目と新株予約権の除外", "destination_heading": "## 第4節 資本連結"},
+        {"page": "T3:145", "printed_page": "㉟－22", "source_region": "新株予約権の2見解、1,000の具体例、子会社相互間投資の相殺消去の図解、連結対象子会社の財務諸表の範囲", "destination_heading": "## 第4節 資本連結"},
+        {"page": "T3:146", "printed_page": "㉟－23", "source_region": "連結対象財務諸表の範囲の新規連結・連結除外の図解、5.(1)のれんの計上と3,000・1,000の例", "destination_heading": "## 第4節 資本連結"},
+        {"page": "T3:147", "printed_page": "㉟－24", "source_region": "5.(2)①のれんの償却、のれんの性格の図解、償却年限20年以内の理由", "destination_heading": "## 第4節 資本連結"},
+        {"page": "T3:148", "printed_page": "㉟－25", "source_region": "5.(2)②負ののれんの見直し手順・1,200の設例・修正仕訳、(3)表示方法表", "destination_heading": "## 第4節 資本連結"},
+        {"page": "T3:149", "printed_page": "㉟－26", "source_region": "5.(4)①購入のれん方式と全部のれん方式の定義・範囲・連結基礎概念", "destination_heading": "## 第4節 資本連結"},
+        {"page": "T3:150", "printed_page": "㉟－27", "source_region": "のれんの計上範囲と連結基礎概念の設例、親会社説・経済的単一体説の仕訳、推定のれんと支配プレミアム", "destination_heading": "## 第4節 資本連結"},
+        {"page": "T3:151", "printed_page": "㉟－28", "source_region": "5.(4)②全部のれん方式を適用する論拠、③現行制度上の取扱いと批判点", "destination_heading": "## 第4節 資本連結"},
+        {"page": "T3:152", "printed_page": "㉟－29", "source_region": "6.(1)非支配株主持分として計上される部分、(2)親会社説・経済的単一体説・現行の表示区分", "destination_heading": "## 第4節 資本連結"},
+        {"page": "T3:153", "printed_page": "㉟－30", "source_region": "7.(1)非支配株主持分の2測定方法、(2)公正価値測定の根拠、(3)のれん計上範囲との関係", "destination_heading": "## 第4節 資本連結"},
+        {"page": "T3:154", "printed_page": "㉟－31", "source_region": "非支配株主持分の測定とのれんの計上範囲の設例、2つの関係性の仕訳と計算", "destination_heading": "## 第4節 資本連結"}
+      ],
+      "chunk_sha256": "3a949116c98940db8fa443ac0d502847a809a168178191f3cbdb82fc52f85cfd"
+    }
+  ],
+  "review": "reviews/JPG-T3-C008.json"
+}
