@@ -1,0 +1,224 @@
+{
+  "issue": 20,
+  "issue_id": "JPG-CS-PILOT-QA",
+  "plan_id": "cpa-fa-theory-jpg-md-20260905",
+  "status": "pass",
+  "gate_verdict": "PASS",
+  "reviewed_on": "2026-09-06",
+  "reviewer_model": "current execution model; no model switch",
+  "delivery_branch": "main",
+  "repository_revision_reviewed": "0034627e759ba83225ae91dbc5cba1c1825ba3a6",
+  "source_revision": {
+    "source_id": "CS",
+    "title": "財務会計論コンパクトサマリー　短答論点総まとめテキスト　理論",
+    "edition": "2024/2025年合格目標",
+    "publication_date": "2023-01-23",
+    "source_pdf": "/Users/xihangzou/Study/320_CPA/322_財務理論/03_コントレ/財務会計論コンパクトサマリー　短答論点総まとめテキスト　理論.pdf",
+    "source_pdf_sha256": "f76627b0c8e389d094c96ed9a3e8941c1f0a705d55d96dc7d1fd70a84bd7ac39",
+    "physical_page_count": 350,
+    "source_catalog": "contracts/source-catalog.json",
+    "source_catalog_sha256": "8358e9cffb068f63df0bdfcc8f99be035e66454ac8710d381f0ff9eb87728079",
+    "page_plan": "contracts/page-plan.json",
+    "page_plan_sha256": "997a7280b171df5803c2a3bb7c2ee8764082e01f3bdb03c194b9129fe18d26c9",
+    "source_manifest": "project/CS/sources.json",
+    "source_manifest_sha256": "e476a0ecf0d3da9c03ab09e5047bd84f08787320293afb1ebd5cb3fa56ea30bf",
+    "source_map": "project/CS/source-map.json",
+    "source_map_sha256": "a5c16a87078ada3e2e4bb365f854bbb1bb79d0ec0b0298b98f6c2e8a2ad66241",
+    "batch_manifest": "project/CS/batches.json",
+    "batch_manifest_sha256": "19b039f415a8d2ed9bb35198ab5ca2c23cc19f383d5dd3c5f8e161d3b8102a17",
+    "inventory_review": "project/CS/inventory-review.json",
+    "inventory_review_sha256": "165c7463c8324af92bee624fdf3f7998c0d457494390ee7a585406cb4270b859",
+    "content_authority": "accepted 300 DPI renders from the pinned PDF; designated images only"
+  },
+  "dependencies": [
+    {
+      "issue": 1,
+      "artifact": "JPG-000 helper and batch-aware validation",
+      "commit": "a2fb2bb829d112522128cdb145523302e9d1e7fd",
+      "ancestor_of_review_revision": true
+    },
+    {
+      "issue": 7,
+      "artifact": "CS source inventory, source map and batch ledger",
+      "commit": "8fd11caf4d3dfd6f29c584dc279b1199600379df",
+      "ancestor_of_review_revision": true
+    },
+    {
+      "issue": 13,
+      "artifact": "JPG-CS-C002 pilot chunks, fragment and source review",
+      "commit": "27ade68844c24ac03a6ea2e74193611e1a0357de",
+      "ancestor_of_review_revision": true,
+      "expected_outputs": [
+        "project/CS/chunks/JPG-CS-C002/",
+        "project/CS/fragments/JPG-CS-C002.json",
+        "project/CS/reviews/JPG-CS-C002.json"
+      ]
+    },
+    {
+      "issue": 14,
+      "artifact": "JPG-CS-C018 pilot chunk, fragment and source review",
+      "commit": "af852157453b906bd96ef4f029eb350cab92d166",
+      "ancestor_of_review_revision": true,
+      "expected_outputs": [
+        "project/CS/chunks/JPG-CS-C018/",
+        "project/CS/fragments/JPG-CS-C018.json",
+        "project/CS/reviews/JPG-CS-C018.json"
+      ]
+    }
+  ],
+  "review_scope": {
+    "batches": [
+      {
+        "batch_id": "JPG-CS-C002",
+        "chapter": "A01",
+        "title": "財務会計における基礎概念等",
+        "physical_pages": ["CS:008", "CS:009", "CS:010", "CS:011", "CS:012", "CS:013"],
+        "printed_pages": ["1", "2", "3", "4", "5", "6"],
+        "sections": ["A01.1", "A01.2", "A01.3", "A01.4", "A01.5", "A01.6"]
+      },
+      {
+        "batch_id": "JPG-CS-C018",
+        "chapter": "B01",
+        "title": "財務会計の基礎概念",
+        "physical_pages": ["CS:208", "CS:209"],
+        "printed_pages": ["1", "2"],
+        "sections": ["B01.1"]
+      }
+    ],
+    "source_authority": "Exact designated CS page images rendered at 300 DPI from the pinned PDF; PDF text extraction was used only as a bounded comparison aid."
+  },
+  "source_image_hashes": {
+    "CS:008": "6f37bbf17e3e67c6d2febf471c170b6493bd493045bd1e05e9abec70b8ea9f6f",
+    "CS:009": "fbbca71b6840fe6b569d5dab18e7e10d2d678da0fa180e7dacb46793e1b42d4c",
+    "CS:010": "851df64f2ed4d12fd75a7bf50e1957812452b9a06e1a8374e1f15b21a6229602",
+    "CS:011": "2539fd2bc5adcebaaf90c135c42e28f0e11af4a1299e2f3173a479b28ef0b9cd",
+    "CS:012": "bbc53b4165314da9c69a842b393d99be5a00bd96ef64e85496f19c12c50cb79b",
+    "CS:013": "aaa4f8fa1a4f42f311fbd7b191a320b74c836987c51e5410300a3e71d52334b8",
+    "CS:208": "8a4b2bb0b3ebc52be515e49bfd3754cfa1b88eef87609880215ee022da644345",
+    "CS:209": "748bb95303f536ee00c3f3fbaf3f79c74c38a705ba48fd6f6f7eb312626166b8"
+  },
+  "reviewed_outputs": [
+    {"task": "JPG-CS-C002-S01", "output": "project/CS/chunks/JPG-CS-C002/JPG-CS-C002-S01.md", "sha256": "c1c1a43a71bdeed164f1b6fdb953c8d95b91ac823d3626ed25f296274299214a"},
+    {"task": "JPG-CS-C002-S02", "output": "project/CS/chunks/JPG-CS-C002/JPG-CS-C002-S02.md", "sha256": "84df2f53d6d34f0ffe15b2831e337a2660d0074d6c54756930143c1181b7afc1"},
+    {"task": "JPG-CS-C002-S03", "output": "project/CS/chunks/JPG-CS-C002/JPG-CS-C002-S03.md", "sha256": "901aaca030f465ccf4341b560d4b8d1e8c4b1cb761b876a2a6630dff30985522"},
+    {"task": "JPG-CS-C002-S04", "output": "project/CS/chunks/JPG-CS-C002/JPG-CS-C002-S04.md", "sha256": "bf75b0255a65f7a27b34b523d2d63ad30fcf81ac56e95a7f982ec3b844dc6ddc"},
+    {"task": "JPG-CS-C002-S05", "output": "project/CS/chunks/JPG-CS-C002/JPG-CS-C002-S05.md", "sha256": "a6352eb7cc1cf27d8c63d7c82e8aab167ecae6f462a1669a7e2b0f1ef73dc963"},
+    {"task": "JPG-CS-C002-S06", "output": "project/CS/chunks/JPG-CS-C002/JPG-CS-C002-S06.md", "sha256": "ca39808912627eda03265b80650ee55acdae383b7e79ce163dbafbca25a2ff9c"},
+    {"task": "JPG-CS-C018-S01", "output": "project/CS/chunks/JPG-CS-C018/JPG-CS-C018-S01.md", "sha256": "cb5adebd3329cac50bb73f7cd74041a49a69e606698f947794844f21282f92db"},
+    {"task": "JPG-CS-C002", "output": "project/CS/fragments/JPG-CS-C002.json", "sha256": "f33c56e70dafd9dc1aa813e7647db4f40079dc9a1049c3338989110931eb1486"},
+    {"task": "JPG-CS-C002-review", "output": "project/CS/reviews/JPG-CS-C002.json", "sha256": "d8cc3f23935b6fbad94a4d92c9501b35035f6dcc887669c871035cfe1f4b42b4"},
+    {"task": "JPG-CS-C018", "output": "project/CS/fragments/JPG-CS-C018.json", "sha256": "59e2976bd0f1536a6fa9bc906afb48aa6c8b0e8a6bb1eabd66c0c47a782ee752"},
+    {"task": "JPG-CS-C018-review", "output": "project/CS/reviews/JPG-CS-C018.json", "sha256": "eb74a1c4417c5abb8690b0e155bd2d4c06adaf16390ff9b04158e1d6755a55d2"}
+  ],
+  "page_review": [
+    {
+      "page": "CS:008",
+      "chunks": ["JPG-CS-C002-S01", "JPG-CS-C002-S02"],
+      "result": "pass",
+      "positive": "第1節の2機能、制度会計の目的・対象・計算重点・法令、会社法会計と金融商品取引法会計の開示書類の全行、単体開示簡素化、四半期開示を保持。企業内容開示制度を通じた投資者への情報提供の注記を補正後のS02に保持。",
+      "negative_check": "左右余白、章ヘッダー、網掛け注記、表の全行、フッターと印刷頁1を確認。未収録の learner-content、範囲外の続き、未標識の図表はない。"
+    },
+    {
+      "page": "CS:009",
+      "chunks": ["JPG-CS-C002-S03", "JPG-CS-C002-S04"],
+      "result": "pass",
+      "positive": "会計基準の定義・性格、企業会計審議会とASBJの比較・優先関係・補足、企業実体・会計期間・貨幣的測定の3公準と限界を保持。",
+      "negative_check": "同一ページ内の第3節・第4節の領域境界、表の全行、補足文章、章ヘッダー、フッターと印刷頁2を確認。"
+    },
+    {
+      "page": "CS:010",
+      "chunks": ["JPG-CS-C002-S05"],
+      "result": "pass",
+      "positive": "真実性・正規の簿記・資本取引損益取引区分・明瞭性の定義、位置づけ、相対的真実の3理由、3要件、誘導法・棚卸法、維持拘束性と処分可能性、株式交付費の注記を保持。一般には複式簿記である旨を補正後のS05に追加。",
+      "negative_check": "各表の全行、網掛け補足、章ヘッダー、フッターと印刷頁3を確認。"
+    },
+    {
+      "page": "CS:011",
+      "chunks": ["JPG-CS-C002-S05"],
+      "result": "pass",
+      "positive": "継続性・保守主義・単一性・重要性の定義、必要性・適用範囲、保守主義の4適用例と制約、実質一元形式多元、量的・質的重要性、簡便処理4例、簡便表示、簿外項目の帰結を保持。",
+      "negative_check": "各表の全行、箇条書き、網掛け補足、章ヘッダー、フッターと印刷頁4を確認。"
+    },
+    {
+      "page": "CS:012",
+      "chunks": ["JPG-CS-C002-S06"],
+      "result": "pass",
+      "positive": "IFRS・IASB・FASB・ASBJの英語展開、コンバージェンス・アドプション・エンドースメント、国際比較可能性、指定・修正国際基準の各任意適用要件を保持。",
+      "negative_check": "用語表の全行、2要件、網掛け部分、章ヘッダー、フッターと印刷頁5を確認。"
+    },
+    {
+      "page": "CS:013",
+      "chunks": ["JPG-CS-C002-S06"],
+      "result": "pass",
+      "positive": "2012年12月31日、削除又は修正の2項目、指定・修正国際基準の連結・個別適用表、主体・IFRS関係表、会社法上の連結計算書類、米国基準の任意適用、4基準の適用図と混乱リスクを保持。",
+      "negative_check": "2つの比較表、適用パターン図、数値日付、章ヘッダー、フッターと印刷頁6を確認。"
+    },
+    {
+      "page": "CS:208",
+      "chunks": ["JPG-CS-C018-S01"],
+      "result": "pass",
+      "positive": "スマートコアチェックの注意書き、ランク、設問1–9の全本文・番号・選択肢ラベルを保持。",
+      "negative_check": "二重枠、左右余白、空白、フッターと印刷頁1を確認。"
+    },
+    {
+      "page": "CS:209",
+      "chunks": ["JPG-CS-C018-S01"],
+      "result": "pass",
+      "positive": "鉄則、参照ページ、設問1–9の正誤・根拠・参照ページ、1・4・7の補足、企業実体の種類と開示情報の表、設問8・9の根拠を保持。誤りの命題はすべて解答側で×として明示。",
+      "negative_check": "解答の設問対応、補足の全箇条書き、表の全行、二重枠、余白、フッターと印刷頁2を確認。誤った命題を無条件の知識として提示していない。"
+    }
+  ],
+  "source_specific_conventions": {
+    "headings": "Use # for the source chapter, ## for each actual section, ### for numbered topics or source supplements, and #### for subdivisions; retain Japanese source titles.",
+    "locators": "Keep physical CS:NNN IDs separate from Part A/Part B printed labels; section locators may share one physical page only inside its single batch owner.",
+    "tables_and_callouts": "Preserve every comparison row, definition table, shaded source note, condition, exception and useful disclosure classification as a Markdown table or faithful prose.",
+    "diagrams": "Represent essential table/diagram relationships, applicable standards and reporting-scope meaning in text/tables; do not invent or publish raw figure media.",
+    "part_boundaries": "Keep Part A chapter keys A01-A31 separate from Part B chapter keys B01-B40; do not align Part B questions to textbook chapter numbers.",
+    "question_layouts": "Preserve Part B question IDs, rank labels, statements, verdicts, explanations, supplemental notes and false-proposition labels together; theory Part A has no question-answer pair in this pilot.",
+    "exclusions": "No page inside CS:008-CS:013 or CS:208-CS:209 is excluded; pages outside these two selected batches remain outside this issue."
+  },
+  "semantic_review": {
+    "positive_examples": [
+      "CS:008-009 retain same-page section separation, all disclosure tables and the three accounting postulates without flattening section ownership.",
+      "CS:010-011 retain the source's general-principle definitions, exceptions, four conservatism examples, importance simplifications and off-balance-sheet distinction.",
+      "CS:012-013 retain English expansions, 2012-12-31, both deletion/modification items, two application tables and the four-standard application diagram.",
+      "CS:208-209 retain all nine linked false/true propositions, explanations, supplemental notes and the enterprise-entity/disclosure table without inventing answers."
+    ],
+    "negative_or_boundary_examples": [
+      "Initial independent comparison found two omissions in the inherited C002 chunks: the page-008 disclosure-system callout and the page-010 general-double-entry note.",
+      "Both omissions were corrected only in the issue-owned C002 chunks; fragment/review hashes were refreshed and both pages were re-reviewed.",
+      "No unresolved marker, out-of-batch locator, stale chunk hash, unreviewed page, invented content, raw source-media change or cross-book integration was found after correction."
+    ],
+    "question_answer_links": {
+      "status": "pass",
+      "result": "C018 retains the page-208 question page and page-209 answer page as one linked B01 section; all nine false/true verdicts remain explicit."
+    },
+    "unresolved_count": 0,
+    "corrections_required": true,
+    "corrections_applied": [
+      "Added the page-008 enterprise-disclosure-system callout to JPG-CS-C002-S02.",
+      "Added the page-010 note that a method satisfying the bookkeeping requirements is generally double-entry bookkeeping to JPG-CS-C002-S05.",
+      "Updated the C002 fragment and review chunk hashes, then reran both selected-batch checks."
+    ],
+    "review_evidence": ["project/CS/reviews/JPG-CS-C002.json", "project/CS/reviews/JPG-CS-C018.json"]
+  },
+  "checks": {
+    "check_manifest": "pass: ./.venv/bin/python workflow/scripts/source_md.py check-manifest project/CS",
+    "check_batch_c002": "pass: ./.venv/bin/python workflow/scripts/source_md.py check-batch project/CS --batch JPG-CS-C002",
+    "check_batch_c018": "pass: ./.venv/bin/python workflow/scripts/source_md.py check-batch project/CS --batch JPG-CS-C018",
+    "json_parse": "pass: all C002/C018 fragments and reviews parse with python -m json.tool",
+    "repository_tests": "pass: ./.venv/bin/python -m unittest discover -s workflow/tests -v; 31/31 tests passed",
+    "git_diff_check": "pass: git diff --check",
+    "source_hashes": "pass: pinned PDF SHA-256 and all eight reviewed canonical page-image hashes match the CS manifest/source map",
+    "semantic_verdict": "PASS: full-page visual review after scoped corrections; automatic checks are not treated as semantic proof"
+  },
+  "downstream": {
+    "status": "ready",
+    "canonical_tasks_unchanged": true,
+    "merged_markdown_created": false,
+    "cards_created": false,
+    "shared_manifests_changed": false,
+    "raw_source_media_tracked": false,
+    "next_allowed_scope": "CS chapter QA issues may consume this accepted pilot gate; no downstream issue was executed here."
+  }
+}

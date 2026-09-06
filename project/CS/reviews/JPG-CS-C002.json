@@ -6,7 +6,7 @@
   "reviewer_model": "GPT-5 (current execution model; no model switch)",
   "source_revision": {
     "delivery_branch": "main",
-    "repository_commit": "a6e69fbb64cc16aa5800f0aa6a3cf32c7ae449a3",
+    "repository_commit": "0034627e759ba83225ae91dbc5cba1c1825ba3a6",
     "source_catalog": "contracts/source-catalog.json",
     "source_catalog_sha256": "8358e9cffb068f63df0bdfcc8f99be035e66454ac8710d381f0ff9eb87728079",
     "page_plan": "contracts/page-plan.json",
@@ -32,7 +32,8 @@
   "dependency_commits": [
     "a2fb2bb829d112522128cdb145523302e9d1e7fd",
     "8fd11caf4d3dfd6f29c584dc279b1199600379df",
-    "a6e69fbb64cc16aa5800f0aa6a3cf32c7ae449a3"
+    "27ade68844c24ac03a6ea2e74193611e1a0357de",
+    "0034627e759ba83225ae91dbc5cba1c1825ba3a6"
   ],
   "source_images": [
     {"page": "CS:008", "printed_page": "1", "image": "pages/CS/page-008.jpg", "sha256": "6f37bbf17e3e67c6d2febf471c170b6493bd493045bd1e05e9abec70b8ea9f6f"},
@@ -44,10 +45,10 @@
   ],
   "section_outputs": [
     {"task": "JPG-CS-C002-S01", "chunk": "project/CS/chunks/JPG-CS-C002/JPG-CS-C002-S01.md", "chunk_sha256": "c1c1a43a71bdeed164f1b6fdb953c8d95b91ac823d3626ed25f296274299214a"},
-    {"task": "JPG-CS-C002-S02", "chunk": "project/CS/chunks/JPG-CS-C002/JPG-CS-C002-S02.md", "chunk_sha256": "52df48fe0ba890acf0f2edc8880747bb16c32108b780a5ec11c712440bb1cac2"},
+    {"task": "JPG-CS-C002-S02", "chunk": "project/CS/chunks/JPG-CS-C002/JPG-CS-C002-S02.md", "chunk_sha256": "84df2f53d6d34f0ffe15b2831e337a2660d0074d6c54756930143c1181b7afc1"},
     {"task": "JPG-CS-C002-S03", "chunk": "project/CS/chunks/JPG-CS-C002/JPG-CS-C002-S03.md", "chunk_sha256": "901aaca030f465ccf4341b560d4b8d1e8c4b1cb761b876a2a6630dff30985522"},
     {"task": "JPG-CS-C002-S04", "chunk": "project/CS/chunks/JPG-CS-C002/JPG-CS-C002-S04.md", "chunk_sha256": "bf75b0255a65f7a27b34b523d2d63ad30fcf81ac56e95a7f982ec3b844dc6ddc"},
-    {"task": "JPG-CS-C002-S05", "chunk": "project/CS/chunks/JPG-CS-C002/JPG-CS-C002-S05.md", "chunk_sha256": "79c7a4727c5204a7d98fa3c410f215aa0d764f2d8b81a3c0d33c38543fb1c23f"},
+    {"task": "JPG-CS-C002-S05", "chunk": "project/CS/chunks/JPG-CS-C002/JPG-CS-C002-S05.md", "chunk_sha256": "a6352eb7cc1cf27d8c63d7c82e8aab167ecae6f462a1669a7e2b0f1ef73dc963"},
     {"task": "JPG-CS-C002-S06", "chunk": "project/CS/chunks/JPG-CS-C002/JPG-CS-C002-S06.md", "chunk_sha256": "ca39808912627eda03265b80650ee55acdae383b7e79ce163dbafbca25a2ff9c"}
   ],
   "coverage": [
@@ -78,12 +79,13 @@
     "指定された6枚の処理画像を読みやすい原寸で再確認し、左右 margins、章ヘッダー、フッター、網掛け補足、表の全行、定義、例、適用要件、英語展開、図表の意味を6つのチャンクと照合した。",
     "ページ8・9の同一ページ内に複数節があるため、物理ページの処理所有権はバッチに一つのまま、節ごとに別チャンクと領域ロケータを記録した。",
     "第5節は物理ページ10から11へ、第6節は物理ページ12から13へ連続するが、いずれもバッチ内で完結しており、範囲外への継続はない。",
-    "未解決事項はなく、問題・解答ペア、除外ページ、数値計算仕訳はこの範囲にない。"
+    "初回レビューで未収録だったページ008の企業内容開示制度の注記とページ010の複式簿記の注記を追加後、6画像を再照合した。未解決事項はなく、問題・解答ペア、除外ページ、数値計算仕訳はこの範囲にない。"
   ],
   "corrections": [
     "PDF抽出テキストの文字化け・空白崩れは画像で照合して修正し、画像の見出し・表・定義・注記に合わせた。",
     "制度会計の開示書類、会計基準設定主体、重要性の原則の適用例、国際基準の適用パターンは一覧の全項目を省略せず保持した。",
-    "ページ12–13の英語正式名称、2012年12月31日、削除又は修正の2項目、ピュアIFRS／エンドースメントIFRSの区別を再確認した。"
+    "ページ12–13の英語正式名称、2012年12月31日、削除又は修正の2項目、ピュアIFRS／エンドースメントIFRSの区別を再確認した。",
+    "ページ008の企業内容開示制度（ディスクロージャー制度）を通じた投資者への情報提供の注記をS02へ追加し、ページ010の一定の要件を満たす帳簿記録の方法が一般には複式簿記である旨をS05へ追加した。両チャンクのハッシュを更新した。"
   ],
   "excluded_pages": [],
   "checks": {"numerical": "pass", "diagram": "pass", "false_proposition": "not_applicable"},
