@@ -1,0 +1,92 @@
+{
+  "batch_id": "JPG-CS-C018",
+  "source_id": "CS",
+  "status": "pass",
+  "reviewed_on": "2026-09-06",
+  "reviewer_model": "GPT-5 (current execution model; no model switch)",
+  "source_revision": {
+    "delivery_branch": "main",
+    "repository_commit": "a6e69fbb64cc16aa5800f0aa6a3cf32c7ae449a3",
+    "source_catalog": "contracts/source-catalog.json",
+    "source_catalog_sha256": "8358e9cffb068f63df0bdfcc8f99be035e66454ac8710d381f0ff9eb87728079",
+    "page_plan": "contracts/page-plan.json",
+    "page_plan_sha256": "997a7280b171df5803c2a3bb7c2ee8764082e01f3bdb03c194b9129fe18d26c9",
+    "source_manifest": "project/CS/sources.json",
+    "source_manifest_sha256": "e476a0ecf0d3da9c03ab09e5047bd84f08787320293afb1ebd5cb3fa56ea30bf",
+    "source_map": "project/CS/source-map.json",
+    "source_map_sha256": "a5c16a87078ada3e2e4bb365f854bbb1bb79d0ec0b0298b98f6c2e8a2ad66241",
+    "batch_manifest": "project/CS/batches.json",
+    "batch_manifest_sha256": "19b039f415a8d2ed9bb35198ab5ca2c23cc19f383d5dd3c5f8e161d3b8102a17",
+    "inventory_review": "project/CS/inventory-review.json",
+    "inventory_review_sha256": "165c7463c8324af92bee624fdf3f7998c0d457494390ee7a585406cb4270b859",
+    "source_pdf": "/Users/xihangzou/Study/320_CPA/322_財務理論/03_コントレ/財務会計論コンパクトサマリー　短答論点総まとめテキスト　理論.pdf",
+    "source_pdf_sha256": "f76627b0c8e389d094c96ed9a3e8941c1f0a705d55d96dc7d1fd70a84bd7ac39",
+    "source_image_inventory_sha256": null,
+    "edition": "2024/2025年合格目標",
+    "publication_date": "2023-01-23",
+    "physical_scope": "CS:208-CS:209",
+    "processing_scope": "CS:208-CS:209",
+    "content_authority": "designated accepted renders only; PDF used only for identity/planning support"
+  },
+  "dependency_commits": [
+    "a2fb2bb829d112522128cdb145523302e9d1e7fd",
+    "8fd11caf4d3dfd6f29c584dc279b1199600379df",
+    "a6e69fbb64cc16aa5800f0aa6a3cf32c7ae449a3"
+  ],
+  "source_images": [
+    {
+      "page": "CS:208",
+      "printed_page": "1",
+      "image": "pages/CS/page-208.jpg",
+      "sha256": "8a4b2bb0b3ebc52be515e49bfd3754cfa1b88eef87609880215ee022da644345"
+    },
+    {
+      "page": "CS:209",
+      "printed_page": "2",
+      "image": "pages/CS/page-209.jpg",
+      "sha256": "748bb95303f536ee00c3f3fbaf3f79c74c38a705ba48fd6f6f7eb312626166b8"
+    }
+  ],
+  "section_outputs": [
+    {
+      "task": "JPG-CS-C018-S01",
+      "chunk": "project/CS/chunks/JPG-CS-C018/JPG-CS-C018-S01.md",
+      "chunk_sha256": "cb5adebd3329cac50bb73f7cd74041a49a69e606698f947794844f21282f92db"
+    }
+  ],
+  "coverage": [
+    {
+      "page": "CS:208",
+      "status": "pass",
+      "regions": [
+        "JPG-CS-C018-S01; page heading and Smart Core Check instruction",
+        "JPG-CS-C018-S01; all nine numbered propositions, including rank labels and full statements",
+        "JPG-CS-C018-S01; outer and inner borders, margins, whitespace, and printed page label 1 checked"
+      ]
+    },
+    {
+      "page": "CS:209",
+      "status": "pass",
+      "regions": [
+        "JPG-CS-C018-S01; answer heading, iron-rule instruction, reference-page line, and all nine linked verdicts",
+        "JPG-CS-C018-S01; explanations and p.1/p.2 locators, including the three supplemental bullets for 1",
+        "JPG-CS-C018-S01; supplemental correction for 4 and the enterprise-entity/disclosure table for 7",
+        "JPG-CS-C018-S01; item 9 example, borders, margins, whitespace, and printed page label 2 checked"
+      ]
+    }
+  ],
+  "findings": [
+    "The two-page source is a question/answer pair for one B01 section; all nine propositions and their corresponding answer records are retained together.",
+    "The answer page contains no diagram beyond the three-column enterprise-entity/disclosure table; the table's three categories and disclosure examples are preserved.",
+    "Question 1's source wording names the four company-law calculation statements; its answer explicitly corrects cash-flow statement to individual notes, and the linked supplemental distinctions are retained.",
+    "Questions 2, 3, 4, 5, 6, 7, and 8 are explicitly marked incorrect in the answer; question 9 is explicitly marked correct. No false proposition is presented as unqualified knowledge."
+  ],
+  "corrections": [],
+  "checks": {
+    "numerical": "pass",
+    "diagram": "pass",
+    "false_proposition": "pass"
+  },
+  "unresolved_count": 0,
+  "review_limits": "Semantic review was performed against the two designated rendered images at readable resolution. The PDF was used only as identity/planning support and not as authority for unpictured content. Automatic checks establish hashes, schema and scope, not semantic completeness."
+}

@@ -1,0 +1,49 @@
+{
+  "batch_id": "JPG-CS-C018",
+  "source_id": "CS",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-CS-C018-S01",
+      "batch_id": "JPG-CS-C018",
+      "chapter": "B01",
+      "section": "B01.1",
+      "title": "1. 財務会計の基礎概念",
+      "expected_pages": [
+        "CS:208",
+        "CS:209"
+      ],
+      "processing_pages": [
+        "CS:208",
+        "CS:209"
+      ],
+      "output": "chunks/JPG-CS-C018/JPG-CS-C018-S01.md",
+      "status": "pass",
+      "locators": [
+        {
+          "page": "CS:208",
+          "printed_page": "1",
+          "source_region": "「1. 財務会計の基礎概念 問題」の見出し、スマートコアチェックの注意書き、設問1-9の全本文、左右余白および下部ページ番号",
+          "destination_heading": "## 1. 財務会計の基礎概念"
+        },
+        {
+          "page": "CS:209",
+          "printed_page": "2",
+          "source_region": "「1. 財務会計の基礎概念 解答」の見出し、鉄則と参照ページ、設問1-9の正誤・根拠・参照ページ、1・4・7の補足、企業実体の種類と開示情報の表、左右余白および下部ページ番号",
+          "destination_heading": "## 1. 財務会計の基礎概念"
+        }
+      ],
+      "chunk_sha256": "cb5adebd3329cac50bb73f7cd74041a49a69e606698f947794844f21282f92db"
+    }
+  ],
+  "review": "reviews/JPG-CS-C018.json",
+  "excluded_pages": [],
+  "source_scope": {
+    "source_id": "CS",
+    "physical_range": "CS:208-CS:209",
+    "processing_range": "CS:208-CS:209",
+    "chapter": "B01",
+    "title": "財務会計における基礎概念",
+    "content_authority": "accepted 300 DPI renders from the pinned PDF; designated images only"
+  }
+}
