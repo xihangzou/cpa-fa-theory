@@ -1,0 +1,106 @@
+{
+  "batch_id": "JPG-T2-C009",
+  "source_id": "T2",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-T2-C009-S01",
+      "batch_id": "JPG-T2-C009",
+      "chapter": "26",
+      "section": "26.1",
+      "title": "第1節 資本の分類",
+      "expected_pages": ["T2:167", "T2:168"],
+      "processing_pages": ["T2:167", "T2:168"],
+      "output": "chunks/JPG-T2-C009/JPG-T2-C009-S01.md",
+      "status": "pass",
+      "chunk_sha256": "93fead16634bc47ec8d0908b125137d6aa4dcb153ccf4032b8c7dd404bc18063",
+      "locators": [
+        {"page": "T2:167", "printed_page": null, "source_region": "第26章章扉、短答式・論文式本試験の出題実績表、8論点の一覧", "destination_heading": "## 第1節 資本の分類"},
+        {"page": "T2:168", "printed_page": "㉖-1", "source_region": "第1節扉、会計理論上の資本分類の説明・分類図、会社法理論上の資本分類の説明・分類図・現行基準への参照", "destination_heading": "## 第1節 資本の分類"}
+      ]
+    },
+    {
+      "id": "JPG-T2-C009-S02",
+      "batch_id": "JPG-T2-C009",
+      "chapter": "26",
+      "section": "26.2",
+      "title": "第2節 資本金",
+      "expected_pages": ["T2:169", "T2:170"],
+      "processing_pages": ["T2:169", "T2:170"],
+      "output": "chunks/JPG-T2-C009/JPG-T2-C009-S02.md",
+      "status": "pass",
+      "chunk_sha256": "e4d1dd154617a57da06dde36433c359f5d956541e0d7b574c2c525fab3786dc9",
+      "locators": [
+        {"page": "T2:169", "printed_page": "㉖-2", "source_region": "第2節扉、資本金の定義・増資と減資、増資の具体例、新株払込金額の全額組入れ原則と2分の1までの資本準備金", "destination_heading": "## 第2節 資本金"},
+        {"page": "T2:170", "printed_page": "㉖-3", "source_region": "通常の新株発行の会計処理、申込中の流動負債処理、決算日時点の表示、払込期日の仕訳、増資手続の時系列図", "destination_heading": "## 第2節 資本金"}
+      ]
+    },
+    {
+      "id": "JPG-T2-C009-S03",
+      "batch_id": "JPG-T2-C009",
+      "chapter": "26",
+      "section": "26.3",
+      "title": "第3節 新株予約権",
+      "expected_pages": ["T2:171", "T2:172", "T2:173", "T2:174", "T2:175", "T2:176", "T2:177"],
+      "processing_pages": ["T2:171", "T2:172", "T2:173", "T2:174", "T2:175", "T2:176", "T2:177"],
+      "output": "chunks/JPG-T2-C009/JPG-T2-C009-S03.md",
+      "status": "pass",
+      "chunk_sha256": "fe8fcefa4b2142a0dac61019543d801926eb32729e28022ed462ec0b46ccc5a1",
+      "locators": [
+        {"page": "T2:171", "printed_page": "㉖-4", "source_region": "第3節扉、新株予約権の定義、発行者側の発行時の区分と仕訳", "destination_heading": "## 第3節 新株予約権"},
+        {"page": "T2:172", "printed_page": "㉖-5", "source_region": "計上区分に関する従来・現行の見解、負債と株主資本の各論拠、帰属先の図解", "destination_heading": "## 第3節 新株予約権"},
+        {"page": "T2:173", "printed_page": "㉖-6", "source_region": "権利行使時の新株発行・自己株式処分の比較表と仕訳、失効時の特別利益処理", "destination_heading": "## 第3節 新株予約権"},
+        {"page": "T2:174", "printed_page": "㉖-7", "source_region": "取得者側の取得・保有時の売買目的/その他有価証券処理、権利行使時の振替、失効時の不行使損", "destination_heading": "## 第3節 新株予約権"},
+        {"page": "T2:175", "printed_page": "㉖-8", "source_region": "自己新株予約権の取得原価、損益取引としての性格、時価1,000・支払1,200の設例と取得時非認識", "destination_heading": "## 第3節 新株予約権"},
+        {"page": "T2:176", "printed_page": "㉖-9", "source_region": "自己新株予約権保有時の直接控除・例外表示・両建禁止、負残高、減損処理と仕訳", "destination_heading": "## 第3節 新株予約権"},
+        {"page": "T2:177", "printed_page": "㉖-10", "source_region": "自己新株予約権の消却・処分の損益処理と仕訳、取得・保有・消却・処分の数値フロー", "destination_heading": "## 第3節 新株予約権"}
+      ]
+    },
+    {
+      "id": "JPG-T2-C009-S04",
+      "batch_id": "JPG-T2-C009",
+      "chapter": "26",
+      "section": "26.4",
+      "title": "第4節 資本剰余金",
+      "expected_pages": ["T2:178", "T2:179"],
+      "processing_pages": ["T2:178", "T2:179"],
+      "output": "chunks/JPG-T2-C009/JPG-T2-C009-S04.md",
+      "status": "pass",
+      "chunk_sha256": "7aaaca3b5d89a454b7e48635c369cae0771c1f1481222f03d6630bc12c5b4137",
+      "locators": [
+        {"page": "T2:178", "printed_page": "㉖-11", "source_region": "第4節扉、資本剰余金の分類図、資本準備金の取扱い、配当時の積立仕訳", "destination_heading": "## 第4節 資本剰余金"},
+        {"page": "T2:179", "printed_page": "㉖-12", "source_region": "資本準備金の取崩しの仕訳・性格、その他資本剰余金の定義と分配可能性", "destination_heading": "## 第4節 資本剰余金"}
+      ]
+    },
+    {
+      "id": "JPG-T2-C009-S05",
+      "batch_id": "JPG-T2-C009",
+      "chapter": "26",
+      "section": "26.5",
+      "title": "第5節 利益剰余金",
+      "expected_pages": ["T2:180", "T2:181", "T2:182", "T2:183", "T2:184", "T2:185"],
+      "processing_pages": ["T2:180", "T2:181", "T2:182", "T2:183", "T2:184", "T2:185"],
+      "output": "chunks/JPG-T2-C009/JPG-T2-C009-S05.md",
+      "status": "pass",
+      "chunk_sha256": "abfeb4fb3f48b3782386436b85dd2d9260253172bc38a9cdfea69e9c90def822",
+      "locators": [
+        {"page": "T2:180", "printed_page": "㉖-13", "source_region": "第5節扉、利益剰余金の分類、利益準備金の取扱い・積立仕訳", "destination_heading": "## 第5節 利益剰余金"},
+        {"page": "T2:181", "printed_page": "㉖-14", "source_region": "利益準備金の取崩し、任意積立金、繰越利益剰余金", "destination_heading": "## 第5節 利益剰余金"},
+        {"page": "T2:182", "printed_page": "㉖-15", "source_region": "資本剰余金と利益剰余金の混同禁止の規定、資本から利益への振替禁止の設例と理由", "destination_heading": "## 第5節 利益剰余金"},
+        {"page": "T2:183", "printed_page": "㉖-16", "source_region": "混同禁止の補足図、正負残高の場合の振替可否と資本毀損の説明・数値例", "destination_heading": "## 第5節 利益剰余金"},
+        {"page": "T2:184", "printed_page": "㉖-17", "source_region": "年度決算時に限る補填、期首・期中・期末の正しい/誤った処理の時系列図、準備金減少時の仕訳", "destination_heading": "## 第5節 利益剰余金"},
+        {"page": "T2:185", "printed_page": "㉖-18", "source_region": "剰余金から準備金への同一区分振替、株主資本項目間の振替図、負の繰越利益剰余金の表示・補填規則", "destination_heading": "## 第5節 利益剰余金"}
+      ]
+    }
+  ],
+  "review": "reviews/JPG-T2-C009.json",
+  "excluded_pages": [],
+  "source_scope": {
+    "source_id": "T2",
+    "physical_range": "T2:167-T2:185",
+    "processing_range": "T2:167-T2:185",
+    "chapter": "26",
+    "title": "資本会計（会計基準論点）",
+    "content_authority": "designated existing JPGs only"
+  }
+}
