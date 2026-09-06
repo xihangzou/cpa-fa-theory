@@ -1,0 +1,84 @@
+{
+  "batch_id": "JPG-T1-C013",
+  "source_id": "T1",
+  "status": "pass",
+  "source_images": [
+    {"page": "T1:165", "sha256": "05f5215a1273135fba9037ef848b8a10466bee3c09c01335db44dd2eaa84cc2e"},
+    {"page": "T1:166", "sha256": "7693af9fd9a31b93dca169917790b5fb799c198bc433beb19c05c3ee81496c7c"},
+    {"page": "T1:167", "sha256": "c14c6621cb2938ced6a8afee010f7118b8d1a11f6b7de6ffc0765b8ae165aa95"},
+    {"page": "T1:168", "sha256": "226c6a1f29a57f79f9ba8880454e476feb99ab5166ef6092c1b993abb6f647f0"},
+    {"page": "T1:169", "sha256": "75597dfb990f0436d63b9edd3d1ebe85c25ff6f747a3db7264bb07375c2bab02"},
+    {"page": "T1:170", "sha256": "7ad90b280d587168b8a65e10d336fef2fad22348debf4999f5eea7c45d4677ff"},
+    {"page": "T1:171", "sha256": "e7739c36075d0f77560dcb4880dc8f875f9929aeebd9e54a461a964fcc88c09f"},
+    {"page": "T1:172", "sha256": "e672ee6806967fc2326df52621a98215f9f6d5e47adb3fe6edf7fc559eaf75af"},
+    {"page": "T1:173", "sha256": "60ec6454965e0ad906e96b9ca78745523cd89f78bd6155b725e0fbdee07e550d"},
+    {"page": "T1:174", "sha256": "6fdf119841a21f9e58e6ead0f7258ef1238badcc9f285bceffea857f0ebccb4c"},
+    {"page": "T1:175", "sha256": "fb02beeca0f4e2a6610c59dff758e3488b5ce8152fab06f0663bc3d3ad04468b"},
+    {"page": "T1:176", "sha256": "0152bc64d84904ecbed6a59b1a977bf47eb4983b7a0e0a0036e5bfc5d7fa4a24"},
+    {"page": "T1:177", "sha256": "8045d33187a528db59a0bf8a4d743647820f87a9576671f174e787948729c0d6"},
+    {"page": "T1:178", "sha256": "8f1ff0667d81ded7b92a13bdead40b231ed331dc5c2eee1c2378db92c4ad04bc"},
+    {"page": "T1:179", "sha256": "23825bc9fda62b132cb1b9ad3ecbfb7ebd1798c255af0542157fff4cf0219750"}
+  ],
+  "section_outputs": [
+    {"task": "JPG-T1-C013-S01", "chunk_sha256": "7feaf0246a56ef5472dc4406c73d679d29c72b7dadf338489b1ba0bdac1ff47e"},
+    {"task": "JPG-T1-C013-S02", "chunk_sha256": "b8a71a0b12cc86c4a7b915ce7fcba1b8959be80ab0f8bbd1266f7f0e3f33d48b"},
+    {"task": "JPG-T1-C013-S03", "chunk_sha256": "e8ffa9c05a3577ceb89af12cee936171fcaeb6fea64bf6217b30f441a21faa46"},
+    {"task": "JPG-T1-C013-S04", "chunk_sha256": "053ae5e8967dd1d7f71e2d61566e2fd8b06bd0849d990db3b5cfd7d0a9093944"}
+  ],
+  "coverage": [
+    {"page": "T1:165", "regions": ["chapter title and chapter identity", "related calculation-text reference", "short-answer exam-history table", "essay exam-history table"], "status": "pass", "findings": "Chapter 9 identity, related text, four topic rows, year columns and marked results were retained."},
+    {"page": "T1:166", "regions": ["section 1 heading", "繰延資産 definition with three conditions", "株式交付費 three-condition example", "ordinary asset versus deferred asset box", "企業会計原則 quotation", "expense-versus-asset treatment table", "matching rationale"], "status": "pass", "findings": "Definition, example, contrast, rule, treatment table and rationale were retained; no margin or footer content was omitted."},
+    {"page": "T1:167", "regions": ["特徴 table", "long-term prepaid expense comparison table", "balance-sheet classification rule", "direct deduction of accumulated amortization", "unamortized-balance explanation"], "status": "pass", "findings": "All three feature rows, both common points, both differences, classification wording and the replacement-renewal reason were retained."},
+    {"page": "T1:168", "regions": ["company-law and accounting history", "会社計算規則 and amortization wording", "平成18年6月6日 interim handling publication", "before/after relationship diagram", "distribution-available amount constraint", "limited enumeration explanation", "five deferred-asset items"], "status": "pass", "findings": "The legal/accounting transition, arrows expressed in prose, limitation and all five listed items were retained."},
+    {"page": "T1:169", "regions": ["section 2 and 株式交付費 heading", "definition and expense examples", "new-issue/self-treasury distinction", "principle expense treatment", "financial-activity capitalization exception", "three-year straight-line rule", "stock-split/free-allotment exclusion", "supplement rationale"], "status": "pass", "findings": "The definition, examples, scope boundary, exception, amortization period and future-revenue rationale were retained."},
+    {"page": "T1:170", "regions": ["international/Japan treatment contrast", "100 issue-price and 2 cost example", "both journal-entry treatments", "capital-deduction rationale (i)", "capital-deduction rationale (ii)", "capital-transaction relationship diagram"], "status": "pass", "findings": "Both accounting treatments, amounts, debit/credit directions and the two arguments plus diagram relationships were retained."},
+    {"page": "T1:171", "regions": ["current expense-treatment rationale (i)", "current expense-treatment rationale (ii)", "current expense-treatment rationale (iii)", "decision-quality diagram", "company A/B revenue 500 and costs 10/100", "profits 490/400", "investor-information note"], "status": "pass", "findings": "All three current-view arguments, numerical comparison and the counterfactual where both profits are 500 were retained."},
+    {"page": "T1:172", "regions": ["社債発行費等 definition", "new share option issue cost inclusion", "社債発行費 principle and exception", "interest-method rule and straight-line exception", "新株予約権発行費 principle and exception", "一括法/区分法 distinction"], "status": "pass", "findings": "All fee examples, inclusion of 等, periods/methods and compound-bond treatment were retained."},
+    {"page": "T1:173", "regions": ["創立費 definition and enumerated establishment costs", "principle expense treatment", "five-year straight-line capitalization exception", "Companies Act capital/capital-reserve rule", "interim handling reason"], "status": "pass", "findings": "The long definition, legal article reference, treatment and reason not to use capital-transaction treatment were retained."},
+    {"page": "T1:174", "regions": ["開業費 definition and examples", "directly necessary scope limitation", "principle expense treatment and SG&A option", "five-year straight-line exception", "partial-opening footnote", "創立費/開業費 timeline"], "status": "pass", "findings": "Scope caution, classification option, amortization start boundary and timeline were retained."},
+    {"page": "T1:175", "regions": ["開発費 definition", "ordinary-cost exclusion", "research-and-development expense rule", "principle and capitalization treatment", "technology/resource useful-period footnote", "six-row amortization summary", "notes 1 through 3"], "status": "pass", "findings": "Definition, exclusions, methods, periods, display classifications, all six rows and all notes were retained."},
+    {"page": "T1:176", "regions": ["one-time amortization", "month-count amortization", "continuity principle", "prior-year same-item rule", "significant-change exception", "additional-note requirement", "no-prior-year same-item rule"], "status": "pass", "findings": "All three numbered topics, the accounting-policy-change rule, exception and disclosure distinction were retained."},
+    {"page": "T1:177", "regions": ["section 3 context", "accounting versus old-commercial-law comparison table", "three adjustment constraints", "notes 1 and 2", "interim-handling continuity and limited revision conclusion"], "status": "pass", "findings": "Both standpoints, all constraints, theoretical qualifications and the conclusion about the interim handling were retained."},
+    {"page": "T1:178", "regions": ["section 4 heading", "three conditions for extraordinary huge loss", "theoretical rejection of loss deferral", "loss-versus-expense deferral comparison", "financial-policy rationale"], "status": "pass", "findings": "The definition, all three cumulative conditions, theoretical distinction and policy rationale were retained."},
+    {"page": "T1:179", "regions": ["earthquake rental-building example", "6,000/1,000/5,000 million-yen amounts", "loss-deferral journal entry", "one-year 10% amortization", "500 million-yen amortization entry", "rapid amortization and extraordinary-loss display"], "status": "pass", "findings": "The example, units, debit/credit accounts, computed amounts and final treatment instruction were retained."}
+  ],
+  "findings": [
+    "All 15 designated processing JPGs were reopened at readable resolution and compared against the four section chunks, including margins, chapter/section labels, boxed rules, tables, footnotes, journal entries, diagrams, examples and exceptions.",
+    "The section boundaries are complete: section 1 ends on T1:168, section 2 ends on T1:176, section 3 is T1:177, and section 4 ends on T1:179; no source object is stranded across the batch boundary.",
+    "T1:180 was not converted: inventory evidence identifies it as a blank chapter-end MEMO page and the exclusion is recorded in the fragment shard.",
+    "No question-and-answer or false-proposition layout appears in this theory batch; that specialized check is not applicable.",
+    "The chunks contain no bold syntax, Cloze syntax, Front/Back fields, integration output or card output.",
+    "No unresolved marker remains and no correction was required after the image comparison."
+  ],
+  "corrections": [],
+  "checks": {
+    "numerical": "pass",
+    "diagram": "pass",
+    "false_proposition": "not_applicable"
+  },
+  "unresolved_count": 0,
+  "excluded_pages": [
+    {"page": "T1:180", "sha256": "648ba4dce3c7965721b7fe6f7ebaf51d35c964dea661742a031ecc0b239b2e80", "printed_page": "⑨－15", "reason": "Blank chapter-end MEMO page with no learner content."}
+  ],
+  "reviewer_model": "current execution model; no model switch",
+  "dependency_commits": [
+    "a2fb2bb829d112522128cdb145523302e9d1e7fd",
+    "1fd8a963ef32e09b5f3f08ecd7d5bb7cc2240a94",
+    "393dc82a64791eb452ea64ccb8cbfc55212718ef",
+    "7507151c638a73a41fc13b9d4c4481c8888307e0"
+  ],
+  "source_revision": {
+    "repository": "xihangzou/cpa-fa-theory",
+    "verified_main_commit": "88656d46ca1db71e68f91ff7fa848be712921312",
+    "source_catalog_sha256": "8358e9cffb068f63df0bdfcc8f99be035e66454ac8710d381f0ff9eb87728079",
+    "page_plan_sha256": "997a7280b171df5803c2a3bb7c2ee8764082e01f3bdb03c194b9129fe18d26c9",
+    "source_manifest_sha256": "760f946d08e1eebf2d79c189103ac2e627f0bb2569dcd80055885fb8b97324cd",
+    "source_map_sha256": "3ff42e94bd9f8751f8100c6ff251740a46f67182c468af620438c9768f14b961",
+    "batch_manifest_sha256": "125ff5fee8f8271b82c3258ced501ed4411b4071b930f08f1ed682e72c2628c4",
+    "inventory_review_sha256": "83e2c59f059ffdec53fcb8fb83a5f1300d5cca0722dcf031db0b459bd7ab8c19",
+    "pilot_qa_sha256": "cfd72bc97fc4ac0f8471bad6dc7b925085d1822ff606754b91f1b35f9b3ce694",
+    "source_image_inventory_sha256": "331ad1ea2ca04d0636c2185b6ab1a8fe5240ebdd3f0c7c546c8703371d497929",
+    "source_pdf_sha256": "c09d9d91ce39de787cab04e146719d95b638134399d57112802ffacfa67243f3",
+    "content_authority": "designated existing JPGs only; PDF used only for identity/planning support"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "batch_id": "JPG-T1-C013",
+  "source_id": "T1",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-T1-C013-S01",
+      "batch_id": "JPG-T1-C013",
+      "chapter": "09",
+      "section": "09.1",
+      "title": "第1節 繰延資産総論",
+      "expected_pages": ["T1:165", "T1:166", "T1:167", "T1:168"],
+      "processing_pages": ["T1:165", "T1:166", "T1:167", "T1:168"],
+      "output": "chunks/JPG-T1-C013/JPG-T1-C013-S01.md",
+      "status": "pass",
+      "chunk_sha256": "7feaf0246a56ef5472dc4406c73d679d29c72b7dadf338489b1ba0bdac1ff47e",
+      "locators": [
+        {"page": "T1:165", "printed_page": null, "source_region": "第9章 繰延資産の章扉、関連する財務計算テキスト、短答式・論文式本試験の出題実績表", "destination_heading": "## 第1節 繰延資産総論"},
+        {"page": "T1:166", "printed_page": "⑨－1", "source_region": "第1節扉、繰延資産の定義、株式交付費による3要件、通常の資産との違い、企業会計原則の規定、資産計上の根拠", "destination_heading": "## 第1節 繰延資産総論"},
+        {"page": "T1:167", "printed_page": "⑨－2", "source_region": "繰延資産の特徴、長期前払費用との共通点・相違点、貸借対照表表示の分類・償却累計額控除", "destination_heading": "## 第1節 繰延資産総論"},
+        {"page": "T1:168", "printed_page": "⑨－3", "source_region": "繰延資産の取扱いの沿革、会社法改正前後の関係図、当面の取扱いの限定列挙5項目", "destination_heading": "## 第1節 繰延資産総論"}
+      ]
+    },
+    {
+      "id": "JPG-T1-C013-S02",
+      "batch_id": "JPG-T1-C013",
+      "chapter": "09",
+      "section": "09.2",
+      "title": "第2節 繰延資産各論",
+      "expected_pages": ["T1:169", "T1:170", "T1:171", "T1:172", "T1:173", "T1:174", "T1:175", "T1:176"],
+      "processing_pages": ["T1:169", "T1:170", "T1:171", "T1:172", "T1:173", "T1:174", "T1:175", "T1:176"],
+      "output": "chunks/JPG-T1-C013/JPG-T1-C013-S02.md",
+      "status": "pass",
+      "chunk_sha256": "b8a71a0b12cc86c4a7b915ce7fcba1b8959be80ab0f8bbd1266f7f0e3f33d48b",
+      "locators": [
+        {"page": "T1:169", "printed_page": "⑨－4", "source_region": "第2節扉、株式交付費の意義・会計処理、資産計上できる財務活動費用と3年以内定額法、株式分割等の除外", "destination_heading": "## 第2節 繰延資産各論"},
+        {"page": "T1:170", "printed_page": "⑨－5", "source_region": "株式交付費の国際基準と日本基準の仕訳比較、資本から直接控除すべき見解と資本取引の図", "destination_heading": "## 第2節 繰延資産各論"},
+        {"page": "T1:171", "printed_page": "⑨－6", "source_region": "費用として処理する現行見解の3論拠、資金調達費用10・100の比較と投資家への情報提供の図", "destination_heading": "## 第2節 繰延資産各論"},
+        {"page": "T1:172", "printed_page": "⑨－7", "source_region": "社債発行費等の意義、社債発行費と新株予約権発行費の原則・容認処理、一括法・区分法", "destination_heading": "## 第2節 繰延資産各論"},
+        {"page": "T1:173", "printed_page": "⑨－8", "source_region": "創立費の意義、列挙された設立費用、原則費用処理・5年以内定額法、会社法上の資本金等からの減額規定", "destination_heading": "## 第2節 繰延資産各論"},
+        {"page": "T1:174", "printed_page": "⑨－9", "source_region": "開業費の範囲・必要不可欠性、原則・容認処理、5年以内定額法、部分開業時の償却開始、創立費との時系列図", "destination_heading": "## 第2節 繰延資産各論"},
+        {"page": "T1:175", "printed_page": "⑨－10", "source_region": "開発費の意義と研究開発費・経常費の除外、会計処理、6項目の償却開始時期・期間・方法・表示区分のまとめ表と注記", "destination_heading": "## 第2節 繰延資産各論"},
+        {"page": "T1:176", "printed_page": "⑨－11", "source_region": "一時償却、月数基準の償却計算、同一項目の会計処理方法の継続性、会計方針変更の原則・例外・注記", "destination_heading": "## 第2節 繰延資産各論"}
+      ]
+    },
+    {
+      "id": "JPG-T1-C013-S03",
+      "batch_id": "JPG-T1-C013",
+      "chapter": "09",
+      "section": "09.3",
+      "title": "第3節 会社法における従来からの繰延資産に対する見方",
+      "expected_pages": ["T1:177"],
+      "processing_pages": ["T1:177"],
+      "output": "chunks/JPG-T1-C013/JPG-T1-C013-S03.md",
+      "status": "pass",
+      "chunk_sha256": "e8ffa9c05a3577ceb89af12cee936171fcaeb6fea64bf6217b30f441a21faa46",
+      "locators": [
+        {"page": "T1:177", "printed_page": "⑨－12", "source_region": "第3節扉、会計と旧商法の立場の比較、会計と会社法の調整における3つの制約、注記、当面の取扱いへの継承", "destination_heading": "## 第3節 会社法における従来からの繰延資産に対する見方"}
+      ]
+    },
+    {
+      "id": "JPG-T1-C013-S04",
+      "batch_id": "JPG-T1-C013",
+      "chapter": "09",
+      "section": "09.4",
+      "title": "第4節 臨時巨額の損失",
+      "expected_pages": ["T1:178", "T1:179"],
+      "processing_pages": ["T1:178", "T1:179"],
+      "output": "chunks/JPG-T1-C013/JPG-T1-C013-S04.md",
+      "status": "pass",
+      "chunk_sha256": "053ae5e8967dd1d7f71e2d61566e2fd8b06bd0849d990db3b5cfd7d0a9093944",
+      "locators": [
+        {"page": "T1:178", "printed_page": "⑨－13", "source_region": "第4節扉、臨時巨額の損失の定義・3要件、会計理論上の否定、損失と費用の繰延比較、財務政策上の根拠", "destination_heading": "## 第4節 臨時巨額の損失"},
+        {"page": "T1:179", "printed_page": "⑨－14", "source_region": "大地震による賃貸用ビル喪失の設例、6,000・1,000・5,000・500百万円の繰延・償却仕訳、速やかな償却と特別損失処理", "destination_heading": "## 第4節 臨時巨額の損失"}
+      ]
+    }
+  ],
+  "review": "reviews/JPG-T1-C013.json",
+  "excluded_pages": [
+    {"page": "T1:180", "printed_page": "⑨－15", "disposition": "exclude", "reason": "Blank chapter-end MEMO page with no learner content."}
+  ],
+  "source_scope": {
+    "source_id": "T1",
+    "physical_range": "T1:165-T1:180",
+    "processing_range": "T1:165-T1:179",
+    "chapter": "09",
+    "title": "繰延資産",
+    "content_authority": "designated existing JPGs only"
+  }
+}
