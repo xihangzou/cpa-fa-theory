@@ -1,0 +1,85 @@
+{
+  "batch_id": "JPG-T1-C023",
+  "source_id": "T1",
+  "status": "pass",
+  "reviewed_on": "2026-09-06",
+  "reviewer_model": "current execution model; no model switch",
+  "source_revision": {
+    "repository": "xihangzou/cpa-fa-theory",
+    "delivery_branch": "main",
+    "base_commit": "e1858352c1b4eb24bce2aef7e3aea7253b781731",
+    "source_manifest": "project/T1/sources.json",
+    "source_map": "project/T1/source-map.json",
+    "batch_manifest": "project/T1/batches.json",
+    "source_original_root": "/Users/xihangzou/Study/320_CPA/322_財務理論/images/cpa-fa-theory-textbook-1-jpg",
+    "edition": "2024/2025年合格目標",
+    "publication_date": "2023-01-23",
+    "source_pdf_sha256": "c09d9d91ce39de787cab04e146719d95b638134399d57112802ffacfa67243f3",
+    "source_image_inventory_sha256": "331ad1ea2ca04d0636c2185b6ab1a8fe5240ebdd3f0c7c546c8703371d497929",
+    "content_authority": "designated existing JPGs only; PDF used only for identity/planning support"
+  },
+  "source_images": [
+    {"page": "T1:311", "sha256": "ef47d89b80f6959568c84e9ba195ba4beb0379f87e710e5edc844ccb8b4be38a"},
+    {"page": "T1:312", "sha256": "f07c2168b2bc23e5d386fd9d6edbcf1fb8a29a45d74761326ec80252a39b7639"},
+    {"page": "T1:313", "sha256": "fa253874b999024c07630645acabc1e61011ec38b1dc057eafc0fd07b3ef6a83"},
+    {"page": "T1:314", "sha256": "d952bf02de1d2f5365bbffa1dc751c0968517b73409b076f20b7148912e6587a"},
+    {"page": "T1:315", "sha256": "4771aff04463c8338aa9993b7df9233dc293998c5c97685c30196a5909726222"},
+    {"page": "T1:316", "sha256": "2d6776062ff8ef2479d0edc04a0421a8d6c8aae503a58241b54939d98b04a546"},
+    {"page": "T1:317", "sha256": "f8e32249dee2178b327fd72cd35d8e70a35b56422254277ad08ce46eb6ab0e63"},
+    {"page": "T1:318", "sha256": "3ee8213e64f81bcd2060206cceea290a6ed0e4a5ac9ff78745e424267da40c96"},
+    {"page": "T1:319", "sha256": "8560e1baf666872e98565aa2c9f80fa76b396567b81278e93e394afa2b4c6863"},
+    {"page": "T1:320", "sha256": "14d5a7907d9d2b40c5d97707c97f80e7f9643c323eabc5459fe8eb4f2d1ae22b"},
+    {"page": "T1:321", "sha256": "54f84910c6eef1b778a101585da948fd504e38165954a7b62a1532f9315fe43d"},
+    {"page": "T1:322", "sha256": "a6c412109e484e2af4bb78a6a70532a34f9d0fca6b5b666c097e1d21451c84db"}
+  ],
+  "section_outputs": [
+    {"task": "JPG-T1-C023-S01", "chunk_sha256": "571139363695cfb71d082b64cac48fa217896d5ff82e3d8da4153becc39048ac"},
+    {"task": "JPG-T1-C023-S02", "chunk_sha256": "19a2dbf24e46bfb5876bb91eb9d9d0291430c6a5d395d9e57255236d427d219c"},
+    {"task": "JPG-T1-C023-S03", "chunk_sha256": "a3e92db7d0108c78b0d0bbbf80775902ba9c1a11a6a044eed96d57893590d653"},
+    {"task": "JPG-T1-C023-S04", "chunk_sha256": "af70932fb90178c30625c04b952accf054f6f170f7f06cde5f90cfc93742fed6"}
+  ],
+  "coverage": [
+    {"page": "T1:311", "regions": ["chapter title", "short-answer exam-history table", "essay exam-history table"], "status": "pass"},
+    {"page": "T1:312", "regions": ["section banner", "definition", "disclosure contents", "disclosure method", "necessity explanation", "margin footnote"], "status": "pass"},
+    {"page": "T1:313", "regions": ["related-party transaction definition and examples table", "third-party cases 1 and 2", "company-concept diagram", "page margins and footer"], "status": "pass"},
+    {"page": "T1:314", "regions": ["related-party list items 1 through 11", "relationship diagram", "page margins and footer"], "status": "pass"},
+    {"page": "T1:315", "regions": ["notes 1 through 6", "individual/consolidated comparison", "joint-control diagrams", "page margins and footer"], "status": "pass"},
+    {"page": "T1:316", "regions": ["pure-holding-company diagram", "note 7", "related/not-related summary table", "page margins and footer"], "status": "pass"},
+    {"page": "T1:317", "regions": ["materiality thresholds table", "free and low-price transaction rule", "example footnote", "page margins and footer"], "status": "pass"},
+    {"page": "T1:318", "regions": ["consolidated-company rule", "formal third-party intermediary rule", "non-disclosure cases 1 through 3", "page margins and footer"], "status": "pass"},
+    {"page": "T1:319", "regions": ["non-disclosure case 4", "capital-transaction supplement", "summary table", "consolidated relationship diagram", "page margins and footer"], "status": "pass"},
+    {"page": "T1:320", "regions": ["eight disclosure items", "reference rationale box", "page margins and footer"], "status": "pass"},
+    {"page": "T1:321", "regions": ["disclosure-example table columns and all rows", "notes 1 through 11", "transaction-condition evidence", "page margins and footer"], "status": "pass"},
+    {"page": "T1:322", "regions": ["section banner", "existence-disclosure items", "parent example", "individual and aggregate summary-financial-information examples", "page margins and footer"], "status": "pass"}
+  ],
+  "page_review": [
+    {"page": "T1:311", "result": "pass", "positive": "Chapter title and both exam-history tables were checked; four listed chapter topics were retained.", "negative_check": "No substantive content was found outside the recorded chapter introduction."},
+    {"page": "T1:312", "result": "pass", "positive": "Definition, two disclosure contents, note method, scope, necessity, parent-company example, and footer were retained.", "negative_check": "No omission in the section boundary or margin footnote."},
+    {"page": "T1:313", "result": "pass", "positive": "Transaction definition, resource/debt/service table, intermediary rule, both cases, and company-concept diagram were retained.", "negative_check": "Case conclusions and page footer were checked; no invented third-party rule."},
+    {"page": "T1:314", "result": "pass", "positive": "All 11 related-party categories and the A-company relationship diagram were retained.", "negative_check": "Item numbering, parent/child/affiliate relationships, pension, and margins were checked."},
+    {"page": "T1:315", "result": "pass", "positive": "Notes 1 through 6, joint-control diagrams, 10% threshold, close-relative scope, officer scope, and consolidated distinction were retained.", "negative_check": "The two 50% diagrams and the full-page note boundary were checked."},
+    {"page": "T1:316", "result": "pass", "positive": "Pure holding-company example, note 7, consolidated-versus-individual comparison, and all summary-table inclusions/exclusions were retained.", "negative_check": "The group-impact rationale and pension condition were checked."},
+    {"page": "T1:317", "result": "pass", "positive": "All法人/個人 thresholds, P&L and B/S categories, 1%/10%/1,000万円 figures, low-price rule, and zero-consideration example were retained.", "negative_check": "The independent-third-party hypothetical amount rule was checked."},
+    {"page": "T1:318", "result": "pass", "positive": "Consolidated-company and formal intermediary rules plus three non-disclosure cases and their rationales were retained.", "negative_check": "The ordinary-terms exception boundary was checked."},
+    {"page": "T1:319", "result": "pass", "positive": "Officer compensation exception, capital transactions, public-offering exception, summary table, and numbered relationship diagram were retained.", "negative_check": "Disclosure and non-disclosure classifications were checked against the source."},
+    {"page": "T1:320", "result": "pass", "positive": "All eight disclosure items, the formal-third-party qualification, aggregate allowance information, and reference rationale were retained.", "negative_check": "No item was collapsed into an unsupported generalization."},
+    {"page": "T1:321", "result": "pass", "positive": "Every example-table field, entity row, transaction row, placeholder amount, account/balance, and note 1-11 condition was retained.", "negative_check": "Table row relationships, percentages, notes, and no-balance dashes were checked visually."},
+    {"page": "T1:322", "result": "pass", "positive": "Existence-disclosure list, rationale, parent example, and individual/aggregate D-company/E-company summary information were retained.", "negative_check": "The section ends within the batch and page 323 begins chapter 16; no cross-range content was imported."}
+  ],
+  "findings": [],
+  "corrections": [],
+  "checks": {
+    "numerical": "pass",
+    "diagram": "pass",
+    "false_proposition": "not_applicable"
+  },
+  "unresolved_count": 0,
+  "excluded_pages": [],
+  "dependency_commits": [
+    "a2fb2bb829d112522128cdb145523302e9d1e7fd",
+    "1fd8a963ef32e09b5f3f08ecd7d5bb7cc2240a94",
+    "393dc82a64791eb452ea64ccb8cbfc55212718ef",
+    "7507151c638a73a41fc13b9d4c4481c8888307e0"
+  ],
+  "review_summary": "All 12 included pages were reopened at readable resolution and compared with the four section chunks, including margins, tables, examples, diagrams, notes and exceptions. No unresolved marker or cross-range dependency was found. The PDF was used only as a planning cross-check; existing designated JPGs remain content authority."
+}

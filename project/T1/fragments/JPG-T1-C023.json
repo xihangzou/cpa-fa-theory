@@ -1,0 +1,76 @@
+{
+  "batch_id": "JPG-T1-C023",
+  "source_id": "T1",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-T1-C023-S01",
+      "batch_id": "JPG-T1-C023",
+      "chapter": "15",
+      "section": "15.1",
+      "title": "第1節 関連当事者の開示に関する基本事項",
+      "expected_pages": ["T1:311", "T1:312", "T1:313"],
+      "processing_pages": ["T1:311", "T1:312", "T1:313"],
+      "output": "chunks/JPG-T1-C023/JPG-T1-C023-S01.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T1:311", "printed_page": null, "source_region": "chapter title and short-answer/essay exam-history tables", "destination_heading": "## 第1節 関連当事者の開示に関する基本事項"},
+        {"page": "T1:312", "printed_page": "⑮－1", "source_region": "section banner and items (1) through (4), including necessity note", "destination_heading": "## 第1節 関連当事者の開示に関する基本事項"},
+        {"page": "T1:313", "printed_page": "⑮－2", "source_region": "item (5), cases 1 and 2, and company-concept diagram", "destination_heading": "## 第1節 関連当事者の開示に関する基本事項"}
+      ],
+      "chunk_sha256": "571139363695cfb71d082b64cac48fa217896d5ff82e3d8da4153becc39048ac"
+    },
+    {
+      "id": "JPG-T1-C023-S02",
+      "batch_id": "JPG-T1-C023",
+      "chapter": "15",
+      "section": "15.2",
+      "title": "第2節 関連当事者に該当する者",
+      "expected_pages": ["T1:314", "T1:315", "T1:316"],
+      "processing_pages": ["T1:314", "T1:315", "T1:316"],
+      "output": "chunks/JPG-T1-C023/JPG-T1-C023-S02.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T1:314", "printed_page": "⑮－3", "source_region": "section banner, related-party list, and relationship diagram", "destination_heading": "## 第2節 関連当事者に該当する者"},
+        {"page": "T1:315", "printed_page": "⑮－4", "source_region": "notes 1 through 6 and joint-control diagrams", "destination_heading": "## 第2節 関連当事者に該当する者"},
+        {"page": "T1:316", "printed_page": "⑮－5", "source_region": "note 7, consolidated-versus-individual diagram, and summary table", "destination_heading": "## 第2節 関連当事者に該当する者"}
+      ],
+      "chunk_sha256": "19a2dbf24e46bfb5876bb91eb9d9d0291430c6a5d395d9e57255236d427d219c"
+    },
+    {
+      "id": "JPG-T1-C023-S03",
+      "batch_id": "JPG-T1-C023",
+      "chapter": "15",
+      "section": "15.3",
+      "title": "第3節 関連当事者との取引に関する開示",
+      "expected_pages": ["T1:317", "T1:318", "T1:319", "T1:320", "T1:321"],
+      "processing_pages": ["T1:317", "T1:318", "T1:319", "T1:320", "T1:321"],
+      "output": "chunks/JPG-T1-C023/JPG-T1-C023-S03.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T1:317", "printed_page": "⑮－6", "source_region": "section banner, materiality thresholds, and free/low-price transaction rule", "destination_heading": "## 第3節 関連当事者との取引に関する開示"},
+        {"page": "T1:318", "printed_page": "⑮－7", "source_region": "consolidated-company rule and non-disclosure cases (1) through (3)", "destination_heading": "## 第3節 関連当事者との取引に関する開示"},
+        {"page": "T1:319", "printed_page": "⑮－8", "source_region": "non-disclosure case (4), capital-transaction supplement, summary, and diagram", "destination_heading": "## 第3節 関連当事者との取引に関する開示"},
+        {"page": "T1:320", "printed_page": "⑮－9", "source_region": "eight disclosure items and reference rationale", "destination_heading": "## 第3節 関連当事者との取引に関する開示"},
+        {"page": "T1:321", "printed_page": "⑮－10", "source_region": "disclosure-example table and notes 1 through 11", "destination_heading": "## 第3節 関連当事者との取引に関する開示"}
+      ],
+      "chunk_sha256": "a3e92db7d0108c78b0d0bbbf80775902ba9c1a11a6a044eed96d57893590d653"
+    },
+    {
+      "id": "JPG-T1-C023-S04",
+      "batch_id": "JPG-T1-C023",
+      "chapter": "15",
+      "section": "15.4",
+      "title": "第4節 関連当事者の存在に関する開示",
+      "expected_pages": ["T1:322"],
+      "processing_pages": ["T1:322"],
+      "output": "chunks/JPG-T1-C023/JPG-T1-C023-S04.md",
+      "status": "pass",
+      "locators": [
+        {"page": "T1:322", "printed_page": "⑮－11", "source_region": "section banner, concrete disclosure items, and individual/aggregate summary-financial-information examples", "destination_heading": "## 第4節 関連当事者の存在に関する開示"}
+      ],
+      "chunk_sha256": "af70932fb90178c30625c04b952accf054f6f170f7f06cde5f90cfc93742fed6"
+    }
+  ],
+  "review": "reviews/JPG-T1-C023.json"
+}
