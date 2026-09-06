@@ -1,0 +1,65 @@
+{
+  "batch_id": "JPG-T1-C005",
+  "source_id": "T1",
+  "status": "pass",
+  "source_images": [
+    {"page": "T1:067", "sha256": "e7c6924234722370687b112d0fde3c93b968b6a360850591e5bf8cb2952c0bd4"},
+    {"page": "T1:068", "sha256": "c7eac387dc26c07a911f7745f4192d26f043c07550a295b1a665c4e924eb794d"},
+    {"page": "T1:069", "sha256": "2b3ecc255f8de5c819a650b9e513c751d1278f923de5402c2054e0733c07d5f9"},
+    {"page": "T1:070", "sha256": "5b78f4bfdcbe6c1c139fec39a50cf187481a9c592df688e1b180c69310f0696a"},
+    {"page": "T1:071", "sha256": "3c37c00153888c7275471cb21a7715ebe155f737d46493b23a8955d3ed1a6251"},
+    {"page": "T1:072", "sha256": "4db2fb0e1300f2a1d4cc7b2474e41efbe1b51dc14b088d29af13bc558553d29f"},
+    {"page": "T1:073", "sha256": "ace7b63c711f4d3e8c5b170ef95684b03a0d21b8ad577bfc44363097a66139a5"},
+    {"page": "T1:074", "sha256": "106b64491e9ca3ddf2ca808e4be455821e0eaf34bf504dbd79abd7fda0c6846d"},
+    {"page": "T1:075", "sha256": "046dfecdf03f7076d2a01bd9fbd691c575e7c0616db1d75b7f17d1e2d36a20e9"},
+    {"page": "T1:076", "sha256": "04d3f059fd85cf1bae3ce10156815b79baa39b4aecd212df200fe9a92ee34505"}
+  ],
+  "section_outputs": [
+    {"task": "JPG-T1-C005-S01", "chunk_sha256": "d37099e68b14a9cdaee95e883a9717a36d3ca81897b3145a0fe3467f160f7fb7"},
+    {"task": "JPG-T1-C005-S02", "chunk_sha256": "0c795fb825296190052105caa88d620e856b9f677a52fbcf4a18dd703e150747"},
+    {"task": "JPG-T1-C005-S03", "chunk_sha256": "e99ffbda3e5dfa1960a3517909495cc9efe6b40b56d40a22a24ffa2113811801"},
+    {"task": "JPG-T1-C005-S04", "chunk_sha256": "ccd21d11db3b90ad68d031b80535c685dd88b51a820df4f7790591ce9b7e60e2"}
+  ],
+  "coverage": [
+    {"page": "T1:067", "regions": ["chapter divider, chapter title, ratings and both exam-history tables"], "status": "pass"},
+    {"page": "T1:068", "regions": ["capital-circulation definition and flow diagram", "capital procurement and investment definitions, balance-sheet tables"], "status": "pass"},
+    {"page": "T1:069", "regions": ["fund-use and funding-source distinction", "capital recovery income statement and ending balance sheet", "capital-circulation relationship diagram"], "status": "pass"},
+    {"page": "T1:070", "regions": ["property and profit methods definitions, merits and limitations", "net-asset numerical calculation", "physical inventory supplement", "profit method definition, merit and limitation"], "status": "pass"},
+    {"page": "T1:071", "regions": ["profit-method numerical calculation and current-system treatment", "inventory-loss journal entry and three-method comparison", "section 3 introduction"], "status": "pass"},
+    {"page": "T1:072", "regions": ["inventory method definition, characteristics and property-method relation", "derivation method definition, characteristics and profit-method relation", "method-flow diagrams"], "status": "pass"},
+    {"page": "T1:073", "regions": ["static-theory background and purpose", "static balance-sheet definition, recognition, valuation, preparation and emphasis", "static balance-sheet numerical and creditor-protection diagram"], "status": "pass"},
+    {"page": "T1:074", "regions": ["dynamic-theory background and purpose", "dynamic balance-sheet recognition, preparation, emphasis and roles", "incorporation, interim and closing numerical diagram"], "status": "pass"},
+    {"page": "T1:075", "regions": ["unresolved cash-flow items explanation and examples", "connecting-ring current/next-period example", "dynamic balance-sheet components supplement"], "status": "pass"},
+    {"page": "T1:076", "regions": ["static-versus-dynamic accounting comparison table across all seven source rows"], "status": "pass"}
+  ],
+  "findings": [
+    "All 10 designated processing JPGs were reopened at readable resolution and compared with the four section chunks; page 071 is intentionally cited by both S02 and S03 because the source section boundary occurs within that physical page.",
+    "Definitions, distinctions, conditions, methods, timing, reasons, tables, balance-sheet and income-statement amounts, journal entries, calculation relationships and diagram-only relationships were represented in the chunks.",
+    "The chapter divider on physical page 067 is substantive chapter and exam-history context and was retained; no substantive content crosses the physical 076 boundary.",
+    "This theory source contains no question/answer or false-proposition layout; that specialized check is not applicable."
+  ],
+  "corrections": [],
+  "checks": {
+    "numerical": "pass",
+    "diagram": "pass",
+    "false_proposition": "not_applicable"
+  },
+  "unresolved_count": 0,
+  "reviewer_model": "current execution model; no model switch",
+  "dependency_commits": [
+    "a2fb2bb829d112522128cdb145523302e9d1e7fd",
+    "1fd8a963ef32e09b5f3f08ecd7d5bb7cc2240a94",
+    "7507151c638a73a41fc13b9d4c4481c8888307e0"
+  ],
+  "source_revision": {
+    "verified_main_commit": "f572177b435af68176856966890afb426ad49f11",
+    "source_catalog_sha256": "8358e9cffb068f63df0bdfcc8f99be035e66454ac8710d381f0ff9eb87728079",
+    "page_plan_sha256": "997a7280b171df5803c2a3bb7c2ee8764082e01f3bdb03c194b9129fe18d26c9",
+    "source_manifest_sha256": "760f946d08e1eebf2d79c189103ac2e627f0bb2569dcd80055885fb8b97324cd",
+    "source_map_sha256": "3ff42e94bd9f8751f8100c6ff251740a46f67182c468af620438c9768f14b961",
+    "batch_manifest_sha256": "125ff5fee8f8271b82c3258ced501ed4411b4071b930f08f1ed682e72c2628c4",
+    "inventory_review_sha256": "83e2c59f059ffdec53fcb8fb83a5f1300d5cca0722dcf031db0b459bd7ab8c19",
+    "source_image_inventory_sha256": "331ad1ea2ca04d0636c2185b6ab1a8fe5240ebdd3f0c7c546c8703371d497929",
+    "source_pdf_sha256": "c09d9d91ce39de787cab04e146719d95b638134399d57112802ffacfa67243f3"
+  }
+}

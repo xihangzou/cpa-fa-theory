@@ -1,0 +1,84 @@
+{
+  "batch_id": "JPG-T1-C005",
+  "source_id": "T1",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-T1-C005-S01",
+      "batch_id": "JPG-T1-C005",
+      "chapter": "03",
+      "section": "03.1",
+      "title": "第1節 資本循環と財務諸表",
+      "expected_pages": ["T1:067", "T1:068", "T1:069"],
+      "processing_pages": ["T1:067", "T1:068", "T1:069"],
+      "output": "chunks/JPG-T1-C005/JPG-T1-C005-S01.md",
+      "status": "pass",
+      "chunk_sha256": "d37099e68b14a9cdaee95e883a9717a36d3ca81897b3145a0fe3467f160f7fb7",
+      "locators": [
+        {"page": "T1:067", "printed_page": null, "source_region": "第3章の章扉、章タイトル・評価、短答式および論文式本試験の出題実績表", "destination_heading": "## 第1節 資本循環と財務諸表"},
+        {"page": "T1:068", "printed_page": "③－1", "source_region": "第1節の扉、1.資本循環、資本の調達・投下・回収の定義と流れ図、資本の調達・投下の貸借対照表、フッター", "destination_heading": "## 第1節 資本循環と財務諸表"},
+        {"page": "T1:069", "printed_page": "③－2", "source_region": "資金の運用形態と調達源泉、資本の回収、損益計算書・期末貸借対照表の数値例、資本循環と財務諸表の関係図、フッター", "destination_heading": "## 第1節 資本循環と財務諸表"}
+      ]
+    },
+    {
+      "id": "JPG-T1-C005-S02",
+      "batch_id": "JPG-T1-C005",
+      "chapter": "03",
+      "section": "03.2",
+      "title": "2. 期間利益の算定方法",
+      "expected_pages": ["T1:070", "T1:071"],
+      "processing_pages": ["T1:070", "T1:071"],
+      "output": "chunks/JPG-T1-C005/JPG-T1-C005-S02.md",
+      "status": "pass",
+      "chunk_sha256": "0c795fb825296190052105caa88d620e856b9f677a52fbcf4a18dd703e150747",
+      "locators": [
+        {"page": "T1:070", "printed_page": "③－3", "source_region": "2.期間利益の算定方法、財産法の定義・長所・短所、期首期末純資産の数値例、実地調査（実地棚卸）の補足、損益法の定義・長所・短所", "destination_heading": "## 2. 期間利益の算定方法"},
+        {"page": "T1:071", "printed_page": "③－4", "source_region": "損益法の期間収益・費用・利益の数値例、現行制度における損益法と実地調査の併用、商品滅失の具体例、財産法・損益法・現行制度の比較、3.貸借対照表の作成方法の導入", "destination_heading": "## 2. 期間利益の算定方法"}
+      ]
+    },
+    {
+      "id": "JPG-T1-C005-S03",
+      "batch_id": "JPG-T1-C005",
+      "chapter": "03",
+      "section": "03.3",
+      "title": "3. 貸借対照表の作成方法",
+      "expected_pages": ["T1:071", "T1:072"],
+      "processing_pages": ["T1:071", "T1:072"],
+      "output": "chunks/JPG-T1-C005/JPG-T1-C005-S03.md",
+      "status": "pass",
+      "chunk_sha256": "e99ffbda3e5dfa1960a3517909495cc9efe6b40b56d40a22a24ffa2113811801",
+      "locators": [
+        {"page": "T1:071", "printed_page": "③－4", "source_region": "3.貸借対照表の作成方法の導入、棚卸法と誘導法の提示", "destination_heading": "## 3. 貸借対照表の作成方法"},
+        {"page": "T1:072", "printed_page": "③－5", "source_region": "棚卸法（財産目録法）の定義・特徴・財産法との関係、誘導法の定義・特徴・損益法との関係、両方法の流れ図", "destination_heading": "## 3. 貸借対照表の作成方法"}
+      ]
+    },
+    {
+      "id": "JPG-T1-C005-S04",
+      "batch_id": "JPG-T1-C005",
+      "chapter": "03",
+      "section": "03.4",
+      "title": "4. 静態論会計と動態論会計",
+      "expected_pages": ["T1:073", "T1:074", "T1:075", "T1:076"],
+      "processing_pages": ["T1:073", "T1:074", "T1:075", "T1:076"],
+      "output": "chunks/JPG-T1-C005/JPG-T1-C005-S04.md",
+      "status": "pass",
+      "chunk_sha256": "ccd21d11db3b90ad68d031b80535c685dd88b51a820df4f7790591ce9b7e60e2",
+      "locators": [
+        {"page": "T1:073", "printed_page": "③－6", "source_region": "4.静態論会計と動態論会計、静態論の背景・目的、静態論における貸借対照表の計上項目・評価・方法・重視点、静的貸借対照表の図", "destination_heading": "## 4. 静態論会計と動態論会計"},
+        {"page": "T1:074", "printed_page": "③－7", "source_region": "動態論の背景・目的、動態論における貸借対照表の計上項目・方法・重視点・役割、設立時・期中・決算時の数値例と動的貸借対照表の図", "destination_heading": "## 4. 静態論会計と動態論会計"},
+        {"page": "T1:075", "printed_page": "③－8", "source_region": "収支の未解決項目の定義・売掛金・前受金の例、連結環の当期・次期の費用配分、動的貸借対照表の構成要素の補足", "destination_heading": "## 4. 静態論会計と動態論会計"},
+        {"page": "T1:076", "printed_page": "③－9", "source_region": "静態論会計と動態論会計の相違点のまとめ表（時代背景、目的、本質、利益算定、作成方法、資産性・負債性、評価基準）", "destination_heading": "## 4. 静態論会計と動態論会計"}
+      ]
+    }
+  ],
+  "review": "reviews/JPG-T1-C005.json",
+  "excluded_pages": [],
+  "source_scope": {
+    "source_id": "T1",
+    "physical_range": "T1:067-T1:076",
+    "processing_range": "T1:067-T1:076",
+    "chapter": "03",
+    "title": "貸借対照表・損益計算書総論",
+    "content_authority": "designated existing JPGs only"
+  }
+}
