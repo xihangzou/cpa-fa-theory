@@ -1,0 +1,76 @@
+{
+  "batch_id": "JPG-T1-C016",
+  "source_id": "T1",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-T1-C016-S01",
+      "batch_id": "JPG-T1-C016",
+      "chapter": "12",
+      "section": "12.1",
+      "title": "第1節 財務会計の概念フレームワークの公表にあたって",
+      "expected_pages": ["T1:219", "T1:220", "T1:221"],
+      "processing_pages": ["T1:219", "T1:220", "T1:221"],
+      "output": "chunks/JPG-T1-C016/JPG-T1-C016-S01.md",
+      "status": "pass",
+      "chunk_sha256": "a78d971f2e531bb190a3b73c30e650bd101eb7f0e60a3398275ff42c58ad7214",
+      "locators": [
+        {"page": "T1:219", "printed_page": null, "source_region": "第12章章扉、章タイトル、短答式・論文式本試験における出題実績表", "destination_heading": "## 第1節 財務会計の概念フレームワークの公表にあたって"},
+        {"page": "T1:220", "printed_page": "⑫－1", "source_region": "第1節の扉、1.概念フレームワーク公表の経緯、2.役割、将来の会計基準の指針、海外の基準設定主体とのコミュニケーション、制約要因の補足", "destination_heading": "## 第1節 財務会計の概念フレームワークの公表にあたって"},
+        {"page": "T1:221", "printed_page": "⑫－2", "source_region": "概念フレームワークと会計基準、念頭においている点、3.構成、諸外国の概念フレームワークとの関係", "destination_heading": "## 第1節 財務会計の概念フレームワークの公表にあたって"}
+      ]
+    },
+    {
+      "id": "JPG-T1-C016-S02",
+      "batch_id": "JPG-T1-C016",
+      "chapter": "12",
+      "section": "12.2",
+      "title": "第2節 財務報告の目的",
+      "expected_pages": ["T1:222", "T1:223", "T1:224", "T1:225", "T1:226", "T1:227"],
+      "processing_pages": ["T1:222", "T1:223", "T1:224", "T1:225", "T1:226", "T1:227"],
+      "output": "chunks/JPG-T1-C016/JPG-T1-C016-S02.md",
+      "status": "pass",
+      "chunk_sha256": "a78cad65c8e605a1de28d01913332dc31add046b37bbbcb840c8c1b7e8d3a2d0",
+      "locators": [
+        {"page": "T1:222", "printed_page": "⑫－3", "source_region": "第2節の扉、1.ディスクロージャー制度の存在意義、財務報告の目的、投資のポジションの補足", "destination_heading": "## 第2節 財務報告の目的"},
+        {"page": "T1:223", "printed_page": "⑫－4", "source_region": "財務報告において提供される情報、利益情報と投資ストックの関係、資本10億円・1,000億円と利益1億円の比較図", "destination_heading": "## 第2節 財務報告の目的"},
+        {"page": "T1:224", "printed_page": "⑫－5", "source_region": "2.会計基準の役割、役割設定の背景、標準的契約としての会計基準、最小限ルールとして機能する条件", "destination_heading": "## 第2節 財務報告の目的"},
+        {"page": "T1:225", "printed_page": "⑫－6", "source_region": "市場の効率性と会計基準の必要性、会計情報の性質、補足説明", "destination_heading": "## 第2節 財務報告の目的"},
+        {"page": "T1:226", "printed_page": "⑫－7", "source_region": "3.ディスクロージャー制度の当事者、投資家・経営者・監査人の役割、経営者の事実開示限定の理由", "destination_heading": "## 第2節 財務報告の目的"},
+        {"page": "T1:227", "printed_page": "⑫－8", "source_region": "想定投資家、各当事者の会計基準遵守の便益、資本コストと企業価値、4.会計情報の副次的利用", "destination_heading": "## 第2節 財務報告の目的"}
+      ]
+    },
+    {
+      "id": "JPG-T1-C016-S03",
+      "batch_id": "JPG-T1-C016",
+      "chapter": "12",
+      "section": "12.3",
+      "title": "第3節 会計情報の質的特性",
+      "expected_pages": ["T1:228", "T1:229", "T1:230", "T1:231", "T1:232", "T1:233", "T1:234", "T1:235"],
+      "processing_pages": ["T1:228", "T1:229", "T1:230", "T1:231", "T1:232", "T1:233", "T1:234", "T1:235"],
+      "output": "chunks/JPG-T1-C016/JPG-T1-C016-S03.md",
+      "status": "pass",
+      "chunk_sha256": "4151e283bddfea65f271241f6b2489b6cbb340e5486cdc0e7573d8457e11328a",
+      "locators": [
+        {"page": "T1:228", "printed_page": "⑫－9", "source_region": "第3節の扉、1.質的特性と意思決定有用性、2.意思決定有用性を支える2特性、階層図", "destination_heading": "## 第3節 会計情報の質的特性"},
+        {"page": "T1:229", "printed_page": "⑫－10", "source_region": "3.意思決定との関連性、定義、情報価値の存在、情報ニーズの充足", "destination_heading": "## 第3節 会計情報の質的特性"},
+        {"page": "T1:230", "printed_page": "⑫－11", "source_region": "情報ニーズの関係図と限界、4.信頼性、中立性・検証可能性・表現の忠実性と具体例", "destination_heading": "## 第3節 会計情報の質的特性"},
+        {"page": "T1:231", "printed_page": "⑫－12", "source_region": "信頼性と意思決定との関連性、トレード・オフ、5.内的整合性の定義と例外", "destination_heading": "## 第3節 会計情報の質的特性"},
+        {"page": "T1:232", "printed_page": "⑫－13", "source_region": "内的整合性と基礎概念・体系、会計情報との関係①、推定図", "destination_heading": "## 第3節 会計情報の質的特性"},
+        {"page": "T1:233", "printed_page": "⑫－14", "source_region": "内的整合性と新たな会計情報との関係②、概念フレームワーク改訂、硬直化の補足", "destination_heading": "## 第3節 会計情報の質的特性"},
+        {"page": "T1:234", "printed_page": "⑫－15", "source_region": "内的整合性と概念フレームワーク、首尾一貫性との相違、6.比較可能性の定義", "destination_heading": "## 第3節 会計情報の質的特性"},
+        {"page": "T1:235", "printed_page": "⑫－16", "source_region": "形式と実質が分離する場合のケース1・2、比較可能性の確保、意思決定有用性とその他の特性の関係", "destination_heading": "## 第3節 会計情報の質的特性"}
+      ]
+    }
+  ],
+  "review": "reviews/JPG-T1-C016.json",
+  "excluded_pages": [],
+  "source_scope": {
+    "source_id": "T1",
+    "physical_range": "T1:219-T1:235",
+    "processing_range": "T1:219-T1:235",
+    "chapter": "12",
+    "title": "財務会計の概念フレームワーク",
+    "content_authority": "designated existing JPGs only"
+  }
+}
