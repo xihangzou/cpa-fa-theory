@@ -1,0 +1,232 @@
+{
+  "batch_id": "JPG-W1-C010",
+  "source_id": "W1",
+  "status": "pass",
+  "reviewed_on": "2026-09-07",
+  "reviewer_model": "GPT-5.6 Sol (current execution model; no model switch)",
+  "source_revision": {
+    "delivery_branch": "main",
+    "repository_commit": "c298101bc48b7624150cf6989dab116f21ed1374",
+    "source_catalog": "contracts/source-catalog.json",
+    "source_catalog_sha256": "8358e9cffb068f63df0bdfcc8f99be035e66454ac8710d381f0ff9eb87728079",
+    "page_plan": "contracts/page-plan.json",
+    "page_plan_sha256": "997a7280b171df5803c2a3bb7c2ee8764082e01f3bdb03c194b9129fe18d26c9",
+    "source_manifest": "project/W1/sources.json",
+    "source_manifest_sha256": "f9bf676e213a1ccedb2ddb4e19c35fbc931b044844436970d3d65def49433de3",
+    "source_map": "project/W1/source-map.json",
+    "source_map_sha256": "d423630c6d0e0683d64bd6b32a9677f0d4f971f6a8572c217ef1c37c5f5a937a",
+    "batch_manifest": "project/W1/batches.json",
+    "batch_manifest_sha256": "35a285b5506fbd1dfbfb1c2c06994f6640617d9f68ef9f77636871c953b8ed4a",
+    "inventory_review": "project/W1/inventory-review.json",
+    "inventory_review_sha256": "e94cf19cc8ad6c7bf9e1fbfc2856e128f88b2ab2cf02be37b2fcf869d0a993bf",
+    "pilot_qa": "project/W1/qa/pilot.json",
+    "pilot_qa_sha256": "a2bf6bd4fcd799e1a7344bae403d461f27979175d4709e2b1c2591c405f99475",
+    "source_original_root": "/Users/xihangzou/Study/320_CPA/322_財務理論/images/cpa-fa-theory-short-answer-workbook-1-jpg",
+    "source_pdf_sha256": "cd4b9e8b7be475d5e40785cddfd41e48e775b57eeaed6ffb2b90f4c21c0fd04f",
+    "source_image_inventory_sha256": "593df03d5e6282b4d69ed9162a8afd9cbf6500cb0656884bec1c5b6b129fa5eb",
+    "edition": "2024/2025年合格目標",
+    "publication_date": "2023-01-23",
+    "physical_scope": "W1:084-W1:093",
+    "processing_scope": "W1:084-W1:093",
+    "content_authority": "designated existing JPGs only; PDF not used for transcription"
+  },
+  "dependency_commits": [
+    "a2fb2bb829d112522128cdb145523302e9d1e7fd",
+    "a62d278ae52faba8a97b49e08688e54ce2a466c2",
+    "46de4cd3c5999251a2ddf48fa02a363a58fa29d8"
+  ],
+  "source_images": [
+    {
+      "page": "W1:084",
+      "printed_page": "⑨-1",
+      "image": "pages/W1/page-084.jpg",
+      "sha256": "bb5e0a090d13fe7e4d777b44d8e41c8978d03963c70ab6086910747437c0efaf"
+    },
+    {
+      "page": "W1:085",
+      "printed_page": "⑨-2",
+      "image": "pages/W1/page-085.jpg",
+      "sha256": "3b26e48b3c8971465159a106c415d17fed2eb77cd43a267ecac753314bb16c12"
+    },
+    {
+      "page": "W1:086",
+      "printed_page": "⑨-3",
+      "image": "pages/W1/page-086.jpg",
+      "sha256": "4101c3f44a2ca011cd359b6cff2ba138747333faaab0b5e14f9b7ddab60aa0a5"
+    },
+    {
+      "page": "W1:087",
+      "printed_page": "⑨-4",
+      "image": "pages/W1/page-087.jpg",
+      "sha256": "637200a8b69d5878a907da7abeb350f8efdd304bb9b62b60bc01021bde4a3e13"
+    },
+    {
+      "page": "W1:088",
+      "printed_page": "⑨-5",
+      "image": "pages/W1/page-088.jpg",
+      "sha256": "149ee51e515ef76e756dbd3557a20ac1bfff5e42f4c744cd68f0b46f9b33e0b3"
+    },
+    {
+      "page": "W1:089",
+      "printed_page": "⑨-6",
+      "image": "pages/W1/page-089.jpg",
+      "sha256": "48027b00ed10fd49f9a435a4a898114a0f2c7537186589cc234b00cbeea0f326"
+    },
+    {
+      "page": "W1:090",
+      "printed_page": "⑨-7",
+      "image": "pages/W1/page-090.jpg",
+      "sha256": "34e9142761cb9bcd1f4d020af3654eb966e516a31d1307fe4cf778205f82d11c"
+    },
+    {
+      "page": "W1:091",
+      "printed_page": "⑨-8",
+      "image": "pages/W1/page-091.jpg",
+      "sha256": "c772b5a1d9942ca9c412cd5d6129f3e2db7f1dbd2bdce2c04d90a43054400614"
+    },
+    {
+      "page": "W1:092",
+      "printed_page": "⑨-9",
+      "image": "pages/W1/page-092.jpg",
+      "sha256": "bf96dd759319514f78e96b932495e87c66ea81c835c68d4ad49bade04f28a224"
+    },
+    {
+      "page": "W1:093",
+      "printed_page": "⑨-10",
+      "image": "pages/W1/page-093.jpg",
+      "sha256": "0a8813884313378e10f9dcd5b49af7282d985cd947800be3a7d799d692b86ca2"
+    }
+  ],
+  "section_outputs": [
+    {
+      "task": "JPG-W1-C010-S01",
+      "chunk": "project/W1/chunks/JPG-W1-C010/JPG-W1-C010-S01.md",
+      "chunk_sha256": "ba86e64e473325256f45d0baf147d2953bf58a54421bc14d2187447387f94bbe"
+    },
+    {
+      "task": "JPG-W1-C010-S02",
+      "chunk": "project/W1/chunks/JPG-W1-C010/JPG-W1-C010-S02.md",
+      "chunk_sha256": "dbb1a8f2ce3043aa55c4c1a2c232454a87a0a0e5e05ba6b1f449be49de642f70"
+    },
+    {
+      "task": "JPG-W1-C010-S03",
+      "chunk": "project/W1/chunks/JPG-W1-C010/JPG-W1-C010-S03.md",
+      "chunk_sha256": "c41e480e49681a9377bc92f651d4d48d9ab4d6380f4060cce2147814f26acb23"
+    },
+    {
+      "task": "JPG-W1-C010-S04",
+      "chunk": "project/W1/chunks/JPG-W1-C010/JPG-W1-C010-S04.md",
+      "chunk_sha256": "e34d43a2ac817e29765747ed702a5214d57e8067ee9dc246d7165ab809b57c31"
+    }
+  ],
+  "coverage": [
+    {
+      "page": "W1:084",
+      "status": "pass",
+      "regions": [
+        "S01: 第9章・1. 繰延資産総論、問題1-6の問題文・重要度・過去問表示",
+        "ページ端、余白、⑨-1フッターを含む全画面確認"
+      ]
+    },
+    {
+      "page": "W1:085",
+      "status": "pass",
+      "regions": [
+        "S01: 問題1-6の正誤・根拠説明、追加チェック",
+        "余白、⑨-2フッターを含む全画面確認"
+      ]
+    },
+    {
+      "page": "W1:086",
+      "status": "pass",
+      "regions": [
+        "S02: 2. 株式交付費、社債発行費等、問題7-13の問題文・重要度・過去問表示",
+        "余白、⑨-3フッターを含む全画面確認"
+      ]
+    },
+    {
+      "page": "W1:087",
+      "status": "pass",
+      "regions": [
+        "S02: 問題7-13の正誤・根拠説明、追加チェック",
+        "余白、⑨-4フッターを含む全画面確認"
+      ]
+    },
+    {
+      "page": "W1:088",
+      "status": "pass",
+      "regions": [
+        "S02: 問題14-18の問題文・重要度・過去問表示",
+        "S03: 3. 創立費、開業費、開発費、問題19-22の問題文・重要度・過去問表示",
+        "余白、⑨-5フッターを含む全画面確認"
+      ]
+    },
+    {
+      "page": "W1:089",
+      "status": "pass",
+      "regions": [
+        "S02: 問題14-18の正誤・根拠説明、追加チェック",
+        "S03: 問題19-22の正誤・根拠説明、追加チェック",
+        "余白、⑨-6フッターを含む全画面確認"
+      ]
+    },
+    {
+      "page": "W1:090",
+      "status": "pass",
+      "regions": [
+        "S03: 問題23-26の問題文・重要度・過去問表示",
+        "余白、⑨-7フッターを含む全画面確認"
+      ]
+    },
+    {
+      "page": "W1:091",
+      "status": "pass",
+      "regions": [
+        "S03: 問題23-26の正誤・根拠説明、追加チェック",
+        "余白、⑨-8フッターを含む全画面確認"
+      ]
+    },
+    {
+      "page": "W1:092",
+      "status": "pass",
+      "regions": [
+        "S04: 4. その他、問題27-33の問題文・重要度・過去問表示",
+        "余白、⑨-9フッターを含む全画面確認"
+      ]
+    },
+    {
+      "page": "W1:093",
+      "status": "pass",
+      "regions": [
+        "S04: 問題27-33の正誤・根拠説明、追加チェック",
+        "余白、⑨-10フッターを含む全画面確認"
+      ]
+    }
+  ],
+  "findings": [
+    "全10枚を指定原画像の読める解像度で確認し、第9章「繰延資産」に実在する4セクションを4チャンクとして保持した。W1:088-W1:089に複数セクションがある箇所は、それぞれのセクションに固有の意味内容を対応付けた。",
+    "問題1-33の問題文、重要度・過去問表示、正誤判定、根拠説明、追加チェックを対応する問題ブロックに保持した。誤りの命題はすべて明示的な「誤り。」を付し、誤った内容を正しい知識として提示していない。",
+    "繰延資産総論、株式交付費、社債発行費等、創立費、開業費、開発費、支出効果消滅時の一時償却、会計方針変更、分配可能額、損失の繰延べに関する条件・例外・理由を原画像と照合した。",
+    "表・図・数値計算は本範囲に存在しない。各ページの余白・端部・フッターも確認し、W1:093で章内の問題33と解説が完結しており、処理範囲外へ継続する未完の問題・解答・例外・サイドバーは存在しない。"
+  ],
+  "question_answer_checks": {
+    "status": "pass",
+    "checked": "問題1-33の問題文、重要度・過去問表示、正誤判定、根拠説明、追加チェックを対応付けて全件確認。"
+  },
+  "specific_checks": [
+    "問題1-6: 繰延資産の原則費用処理と例外的資産計上、長期前払費用との違い、独立区分表示、一年基準不適用、現行5項目、建設利息・社債発行差金、月数基準の償却を保持。",
+    "問題7-18: 株式交付費の損益取引処理、財務活動に係る範囲、自己株式取得・処分費用、3年以内の効果期間、IFRSとの差、株式分割費用、社債発行費の利息法、新株予約権発行費、償還期間、一括法、組織再編対価を保持。",
+    "問題19-26: 創立費5年以内、創立費・開業費の償却費区分、資本金等からの減額不採用、開業準備直接支出、開発費の定義・費用区分、合理的方法と5年上限、研究開発費との区別を保持。",
+    "問題27-33: 効果消滅時の未償却残高一時償却、途中償還時の社債発行費、繰延資産の会計方針変更と遡及適用、新規項目の非変更扱い、追加情報3事項、分配可能額控除、損失繰延べ否定を保持。"
+  ],
+  "corrections": [],
+  "checks": {
+    "numerical": "not_applicable",
+    "diagram": "not_applicable",
+    "false_proposition": "pass",
+    "question_answer_pairing": "pass"
+  },
+  "unresolved_count": 0,
+  "excluded_pages": [],
+  "downstream_status": "ready_for_chapter_qa_after_this_batch_only"
+}

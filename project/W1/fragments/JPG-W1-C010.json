@@ -1,0 +1,177 @@
+{
+  "batch_id": "JPG-W1-C010",
+  "source_id": "W1",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-W1-C010-S01",
+      "batch_id": "JPG-W1-C010",
+      "chapter": "09",
+      "section": "09.1",
+      "title": "1. 繰延資産総論",
+      "expected_pages": [
+        "W1:084",
+        "W1:085"
+      ],
+      "processing_pages": [
+        "W1:084",
+        "W1:085"
+      ],
+      "output": "chunks/JPG-W1-C010/JPG-W1-C010-S01.md",
+      "status": "pass",
+      "locators": [
+        {
+          "page": "W1:084",
+          "printed_page": "⑨-1",
+          "source_region": "第9章「繰延資産」・1. 繰延資産総論、問題1-6の問題文・重要度・過去問表示",
+          "destination_heading": "## 1. 繰延資産総論"
+        },
+        {
+          "page": "W1:085",
+          "printed_page": "⑨-2",
+          "source_region": "問題1-6の正誤・根拠説明、追加チェック、企業会計原則・財務諸表等規則参照",
+          "destination_heading": "## 1. 繰延資産総論"
+        }
+      ],
+      "chunk_sha256": "ba86e64e473325256f45d0baf147d2953bf58a54421bc14d2187447387f94bbe"
+    },
+    {
+      "id": "JPG-W1-C010-S02",
+      "batch_id": "JPG-W1-C010",
+      "chapter": "09",
+      "section": "09.2",
+      "title": "2. 株式交付費、社債発行費等",
+      "expected_pages": [
+        "W1:086",
+        "W1:087",
+        "W1:088",
+        "W1:089"
+      ],
+      "processing_pages": [
+        "W1:086",
+        "W1:087",
+        "W1:088",
+        "W1:089"
+      ],
+      "output": "chunks/JPG-W1-C010/JPG-W1-C010-S02.md",
+      "status": "pass",
+      "locators": [
+        {
+          "page": "W1:086",
+          "printed_page": "⑨-3",
+          "source_region": "2. 株式交付費、社債発行費等、問題7-13の問題文・重要度・過去問表示",
+          "destination_heading": "## 2. 株式交付費、社債発行費等"
+        },
+        {
+          "page": "W1:087",
+          "printed_page": "⑨-4",
+          "source_region": "問題7-13の正誤・根拠説明、追加チェック",
+          "destination_heading": "## 2. 株式交付費、社債発行費等"
+        },
+        {
+          "page": "W1:088",
+          "printed_page": "⑨-5",
+          "source_region": "問題14-18の問題文・重要度・過去問表示",
+          "destination_heading": "## 2. 株式交付費、社債発行費等"
+        },
+        {
+          "page": "W1:089",
+          "printed_page": "⑨-6",
+          "source_region": "問題14-18の正誤・根拠説明、追加チェック",
+          "destination_heading": "## 2. 株式交付費、社債発行費等"
+        }
+      ],
+      "chunk_sha256": "dbb1a8f2ce3043aa55c4c1a2c232454a87a0a0e5e05ba6b1f449be49de642f70"
+    },
+    {
+      "id": "JPG-W1-C010-S03",
+      "batch_id": "JPG-W1-C010",
+      "chapter": "09",
+      "section": "09.3",
+      "title": "3. 創立費、開業費、開発費",
+      "expected_pages": [
+        "W1:088",
+        "W1:089",
+        "W1:090",
+        "W1:091"
+      ],
+      "processing_pages": [
+        "W1:088",
+        "W1:089",
+        "W1:090",
+        "W1:091"
+      ],
+      "output": "chunks/JPG-W1-C010/JPG-W1-C010-S03.md",
+      "status": "pass",
+      "locators": [
+        {
+          "page": "W1:088",
+          "printed_page": "⑨-5",
+          "source_region": "3. 創立費、開業費、開発費、問題19-22の問題文・重要度・過去問表示",
+          "destination_heading": "## 3. 創立費、開業費、開発費"
+        },
+        {
+          "page": "W1:089",
+          "printed_page": "⑨-6",
+          "source_region": "問題19-22の正誤・根拠説明、追加チェック",
+          "destination_heading": "## 3. 創立費、開業費、開発費"
+        },
+        {
+          "page": "W1:090",
+          "printed_page": "⑨-7",
+          "source_region": "問題23-26の問題文・重要度・過去問表示",
+          "destination_heading": "## 3. 創立費、開業費、開発費"
+        },
+        {
+          "page": "W1:091",
+          "printed_page": "⑨-8",
+          "source_region": "問題23-26の正誤・根拠説明、追加チェック",
+          "destination_heading": "## 3. 創立費、開業費、開発費"
+        }
+      ],
+      "chunk_sha256": "c41e480e49681a9377bc92f651d4d48d9ab4d6380f4060cce2147814f26acb23"
+    },
+    {
+      "id": "JPG-W1-C010-S04",
+      "batch_id": "JPG-W1-C010",
+      "chapter": "09",
+      "section": "09.4",
+      "title": "4. その他",
+      "expected_pages": [
+        "W1:092",
+        "W1:093"
+      ],
+      "processing_pages": [
+        "W1:092",
+        "W1:093"
+      ],
+      "output": "chunks/JPG-W1-C010/JPG-W1-C010-S04.md",
+      "status": "pass",
+      "locators": [
+        {
+          "page": "W1:092",
+          "printed_page": "⑨-9",
+          "source_region": "4. その他、問題27-33の問題文・重要度・過去問表示",
+          "destination_heading": "## 4. その他"
+        },
+        {
+          "page": "W1:093",
+          "printed_page": "⑨-10",
+          "source_region": "問題27-33の正誤・根拠説明、追加チェック",
+          "destination_heading": "## 4. その他"
+        }
+      ],
+      "chunk_sha256": "e34d43a2ac817e29765747ed702a5214d57e8067ee9dc246d7165ab809b57c31"
+    }
+  ],
+  "review": "reviews/JPG-W1-C010.json",
+  "excluded_pages": [],
+  "source_scope": {
+    "source_id": "W1",
+    "physical_range": "W1:084-W1:093",
+    "processing_range": "W1:084-W1:093",
+    "chapter": "09",
+    "title": "繰延資産",
+    "content_authority": "designated existing JPGs only"
+  }
+}
