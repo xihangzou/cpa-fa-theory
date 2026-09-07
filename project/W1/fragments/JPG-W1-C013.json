@@ -1,0 +1,265 @@
+{
+  "batch_id": "JPG-W1-C013",
+  "source_id": "W1",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-W1-C013-S01",
+      "batch_id": "JPG-W1-C013",
+      "chapter": "12",
+      "section": "12.1",
+      "title": "1. 序章",
+      "expected_pages": [
+        "W1:108",
+        "W1:109"
+      ],
+      "processing_pages": [
+        "W1:108",
+        "W1:109"
+      ],
+      "output": "chunks/JPG-W1-C013/JPG-W1-C013-S01.md",
+      "status": "pass",
+      "locators": [
+        {
+          "page": "W1:108",
+          "printed_page": "⑫-1",
+          "source_region": "1. 序章 section content, questions/answers, margins and footer reviewed",
+          "destination_heading": "## 1. 序章"
+        },
+        {
+          "page": "W1:109",
+          "printed_page": "⑫-2",
+          "source_region": "1. 序章 section content, questions/answers, margins and footer reviewed",
+          "destination_heading": "## 1. 序章"
+        }
+      ],
+      "chunk_sha256": "aad4d044c5851531c2ae889dc05dcc2c0153e241230995745c93b7e575dc6167"
+    },
+    {
+      "id": "JPG-W1-C013-S02",
+      "batch_id": "JPG-W1-C013",
+      "chapter": "12",
+      "section": "12.2",
+      "title": "2. 第1章 財務報告の目的",
+      "expected_pages": [
+        "W1:110",
+        "W1:111",
+        "W1:112",
+        "W1:113",
+        "W1:114",
+        "W1:115",
+        "W1:116"
+      ],
+      "processing_pages": [
+        "W1:110",
+        "W1:111",
+        "W1:112",
+        "W1:113",
+        "W1:114",
+        "W1:115",
+        "W1:116"
+      ],
+      "output": "chunks/JPG-W1-C013/JPG-W1-C013-S02.md",
+      "status": "pass",
+      "locators": [
+        {
+          "page": "W1:110",
+          "printed_page": "⑫-3",
+          "source_region": "2. 第1章 財務報告の目的 section content, questions/answers, margins and footer reviewed",
+          "destination_heading": "## 2. 第1章 財務報告の目的"
+        },
+        {
+          "page": "W1:111",
+          "printed_page": "⑫-4",
+          "source_region": "2. 第1章 財務報告の目的 section content, questions/answers, margins and footer reviewed",
+          "destination_heading": "## 2. 第1章 財務報告の目的"
+        },
+        {
+          "page": "W1:112",
+          "printed_page": "⑫-5",
+          "source_region": "2. 第1章 財務報告の目的 section content, questions/answers, margins and footer reviewed",
+          "destination_heading": "## 2. 第1章 財務報告の目的"
+        },
+        {
+          "page": "W1:113",
+          "printed_page": "⑫-6",
+          "source_region": "2. 第1章 財務報告の目的 section content, questions/answers, margins and footer reviewed",
+          "destination_heading": "## 2. 第1章 財務報告の目的"
+        },
+        {
+          "page": "W1:114",
+          "printed_page": "⑫-7",
+          "source_region": "2. 第1章 財務報告の目的 section content, questions/answers, margins and footer reviewed",
+          "destination_heading": "## 2. 第1章 財務報告の目的"
+        },
+        {
+          "page": "W1:115",
+          "printed_page": "⑫-8",
+          "source_region": "2. 第1章 財務報告の目的 section content, questions/answers, margins and footer reviewed",
+          "destination_heading": "## 2. 第1章 財務報告の目的"
+        },
+        {
+          "page": "W1:116",
+          "printed_page": "⑫-9",
+          "source_region": "2. 第1章 財務報告の目的 section content, questions/answers, margins and footer reviewed",
+          "destination_heading": "## 2. 第1章 財務報告の目的"
+        }
+      ],
+      "chunk_sha256": "b9f3350d309e1b829cd057302ff1ade4dff740393722494057cc4e1488c16df9"
+    },
+    {
+      "id": "JPG-W1-C013-S03",
+      "batch_id": "JPG-W1-C013",
+      "chapter": "12",
+      "section": "12.3",
+      "title": "3. 第2章 会計情報の質的特性",
+      "expected_pages": [
+        "W1:116",
+        "W1:117",
+        "W1:118",
+        "W1:119",
+        "W1:120",
+        "W1:121",
+        "W1:122",
+        "W1:123"
+      ],
+      "processing_pages": [
+        "W1:116",
+        "W1:117",
+        "W1:118",
+        "W1:119",
+        "W1:120",
+        "W1:121",
+        "W1:122",
+        "W1:123"
+      ],
+      "output": "chunks/JPG-W1-C013/JPG-W1-C013-S03.md",
+      "status": "pass",
+      "locators": [
+        {
+          "page": "W1:116",
+          "printed_page": "⑫-9",
+          "source_region": "3. 第2章 会計情報の質的特性 section content, questions/answers, margins and footer reviewed",
+          "destination_heading": "## 3. 第2章 会計情報の質的特性"
+        },
+        {
+          "page": "W1:117",
+          "printed_page": "⑫-10",
+          "source_region": "3. 第2章 会計情報の質的特性 section content, questions/answers, margins and footer reviewed",
+          "destination_heading": "## 3. 第2章 会計情報の質的特性"
+        },
+        {
+          "page": "W1:118",
+          "printed_page": "⑫-11",
+          "source_region": "3. 第2章 会計情報の質的特性 section content, questions/answers, margins and footer reviewed",
+          "destination_heading": "## 3. 第2章 会計情報の質的特性"
+        },
+        {
+          "page": "W1:119",
+          "printed_page": "⑫-12",
+          "source_region": "3. 第2章 会計情報の質的特性 section content, questions/answers, margins and footer reviewed",
+          "destination_heading": "## 3. 第2章 会計情報の質的特性"
+        },
+        {
+          "page": "W1:120",
+          "printed_page": "⑫-13",
+          "source_region": "3. 第2章 会計情報の質的特性 section content, questions/answers, margins and footer reviewed",
+          "destination_heading": "## 3. 第2章 会計情報の質的特性"
+        },
+        {
+          "page": "W1:121",
+          "printed_page": "⑫-14",
+          "source_region": "3. 第2章 会計情報の質的特性 section content, questions/answers, margins and footer reviewed",
+          "destination_heading": "## 3. 第2章 会計情報の質的特性"
+        },
+        {
+          "page": "W1:122",
+          "printed_page": "⑫-15",
+          "source_region": "3. 第2章 会計情報の質的特性 section content, questions/answers, margins and footer reviewed",
+          "destination_heading": "## 3. 第2章 会計情報の質的特性"
+        },
+        {
+          "page": "W1:123",
+          "printed_page": "⑫-16",
+          "source_region": "3. 第2章 会計情報の質的特性 section content, questions/answers, margins and footer reviewed",
+          "destination_heading": "## 3. 第2章 会計情報の質的特性"
+        }
+      ],
+      "chunk_sha256": "85c57dc91f9c60ca8379e660389d628d0a28f1fadcbbfe2c371fd6be86903df0"
+    },
+    {
+      "id": "JPG-W1-C013-S04",
+      "batch_id": "JPG-W1-C013",
+      "chapter": "12",
+      "section": "12.4",
+      "title": "4. 第3章 財務諸表の構成要素",
+      "expected_pages": [
+        "W1:122",
+        "W1:123",
+        "W1:124",
+        "W1:125",
+        "W1:126",
+        "W1:127"
+      ],
+      "processing_pages": [
+        "W1:122",
+        "W1:123",
+        "W1:124",
+        "W1:125",
+        "W1:126",
+        "W1:127"
+      ],
+      "output": "chunks/JPG-W1-C013/JPG-W1-C013-S04.md",
+      "status": "pass",
+      "locators": [
+        {
+          "page": "W1:122",
+          "printed_page": "⑫-15",
+          "source_region": "4. 第3章 財務諸表の構成要素 section content, questions/answers, margins and footer reviewed",
+          "destination_heading": "## 4. 第3章 財務諸表の構成要素"
+        },
+        {
+          "page": "W1:123",
+          "printed_page": "⑫-16",
+          "source_region": "4. 第3章 財務諸表の構成要素 section content, questions/answers, margins and footer reviewed",
+          "destination_heading": "## 4. 第3章 財務諸表の構成要素"
+        },
+        {
+          "page": "W1:124",
+          "printed_page": "⑫-17",
+          "source_region": "4. 第3章 財務諸表の構成要素 section content, questions/answers, margins and footer reviewed",
+          "destination_heading": "## 4. 第3章 財務諸表の構成要素"
+        },
+        {
+          "page": "W1:125",
+          "printed_page": "⑫-18",
+          "source_region": "4. 第3章 財務諸表の構成要素 section content, questions/answers, margins and footer reviewed",
+          "destination_heading": "## 4. 第3章 財務諸表の構成要素"
+        },
+        {
+          "page": "W1:126",
+          "printed_page": "⑫-19",
+          "source_region": "4. 第3章 財務諸表の構成要素 section content, questions/answers, margins and footer reviewed",
+          "destination_heading": "## 4. 第3章 財務諸表の構成要素"
+        },
+        {
+          "page": "W1:127",
+          "printed_page": "⑫-20",
+          "source_region": "4. 第3章 財務諸表の構成要素 section content, questions/answers, margins and footer reviewed",
+          "destination_heading": "## 4. 第3章 財務諸表の構成要素"
+        }
+      ],
+      "chunk_sha256": "b6d62a6f925fe8578ea53f66472def90729c6c5e0bd99ee010e815d70b53aa86"
+    }
+  ],
+  "review": "reviews/JPG-W1-C013.json",
+  "excluded_pages": [],
+  "source_scope": {
+    "source_id": "W1",
+    "physical_range": "W1:108-W1:127",
+    "processing_range": "W1:108-W1:127",
+    "chapter": "12",
+    "title": "財務会計の概念フレームワーク",
+    "content_authority": "designated existing JPGs only"
+  }
+}

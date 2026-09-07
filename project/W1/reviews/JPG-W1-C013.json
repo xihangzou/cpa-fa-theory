@@ -1,0 +1,351 @@
+{
+  "batch_id": "JPG-W1-C013",
+  "source_id": "W1",
+  "status": "pass",
+  "reviewed_on": "2026-09-07",
+  "reviewer_model": "GPT-5 (current execution model; no model switch)",
+  "source_revision": {
+    "delivery_branch": "main",
+    "repository_commit": "fbc5d5191804c6f5055d0460c58a0669bceda65b",
+    "source_catalog": "contracts/source-catalog.json",
+    "source_catalog_sha256": "8358e9cffb068f63df0bdfcc8f99be035e66454ac8710d381f0ff9eb87728079",
+    "page_plan": "contracts/page-plan.json",
+    "page_plan_sha256": "997a7280b171df5803c2a3bb7c2ee8764082e01f3bdb03c194b9129fe18d26c9",
+    "source_manifest": "project/W1/sources.json",
+    "source_manifest_sha256": "f9bf676e213a1ccedb2ddb4e19c35fbc931b044844436970d3d65def49433de3",
+    "source_map": "project/W1/source-map.json",
+    "source_map_sha256": "d423630c6d0e0683d64bd6b32a9677f0d4f971f6a8572c217ef1c37c5f5a937a",
+    "batch_manifest": "project/W1/batches.json",
+    "batch_manifest_sha256": "35a285b5506fbd1dfbfb1c2c06994f6640617d9f68ef9f77636871c953b8ed4a",
+    "inventory_review": "project/W1/inventory-review.json",
+    "inventory_review_sha256": "e94cf19cc8ad6c7bf9e1fbfc2856e128f88b2ab2cf02be37b2fcf869d0a993bf",
+    "pilot_qa": "project/W1/qa/pilot.json",
+    "pilot_qa_sha256": "a2bf6bd4fcd799e1a7344bae403d461f27979175d4709e2b1c2591c405f99475",
+    "source_original_root": "/Users/xihangzou/Study/320_CPA/322_財務理論/images/cpa-fa-theory-short-answer-workbook-1-jpg",
+    "source_pdf_sha256": "cd4b9e8b7be475d5e40785cddfd41e48e775b57eeaed6ffb2b90f4c21c0fd04f",
+    "source_image_inventory_sha256": "593df03d5e6282b4d69ed9162a8afd9cbf6500cb0656884bec1c5b6b129fa5eb",
+    "edition": "2024/2025年合格目標",
+    "publication_date": "2023-01-23",
+    "physical_scope": "W1:108-W1:127",
+    "processing_scope": "W1:108-W1:127",
+    "content_authority": "designated existing JPGs only; PDF used only as transcription draft aid and not as authority"
+  },
+  "dependency_commits": [
+    "a2fb2bb829d112522128cdb145523302e9d1e7fd",
+    "a62d278ae52faba8a97b49e08688e54ce2a466c2",
+    "46de4cd3c5999251a2ddf48fa02a363a58fa29d8"
+  ],
+  "source_images": [
+    {
+      "page": "W1:108",
+      "printed_page": "⑫-1",
+      "image": "pages/W1/page-108.jpg",
+      "sha256": "4ddd8291f37c42bedd53e578f6fd07f8b7788442d6539d98303efecbe2138db7"
+    },
+    {
+      "page": "W1:109",
+      "printed_page": "⑫-2",
+      "image": "pages/W1/page-109.jpg",
+      "sha256": "e8cbd2b815587f24249d638990b54e043655864022bf67d187d8fcff4a3797ca"
+    },
+    {
+      "page": "W1:110",
+      "printed_page": "⑫-3",
+      "image": "pages/W1/page-110.jpg",
+      "sha256": "874b3f09c1c82f38887c375e57e8cb9347c9cd03e1dcb8c94bf9d7450140c723"
+    },
+    {
+      "page": "W1:111",
+      "printed_page": "⑫-4",
+      "image": "pages/W1/page-111.jpg",
+      "sha256": "c57ea8120c9bd2ef8d4d6a95444e505956fc0cb1916f9ea15001bcdaf8c428ed"
+    },
+    {
+      "page": "W1:112",
+      "printed_page": "⑫-5",
+      "image": "pages/W1/page-112.jpg",
+      "sha256": "1c495d8bc6dc34e5fe8b1b3e2cb15dc9ea4a59178499f16ff023093a19604485"
+    },
+    {
+      "page": "W1:113",
+      "printed_page": "⑫-6",
+      "image": "pages/W1/page-113.jpg",
+      "sha256": "cee19b1b14539a1bd521107bac6ca6a3eee729e198b0355519d76645a0fba8b7"
+    },
+    {
+      "page": "W1:114",
+      "printed_page": "⑫-7",
+      "image": "pages/W1/page-114.jpg",
+      "sha256": "ae43de7476b82644ad21137507f2f70e2301d7b2ea7c4d707c0e95e22390776f"
+    },
+    {
+      "page": "W1:115",
+      "printed_page": "⑫-8",
+      "image": "pages/W1/page-115.jpg",
+      "sha256": "bb813849a6e16b116cd3706f0ccec6a31418047b04fe34216e696968a4027a9b"
+    },
+    {
+      "page": "W1:116",
+      "printed_page": "⑫-9",
+      "image": "pages/W1/page-116.jpg",
+      "sha256": "c6fec23181b755307c1a8277430d9e49a91d59a7a6bbae77f580b5b22c32b648"
+    },
+    {
+      "page": "W1:117",
+      "printed_page": "⑫-10",
+      "image": "pages/W1/page-117.jpg",
+      "sha256": "0c21ef092cfa7b6b7ff074a236585b6cc450a4924950a5cd800dcd92c0035083"
+    },
+    {
+      "page": "W1:118",
+      "printed_page": "⑫-11",
+      "image": "pages/W1/page-118.jpg",
+      "sha256": "e0fb6de9ed9b8216ca680197465c478f13bf4476b5b020cd19e5091e392078fe"
+    },
+    {
+      "page": "W1:119",
+      "printed_page": "⑫-12",
+      "image": "pages/W1/page-119.jpg",
+      "sha256": "4c2dc6ec90fa00bc52c0145ed1afa3868c0617a5a782afe26b45ae7cdb9e0249"
+    },
+    {
+      "page": "W1:120",
+      "printed_page": "⑫-13",
+      "image": "pages/W1/page-120.jpg",
+      "sha256": "6b50730ff07d8d55c81ebdf82e8f40fe7de278425e5dd046314c09abc60d0f19"
+    },
+    {
+      "page": "W1:121",
+      "printed_page": "⑫-14",
+      "image": "pages/W1/page-121.jpg",
+      "sha256": "c38fc449ba03c8d01b643a99278f2b2f996e460d3680e893b42dceb76bfc39ac"
+    },
+    {
+      "page": "W1:122",
+      "printed_page": "⑫-15",
+      "image": "pages/W1/page-122.jpg",
+      "sha256": "2de4c738ee092bb8d8ce9ba85a71dd7acf11ff7bd1ab1b519db8da846c9271e9"
+    },
+    {
+      "page": "W1:123",
+      "printed_page": "⑫-16",
+      "image": "pages/W1/page-123.jpg",
+      "sha256": "86741dd26790ad1955c773b4efb7d1051549d8cbab2480ded9a2bd86b8187684"
+    },
+    {
+      "page": "W1:124",
+      "printed_page": "⑫-17",
+      "image": "pages/W1/page-124.jpg",
+      "sha256": "38d49204e8fcfa7f5b1d584d112d06ee0e524714f87331894871a4050cf02454"
+    },
+    {
+      "page": "W1:125",
+      "printed_page": "⑫-18",
+      "image": "pages/W1/page-125.jpg",
+      "sha256": "c73b205f8274f96514adcd0493ef3c86de06c54f47a4e3d8539fe53269512578"
+    },
+    {
+      "page": "W1:126",
+      "printed_page": "⑫-19",
+      "image": "pages/W1/page-126.jpg",
+      "sha256": "12384f4136c92016ebf31fd4ec5a1b84546fe60973122d8229a232f4489725b7"
+    },
+    {
+      "page": "W1:127",
+      "printed_page": "⑫-20",
+      "image": "pages/W1/page-127.jpg",
+      "sha256": "20f2a705252bc3e088aaad92e800a2e6829ec04a0038003a90085cbcd866b257"
+    }
+  ],
+  "section_outputs": [
+    {
+      "task": "JPG-W1-C013-S01",
+      "chunk": "project/W1/chunks/JPG-W1-C013/JPG-W1-C013-S01.md",
+      "chunk_sha256": "aad4d044c5851531c2ae889dc05dcc2c0153e241230995745c93b7e575dc6167"
+    },
+    {
+      "task": "JPG-W1-C013-S02",
+      "chunk": "project/W1/chunks/JPG-W1-C013/JPG-W1-C013-S02.md",
+      "chunk_sha256": "b9f3350d309e1b829cd057302ff1ade4dff740393722494057cc4e1488c16df9"
+    },
+    {
+      "task": "JPG-W1-C013-S03",
+      "chunk": "project/W1/chunks/JPG-W1-C013/JPG-W1-C013-S03.md",
+      "chunk_sha256": "85c57dc91f9c60ca8379e660389d628d0a28f1fadcbbfe2c371fd6be86903df0"
+    },
+    {
+      "task": "JPG-W1-C013-S04",
+      "chunk": "project/W1/chunks/JPG-W1-C013/JPG-W1-C013-S04.md",
+      "chunk_sha256": "b6d62a6f925fe8578ea53f66472def90729c6c5e0bd99ee010e815d70b53aa86"
+    }
+  ],
+  "coverage": [
+    {
+      "page": "W1:108",
+      "status": "pass",
+      "regions": [
+        "JPG-W1-C013-S01: designated section/question/answer regions; margins and footer ⑫-1 reviewed"
+      ]
+    },
+    {
+      "page": "W1:109",
+      "status": "pass",
+      "regions": [
+        "JPG-W1-C013-S01: designated section/question/answer regions; margins and footer ⑫-2 reviewed"
+      ]
+    },
+    {
+      "page": "W1:110",
+      "status": "pass",
+      "regions": [
+        "JPG-W1-C013-S02: designated section/question/answer regions; margins and footer ⑫-3 reviewed"
+      ]
+    },
+    {
+      "page": "W1:111",
+      "status": "pass",
+      "regions": [
+        "JPG-W1-C013-S02: designated section/question/answer regions; margins and footer ⑫-4 reviewed"
+      ]
+    },
+    {
+      "page": "W1:112",
+      "status": "pass",
+      "regions": [
+        "JPG-W1-C013-S02: designated section/question/answer regions; margins and footer ⑫-5 reviewed"
+      ]
+    },
+    {
+      "page": "W1:113",
+      "status": "pass",
+      "regions": [
+        "JPG-W1-C013-S02: designated section/question/answer regions; margins and footer ⑫-6 reviewed"
+      ]
+    },
+    {
+      "page": "W1:114",
+      "status": "pass",
+      "regions": [
+        "JPG-W1-C013-S02: designated section/question/answer regions; margins and footer ⑫-7 reviewed"
+      ]
+    },
+    {
+      "page": "W1:115",
+      "status": "pass",
+      "regions": [
+        "JPG-W1-C013-S02: designated section/question/answer regions; margins and footer ⑫-8 reviewed"
+      ]
+    },
+    {
+      "page": "W1:116",
+      "status": "pass",
+      "regions": [
+        "JPG-W1-C013-S03: designated section/question/answer regions; margins and footer ⑫-9 reviewed"
+      ]
+    },
+    {
+      "page": "W1:117",
+      "status": "pass",
+      "regions": [
+        "JPG-W1-C013-S03: designated section/question/answer regions; margins and footer ⑫-10 reviewed"
+      ]
+    },
+    {
+      "page": "W1:118",
+      "status": "pass",
+      "regions": [
+        "JPG-W1-C013-S03: designated section/question/answer regions; margins and footer ⑫-11 reviewed"
+      ]
+    },
+    {
+      "page": "W1:119",
+      "status": "pass",
+      "regions": [
+        "JPG-W1-C013-S03: designated section/question/answer regions; margins and footer ⑫-12 reviewed"
+      ]
+    },
+    {
+      "page": "W1:120",
+      "status": "pass",
+      "regions": [
+        "JPG-W1-C013-S03: designated section/question/answer regions; margins and footer ⑫-13 reviewed"
+      ]
+    },
+    {
+      "page": "W1:121",
+      "status": "pass",
+      "regions": [
+        "JPG-W1-C013-S03: designated section/question/answer regions; margins and footer ⑫-14 reviewed"
+      ]
+    },
+    {
+      "page": "W1:122",
+      "status": "pass",
+      "regions": [
+        "JPG-W1-C013-S03: designated section/question/answer regions; margins and footer ⑫-15 reviewed"
+      ]
+    },
+    {
+      "page": "W1:123",
+      "status": "pass",
+      "regions": [
+        "JPG-W1-C013-S03: designated section/question/answer regions; margins and footer ⑫-16 reviewed",
+        "JPG-W1-C013-S04: designated section/question/answer regions; margins and footer ⑫-16 reviewed"
+      ]
+    },
+    {
+      "page": "W1:124",
+      "status": "pass",
+      "regions": [
+        "JPG-W1-C013-S04: designated section/question/answer regions; margins and footer ⑫-17 reviewed"
+      ]
+    },
+    {
+      "page": "W1:125",
+      "status": "pass",
+      "regions": [
+        "JPG-W1-C013-S04: designated section/question/answer regions; margins and footer ⑫-18 reviewed"
+      ]
+    },
+    {
+      "page": "W1:126",
+      "status": "pass",
+      "regions": [
+        "JPG-W1-C013-S04: designated section/question/answer regions; margins and footer ⑫-19 reviewed"
+      ]
+    },
+    {
+      "page": "W1:127",
+      "status": "pass",
+      "regions": [
+        "JPG-W1-C013-S04: designated section/question/answer regions; margins and footer ⑫-20 reviewed"
+      ]
+    }
+  ],
+  "findings": [
+    "全20枚を指定原画像の読める解像度で確認し、第12章に実在する4セクションを4チャンクとして保持した。同一物理ページW1:116およびW1:123は、隣接セクションの固有内容を別々に対応付けた。",
+    "問題1-65の問題文、重要度・過去問表示、正誤判定、根拠説明、追加でチェック！を対応する問題ブロックに保持した。誤りの命題は解答欄で明示的に「誤り。」として扱った。",
+    "第1章の情報の非対称性・財務報告目的、第2章の意思決定有用性・信頼性・比較可能性、第3章の構成要素・資産負債純資産の関係について、定義・条件・例外・理由を画像と照合した。",
+    "図表・数値計算は本範囲に存在しない。全ページの余白・端部・フッターを確認し、W1:127で問題65と解説が完結している。"
+  ],
+  "corrections": [],
+  "question_answer_checks": {
+    "status": "pass",
+    "checked": "問題1-65の問題文、正誤判定、根拠説明、追加でチェック！の対応を全件確認。"
+  },
+  "specific_checks": [
+    "問題1-7: 概念フレームワークの役割・会計基準との関係・構成・デュープロセス・対象概念を保持。",
+    "問題8-27: 情報の非対称性、投資ポジションと成果、会計基準の社会的必要性、当事者・コスト・便益・情報開示を保持。",
+    "問題28-50: 意思決定有用性、関連性、信頼性、内的整合性、比較可能性、特性間トレードオフと条件を保持。",
+    "問題51-65: 財務諸表の役割、構成要素、資産・負債・純資産・株主資本と各定義・例外を保持。"
+  ],
+  "checks": {
+    "numerical": "not_applicable",
+    "diagram": "not_applicable",
+    "false_proposition": "pass",
+    "question_answer_pairing": "pass"
+  },
+  "unresolved_count": 0,
+  "excluded_pages": [],
+  "downstream_status": "ready_for_chapter_qa_after_this_batch_only"
+}
