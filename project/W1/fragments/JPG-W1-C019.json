@@ -1,0 +1,43 @@
+{
+  "batch_id": "JPG-W1-C019",
+  "source_id": "W1",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-W1-C019-S01",
+      "batch_id": "JPG-W1-C019",
+      "chapter": "17",
+      "section": "17.1",
+      "title": "1. 役員賞与の会計処理",
+      "expected_pages": ["W1:182", "W1:183"],
+      "processing_pages": ["W1:182", "W1:183"],
+      "output": "chunks/JPG-W1-C019/JPG-W1-C019-S01.md",
+      "status": "pass",
+      "locators": [
+        {
+          "page": "W1:182",
+          "printed_page": "⑰-1",
+          "source_region": "第17章見出し・第1節問題1-5の問題文",
+          "destination_heading": "## 1. 役員賞与の会計処理"
+        },
+        {
+          "page": "W1:183",
+          "printed_page": "⑰-2",
+          "source_region": "第1節問題1-5の解答・説明・追加でチェック！",
+          "destination_heading": "## 1. 役員賞与の会計処理"
+        }
+      ],
+      "chunk_sha256": "60fbf79d0d6761c9b089e35a6804b666357e98a049a5297ce127f8b28a590bd0"
+    }
+  ],
+  "review": "reviews/JPG-W1-C019.json",
+  "excluded_pages": [],
+  "source_scope": {
+    "source_id": "W1",
+    "physical_range": "W1:182-W1:183",
+    "processing_range": "W1:182-W1:183",
+    "chapter": "17",
+    "title": "役員賞与に関する会計基準",
+    "content_authority": "designated existing JPGs only"
+  }
+}
