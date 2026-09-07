@@ -1,0 +1,33 @@
+{
+  "batch_id": "JPG-W1-C015",
+  "source_id": "W1",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-W1-C015-S01",
+      "batch_id": "JPG-W1-C015",
+      "chapter": "13",
+      "section": "13.1",
+      "title": "1. 会計基準等（国際財務報告基準（IFRS））",
+      "expected_pages": ["W1:150", "W1:151"],
+      "processing_pages": ["W1:150", "W1:151"],
+      "output": "chunks/JPG-W1-C015/JPG-W1-C015-S01.md",
+      "status": "pass",
+      "locators": [
+        {"page": "W1:150", "printed_page": "⑬-1", "source_region": "第13章・第1節見出し、問題1-6の問題文", "destination_heading": "## 1. 会計基準等（国際財務報告基準（IFRS））"},
+        {"page": "W1:151", "printed_page": "⑬-2", "source_region": "問題1-6の解答・法令参照・追加でチェック！", "destination_heading": "## 1. 会計基準等（国際財務報告基準（IFRS））"}
+      ],
+      "chunk_sha256": "ce5936fc038b8b5cc15ff9aac75f0f610681826ebd2ab643050b80e711d19443"
+    }
+  ],
+  "review": "reviews/JPG-W1-C015.json",
+  "excluded_pages": [],
+  "source_scope": {
+    "source_id": "W1",
+    "physical_range": "W1:150-W1:151",
+    "processing_range": "W1:150-W1:151",
+    "chapter": "13",
+    "title": "会計基準等",
+    "content_authority": "designated existing JPGs only"
+  }
+}

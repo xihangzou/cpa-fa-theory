@@ -1,0 +1,35 @@
+{
+  "batch_id": "JPG-W1-C015",
+  "source_id": "W1",
+  "status": "pass",
+  "source_images": [
+    {"page": "W1:150", "sha256": "29cc6619e204e21273382570563c092c5c2dd816d8d0e2a7369f0e521b609db0"},
+    {"page": "W1:151", "sha256": "b4838b25f4c7a2ace9cb6ff0199e28ce6b8c5e8e2966ee3c471bd706cb315876"}
+  ],
+  "section_outputs": [
+    {"task": "JPG-W1-C015-S01", "chunk_sha256": "ce5936fc038b8b5cc15ff9aac75f0f610681826ebd2ab643050b80e711d19443"}
+  ],
+  "coverage": [
+    {"page": "W1:150", "regions": ["第13章・第1節見出し", "問題1-6の問題文", "重要度・過去問ラベル", "ページ余白・脚注相当の表示"], "status": "pass"},
+    {"page": "W1:151", "regions": ["問題1-6の解答・正誤", "法令・基準参照", "追加でチェック！欄", "ページ余白・フッター"], "status": "pass"}
+  ],
+  "findings": [
+    "W1:150 contains one section with six question statements; W1:151 contains the corresponding six answers in the same order.",
+    "Question 3 continues on W1:150 and is complete before the answer page; no table, diagram, calculation, or cross-batch continuation is present.",
+    "All false statements retain an explicit 誤り verdict and the source correction; question 3 retains 正しい.",
+    "The three-item list in question 6 and both 追加でチェック！ passages on W1:151 were preserved."
+  ],
+  "corrections": [],
+  "checks": {
+    "numerical": "not_applicable",
+    "diagram": "not_applicable",
+    "false_proposition": "pass"
+  },
+  "unresolved_count": 0,
+  "reviewer_model": "GPT-5 (current execution model; no model switch)",
+  "dependency_commits": [
+    "a2fb2bb829d112522128cdb145523302e9d1e7fd",
+    "a62d278ae52faba8a97b49e08688e54ce2a466c2",
+    "46de4cd3c5999251a2ddf48fa02a363a58fa29d8"
+  ]
+}
