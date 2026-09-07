@@ -1,0 +1,74 @@
+{
+  "batch_id": "JPG-W1-C008",
+  "source_id": "W1",
+  "status": "pass",
+  "reviewed_on": "2026-09-07",
+  "reviewer_model": "GPT-5.6 Sol (current execution model; no model switch)",
+  "source_revision": {
+    "delivery_branch": "main",
+    "repository_commit": "ea79e6b114fb686cafd0a212e2cfa0730be1367d",
+    "source_catalog": "contracts/source-catalog.json",
+    "source_catalog_sha256": "8358e9cffb068f63df0bdfcc8f99be035e66454ac8710d381f0ff9eb87728079",
+    "page_plan": "contracts/page-plan.json",
+    "page_plan_sha256": "997a7280b171df5803c2a3bb7c2ee8764082e01f3bdb03c194b9129fe18d26c9",
+    "source_manifest": "project/W1/sources.json",
+    "source_manifest_sha256": "f9bf676e213a1ccedb2ddb4e19c35fbc931b044844436970d3d65def49433de3",
+    "source_map": "project/W1/source-map.json",
+    "source_map_sha256": "d423630c6d0e0683d64bd6b32a9677f0d4f971f6a8572c217ef1c37c5f5a937a",
+    "batch_manifest": "project/W1/batches.json",
+    "batch_manifest_sha256": "35a285b5506fbd1dfbfb1c2c06994f6640617d9f68ef9f77636871c953b8ed4a",
+    "inventory_review": "project/W1/inventory-review.json",
+    "inventory_review_sha256": "e94cf19cc8ad6c7bf9e1fbfc2856e128f88b2ab2cf02be37b2fcf869d0a993bf",
+    "pilot_qa": "project/W1/qa/pilot.json",
+    "pilot_qa_sha256": "a2bf6bd4fcd799e1a7344bae403d461f27979175d4709e2b1c2591c405f99475",
+    "source_original_root": "/Users/xihangzou/Study/320_CPA/322_財務理論/images/cpa-fa-theory-short-answer-workbook-1-jpg",
+    "source_pdf_sha256": "cd4b9e8b7be475d5e40785cddfd41e48e775b57eeaed6ffb2b90f4c21c0fd04f",
+    "source_image_inventory_sha256": "593df03d5e6282b4d69ed9162a8afd9cbf6500cb0656884bec1c5b6b129fa5eb",
+    "edition": "2024/2025年合格目標",
+    "publication_date": "2023-01-23",
+    "physical_scope": "W1:072-W1:073",
+    "processing_scope": "W1:072-W1:073",
+    "content_authority": "designated existing JPGs only; PDF not used for transcription"
+  },
+  "dependency_commits": [
+    "a2fb2bb829d112522128cdb145523302e9d1e7fd",
+    "a62d278ae52faba8a97b49e08688e54ce2a466c2",
+    "46de4cd3c5999251a2ddf48fa02a363a58fa29d8"
+  ],
+  "source_images": [
+    {"page": "W1:072", "printed_page": "⑦-1", "image": "pages/W1/page-072.jpg", "sha256": "65d180d485416ccaf59ffc8fe7647479f8852e6a38054fd9fb1250761faf1683"},
+    {"page": "W1:073", "printed_page": "⑦-2", "image": "pages/W1/page-073.jpg", "sha256": "5ed64b2123f54f303ccbd931c464fd6d4863ac4c33020498fea4593d0c57fbb6"}
+  ],
+  "section_outputs": [
+    {"task": "JPG-W1-C008-S01", "chunk": "project/W1/chunks/JPG-W1-C008/JPG-W1-C008-S01.md", "chunk_sha256": "ffcd731407a74e05fe27a2f9c847382c39df076a860405870d29313bc4753625"}
+  ],
+  "coverage": [
+    {"page": "W1:072", "status": "pass", "regions": ["S01: 第7章・1. 棚卸資産以外の流動資産、問題1-3の問題文、重要度B、H25過去問類題・H25/H28過去問類題・H25過去問表示", "全本文、余白および⑦-1フッターを確認"]},
+    {"page": "W1:073", "status": "pass", "regions": ["S01: 問題1-3の誤り判定・根拠説明、財務諸表等規則ガイドライン15-1、財務諸表等規則第18条", "解説下の空白領域を含む全画面、余白および⑦-2フッターを確認"]}
+  ],
+  "findings": [
+    "全2枚を指定原画像の読める解像度で確認し、第7章「流動資産」の本範囲に実在する1セクション「1. 棚卸資産以外の流動資産」を1チャンクとして保持した。問題1-3は各問題文と対応する正誤・根拠説明を同じセクションチャンクに保持している。",
+    "問題1では現金に含まれる手許現金以外の項目、問題2では期限到来済み公社債利札等と未渡小切手の表示区分、問題3では親会社株式の処分時期に応じた流動資産・投資その他の資産への区分を原画像と照合した。",
+    "問題1-3はいずれも誤りの命題であり、明示的な「誤り。」と訂正理由を対応する問題ブロックに保持した。重要度B、H25過去問類題、H25・H28過去問類題、H25過去問の表示も保持した。",
+    "表・図・数値計算・サイドバーは本範囲に存在せず、ページ端・余白・フッターおよびW1:073下部の空白領域にも追加本文や次バッチへ継続する内容が存在しないことを全画面確認した。"
+  ],
+  "question_answer_checks": {
+    "status": "pass",
+    "checked": "問題1-3の問題文、重要度・過去問表示、誤り判定、根拠説明を対応付けて全件確認。"
+  },
+  "specific_checks": [
+    "問題1: 現金として計上できる項目に手許現金、小口現金、手元にある当座小切手、送金小切手、送金為替手形、預金手形、郵便為替証書及び振替貯金払出証書が含まれることを保持。",
+    "問題2: 期限到来済み公社債利札等は現金表示できる一方、未渡小切手は預金として表示するという区別を保持。",
+    "問題3: 親会社株式は貸借対照表日後1年以内の処分見込みなら流動資産、1年超なら投資その他の資産として別掲し、金額僅少時は注記が認められることを保持。"
+  ],
+  "corrections": [],
+  "checks": {
+    "numerical": "not_applicable",
+    "diagram": "not_applicable",
+    "false_proposition": "pass",
+    "question_answer_pairing": "pass"
+  },
+  "unresolved_count": 0,
+  "excluded_pages": [],
+  "downstream_status": "ready_for_chapter_qa_after_this_batch_only"
+}

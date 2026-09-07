@@ -1,0 +1,33 @@
+{
+  "batch_id": "JPG-W1-C008",
+  "source_id": "W1",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-W1-C008-S01",
+      "batch_id": "JPG-W1-C008",
+      "chapter": "07",
+      "section": "07.1",
+      "title": "1. 棚卸資産以外の流動資産",
+      "expected_pages": ["W1:072", "W1:073"],
+      "processing_pages": ["W1:072", "W1:073"],
+      "output": "chunks/JPG-W1-C008/JPG-W1-C008-S01.md",
+      "status": "pass",
+      "locators": [
+        {"page": "W1:072", "printed_page": "⑦-1", "source_region": "第7章「流動資産」・1. 棚卸資産以外の流動資産、問題1-3の問題文、重要度、H25・H28過去問表示", "destination_heading": "## 1. 棚卸資産以外の流動資産"},
+        {"page": "W1:073", "printed_page": "⑦-2", "source_region": "問題1-3の正誤・根拠説明、財務諸表等規則ガイドライン15-1および財務諸表等規則第18条参照、余白およびフッター", "destination_heading": "## 1. 棚卸資産以外の流動資産"}
+      ],
+      "chunk_sha256": "ffcd731407a74e05fe27a2f9c847382c39df076a860405870d29313bc4753625"
+    }
+  ],
+  "review": "reviews/JPG-W1-C008.json",
+  "excluded_pages": [],
+  "source_scope": {
+    "source_id": "W1",
+    "physical_range": "W1:072-W1:073",
+    "processing_range": "W1:072-W1:073",
+    "chapter": "07",
+    "title": "流動資産",
+    "content_authority": "designated existing JPGs only"
+  }
+}
