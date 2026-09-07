@@ -1,0 +1,87 @@
+{
+  "batch_id": "JPG-W1-C007",
+  "source_id": "W1",
+  "status": "pass",
+  "reviewed_on": "2026-09-07",
+  "reviewer_model": "GPT-5.6 Sol (current execution model; no model switch)",
+  "source_revision": {
+    "delivery_branch": "main",
+    "repository_commit": "db2561214f2d4d5425ae0fb795132c3c8519bf82",
+    "source_catalog": "contracts/source-catalog.json",
+    "source_catalog_sha256": "8358e9cffb068f63df0bdfcc8f99be035e66454ac8710d381f0ff9eb87728079",
+    "page_plan": "contracts/page-plan.json",
+    "page_plan_sha256": "997a7280b171df5803c2a3bb7c2ee8764082e01f3bdb03c194b9129fe18d26c9",
+    "source_manifest": "project/W1/sources.json",
+    "source_manifest_sha256": "f9bf676e213a1ccedb2ddb4e19c35fbc931b044844436970d3d65def49433de3",
+    "source_map": "project/W1/source-map.json",
+    "source_map_sha256": "d423630c6d0e0683d64bd6b32a9677f0d4f971f6a8572c217ef1c37c5f5a937a",
+    "batch_manifest": "project/W1/batches.json",
+    "batch_manifest_sha256": "35a285b5506fbd1dfbfb1c2c06994f6640617d9f68ef9f77636871c953b8ed4a",
+    "inventory_review": "project/W1/inventory-review.json",
+    "inventory_review_sha256": "e94cf19cc8ad6c7bf9e1fbfc2856e128f88b2ab2cf02be37b2fcf869d0a993bf",
+    "pilot_qa": "project/W1/qa/pilot.json",
+    "pilot_qa_sha256": "a2bf6bd4fcd799e1a7344bae403d461f27979175d4709e2b1c2591c405f99475",
+    "source_original_root": "/Users/xihangzou/Study/320_CPA/322_財務理論/images/cpa-fa-theory-short-answer-workbook-1-jpg",
+    "source_pdf_sha256": "cd4b9e8b7be475d5e40785cddfd41e48e775b57eeaed6ffb2b90f4c21c0fd04f",
+    "source_image_inventory_sha256": "593df03d5e6282b4d69ed9162a8afd9cbf6500cb0656884bec1c5b6b129fa5eb",
+    "edition": "2024/2025年合格目標",
+    "publication_date": "2023-01-23",
+    "physical_scope": "W1:066-W1:071",
+    "processing_scope": "W1:066-W1:071",
+    "content_authority": "designated existing JPGs only; PDF not used for transcription"
+  },
+  "dependency_commits": [
+    "a2fb2bb829d112522128cdb145523302e9d1e7fd",
+    "a62d278ae52faba8a97b49e08688e54ce2a466c2",
+    "46de4cd3c5999251a2ddf48fa02a363a58fa29d8"
+  ],
+  "source_images": [
+    {"page": "W1:066", "printed_page": "⑥-1", "image": "pages/W1/page-066.jpg", "sha256": "642d9fa47d1bfb19121efad026acc7908d16aae8c4620bad70a1ae7376e2795d"},
+    {"page": "W1:067", "printed_page": "⑥-2", "image": "pages/W1/page-067.jpg", "sha256": "c52db4ab0ffac6b9a2b72fe82572f257918271ce73584eae843ccfca19de7b22"},
+    {"page": "W1:068", "printed_page": "⑥-3", "image": "pages/W1/page-068.jpg", "sha256": "b11acaebc45daee39827e76e104e9bf073278f31c29d78326fa6dfddfe5a30c1"},
+    {"page": "W1:069", "printed_page": "⑥-4", "image": "pages/W1/page-069.jpg", "sha256": "f461ca7a33a058d9f911c3400b54b8b06c1a28ec104ec38b75076bd671026e6d"},
+    {"page": "W1:070", "printed_page": "⑥-5", "image": "pages/W1/page-070.jpg", "sha256": "ba518b0ea39a8f6b51577b2c774afc86b2fb8974568ef65cf6b0d690b97d2cdf"},
+    {"page": "W1:071", "printed_page": "⑥-6", "image": "pages/W1/page-071.jpg", "sha256": "ec784035fa5af7c0c90436fb9d46036b29d63faac9c9a2c365854caa2b0c6102"}
+  ],
+  "section_outputs": [
+    {"task": "JPG-W1-C007-S01", "chunk": "project/W1/chunks/JPG-W1-C007/JPG-W1-C007-S01.md", "chunk_sha256": "fa1d97abf04a64096e96539dcc134eb19671a8e1a074e0be05619fa3eb1a082d"},
+    {"task": "JPG-W1-C007-S02", "chunk": "project/W1/chunks/JPG-W1-C007/JPG-W1-C007-S02.md", "chunk_sha256": "b02438e7f21feedde914c977f84b3838f93c0ff13007e69567790b39de9e4505"},
+    {"task": "JPG-W1-C007-S03", "chunk": "project/W1/chunks/JPG-W1-C007/JPG-W1-C007-S03.md", "chunk_sha256": "bb331ee1d51f875a6f799477dd22d1c93a97ce5005aed4f888ac139e29433f7f"},
+    {"task": "JPG-W1-C007-S04", "chunk": "project/W1/chunks/JPG-W1-C007/JPG-W1-C007-S04.md", "chunk_sha256": "0f676d0fb7a2c7d317c880054779305d6ab08282d20eccf5ef87cb4a2179cfb8"}
+  ],
+  "coverage": [
+    {"page": "W1:066", "status": "pass", "regions": ["S01: 第6章・1. 資産の分類、問題1-4の問題文、重要度、H27過去問表示", "S02: 2. 取得原価主義会計、費用配分の原則、問題5-7の問題文と重要度", "全本文、余白および⑥-1フッターを確認"]},
+    {"page": "W1:067", "status": "pass", "regions": ["S01: 問題1-4の正誤・根拠説明、問題2の財務諸表等規則第14条、問題3の追加でチェック", "S02: 問題5-7の正誤・根拠説明、問題5の追加でチェック", "全本文、余白および⑥-2フッターを確認"]},
+    {"page": "W1:068", "status": "pass", "regions": ["S02: 問題8-14の問題文、重要度A/B/C、H22過去問類題・H26過去問表示", "全本文、余白および⑥-3フッターを確認"]},
+    {"page": "W1:069", "status": "pass", "regions": ["S02: 問題8-14の正誤・根拠説明", "問題9・10・13の追加でチェックを確認", "全本文、余白および⑥-4フッターを確認"]},
+    {"page": "W1:070", "status": "pass", "regions": ["S03: 3. 時価主義会計、問題15-16の問題文と重要度C", "S04: 4. 割引現価主義、問題17-18の問題文と重要度C", "問題18下の空白領域を含む全画面および⑥-5フッターを確認"]},
+    {"page": "W1:071", "status": "pass", "regions": ["S03: 問題15-16の正誤・根拠説明", "S04: 問題17-18の正誤・根拠説明、問題17の追加でチェック", "解説下の空白領域を含む全画面および⑥-6フッターを確認"]}
+  ],
+  "findings": [
+    "全6枚を指定原画像の読める解像度で再確認し、第6章「資産会計総論」の実在4セクションを別チャンクとして保持した。問題1-18は各問題文と対応する正誤・根拠説明を同じセクションチャンクに保持している。",
+    "貨幣性資産・費用性資産、事業投資・金融投資、取得原価主義と費用配分、操業利益・保有利得、未実現利益、再調達原価、時価主義、割引現価主義の各区別・条件・欠点を原画像と照合した。",
+    "誤りの命題は問題1、4、5、7、8、11、12、15、17、18で明示的に誤りとして保持し、訂正理由を同じ問題ブロックに保持した。正しい命題は問題2、3、6、9、10、13、14、16で解答との対応を確認した。",
+    "問題2・4のH27過去問、問題9・10・12のH22過去問類題、問題14のH26過去問表示を保持した。問題3・5・9・10・13・17の追加でチェックも対応する問題に保持した。",
+    "数値計算表・図解は本範囲に存在せず、W1:070-W1:071下部の大きな空白領域にも追加本文・表・図・例外が存在しないことを全画面確認した。"
+  ],
+  "question_answer_checks": {
+    "status": "pass",
+    "checked": "問題1-18の問題文、重要度・過去問表示、正誤判定、根拠説明を対応付けて全件確認。問題3・5・9・10・13・17の追加でチェックも該当問題に保持。"
+  },
+  "specific_checks": [
+    "問題1-4: 貨幣性資産と費用性資産の評価基準、繰延資産の期間損益計算上の位置付け、事業投資・金融投資の性質、投資目的に基づく評価方法を保持。",
+    "問題5-14: 取得原価主義での収益・費用の物価水準差、費用配分、棚卸資産・繰延資産への適用、操業利益と保有利得、未実現利益排除、見積り・仮定、再調達原価、投資継続、物価上昇時の再取得資金情報を保持。",
+    "問題15-16: 正味実現可能価額と静態論、取得原価主義・実現主義および時価主義・発生主義の関係を保持。",
+    "問題17-18: 将来キャッシュ・フローと割引率の客観的把握の困難、現行制度での部分適用、経済的資源観との整合性を保持。"
+  ],
+  "corrections": [],
+  "checks": {
+    "numerical": "not_applicable",
+    "diagram": "not_applicable",
+    "false_proposition": "pass",
+    "question_answer_pairing": "pass"
+  },
+  "unresolved_count": 0,
+  "excluded_pages": [],
+  "downstream_status": "ready_for_chapter_qa_after_this_batch_only"
+}

@@ -1,0 +1,83 @@
+{
+  "batch_id": "JPG-W1-C007",
+  "source_id": "W1",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-W1-C007-S01",
+      "batch_id": "JPG-W1-C007",
+      "chapter": "06",
+      "section": "06.1",
+      "title": "1. 資産の分類",
+      "expected_pages": ["W1:066", "W1:067"],
+      "processing_pages": ["W1:066", "W1:067"],
+      "output": "chunks/JPG-W1-C007/JPG-W1-C007-S01.md",
+      "status": "pass",
+      "locators": [
+        {"page": "W1:066", "printed_page": "⑥-1", "source_region": "第6章「資産会計総論」・1. 資産の分類、問題1-4の問題文、重要度、H27過去問表示", "destination_heading": "## 1. 資産の分類"},
+        {"page": "W1:067", "printed_page": "⑥-2", "source_region": "問題1-4の正誤、根拠説明、問題2の財務諸表等規則第14条参照、問題3の追加でチェック", "destination_heading": "## 1. 資産の分類"}
+      ],
+      "chunk_sha256": "fa1d97abf04a64096e96539dcc134eb19671a8e1a074e0be05619fa3eb1a082d"
+    },
+    {
+      "id": "JPG-W1-C007-S02",
+      "batch_id": "JPG-W1-C007",
+      "chapter": "06",
+      "section": "06.2",
+      "title": "2. 取得原価主義会計、費用配分の原則",
+      "expected_pages": ["W1:066", "W1:067", "W1:068", "W1:069"],
+      "processing_pages": ["W1:066", "W1:067", "W1:068", "W1:069"],
+      "output": "chunks/JPG-W1-C007/JPG-W1-C007-S02.md",
+      "status": "pass",
+      "locators": [
+        {"page": "W1:066", "printed_page": "⑥-1", "source_region": "2. 取得原価主義会計、費用配分の原則、問題5-7の問題文と重要度", "destination_heading": "## 2. 取得原価主義会計、費用配分の原則"},
+        {"page": "W1:067", "printed_page": "⑥-2", "source_region": "問題5-7の正誤・根拠説明、問題5の追加でチェック", "destination_heading": "## 2. 取得原価主義会計、費用配分の原則"},
+        {"page": "W1:068", "printed_page": "⑥-3", "source_region": "問題8-14の問題文、重要度、H22過去問類題・H26過去問表示", "destination_heading": "## 2. 取得原価主義会計、費用配分の原則"},
+        {"page": "W1:069", "printed_page": "⑥-4", "source_region": "問題8-14の正誤・根拠説明、問題9・10・13の追加でチェック", "destination_heading": "## 2. 取得原価主義会計、費用配分の原則"}
+      ],
+      "chunk_sha256": "b02438e7f21feedde914c977f84b3838f93c0ff13007e69567790b39de9e4505"
+    },
+    {
+      "id": "JPG-W1-C007-S03",
+      "batch_id": "JPG-W1-C007",
+      "chapter": "06",
+      "section": "06.3",
+      "title": "3. 時価主義会計",
+      "expected_pages": ["W1:070", "W1:071"],
+      "processing_pages": ["W1:070", "W1:071"],
+      "output": "chunks/JPG-W1-C007/JPG-W1-C007-S03.md",
+      "status": "pass",
+      "locators": [
+        {"page": "W1:070", "printed_page": "⑥-5", "source_region": "3. 時価主義会計、問題15-16の問題文と重要度", "destination_heading": "## 3. 時価主義会計"},
+        {"page": "W1:071", "printed_page": "⑥-6", "source_region": "問題15-16の正誤・根拠説明", "destination_heading": "## 3. 時価主義会計"}
+      ],
+      "chunk_sha256": "bb331ee1d51f875a6f799477dd22d1c93a97ce5005aed4f888ac139e29433f7f"
+    },
+    {
+      "id": "JPG-W1-C007-S04",
+      "batch_id": "JPG-W1-C007",
+      "chapter": "06",
+      "section": "06.4",
+      "title": "4. 割引現価主義",
+      "expected_pages": ["W1:070", "W1:071"],
+      "processing_pages": ["W1:070", "W1:071"],
+      "output": "chunks/JPG-W1-C007/JPG-W1-C007-S04.md",
+      "status": "pass",
+      "locators": [
+        {"page": "W1:070", "printed_page": "⑥-5", "source_region": "4. 割引現価主義、問題17-18の問題文と重要度、余白およびフッター", "destination_heading": "## 4. 割引現価主義"},
+        {"page": "W1:071", "printed_page": "⑥-6", "source_region": "問題17-18の正誤・根拠説明、問題17の追加でチェック、下部空白領域およびフッター", "destination_heading": "## 4. 割引現価主義"}
+      ],
+      "chunk_sha256": "0f676d0fb7a2c7d317c880054779305d6ab08282d20eccf5ef87cb4a2179cfb8"
+    }
+  ],
+  "review": "reviews/JPG-W1-C007.json",
+  "excluded_pages": [],
+  "source_scope": {
+    "source_id": "W1",
+    "physical_range": "W1:066-W1:071",
+    "processing_range": "W1:066-W1:071",
+    "chapter": "06",
+    "title": "資産会計総論",
+    "content_authority": "designated existing JPGs only"
+  }
+}
