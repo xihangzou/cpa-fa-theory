@@ -6,7 +6,7 @@
   "reviewer_model": "current execution model (no model switch)",
   "source_revision": {
     "delivery_branch": "main",
-    "repository_commit": "51989f738755cebdb8b19b22f490f23cc02bec07",
+    "repository_commit": "348fd83106cbe1705d4b02beda2be1488d280409",
     "source_catalog": "contracts/source-catalog.json",
     "source_catalog_sha256": "8358e9cffb068f63df0bdfcc8f99be035e66454ac8710d381f0ff9eb87728079",
     "page_plan": "contracts/page-plan.json",
@@ -41,8 +41,8 @@
   ],
   "section_outputs": [
     {"task":"JPG-W1-C018-S01","chunk":"project/W1/chunks/JPG-W1-C018/JPG-W1-C018-S01.md","chunk_sha256":"e77f067d461ff25ba82909cc83fbad475cc92c433f83ce6710a153c3f575b06d"},
-    {"task":"JPG-W1-C018-S02","chunk":"project/W1/chunks/JPG-W1-C018/JPG-W1-C018-S02.md","chunk_sha256":"d294f264a4883d78fddfc99c4d802b631a85b1dad08ba2150f44ceb117495967"},
-    {"task":"JPG-W1-C018-S03","chunk":"project/W1/chunks/JPG-W1-C018/JPG-W1-C018-S03.md","chunk_sha256":"ba89ed49fa62e33c672177a5d8697ee7658371d1c2aa3ee1b2fc48d720cbd36c"},
+    {"task":"JPG-W1-C018-S02","chunk":"project/W1/chunks/JPG-W1-C018/JPG-W1-C018-S02.md","chunk_sha256":"fc5f77d515f0cd21d6830ddf3475d53438c24f8ffc22d7218f1daf5d9e4e3685"},
+    {"task":"JPG-W1-C018-S03","chunk":"project/W1/chunks/JPG-W1-C018/JPG-W1-C018-S03.md","chunk_sha256":"c191474667149d6202aa8efbf970d1d49e260067327860976fe4e1beb504e604"},
     {"task":"JPG-W1-C018-S04","chunk":"project/W1/chunks/JPG-W1-C018/JPG-W1-C018-S04.md","chunk_sha256":"4611ff5295cd86513b34c9b2a41c1bd03d6a0b3ed407e009ed98fd8f1259a87e"}
   ],
   "coverage": [
@@ -50,15 +50,15 @@
     {"page":"W1:177","status":"pass","regions":["全画面確認：第1節問題1-3の解答・説明、余白、フッター"]},
     {"page":"W1:178","status":"pass","regions":["全画面確認：第2節問題4-5の問題文、余白、フッター"]},
     {"page":"W1:179","status":"pass","regions":["全画面確認：第2節問題4-5の解答・説明、余白、フッター"]},
-    {"page":"W1:180","status":"pass","regions":["全画面確認：第3節問題8-9、第4節問題10の問題文、余白、フッター"]},
-    {"page":"W1:181","status":"pass","regions":["全画面確認：第3節問題8-9、第4節問題10の解答・追加でチェック！、余白、フッター"]}
+    {"page":"W1:180","status":"pass","regions":["全画面確認：第2節問題6-7、第3節問題8-9、第4節問題10の問題文、余白、フッター"]},
+    {"page":"W1:181","status":"pass","regions":["全画面確認：第2節問題6-7、第3節問題8-9、第4節問題10の解答・説明・追加でチェック！、余白、フッター"]}
   ],
-  "findings": ["6/6 designated images reopened at readable full-page resolution; margins and footers checked.", "Questions 1-10 retain their source verdict/correct answer and cited standard paragraph where printed; false propositions remain explicitly labelled.", "No table, diagram, numerical calculation, or cross-batch continuation is present in this batch."],
+  "findings": ["6/6 designated images reopened at readable full-page resolution; margins and footers checked.", "Questions 1-10 retain their source verdict/correct answer and cited standard paragraph where printed; false propositions remain explicitly labelled.", "Questions 6-7 and their answer/explanation block on pages 180-181 are included in section 2; the prior omission was corrected.", "No table, diagram, numerical calculation, or cross-batch continuation is present in this batch."],
   "corrections": [],
   "checks": {"numerical":"not_applicable","diagram":"not_applicable","false_proposition":"pass","question_answer_pairing":"pass"},
   "unresolved_count": 0,
-  "question_answer_checks": {"status":"pass","checked":"問題1-10の問題文、正誤、根拠説明、追加でチェック！を全件確認。"},
-  "specific_checks": ["問題1-3の時価の定義、連結・個別財務諸表での開示、賃貸等不動産の定義を確認。", "問題4のア-ケ全項目と適用対象・対象外の理由、問題5の開示妨げの有無を確認。", "問題8-10の注記事項、重要性、用途別・地域別区分、合理的に算定された価額の算定方法を確認。"],
+  "question_answer_checks": {"status":"pass","checked":"問題1-10の問題文、正誤、根拠説明、追加でチェック！を全件確認。前回欠落していた問題6-7の問題文・解答・説明を追加確認。"},
+  "specific_checks": ["問題1-3の時価の定義、連結・個別財務諸表での開示、賃貸等不動産の定義を確認。", "問題4のア-ケ全項目と適用対象・対象外の理由、問題5の開示妨げの有無を確認。", "問題6-7の部分利用不動産、時価評価せず注記開示とする理由および基準番号を確認。", "問題8-10の注記事項、重要性、用途別・地域別区分、合理的に算定された価額の算定方法を確認。"],
   "excluded_pages": [],
   "downstream_status": "ready_for_chapter_qa_after_this_batch_only"
 }

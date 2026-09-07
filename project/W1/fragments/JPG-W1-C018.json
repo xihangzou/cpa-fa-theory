@@ -25,15 +25,17 @@
       "chapter": "16",
       "section": "16.2",
       "title": "2. 適用範囲",
-      "expected_pages": ["W1:178", "W1:179"],
-      "processing_pages": ["W1:178", "W1:179"],
+      "expected_pages": ["W1:178", "W1:179", "W1:180", "W1:181"],
+      "processing_pages": ["W1:178", "W1:179", "W1:180", "W1:181"],
       "output": "chunks/JPG-W1-C018/JPG-W1-C018-S02.md",
       "status": "pass",
       "locators": [
         {"page":"W1:178","printed_page":"⑯-3","source_region":"第2節問題4-5の問題文","destination_heading":"## 2. 適用範囲"},
-        {"page":"W1:179","printed_page":"⑯-4","source_region":"第2節問題4-5の解答・説明","destination_heading":"## 2. 適用範囲"}
+        {"page":"W1:179","printed_page":"⑯-4","source_region":"第2節問題4-5の解答・説明","destination_heading":"## 2. 適用範囲"},
+        {"page":"W1:180","printed_page":"⑯-5","source_region":"第2節問題6-7の問題文","destination_heading":"## 2. 適用範囲"},
+        {"page":"W1:181","printed_page":"⑯-6","source_region":"第2節問題6-7の解答・説明","destination_heading":"## 2. 適用範囲"}
       ],
-      "chunk_sha256": "d294f264a4883d78fddfc99c4d802b631a85b1dad08ba2150f44ceb117495967"
+      "chunk_sha256": "fc5f77d515f0cd21d6830ddf3475d53438c24f8ffc22d7218f1daf5d9e4e3685"
     },
     {
       "id": "JPG-W1-C018-S03",
@@ -49,7 +51,7 @@
         {"page":"W1:180","printed_page":"⑯-5","source_region":"第3節問題8-9の問題文","destination_heading":"## 3. 注記事項"},
         {"page":"W1:181","printed_page":"⑯-6","source_region":"第3節問題8-9の解答・追加でチェック！","destination_heading":"## 3. 注記事項"}
       ],
-      "chunk_sha256": "ba89ed49fa62e33c672177a5d8697ee7658371d1c2aa3ee1b2fc48d720cbd36c"
+      "chunk_sha256": "c191474667149d6202aa8efbf970d1d49e260067327860976fe4e1beb504e604"
     },
     {
       "id": "JPG-W1-C018-S04",
