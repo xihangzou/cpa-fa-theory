@@ -1,0 +1,91 @@
+{
+  "batch_id": "JPG-W2-C002",
+  "source_id": "W2",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-W2-C002-S01",
+      "batch_id": "JPG-W2-C002",
+      "chapter": "22",
+      "section": "22.1",
+      "title": "1. 研究開発費の会計処理",
+      "expected_pages": ["W2:022", "W2:023", "W2:024", "W2:025"],
+      "processing_pages": ["W2:022", "W2:023", "W2:024", "W2:025"],
+      "output": "chunks/JPG-W2-C002/JPG-W2-C002-S01.md",
+      "status": "pass",
+      "locators": [
+        {"page": "W2:022", "printed_page": "22-1", "source_region": "第22章見出し、1.研究開発費の会計処理、問題1から問題7の問題文", "destination_heading": "## 1. 研究開発費の会計処理"},
+        {"page": "W2:023", "printed_page": "22-2", "source_region": "問題1から問題7の判定、出典、解説及び追加でチェック", "destination_heading": "## 1. 研究開発費の会計処理"},
+        {"page": "W2:024", "printed_page": "22-3", "source_region": "問題8から問題11の問題文、2.ソフトウェアの制作費の会計処理の境界", "destination_heading": "## 1. 研究開発費の会計処理"},
+        {"page": "W2:025", "printed_page": "22-4", "source_region": "問題8から問題11の判定、出典及び解説、問題12から問題15の境界", "destination_heading": "## 1. 研究開発費の会計処理"}
+      ],
+      "chunk_sha256": "b962c48dae4c9d9fb709ed6781377e95d106ee35deadb2fc0907794c4f5f7e8c"
+    },
+    {
+      "id": "JPG-W2-C002-S02",
+      "batch_id": "JPG-W2-C002",
+      "chapter": "22",
+      "section": "22.2",
+      "title": "2. ソフトウェアの制作費の会計処理",
+      "expected_pages": ["W2:024", "W2:025", "W2:026", "W2:027", "W2:028", "W2:029", "W2:030", "W2:031"],
+      "processing_pages": ["W2:024", "W2:025", "W2:026", "W2:027", "W2:028", "W2:029", "W2:030", "W2:031"],
+      "output": "chunks/JPG-W2-C002/JPG-W2-C002-S02.md",
+      "status": "pass",
+      "locators": [
+        {"page": "W2:024", "printed_page": "22-3", "source_region": "2.ソフトウェアの制作費の会計処理、問題12から問題15の問題文", "destination_heading": "## 2. ソフトウェアの制作費の会計処理"},
+        {"page": "W2:025", "printed_page": "22-4", "source_region": "問題12から問題15の判定、出典及び解説", "destination_heading": "## 2. ソフトウェアの制作費の会計処理"},
+        {"page": "W2:026", "printed_page": "22-5", "source_region": "問題16から問題22の問題文", "destination_heading": "## 2. ソフトウェアの制作費の会計処理"},
+        {"page": "W2:027", "printed_page": "22-6", "source_region": "問題16から問題22の判定、出典及び解説、追加でチェック", "destination_heading": "## 2. ソフトウェアの制作費の会計処理"},
+        {"page": "W2:028", "printed_page": "22-7", "source_region": "問題23から問題29の問題文", "destination_heading": "## 2. ソフトウェアの制作費の会計処理"},
+        {"page": "W2:029", "printed_page": "22-8", "source_region": "問題23から問題29の判定、出典、解説及び追加でチェック", "destination_heading": "## 2. ソフトウェアの制作費の会計処理"},
+        {"page": "W2:030", "printed_page": "22-9", "source_region": "問題30から問題32の問題文、3.開示の境界", "destination_heading": "## 2. ソフトウェアの制作費の会計処理"},
+        {"page": "W2:031", "printed_page": "22-10", "source_region": "問題30から問題32の判定、出典及び解説", "destination_heading": "## 2. ソフトウェアの制作費の会計処理"}
+      ],
+      "chunk_sha256": "921bd88101711b462baa6c312735b0d0fb96e41fd1b005af5f4d12c71364a9a6"
+    },
+    {
+      "id": "JPG-W2-C002-S03",
+      "batch_id": "JPG-W2-C002",
+      "chapter": "22",
+      "section": "22.3",
+      "title": "3. 研究開発費、ソフトウェアの制作費の開示",
+      "expected_pages": ["W2:030", "W2:031"],
+      "processing_pages": ["W2:030", "W2:031"],
+      "output": "chunks/JPG-W2-C002/JPG-W2-C002-S03.md",
+      "status": "pass",
+      "locators": [
+        {"page": "W2:030", "printed_page": "22-9", "source_region": "3.研究開発費、ソフトウェアの制作費の開示、問題33から問題36の問題文", "destination_heading": "## 3. 研究開発費、ソフトウェアの制作費の開示"},
+        {"page": "W2:031", "printed_page": "22-10", "source_region": "問題30から問題32の解答、問題33から問題36の判定、出典及び解説・追加でチェック", "destination_heading": "## 3. 研究開発費、ソフトウェアの制作費の開示"}
+      ],
+      "chunk_sha256": "72c46da32a12b7836cb06c7d2e93c1d8d63905069ee7ca15009a97f491c2027d"
+    },
+    {
+      "id": "JPG-W2-C002-S04",
+      "batch_id": "JPG-W2-C002",
+      "chapter": "22",
+      "section": "22.4",
+      "title": "4. 実務指針の論点",
+      "expected_pages": ["W2:032", "W2:033", "W2:034", "W2:035"],
+      "processing_pages": ["W2:032", "W2:033", "W2:034", "W2:035"],
+      "output": "chunks/JPG-W2-C002/JPG-W2-C002-S04.md",
+      "status": "pass",
+      "locators": [
+        {"page": "W2:032", "printed_page": "22-11", "source_region": "4.実務指針の論点、問題37から問題41の問題文", "destination_heading": "## 4. 実務指針の論点"},
+        {"page": "W2:033", "printed_page": "22-12", "source_region": "問題37から問題41の判定、出典、解説及び追加でチェック", "destination_heading": "## 4. 実務指針の論点"},
+        {"page": "W2:034", "printed_page": "22-13", "source_region": "問題42から問題47の問題文", "destination_heading": "## 4. 実務指針の論点"},
+        {"page": "W2:035", "printed_page": "22-14", "source_region": "問題42から問題47の判定、出典及び解説", "destination_heading": "## 4. 実務指針の論点"}
+      ],
+      "chunk_sha256": "da3fa0527bf55c7d942928d5934dd50359e73c0e89bd61310aa95778e3cf1e8e"
+    }
+  ],
+  "review": "reviews/JPG-W2-C002.json",
+  "excluded_pages": [],
+  "source_scope": {
+    "source_id": "W2",
+    "physical_range": "W2:022-W2:035",
+    "processing_range": "W2:022-W2:035",
+    "chapter": "22",
+    "title": "研究開発費等に係る会計基準",
+    "content_authority": "designated existing JPGs only"
+  }
+}

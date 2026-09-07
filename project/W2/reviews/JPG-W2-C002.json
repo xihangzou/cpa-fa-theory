@@ -1,0 +1,91 @@
+{
+  "batch_id": "JPG-W2-C002",
+  "source_id": "W2",
+  "status": "pass",
+  "reviewed_on": "2026-09-07",
+  "reviewer_model": "GPT-5 (current execution model; no model switch)",
+  "source_revision": {
+    "delivery_branch": "main",
+    "repository_commit": "505d0c9efbf92d8892e5e8313bc87ea7f7cdd81",
+    "source_catalog": "contracts/source-catalog.json",
+    "source_catalog_sha256": "8358e9cffb068f63df0bdfcc8f99be035e66454ac8710d381f0ff9eb87728079",
+    "page_plan": "contracts/page-plan.json",
+    "page_plan_sha256": "997a7280b171df5803c2a3bb7c2ee8764082e01f3bdb03c194b9129fe18d26c9",
+    "source_manifest": "project/W2/sources.json",
+    "source_manifest_sha256": "85d02fa6fd47f8e9722addfe2880b3984114d8a7f443b29a3deee4d67d64458d",
+    "source_map": "project/W2/source-map.json",
+    "source_map_sha256": "09b1110117e1b0cb717866ece77048fe39ca7f517d06281e6604c2b146729442",
+    "batch_manifest": "project/W2/batches.json",
+    "batch_manifest_sha256": "cbcdbf3bed4e8ffec62ef5f1fc062548c848fa5a9d8b6c7ed2341d7695a9da26",
+    "inventory_review": "project/W2/inventory-review.json",
+    "inventory_review_sha256": "9c7d8d5e0ddda4d7ad3cca1a1f83c7f86366d6906a3801720954ee94f254558d",
+    "source_original_root": "/Users/xihangzou/Study/320_CPA/322_財務理論/images/cpa-fa-theory-short-answer-workbook-2-jpg",
+    "source_pdf": "/Users/xihangzou/Study/320_CPA/322_財務理論/02_問題集/財務会計論短答対策問題集　理論2.pdf",
+    "source_pdf_sha256": "4344d7dc71d2193679eb9c7a0cd6a911fe3d8d2b89b4336ce51d7fca5a17245a",
+    "source_image_inventory_sha256": "b4869e8e314f3daef7ab13daf05fea4b4b4b7f335b2855f218f3baae1c59b7b4",
+    "edition": "2024/2025年合格目標",
+    "publication_date": "2023-01-23",
+    "physical_scope": "W2:022-W2:035",
+    "processing_scope": "W2:022-W2:035",
+    "content_authority": "designated existing JPGs only; PDF used only for identity/planning support"
+  },
+  "dependency_commits": [
+    "a2fb2bb829d112522128cdb145523302e9d1e7fd",
+    "15f290a42d77b6bd9e02b1a019801683fc4a4af5",
+    "516d08ae978f7aa939e04748a30e67ec4bc1303a"
+  ],
+  "source_images": [
+    {"page": "W2:022", "printed_page": "22-1", "image": "pages/W2/page-022.jpg", "sha256": "cbc6cdc415ab5c2a85bcfd66ab06a9b074b86b65702f9f4e0a03a651570162cb"},
+    {"page": "W2:023", "printed_page": "22-2", "image": "pages/W2/page-023.jpg", "sha256": "0b1f82a2d376e4fceb53c064e09a612326d4bdd13164db7ef1b115a59ef03a03"},
+    {"page": "W2:024", "printed_page": "22-3", "image": "pages/W2/page-024.jpg", "sha256": "50afe75bd124fa8c2186e4fa80eacb43a95c587818cbe6fd25beb30533be4e87"},
+    {"page": "W2:025", "printed_page": "22-4", "image": "pages/W2/page-025.jpg", "sha256": "e690dacd1bf9287f8a0c4c269c9ecbf7db25de1b20a5ed1fbf875208c0dca60b"},
+    {"page": "W2:026", "printed_page": "22-5", "image": "pages/W2/page-026.jpg", "sha256": "1993afdf5fe4c4e61b3a352dedd850455c96fa1630d810776d389e241904b6f7"},
+    {"page": "W2:027", "printed_page": "22-6", "image": "pages/W2/page-027.jpg", "sha256": "ceaaa353db3b917e3b956f3cdc33538e320771568f82ad224f5ce2fa77d9dacf"},
+    {"page": "W2:028", "printed_page": "22-7", "image": "pages/W2/page-028.jpg", "sha256": "223b5853a9ee82b6ef02aec7416da37d5aace376df8c21125ccf892b80cfd1b7"},
+    {"page": "W2:029", "printed_page": "22-8", "image": "pages/W2/page-029.jpg", "sha256": "fa93cd942d05051f63565d20ea2bc7a2dd8eae33f34a5bc47544e9bef271039f"},
+    {"page": "W2:030", "printed_page": "22-9", "image": "pages/W2/page-030.jpg", "sha256": "0f30558d479cd0d49978f685d61e02649a447e7b15f750446fac2bacb5a14d17"},
+    {"page": "W2:031", "printed_page": "22-10", "image": "pages/W2/page-031.jpg", "sha256": "77673d0d76fa3e784d3b9ae0cb2212a4842a903430a5a0ef2986a3c031784d70"},
+    {"page": "W2:032", "printed_page": "22-11", "image": "pages/W2/page-032.jpg", "sha256": "4c0d442d08932aabfe084a00f5009db0f2188f4eeb6be05a7ed29ebdce308cc3"},
+    {"page": "W2:033", "printed_page": "22-12", "image": "pages/W2/page-033.jpg", "sha256": "1ddf858e2040826662ff801669f016ac2e32fc4fbbb503340e731696e6c7e1eb"},
+    {"page": "W2:034", "printed_page": "22-13", "image": "pages/W2/page-034.jpg", "sha256": "877a0968f26a54c03137aabf580a57b8eb4e77539c2b0ceafd47894cac5323e0"},
+    {"page": "W2:035", "printed_page": "22-14", "image": "pages/W2/page-035.jpg", "sha256": "e487a91e7433d5faf61f9f6fe12852b48001e9f95b08aaed5a18d72b7859a2d5"
+    }
+  ],
+  "section_outputs": [
+    {"task": "JPG-W2-C002-S01", "chunk": "project/W2/chunks/JPG-W2-C002/JPG-W2-C002-S01.md", "chunk_sha256": "b962c48dae4c9d9fb709ed6781377e95d106ee35deadb2fc0907794c4f5f7e8c"},
+    {"task": "JPG-W2-C002-S02", "chunk": "project/W2/chunks/JPG-W2-C002/JPG-W2-C002-S02.md", "chunk_sha256": "921bd88101711b462baa6c312735b0d0fb96e41fd1b005af5f4d12c71364a9a6"},
+    {"task": "JPG-W2-C002-S03", "chunk": "project/W2/chunks/JPG-W2-C002/JPG-W2-C002-S03.md", "chunk_sha256": "72c46da32a12b7836cb06c7d2e93c1d8d63905069ee7ca15009a97f491c2027d"},
+    {"task": "JPG-W2-C002-S04", "chunk": "project/W2/chunks/JPG-W2-C002/JPG-W2-C002-S04.md", "chunk_sha256": "da3fa0527bf55c7d942928d5934dd50359e73c0e89bd61310aa95778e3cf1e8e"}
+  ],
+  "coverage": [
+    {"page": "W2:022", "status": "pass", "regions": ["S01: chapter heading, section 1, problems 1-7", "margins and footer 22-1 checked"]},
+    {"page": "W2:023", "status": "pass", "regions": ["S01: answers, verdicts and explanations for problems 1-7", "additional-check definition of 開発費, margins and footer 22-2 checked"]},
+    {"page": "W2:024", "status": "pass", "regions": ["S01: problems 8-11", "S02: section 2 and problems 12-15", "margins and footer 22-3 checked"]},
+    {"page": "W2:025", "status": "pass", "regions": ["S01: answers and explanations for problems 8-11", "S02: answers and explanations for problems 12-15, additional-check question 14", "margins and footer 22-4 checked"]},
+    {"page": "W2:026", "status": "pass", "regions": ["S02: problems 16-22, importance and past-question labels", "margins and footer 22-5 checked"]},
+    {"page": "W2:027", "status": "pass", "regions": ["S02: answers and explanations for problems 16-22", "product-master quote, two research-completion conditions and additional-check notes", "margins and footer 22-6 checked"]},
+    {"page": "W2:028", "status": "pass", "regions": ["S02: problems 23-29", "all statement text, importance and past-question labels", "margins and footer 22-7 checked"]},
+    {"page": "W2:029", "status": "pass", "regions": ["S02: answers and explanations for problems 23-29", "depreciation floor and 3-year/5-year additional-check distinctions", "margins and footer 22-8 checked"]},
+    {"page": "W2:030", "status": "pass", "regions": ["S02: problems 30-32", "S03: section 3 and problems 33-36", "margins and footer 22-9 checked"]},
+    {"page": "W2:031", "status": "pass", "regions": ["S02: answers for problems 30-32", "S03: answers and explanations for problems 33-36, total-disclosure additional check", "margins and footer 22-10 checked"]},
+    {"page": "W2:032", "status": "pass", "regions": ["S04: section 4 and problems 37-41", "margins and footer 22-11 checked"]},
+    {"page": "W2:033", "status": "pass", "regions": ["S04: answers and explanations for problems 37-41", "software implementation-cost and estimate-change additional checks", "margins and footer 22-12 checked"]},
+    {"page": "W2:034", "status": "pass", "regions": ["S04: problems 42-47", "all conditions, labels and source statements", "margins and footer 22-13 checked"]},
+    {"page": "W2:035", "status": "pass", "regions": ["S04: answers and explanations for problems 42-47", "prototype completion two-part condition, version-up classification and entrusted-research treatment", "margins and footer 22-14 checked"]}
+  ],
+  "page_fidelity_matrix": [
+    {"page": "W2:022-W2:035", "status": "pass", "finding": "All 14 included images were reopened at readable resolution and compared with the four section chunks and locator map. Problems 1-47, source verdicts, citations, explanations, additional-check notes, conditions and section boundaries are represented; no image-only table, diagram or unresolved region remains."}
+  ],
+  "findings": [
+    "The batch contains four actual numbered sections and 47 question/answer pairs; section-level chunks share batch-owned pages only at the printed section boundaries.",
+    "Incorrect propositions remain explicitly labelled as 誤り and are kept with the source correction; correct propositions retain 正しい. No question was converted into unqualified knowledge.",
+    "The batch has no debit/credit table, numerical calculation or diagram-only meaning. All cited standards, numerical year labels, conditions, source distinctions, additional-check notes and the product-master/version-up classifications were preserved where present."
+  ],
+  "corrections": [],
+  "checks": {
+    "numerical": "not_applicable",
+    "diagram": "not_applicable",
+    "false_proposition": "pass"
+  },
+  "unresolved_count": 0
+}
