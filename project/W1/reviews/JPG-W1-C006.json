@@ -1,0 +1,125 @@
+{
+  "batch_id": "JPG-W1-C006",
+  "source_id": "W1",
+  "status": "pass",
+  "reviewed_on": "2026-09-07",
+  "reviewer_model": "GPT-5.6 Sol (current execution model; no model switch)",
+  "source_revision": {
+    "delivery_branch": "main",
+    "repository_commit": "eb881cd87c5ddf59b8a54ab4b9a9f010c017601e",
+    "source_catalog": "contracts/source-catalog.json",
+    "source_catalog_sha256": "8358e9cffb068f63df0bdfcc8f99be035e66454ac8710d381f0ff9eb87728079",
+    "page_plan": "contracts/page-plan.json",
+    "page_plan_sha256": "997a7280b171df5803c2a3bb7c2ee8764082e01f3bdb03c194b9129fe18d26c9",
+    "source_manifest": "project/W1/sources.json",
+    "source_manifest_sha256": "f9bf676e213a1ccedb2ddb4e19c35fbc931b044844436970d3d65def49433de3",
+    "source_map": "project/W1/source-map.json",
+    "source_map_sha256": "d423630c6d0e0683d64bd6b32a9677f0d4f971f6a8572c217ef1c37c5f5a937a",
+    "batch_manifest": "project/W1/batches.json",
+    "batch_manifest_sha256": "35a285b5506fbd1dfbfb1c2c06994f6640617d9f68ef9f77636871c953b8ed4a",
+    "inventory_review": "project/W1/inventory-review.json",
+    "inventory_review_sha256": "e94cf19cc8ad6c7bf9e1fbfc2856e128f88b2ab2cf02be37b2fcf869d0a993bf",
+    "pilot_qa": "project/W1/qa/pilot.json",
+    "pilot_qa_sha256": "a2bf6bd4fcd799e1a7344bae403d461f27979175d4709e2b1c2591c405f99475",
+    "source_original_root": "/Users/xihangzou/Study/320_CPA/322_財務理論/images/cpa-fa-theory-short-answer-workbook-1-jpg",
+    "source_pdf_sha256": "cd4b9e8b7be475d5e40785cddfd41e48e775b57eeaed6ffb2b90f4c21c0fd04f",
+    "source_image_inventory_sha256": "593df03d5e6282b4d69ed9162a8afd9cbf6500cb0656884bec1c5b6b129fa5eb",
+    "edition": "2024/2025年合格目標",
+    "publication_date": "2023-01-23",
+    "physical_scope": "W1:062-W1:065",
+    "processing_scope": "W1:062-W1:065",
+    "content_authority": "designated existing JPGs only; PDF not used for transcription"
+  },
+  "dependency_commits": [
+    "a2fb2bb829d112522128cdb145523302e9d1e7fd",
+    "a62d278ae52faba8a97b49e08688e54ce2a466c2",
+    "46de4cd3c5999251a2ddf48fa02a363a58fa29d8"
+  ],
+  "source_images": [
+    {
+      "page": "W1:062",
+      "printed_page": "⑤-1",
+      "image": "pages/W1/page-062.jpg",
+      "sha256": "ba527493d2609e70c9e5d541323303f25c930fb7ea00abbc151a30c0d83cec3d"
+    },
+    {
+      "page": "W1:063",
+      "printed_page": "⑤-2",
+      "image": "pages/W1/page-063.jpg",
+      "sha256": "d19f1e0e3771e94416620c6bc0ba4319d07f1cdbb3ba2dfae7c9fc1d8dd501ee"
+    },
+    {
+      "page": "W1:064",
+      "printed_page": "⑤-3",
+      "image": "pages/W1/page-064.jpg",
+      "sha256": "db212a64bf24edaba7fe8db1e23c4001a1af6a3a92b4a084e22b9c662fb9efc4"
+    },
+    {
+      "page": "W1:065",
+      "printed_page": "⑤-4",
+      "image": "pages/W1/page-065.jpg",
+      "sha256": "5cf3b4c50570af4e900e68fcab2051139a6373a7c7dac0bb285baf4b07890e4f"
+    }
+  ],
+  "section_outputs": [
+    {
+      "task": "JPG-W1-C006-S01",
+      "chunk": "project/W1/chunks/JPG-W1-C006/JPG-W1-C006-S01.md",
+      "chunk_sha256": "47b1634513d5cdb02294920af3ffb9874a7abcea5f11a0ad8afbcbb50304b9f5"
+    }
+  ],
+  "coverage": [
+    {
+      "page": "W1:062",
+      "status": "pass",
+      "regions": [
+        "S01: 第5章・節見出しと問題1-8の問題文",
+        "重要度C/B、H27・H30・R4過去問表示、全本文を確認",
+        "余白および⑤-1フッターを確認"
+      ]
+    },
+    {
+      "page": "W1:063",
+      "status": "pass",
+      "regions": [
+        "S01: 問題1-8の正誤・参照規定・根拠説明",
+        "問題1・3の追加でチェック、H31過去問類題表示を確認",
+        "総額主義、正常営業循環基準・一年基準、経過勘定項目の例外を含む全本文、余白および⑤-2フッターを確認"
+      ]
+    },
+    {
+      "page": "W1:064",
+      "status": "pass",
+      "regions": [
+        "S01: 問題9の問題文と重要度C",
+        "問題下の空白領域を含む全画面を確認",
+        "⑤-3フッターを確認"
+      ]
+    },
+    {
+      "page": "W1:065",
+      "status": "pass",
+      "regions": [
+        "S01: 問題9の誤り・企業会計原則第三 三・根拠説明",
+        "固定資産比率が極めて高い会社の固定性配列法例外を確認",
+        "解説下の空白領域を含む全画面および⑤-4フッターを確認"
+      ]
+    }
+  ],
+  "findings": [
+    "全4枚を指定原画像の読める解像度で再確認し、第5章「貸借対照表総論」の実在1セクションを1チャンクとして保持した。問題1-9は各問題文と対応する正誤・参照規定・根拠説明を同じセクションチャンクに保持している。",
+    "総額主義と純額表示の例外、流動・固定・繰延資産区分、正常営業循環基準と一年基準の適用順序、棚卸資産・営業債権・社債・固定資産・経過勘定項目の分類、流動性配列法と固定性配列法の例外を原画像と照合した。",
+    "正しい問題は1・6、誤りの問題は2-5・7-9であり、すべての誤りを明示したまま訂正理由を保持した。問題3・5・6の過去問表示および問題3解説側のH31過去問類題表示を保持した。",
+    "W1:064とW1:065の大部分は空白であり、問題9以外に追加の本文・表・図・例外が存在しないことを全画面確認した。数値計算表・図解は本範囲に存在しない。"
+  ],
+  "corrections": [],
+  "checks": {
+    "numerical": "not_applicable",
+    "diagram": "not_applicable",
+    "false_proposition": "pass",
+    "question_answer_pairing": "pass"
+  },
+  "unresolved_count": 0,
+  "excluded_pages": [],
+  "downstream_status": "blocked_pending_repository_local_check_batch_and_git_checks"
+}
