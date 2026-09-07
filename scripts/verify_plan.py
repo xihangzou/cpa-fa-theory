@@ -10,7 +10,7 @@ def validate(setup_only=False):
  spec=importlib.util.spec_from_file_location('planner',ROOT/'workflow/scripts/plan_repo.py');P=importlib.util.module_from_spec(spec);spec.loader.exec_module(P)
  plan=read(ROOT/'plan.json');order=P.validate(plan);nodes={n['id']:n for n in plan['issues']}
  catalog=read(ROOT/'contracts/source-catalog.json');pageplan=read(ROOT/'contracts/page-plan.json')
- require(len(catalog)==6 and len(pageplan['books'])==6,'Expected six sources')
+ require(len(catalog)==5 and len(pageplan['books'])==5,'Expected five sources')
  source_by_id={b['id']:b for b in catalog};counts={}
  required=['README.md','AGENTS.md','PLAN.md','SOURCES.md','contracts/CONTENT_RULES.md','contracts/RECORDS.md','contracts/DELIVERY.md','workflow/GITHUB_ISSUES.md','workflow/scripts/publish_issues.py','.github/ISSUE_TEMPLATE/learning-task.md','planning/baseline.json']
  for p in required:require((ROOT/p).is_file(),'Missing '+p)
@@ -18,7 +18,7 @@ def validate(setup_only=False):
  for bp in pageplan['books']:
   bid=bp['source_id'];b=source_by_id[bid];count=b['physical_page_count'];total+=count
   images=b['images'];nums=[x['physical_page'] for x in images]
-  require((bid=='CS' and not images) or sorted(nums)==list(range(1,count+1)),bid+': image sequence mismatch')
+  require(sorted(nums)==list(range(1,count+1)),bid+': image sequence mismatch')
   require(re.fullmatch('[a-f0-9]{64}',b['pdf_sha256']),bid+': invalid PDF hash')
   if images:
    digest=hashlib.sha256(json.dumps(images,ensure_ascii=False,sort_keys=True).encode()).hexdigest()
@@ -51,7 +51,7 @@ def validate(setup_only=False):
    require(read(project/'sources.json')==[] and read(project/'tasks.json')==[],bid+': setup began inventory/conversion')
    require(set(p.name for p in project.iterdir())=={'README.md','sources.json','tasks.json'},bid+': unexpected production output')
   counts[bid]={'physical_pages':count,'candidate_body_pages':len(body),'metadata_only_candidate_pages':len(meta),'conversion_batches':len(batchids),'chapter_records':len(chapkeys),'chapter_qa_issues':len(bp['chapter_qa_groups'])}
- require(total==2108,'Source total mismatch')
+ require(total==1758,'Source total mismatch')
  require(set(nodes['JPG-HANDOFF']['depends_on'])=={f'JPG-{b["id"]}-ACCEPT' for b in catalog},'Corpus handoff gate incomplete')
  # Original copied rules/helpers are unchanged during setup. Future JPG-000 can update only its scoped helper.
  for f in read(ROOT/'workflow/provenance.json'):

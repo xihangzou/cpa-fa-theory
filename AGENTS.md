@@ -20,6 +20,6 @@ Use the stage-specific source hierarchy and rules. Keep source provenance separa
 
 ## CPA theory project contracts
 
-Read `contracts/CONTENT_RULES.md`, `contracts/RECORDS.md`, `contracts/DELIVERY.md`, and only your source's entries in the source/page catalog. All six books remain separate. Initial readiness and future dependency gates are listed in `ISSUES.md`. Planning baseline hashes are not a claim of production source review. Source caches remain local and ignored.
+Read `contracts/CONTENT_RULES.md`, `contracts/RECORDS.md`, `contracts/DELIVERY.md`, and only your source's entries in the source/page catalog. All five books remain separate. Initial readiness and future dependency gates are listed in `ISSUES.md`. Planning baseline hashes are not a claim of production source review. Source caches remain local and ignored.
 
 JPG-000 must deliver and verify helper compatibility before conversion starts. Do not use unimplemented check commands or silently change heading/page-ownership rules. If a source, edition, page boundary or schema mismatch remains, report BLOCKED for an Astra revision.

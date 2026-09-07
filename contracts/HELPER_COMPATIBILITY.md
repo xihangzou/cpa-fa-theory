@@ -6,9 +6,9 @@ Issue `JPG-000` adds batch-aware validation without replacing the legacy `source
 
 A batch is the sole processing owner of physical page images. A section task is a provenance citation inside that owner. Two section tasks may therefore cite distinct regions of the same included page without creating a second page owner. A task still represents exactly one section or an adjacent bounded continuation of the same section ID.
 
-The designated layout inspection confirmed the two required shapes without transcribing production content: CS physical 008 contains two numbered sections on one image, and CS physical 208/209 is a question/answer pair. The first requires shared section-level citation within one page batch; the second requires a batch to retain adjacent pages as one review unit. Neither case requires relaxing the one-owner rule or flattening source sections.
+Synthetic compatibility fixtures cover the two required shapes without production transcription: multiple section tasks may cite distinct regions of one image, and adjacent pages may remain one review unit. Neither case relaxes the one-owner rule or flattens source sections.
 
-All six cataloged source PDFs matched their planned SHA-256 values and physical page counts during this compatibility review. All 1,758 supplied JPGs for T1, T2, T3, W1, and W2 also matched their cataloged byte hashes; CS has no planned JPG baseline before its inventory issue. These identity checks are not production ingestion or semantic source review.
+The current catalog covers five source PDFs and 1,758 supplied JPGs for T1, T2, T3, W1, and W2. Helper compatibility is source-agnostic; these planning identity records are separate from production ingestion and semantic source review.
 
 ## Commands
 

@@ -1,6 +1,6 @@
 # Exact source identities and scope
 
-All page numbers below are **physical PDF/JPG sequence numbers**, not printed page labels. Planning inspected table-of-contents structure, chapter and batch starts, representative layouts and all six colophons. It did not conduct full-page semantic conversion review.
+All page numbers below are **physical PDF/JPG sequence numbers**, not printed page labels. Planning inspected table-of-contents structure, chapter and batch starts, representative layouts and all five colophons. It did not conduct full-page semantic conversion review.
 
 | ID | Book | PDF pages | Supplied JPGs | Colophon edition | Publication |
 |---|---|---:|---:|---|---|
@@ -9,19 +9,18 @@ All page numbers below are **physical PDF/JPG sequence numbers**, not printed pa
 | T3 | 財務会計論テキスト　理論3 | 344 | 344 | 2024/2025年合格目標 | 2023-02-28 |
 | W1 | 財務会計論短答対策問題集　理論1 | 204 | 204 | 2024/2025年合格目標 | 2023-01-23 |
 | W2 | 財務会計論短答対策問題集　理論2 | 398 | 398 | 2024/2025年合格目標 | 2023-01-23 |
-| CS | 財務会計論コンパクトサマリー　短答論点総まとめテキスト　理論 | 350 | 0 | 2024/2025年合格目標 | 2023-01-23 |
 
 ## Identity records
 
 [Source catalog](contracts/source-catalog.json) records each exact original PDF path/hash, JPG folder, original filename/hash, page count, edition evidence locator and source-specific chapter anchors. It is a planning snapshot, not a completed production manifest. [Page plan](contracts/page-plan.json) assigns exact conversion ranges and review groups. Every future source/cache is rechecked before use.
 
-The five supplied JPG sequences contain 1,758 files with no numeric gaps or duplicate physical IDs. CS has 350 PDF pages and no JPG folder. JPG-CS-INV owns its future 300 DPI rendering; no future JPG digest is invented. The total source scope is 2,108 physical pages.
+The five supplied JPG sequences contain 1,758 files with no numeric gaps or duplicate physical IDs. The total source scope is 1,758 physical pages.
 
-The colophons identify 2024/2025-target editions. Some cover design/OCR may show a shortened target year; preserve the exact file identity and both observations rather than infer a newer revision. Textbook 2 was published 2023-05-04; textbook 3 on 2023-02-28; the other four colophons show 2023-01-23.
+The colophons identify 2024/2025-target editions. Some cover design/OCR may show a shortened target year; preserve the exact file identity and both observations rather than infer a newer revision. Textbook 2 was published 2023-05-04; textbook 3 on 2023-02-28; T1, W1, and W2 show 2023-01-23.
 
 ## Source roles and outputs
 
-T1/T2/T3 are explanatory textbooks; W1/W2 are short-answer workbooks; CS contains Part A conclusion checks and Part B smart-core question/answer checks. They are six independent source-conversion projects under `project/ID/`, each with its own final `merged/textbook.md`. Do not combine overlapping topics. The supplied theory workflow directory is tooling, not a seventh learning source.
+T1/T2/T3 are explanatory textbooks and W1/W2 are short-answer workbooks. They are five independent source-conversion projects under `project/ID/`, each with its own final `merged/textbook.md`. Do not combine overlapping topics. The supplied theory workflow directory is tooling, not a seventh learning source.
 
 ## Exact locations
 
@@ -50,8 +49,3 @@ T1/T2/T3 are explanatory textbooks; W1/W2 are short-answer workbooks; CS contain
 - PDF SHA-256: `4344d7dc71d2193679eb9c7a0cd6a911fe3d8d2b89b4336ce51d7fca5a17245a`
 - Source JPG folder: `/Users/xihangzou/Study/320_CPA/322_財務理論/images/cpa-fa-theory-short-answer-workbook-2-jpg`
 - Edition evidence: physical page 396.
-### CS
-- Original PDF: `/Users/xihangzou/Study/320_CPA/322_財務理論/03_コントレ/財務会計論コンパクトサマリー　短答論点総まとめテキスト　理論.pdf`
-- PDF SHA-256: `f76627b0c8e389d094c96ed9a3e8941c1f0a705d55d96dc7d1fd70a84bd7ac39`
-- No supplied JPG folder; derive local ignored cache only in JPG-CS-INV.
-- Edition evidence: physical page 348.

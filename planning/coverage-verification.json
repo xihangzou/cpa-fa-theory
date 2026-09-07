@@ -1,16 +1,15 @@
 {
   "status": "PASS",
   "plan_id": "cpa-fa-theory-jpg-md-20260905",
-  "revision": 2,
-  "issue_count": 226,
+  "revision": 3,
+  "issue_count": 185,
   "ready": [
     "JPG-000",
     "JPG-T1-INV",
     "JPG-T2-INV",
     "JPG-T3-INV",
     "JPG-W1-INV",
-    "JPG-W2-INV",
-    "JPG-CS-INV"
+    "JPG-W2-INV"
   ],
   "sources": {
     "T1": {
@@ -52,17 +51,9 @@
       "conversion_batches": 25,
       "chapter_records": 21,
       "chapter_qa_issues": 10
-    },
-    "CS": {
-      "physical_pages": 350,
-      "candidate_body_pages": 339,
-      "metadata_only_candidate_pages": 11,
-      "conversion_batches": 28,
-      "chapter_records": 69,
-      "chapter_qa_issues": 9
     }
   },
-  "total_physical_pages": 2108,
-  "production_checked_absent": true,
+  "total_physical_pages": 1758,
+  "production_checked_absent": false,
   "semantic_conversion_reviewed": false
 }

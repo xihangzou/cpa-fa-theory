@@ -1,10 +1,10 @@
 # CPA financial-accounting theory: JPG to Markdown
 
-Planning and manual execution for six designated 2024/2025 CPA theory books. Each book will have its own source-faithful Japanese Markdown handoff. This setup contains **no production conversion, integration or cards**.
+Planning and manual execution for five designated 2024/2025 CPA theory books. Each book has its own source-faithful Japanese Markdown handoff. This repository uses manual issue execution and contains **no automated dispatch or card generation**.
 
-Start with the [live issue index](ISSUES.md), [plan](PLAN.md), [exact sources](SOURCES.md), and [execution contract](AGENTS.md). The graph has 226 issues: one helper-compatibility prerequisite, six inventories, 146 conversion batches, six pilot gates, 54 chapter-review groups, six assemblies, six final book acceptances and one six-book handoff index. Conversion batches cover at most 24 physical pages; small CS chapters are grouped while retaining distinct chapter/section outputs.
+Start with the [live issue index](ISSUES.md), [plan](PLAN.md), [exact sources](SOURCES.md), and [execution contract](AGENTS.md). The active graph has 185 issues: one helper-compatibility prerequisite, five inventories, 118 conversion batches, five pilot gates, 45 chapter-review groups, five assemblies, five final book acceptances and one five-book handoff index. Conversion batches cover at most 24 physical pages.
 
-Seven issues are initially ready: JPG-000 (Sol) and the six book inventories (Luna). Every conversion waits for its source inventory and accepted helper compatibility. The remaining conversion batches also wait for that book's pilot QA. All work is user-launched, one selected issue at a time; no dispatch automation is installed.
+Six issues are initially ready: JPG-000 (Sol) and the five book inventories (Luna). Every conversion waits for its source inventory and accepted helper compatibility. The remaining conversion batches also wait for that book's pilot QA. All work is user-launched, one selected issue at a time; no dispatch automation is installed.
 
 ## Manual launch
 
@@ -17,7 +17,6 @@ A draft-only or review-only launch overrides the default completion actions. Rea
 ## Important source/layout facts
 
 - The three textbooks and two workbooks provide 1,758 existing JPGs. Filename handling is source-specific: verify the helper-compatible page-NNN.jpg rule first, then use byte-preserving local staging with canonical names where needed; never modify designated originals.
-- The compact summary provides only a 350-page PDF. Its inventory issue prepares and validates local JPGs before conversion.
 - Multiple source sections can share one physical page. [JPG-000's contract](contracts/RECORDS.md) retains one page-batch owner and separate section records; conversion cannot begin until the helper implements and proves this safely.
 - Raw source files, OCR scratch text, media and Anki packages are excluded from this public repository. Future Markdown stays under its separate `project/BOOK/` paths.
 

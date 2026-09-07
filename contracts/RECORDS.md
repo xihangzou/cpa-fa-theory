@@ -4,13 +4,13 @@ This is the target additive record contract for JPG-000. The shipped `source_md.
 
 ## Why page batches and section tasks are separate
 
-The original helper couples one image-processing task with one section chunk. CS physical 008 visibly contains multiple sections on one page. A physical page must have one processing owner, while each section still needs its own chunk and locator. One user-launched issue therefore owns an exact physical-page batch and emits ordered section-task records inside it. This groups source-reading responsibility; it does not merge source sections or permit duplicate processing owners. If this additive representation cannot preserve the workflow's one-owner and one-section requirements, JPG-000 must remain BLOCKED for an Astra revision, and conversion remains blocked.
+The original helper couples one image-processing task with one section chunk. The batch contract must also support multiple section tasks citing distinct regions of one physical page. A physical page must have one processing owner, while each section still needs its own chunk and locator. One user-launched issue therefore owns an exact physical-page batch and emits ordered section-task records inside it. This groups source-reading responsibility; it does not merge source sections or permit duplicate processing owners. If this additive representation cannot preserve the workflow's one-owner and one-section requirements, JPG-000 must remain BLOCKED for an Astra revision, and conversion remains blocked.
 
 ## Inventory-owned records
 
 Each `project/BOOK/sources.json` uses the supplied source/image fields: source ID, kind, origin and SHA-256, edition, optional rendering DPI, and `pages` with `id`, `pdf_page`, `printed_page`, project-relative canonical `image`, SHA-256, width, height, disposition and exclusion reason. `printed_page` is the actual printed label, qualified by source part/chapter where needed. Null means no printed label exists, never not yet checked on an accepted inventory.
 
-`source-map.json` records the exact local original folder/file and immutable baseline digest for each canonical `pages/BOOK/page-NNN.jpg` file. Include repeatable cache restoration instructions and byte-hash verification. Existing JPGs are copied byte-for-byte into an ignored staging directory, preserving canonical names when already compatible and using renamed copies only in staging when needed, because ingest accepts only `page-NNN.jpg` names. Never rename originals. CS alone uses the pinned PDF and records the renderer, version and 300 DPI render settings plus actual generated hashes. No fake future image hashes.
+`source-map.json` records the exact local original folder/file and immutable baseline digest for each canonical `pages/BOOK/page-NNN.jpg` file. Include repeatable cache restoration instructions and byte-hash verification. Existing JPGs are copied byte-for-byte into an ignored staging directory, preserving canonical names when already compatible and using renamed copies only in staging when needed, because ingest accepts only `page-NNN.jpg` names. Never rename originals or invent future image hashes.
 
 `batches.json` is an ordered array. Every row has:
 
@@ -44,7 +44,7 @@ One chunk per section or bounded continuation lives under `chunks/ISSUE-ID/`. It
 
 `qa/pilot.json` records the accepted pilot revision, source-specific conventions and gate verdict. Later reviewed corrections can supersede pilot chunk hashes; preserve the historical pilot evidence and identify the newer chapter approval explicitly. A historical pilot hash is not a claim that an earlier byte version is still current.
 
-`qa/chapters/KEY.json` owns exactly one complete chapter's approval. Record only that chapter's current section chunk hashes, all included/excluded pages, review findings and corrections. QA issues can batch several small chapters, but emit separate chapter records. CS QA issues sharing a conversion batch directory are serialized; a reviewer must still change only its named chapters. Refreshed shard hashes must not invalidate unrelated unchanged chapter approvals.
+`qa/chapters/KEY.json` owns exactly one complete chapter's approval. Record only that chapter's current section chunk hashes, all included/excluded pages, review findings and corrections. QA issues can batch several small chapters, but emit separate chapter records. A reviewer must change only the named chapters, and refreshed shard hashes must not invalidate unrelated unchanged chapter approvals.
 
 The assembly issue alone writes canonical `tasks.json` by aggregating all passed section shards in page-plan order. Canonical task PASS requires current chapter approval for the chunk hash. Batch-mode `check` validates source/cache hashes, unique page-batch ownership, section citation bounds/coverage, chunk metadata, unresolved markers, statuses, and all current chapter hashes. Legacy projects without a batch ledger retain their old validation behavior.
 
