@@ -1,0 +1,133 @@
+{
+  "batch_id": "JPG-W1-C020",
+  "source_id": "W1",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-W1-C020-S01",
+      "batch_id": "JPG-W1-C020",
+      "chapter": "18",
+      "section": "18.1",
+      "title": "1. 本会計基準の適用範囲",
+      "expected_pages": ["W1:184", "W1:185"],
+      "processing_pages": ["W1:184", "W1:185"],
+      "output": "chunks/JPG-W1-C020/JPG-W1-C020-S01.md",
+      "status": "pass",
+      "locators": [
+        {
+          "page": "W1:184",
+          "printed_page": "⑱-1",
+          "source_region": "第18章見出し・第1節問題1-2の問題文",
+          "destination_heading": "## 1. 本会計基準の適用範囲"
+        },
+        {
+          "page": "W1:185",
+          "printed_page": "⑱-2",
+          "source_region": "第1節問題1-2の解答・説明",
+          "destination_heading": "## 1. 本会計基準の適用範囲"
+        }
+      ],
+      "chunk_sha256": "f5173b621762f8aede2ada9eb72ec0ddf9b202e237bbd4523985c6629e30f45a"
+    },
+    {
+      "id": "JPG-W1-C020-S02",
+      "batch_id": "JPG-W1-C020",
+      "chapter": "18",
+      "section": "18.2",
+      "title": "2. 用語の定義",
+      "expected_pages": ["W1:184", "W1:185"],
+      "processing_pages": ["W1:184", "W1:185"],
+      "output": "chunks/JPG-W1-C020/JPG-W1-C020-S02.md",
+      "status": "pass",
+      "locators": [
+        {
+          "page": "W1:184",
+          "printed_page": "⑱-1",
+          "source_region": "第2節問題3-6の問題文",
+          "destination_heading": "## 2. 用語の定義"
+        },
+        {
+          "page": "W1:185",
+          "printed_page": "⑱-2",
+          "source_region": "第2節問題3-6の解答・説明、4要件の列挙",
+          "destination_heading": "## 2. 用語の定義"
+        }
+      ],
+      "chunk_sha256": "a822e74e4532c490deb63250ababf4e7126dba2a029cac60721f9926bffe80bd"
+    },
+    {
+      "id": "JPG-W1-C020-S03",
+      "batch_id": "JPG-W1-C020",
+      "chapter": "18",
+      "section": "18.3",
+      "title": "3. 時価の算定単位",
+      "expected_pages": ["W1:186", "W1:187"],
+      "processing_pages": ["W1:186", "W1:187"],
+      "output": "chunks/JPG-W1-C020/JPG-W1-C020-S03.md",
+      "status": "pass",
+      "locators": [
+        {
+          "page": "W1:186",
+          "printed_page": "⑱-3",
+          "source_region": "第3節問題7の問題文",
+          "destination_heading": "## 3. 時価の算定単位"
+        },
+        {
+          "page": "W1:187",
+          "printed_page": "⑱-4",
+          "source_region": "第3節問題7の正誤・根拠表示",
+          "destination_heading": "## 3. 時価の算定単位"
+        }
+      ],
+      "chunk_sha256": "919b0e8f26e4d6637ca825219c84f9c5c1dfa818f3ec8dc363c5c5c7fb263465"
+    },
+    {
+      "id": "JPG-W1-C020-S04",
+      "batch_id": "JPG-W1-C020",
+      "chapter": "18",
+      "section": "18.4",
+      "title": "4. 時価の算定",
+      "expected_pages": ["W1:186", "W1:187", "W1:188", "W1:189"],
+      "processing_pages": ["W1:186", "W1:187", "W1:188", "W1:189"],
+      "output": "chunks/JPG-W1-C020/JPG-W1-C020-S04.md",
+      "status": "pass",
+      "locators": [
+        {
+          "page": "W1:186",
+          "printed_page": "⑱-3",
+          "source_region": "第4節問題8-13の問題文",
+          "destination_heading": "## 4. 時価の算定"
+        },
+        {
+          "page": "W1:187",
+          "printed_page": "⑱-4",
+          "source_region": "第4節問題8-13の解答・説明・追加でチェック！",
+          "destination_heading": "## 4. 時価の算定"
+        },
+        {
+          "page": "W1:188",
+          "printed_page": "⑱-5",
+          "source_region": "第4節問題14-17の問題文",
+          "destination_heading": "## 4. 時価の算定"
+        },
+        {
+          "page": "W1:189",
+          "printed_page": "⑱-6",
+          "source_region": "第4節問題14-17の解答・説明",
+          "destination_heading": "## 4. 時価の算定"
+        }
+      ],
+      "chunk_sha256": "fccb58d9eeab4530658aa9677fc4cc814fe78826d2ddddfb58bd61ff644f35c3"
+    }
+  ],
+  "review": "reviews/JPG-W1-C020.json",
+  "excluded_pages": [],
+  "source_scope": {
+    "source_id": "W1",
+    "physical_range": "W1:184-W1:189",
+    "processing_range": "W1:184-W1:189",
+    "chapter": "18",
+    "title": "時価の算定に関する会計基準",
+    "content_authority": "designated existing JPGs only"
+  }
+}

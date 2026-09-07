@@ -1,0 +1,88 @@
+{
+  "batch_id": "JPG-W1-C020",
+  "source_id": "W1",
+  "status": "pass",
+  "reviewed_on": "2026-09-07",
+  "reviewer_model": "current execution model (no model switch)",
+  "source_revision": {
+    "delivery_branch": "main",
+    "repository_commit": "98f863d6ac25d87acdf78fe83e4075f2c342bd0d",
+    "source_catalog": "contracts/source-catalog.json",
+    "source_catalog_sha256": "8358e9cffb068f63df0bdfcc8f99be035e66454ac8710d381f0ff9eb87728079",
+    "page_plan": "contracts/page-plan.json",
+    "page_plan_sha256": "997a7280b171df5803c2a3bb7c2ee8764082e01f3bdb03c194b9129fe18d26c9",
+    "source_manifest": "project/W1/sources.json",
+    "source_manifest_sha256": "f9bf676e213a1ccedb2ddb4e19c35fbc931b044844436970d3d65def49433de3",
+    "source_map": "project/W1/source-map.json",
+    "source_map_sha256": "d423630c6d0e0683d64bd6b32a9677f0d4f971f6a8572c217ef1c37c5f5a937a",
+    "batch_manifest": "project/W1/batches.json",
+    "batch_manifest_sha256": "35a285b5506fbd1dfbfb1c2c06994f6640617d9f68ef9f77636871c953b8ed4a",
+    "inventory_review": "project/W1/inventory-review.json",
+    "inventory_review_sha256": "e94cf19cc8ad6c7bf9e1fbfc2856e128f88b2ab2cf02be37b2fcf869d0a993bf",
+    "pilot_qa": "project/W1/qa/pilot.json",
+    "pilot_qa_sha256": "a2bf6bd4fcd799e1a7344bae403d461f27979175d4709e2b1c2591c405f99475",
+    "source_original_root": "/Users/xihangzou/Study/320_CPA/322_財務理論/images/cpa-fa-theory-short-answer-workbook-1-jpg",
+    "source_pdf_sha256": "cd4b9e8b7be475d5e40785cddfd41e48e775b57eeaed6ffb2b90f4c21c0fd04f",
+    "source_image_inventory_sha256": "593df03d5e6282b4d69ed9162a8afd9cbf6500cb0656884bec1c5b6b129fa5eb",
+    "edition": "2024/2025年合格目標",
+    "publication_date": "2023-01-23",
+    "physical_scope": "W1:184-W1:189",
+    "processing_scope": "W1:184-W1:189",
+    "content_authority": "designated existing JPGs only; PDF not used for transcription"
+  },
+  "dependency_commits": [
+    "a2fb2bb829d112522128cdb145523302e9d1e7fd",
+    "a62d278ae52faba8a97b49e08688e54ce2a466c2",
+    "46de4cd3c5999251a2ddf48fa02a363a58fa29d8"
+  ],
+  "source_images": [
+    {"page":"W1:184","printed_page":"⑱-1","image":"pages/W1/page-184.jpg","sha256":"17517fd734d3dc481ec3ddd34b0b840ea658080c0d76cd09c1e3930c31895337"},
+    {"page":"W1:185","printed_page":"⑱-2","image":"pages/W1/page-185.jpg","sha256":"cc1aa1798304d80ac2bbdcab397ae072035ac1992a9cc0ebc7c038bd3abe0dea"},
+    {"page":"W1:186","printed_page":"⑱-3","image":"pages/W1/page-186.jpg","sha256":"8aac2843eef7f90094f1656c993b7b258b0e671679beb5c73a25b583724576c2"},
+    {"page":"W1:187","printed_page":"⑱-4","image":"pages/W1/page-187.jpg","sha256":"22ae4a1ed88f59256ad796164cf2b1ca02bd82e46be6a2808e40a14423d16ae6"},
+    {"page":"W1:188","printed_page":"⑱-5","image":"pages/W1/page-188.jpg","sha256":"4a3b3ca671eb47e5708f5bbbac2d33ddc47d144d65a2eecc3a25d96eeb315149"},
+    {"page":"W1:189","printed_page":"⑱-6","image":"pages/W1/page-189.jpg","sha256":"3a970a8a4b5fa7c58e0c96bebc4099c6281dcd3693cecf1a257767222229863c"}
+  ],
+  "section_outputs": [
+    {"task":"JPG-W1-C020-S01","chunk":"project/W1/chunks/JPG-W1-C020/JPG-W1-C020-S01.md","chunk_sha256":"f5173b621762f8aede2ada9eb72ec0ddf9b202e237bbd4523985c6629e30f45a"},
+    {"task":"JPG-W1-C020-S02","chunk":"project/W1/chunks/JPG-W1-C020/JPG-W1-C020-S02.md","chunk_sha256":"a822e74e4532c490deb63250ababf4e7126dba2a029cac60721f9926bffe80bd"},
+    {"task":"JPG-W1-C020-S03","chunk":"project/W1/chunks/JPG-W1-C020/JPG-W1-C020-S03.md","chunk_sha256":"919b0e8f26e4d6637ca825219c84f9c5c1dfa818f3ec8dc363c5c5c7fb263465"},
+    {"task":"JPG-W1-C020-S04","chunk":"project/W1/chunks/JPG-W1-C020/JPG-W1-C020-S04.md","chunk_sha256":"fccb58d9eeab4530658aa9677fc4cc814fe78826d2ddddfb58bd61ff644f35c3"}
+  ],
+  "coverage": [
+    {"page":"W1:184","status":"pass","regions":["全画面確認：第1節問題1-2、第2節問題3-6の問題文、章見出し、余白、フッター"]},
+    {"page":"W1:185","status":"pass","regions":["全画面確認：第1節問題1-2、第2節問題3-6の正誤・根拠説明、4要件の列挙、余白、フッター"]},
+    {"page":"W1:186","status":"pass","regions":["全画面確認：第3節問題7、第4節問題8-13の問題文、章見出し、余白、フッター"]},
+    {"page":"W1:187","status":"pass","regions":["全画面確認：第3節問題7、第4節問題8-13の正誤・根拠説明・追加でチェック！、余白、フッター"]},
+    {"page":"W1:188","status":"pass","regions":["全画面確認：第4節問題14-17の問題文、章見出し、余白、フッター"]},
+    {"page":"W1:189","status":"pass","regions":["全画面確認：第4節問題14-17の正誤・根拠説明、余白、フッター"]}
+  ],
+  "findings": [
+    "6/6 designated images reopened at readable full-page resolution; chapter headers, margins and footers checked.",
+    "Questions 1-17 retain source statements, importance labels, standards citations where printed, verdicts and answer explanations; false propositions remain explicitly labelled 誤り.",
+    "Section boundaries are 1. 本会計基準の適用範囲 (questions 1-2), 2. 用語の定義 (questions 3-6), 3. 時価の算定単位 (question 7), and 4. 時価の算定 (questions 8-17).",
+    "Question 3 preserves all four market-participant requirements; questions 8-13 preserve input hierarchy, valuation-technique, accounting-estimate and additional-check distinctions.",
+    "No table, diagram, numerical calculation, excluded page, or cross-batch continuation is present in this batch."
+  ],
+  "corrections": [],
+  "checks": {
+    "numerical": "not_applicable",
+    "diagram": "not_applicable",
+    "false_proposition": "pass",
+    "question_answer_pairing": "pass"
+  },
+  "unresolved_count": 0,
+  "question_answer_checks": {
+    "status": "pass",
+    "checked": "問題1-17の問題文、正誤、根拠説明、追加でチェック！を全件確認。"
+  },
+  "specific_checks": [
+    "問題1-2の本会計基準の適用対象・対象外を確認し、金融商品、棚卸資産、賃貸等不動産および企業結合の区別を保持した。",
+    "問題3の市場参加者4要件、問題4の秩序ある取引、問題5の出口価格、問題6の企業の意図を反映しない点を確認した。",
+    "問題7の個別資産・負債とグループの算定単位、金融商品の通常の扱いを確認した。",
+    "問題8-13の観察可能・観察不能インプット、複数評価技法、会計上の見積りの変更、レベル1-3の優先順位および相場価格の調整可否を確認した。",
+    "問題14-17の重要なインプットによるレベル分類、取引量・頻度低下時の評価、負債・払込資本の移転仮定、不履行リスクを確認した。"
+  ],
+  "excluded_pages": [],
+  "downstream_status": "ready_for_chapter_qa_after_this_batch_only"
+}
