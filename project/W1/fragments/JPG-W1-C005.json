@@ -1,0 +1,131 @@
+{
+  "batch_id": "JPG-W1-C005",
+  "source_id": "W1",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-W1-C005-S01",
+      "batch_id": "JPG-W1-C005",
+      "chapter": "04",
+      "section": "04.1",
+      "title": "1. 現金主義会計と発生主義会計",
+      "expected_pages": ["W1:050", "W1:051"],
+      "processing_pages": ["W1:050", "W1:051"],
+      "output": "chunks/JPG-W1-C005/JPG-W1-C005-S01.md",
+      "status": "pass",
+      "locators": [
+        {"page": "W1:050", "printed_page": "④-1", "source_region": "1. 現金主義会計と発生主義会計、問題1から問題3の問題文、重要度、余白およびフッター", "destination_heading": "## 1. 現金主義会計と発生主義会計"},
+        {"page": "W1:051", "printed_page": "④-2", "source_region": "問題1から問題3の正誤、根拠説明、問題1の追加でチェック、余白およびフッター", "destination_heading": "## 1. 現金主義会計と発生主義会計"}
+      ],
+      "chunk_sha256": "bfa77efd132d1592c1a091bbfa58eaf15492560e60784cb1a213ae0c7e6b5819"
+    },
+    {
+      "id": "JPG-W1-C005-S02",
+      "batch_id": "JPG-W1-C005",
+      "chapter": "04",
+      "section": "04.2",
+      "title": "2. 収益の測定、一致の原則",
+      "expected_pages": ["W1:050", "W1:051"],
+      "processing_pages": ["W1:050", "W1:051"],
+      "output": "chunks/JPG-W1-C005/JPG-W1-C005-S02.md",
+      "status": "pass",
+      "locators": [
+        {"page": "W1:050", "printed_page": "④-1", "source_region": "2. 収益の測定、一致の原則、問題4から問題6の問題文、重要度、余白およびフッター", "destination_heading": "## 2. 収益の測定、一致の原則"},
+        {"page": "W1:051", "printed_page": "④-2", "source_region": "問題4から問題6の正誤、根拠説明、問題4・5の追加でチェック、企業会計原則参照、余白およびフッター", "destination_heading": "## 2. 収益の測定、一致の原則"}
+      ],
+      "chunk_sha256": "4018cdda010bb9544fd433f0b84e404554231660052896b954bab6ed6d91bc27"
+    },
+    {
+      "id": "JPG-W1-C005-S03",
+      "batch_id": "JPG-W1-C005",
+      "chapter": "04",
+      "section": "04.3",
+      "title": "3. 収益の認識",
+      "expected_pages": ["W1:052", "W1:053"],
+      "processing_pages": ["W1:052", "W1:053"],
+      "output": "chunks/JPG-W1-C005/JPG-W1-C005-S03.md",
+      "status": "pass",
+      "locators": [
+        {"page": "W1:052", "printed_page": "④-3", "source_region": "3. 収益の認識、問題7から問題12の問題文、重要度、余白およびフッター", "destination_heading": "## 3. 収益の認識"},
+        {"page": "W1:053", "printed_page": "④-4", "source_region": "問題7から問題12の正誤、根拠説明、問題7の追加でチェック、企業会計原則参照、余白およびフッター", "destination_heading": "## 3. 収益の認識"}
+      ],
+      "chunk_sha256": "ff08fe9fed4c45590a39df27a30586c028a3f4f04cbfa63d6cef318a2aa2d9e6"
+    },
+    {
+      "id": "JPG-W1-C005-S04",
+      "batch_id": "JPG-W1-C005",
+      "chapter": "04",
+      "section": "04.4",
+      "title": "4. 費用の認識",
+      "expected_pages": ["W1:054", "W1:055"],
+      "processing_pages": ["W1:054", "W1:055"],
+      "output": "chunks/JPG-W1-C005/JPG-W1-C005-S04.md",
+      "status": "pass",
+      "locators": [
+        {"page": "W1:054", "printed_page": "④-5", "source_region": "4. 費用の認識、問題13から問題18の問題文、重要度、H30・H27過去問表示、余白およびフッター", "destination_heading": "## 4. 費用の認識"},
+        {"page": "W1:055", "printed_page": "④-6", "source_region": "問題13から問題18の正誤、根拠説明、問題14・17の追加でチェック、企業会計原則参照、余白およびフッター", "destination_heading": "## 4. 費用の認識"}
+      ],
+      "chunk_sha256": "abf91a0a3c8e867429e1cba55494fd2d28e671995366627d58956f43c2c286c2"
+    },
+    {
+      "id": "JPG-W1-C005-S05",
+      "batch_id": "JPG-W1-C005",
+      "chapter": "04",
+      "section": "04.5",
+      "title": "5. 当期業績主義と包括主義",
+      "expected_pages": ["W1:056", "W1:057"],
+      "processing_pages": ["W1:056", "W1:057"],
+      "output": "chunks/JPG-W1-C005/JPG-W1-C005-S05.md",
+      "status": "pass",
+      "locators": [
+        {"page": "W1:056", "printed_page": "④-7", "source_region": "5. 当期業績主義と包括主義、問題19から問題22の問題文、重要度、H20・H22・H23過去問表示、余白およびフッター", "destination_heading": "## 5. 当期業績主義と包括主義"},
+        {"page": "W1:057", "printed_page": "④-8", "source_region": "問題19から問題22の正誤、根拠説明、問題20の追加でチェック、余白およびフッター", "destination_heading": "## 5. 当期業績主義と包括主義"}
+      ],
+      "chunk_sha256": "4efcf31bfc95c65c52fb54cdaa00a12f76170770e4dba086a05894f152619fb0"
+    },
+    {
+      "id": "JPG-W1-C005-S06",
+      "batch_id": "JPG-W1-C005",
+      "chapter": "04",
+      "section": "04.6",
+      "title": "6. 損益計算書の表示",
+      "expected_pages": ["W1:056", "W1:057"],
+      "processing_pages": ["W1:056", "W1:057"],
+      "output": "chunks/JPG-W1-C005/JPG-W1-C005-S06.md",
+      "status": "pass",
+      "locators": [
+        {"page": "W1:056", "printed_page": "④-7", "source_region": "6. 損益計算書の表示、問題23から問題26の問題文、重要度、余白およびフッター", "destination_heading": "## 6. 損益計算書の表示"},
+        {"page": "W1:057", "printed_page": "④-8", "source_region": "問題23から問題26の正誤、根拠説明、問題23の追加でチェック、企業会計原則参照、余白およびフッター", "destination_heading": "## 6. 損益計算書の表示"}
+      ],
+      "chunk_sha256": "5ba5a4ac5f6befa96e5ede07810df145044bf78cd0f140ac35c10fb1c0449f7d"
+    },
+    {
+      "id": "JPG-W1-C005-S07",
+      "batch_id": "JPG-W1-C005",
+      "chapter": "04",
+      "section": "04.7",
+      "title": "7. 収益費用アプローチと資産負債アプローチ",
+      "expected_pages": ["W1:058", "W1:059", "W1:060", "W1:061"],
+      "processing_pages": ["W1:058", "W1:059", "W1:060", "W1:061"],
+      "output": "chunks/JPG-W1-C005/JPG-W1-C005-S07.md",
+      "status": "pass",
+      "locators": [
+        {"page": "W1:058", "printed_page": "④-9", "source_region": "7. 収益費用アプローチと資産負債アプローチ、問題27から問題32の問題文、重要度、過去問・類題表示、余白およびフッター", "destination_heading": "## 7. 収益費用アプローチと資産負債アプローチ"},
+        {"page": "W1:059", "printed_page": "④-10", "source_region": "問題27から問題32の正誤、根拠説明、問題27から問題29の追加でチェック・R2過去問表示、余白およびフッター", "destination_heading": "## 7. 収益費用アプローチと資産負債アプローチ"},
+        {"page": "W1:060", "printed_page": "④-11", "source_region": "問題33の問題文、重要度C、H20過去問表示、全余白およびフッター", "destination_heading": "## 7. 収益費用アプローチと資産負債アプローチ"},
+        {"page": "W1:061", "printed_page": "④-12", "source_region": "問題33の正誤、根拠説明、追加でチェック、全余白およびフッター", "destination_heading": "## 7. 収益費用アプローチと資産負債アプローチ"}
+      ],
+      "chunk_sha256": "be267d51291212bf9496fdb03d68cef7bd619fdd4b7e2288a9aa8648b21e2c2f"
+    }
+  ],
+  "review": "reviews/JPG-W1-C005.json",
+  "excluded_pages": [],
+  "source_scope": {
+    "source_id": "W1",
+    "physical_range": "W1:050-W1:061",
+    "processing_range": "W1:050-W1:061",
+    "chapter": "04",
+    "title": "損益会計",
+    "content_authority": "designated existing JPGs only"
+  }
+}
