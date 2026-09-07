@@ -1,0 +1,85 @@
+{
+  "batch_id": "JPG-W1-C022",
+  "source_id": "W1",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-W1-C022-S01",
+      "batch_id": "JPG-W1-C022",
+      "chapter": "20",
+      "section": "20.1",
+      "title": "1. 本会計基準の目的",
+      "expected_pages": ["W1:194", "W1:195"],
+      "processing_pages": ["W1:194", "W1:195"],
+      "output": "chunks/JPG-W1-C022/JPG-W1-C022-S01.md",
+      "status": "pass",
+      "locators": [
+        {"page":"W1:194","printed_page":"⑳-1","source_region":"第20章見出し・第1節問題1の問題文","destination_heading":"## 1. 本会計基準の目的"},
+        {"page":"W1:195","printed_page":"⑳-2","source_region":"第1節問題1の解答・説明","destination_heading":"## 1. 本会計基準の目的"}
+      ],
+      "chunk_sha256": "7394d2f6d18bc450258f335f15609ba72f9ca23b4dc9ffac09c96f29b8d9ebb4"
+    },
+    {
+      "id": "JPG-W1-C022-S02",
+      "batch_id": "JPG-W1-C022",
+      "chapter": "20",
+      "section": "20.2",
+      "title": "2. 一株当たり当期純利益の算定",
+      "expected_pages": ["W1:194", "W1:195"],
+      "processing_pages": ["W1:194", "W1:195"],
+      "output": "chunks/JPG-W1-C022/JPG-W1-C022-S02.md",
+      "status": "pass",
+      "locators": [
+        {"page":"W1:194","printed_page":"⑳-1","source_region":"第2節問題2-7の問題文","destination_heading":"## 2. 一株当たり当期純利益の算定"},
+        {"page":"W1:195","printed_page":"⑳-2","source_region":"第2節問題2-7の解答・説明・追加でチェック！","destination_heading":"## 2. 一株当たり当期純利益の算定"}
+      ],
+      "chunk_sha256": "c754ad8e5c1928bfc34208a85e95edcd4590f05d64f40fc21adc211e1a52527f"
+    },
+    {
+      "id": "JPG-W1-C022-S03",
+      "batch_id": "JPG-W1-C022",
+      "chapter": "20",
+      "section": "20.3",
+      "title": "3. 潜在株式調整後一株当たり当期純利益の算定",
+      "expected_pages": ["W1:196", "W1:197", "W1:198", "W1:199"],
+      "processing_pages": ["W1:196", "W1:197", "W1:198", "W1:199"],
+      "output": "chunks/JPG-W1-C022/JPG-W1-C022-S03.md",
+      "status": "pass",
+      "locators": [
+        {"page":"W1:196","printed_page":"⑳-3","source_region":"第3節問題8-16の問題文","destination_heading":"## 3. 潜在株式調整後一株当たり当期純利益の算定"},
+        {"page":"W1:197","printed_page":"⑳-4","source_region":"第3節問題8-16の解答・説明・追加でチェック！","destination_heading":"## 3. 潜在株式調整後一株当たり当期純利益の算定"},
+        {"page":"W1:198","printed_page":"⑳-5","source_region":"第3節問題17-19の問題文","destination_heading":"## 3. 潜在株式調整後一株当たり当期純利益の算定"},
+        {"page":"W1:199","printed_page":"⑳-6","source_region":"第3節問題17-19の解答・説明・追加でチェック！","destination_heading":"## 3. 潜在株式調整後一株当たり当期純利益の算定"}
+      ],
+      "chunk_sha256": "fe64bef1b7e84924d67569f1c7e4eacc5e7bffab5e0b037f8beb979c2133f876"
+    },
+    {
+      "id": "JPG-W1-C022-S04",
+      "batch_id": "JPG-W1-C022",
+      "chapter": "20",
+      "section": "20.4",
+      "title": "4. 株式併合，株式分割，過年度遡及及び関連",
+      "expected_pages": ["W1:198", "W1:199", "W1:200", "W1:201"],
+      "processing_pages": ["W1:198", "W1:199", "W1:200", "W1:201"],
+      "output": "chunks/JPG-W1-C022/JPG-W1-C022-S04.md",
+      "status": "pass",
+      "locators": [
+        {"page":"W1:198","printed_page":"⑳-5","source_region":"第4節見出し・問題20-22の問題文","destination_heading":"## 4. 株式併合，株式分割，過年度遡及及び関連"},
+        {"page":"W1:199","printed_page":"⑳-6","source_region":"第4節問題20-22の解答・説明","destination_heading":"## 4. 株式併合，株式分割，過年度遡及及び関連"},
+        {"page":"W1:200","printed_page":"⑳-7","source_region":"第4節問題23の問題文","destination_heading":"## 4. 株式併合，株式分割，過年度遡及及び関連"},
+        {"page":"W1:201","printed_page":"⑳-8","source_region":"第4節問題23の解答・説明","destination_heading":"## 4. 株式併合，株式分割，過年度遡及及び関連"}
+      ],
+      "chunk_sha256": "68568e8a29847b6fbd92f9abb1e3f1f764e2c7e2f3214d54740f6eda350e0504"
+    }
+  ],
+  "review": "reviews/JPG-W1-C022.json",
+  "excluded_pages": [],
+  "source_scope": {
+    "source_id": "W1",
+    "physical_range": "W1:194-W1:201",
+    "processing_range": "W1:194-W1:201",
+    "chapter": "20",
+    "title": "一株当たり当期純利益に関する会計基準",
+    "content_authority": "designated existing JPGs only"
+  }
+}
