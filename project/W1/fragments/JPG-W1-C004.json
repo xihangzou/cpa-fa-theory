@@ -1,0 +1,35 @@
+{
+  "batch_id": "JPG-W1-C004",
+  "source_id": "W1",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-W1-C004-S01",
+      "batch_id": "JPG-W1-C004",
+      "chapter": "03",
+      "section": "03.1",
+      "title": "1. 静態論と動態論",
+      "expected_pages": ["W1:046", "W1:047", "W1:048", "W1:049"],
+      "processing_pages": ["W1:046", "W1:047", "W1:048", "W1:049"],
+      "output": "chunks/JPG-W1-C004/JPG-W1-C004-S01.md",
+      "status": "pass",
+      "locators": [
+        {"page": "W1:046", "printed_page": "③-1", "source_region": "1. 静態論と動態論、問題1から問題7の問題文、重要度、過去問表示、余白およびフッター", "destination_heading": "## 1. 静態論と動態論"},
+        {"page": "W1:047", "printed_page": "③-2", "source_region": "問題1から問題7の正誤、根拠説明、追加でチェック、余白およびフッター", "destination_heading": "## 1. 静態論と動態論"},
+        {"page": "W1:048", "printed_page": "③-3", "source_region": "問題8から問題11の問題文、重要度、過去問表示、余白およびフッター", "destination_heading": "## 1. 静態論と動態論"},
+        {"page": "W1:049", "printed_page": "③-4", "source_region": "問題8から問題11の正誤、根拠説明、追加でチェック、余白およびフッター", "destination_heading": "## 1. 静態論と動態論"}
+      ],
+      "chunk_sha256": "34d3153faf28502a32d0a7e63a0f1c3372ad9ec8666c308c2cfa3ddc81a86238"
+    }
+  ],
+  "review": "reviews/JPG-W1-C004.json",
+  "excluded_pages": [],
+  "source_scope": {
+    "source_id": "W1",
+    "physical_range": "W1:046-W1:049",
+    "processing_range": "W1:046-W1:049",
+    "chapter": "03",
+    "title": "貸借対照表・損益計算書総論",
+    "content_authority": "designated existing JPGs only"
+  }
+}

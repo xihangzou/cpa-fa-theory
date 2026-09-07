@@ -1,0 +1,80 @@
+{
+  "batch_id": "JPG-W1-C004",
+  "source_id": "W1",
+  "status": "pass",
+  "reviewed_on": "2026-09-07",
+  "reviewer_model": "GPT-5.6 Sol (current execution model; no model switch)",
+  "source_revision": {
+    "delivery_branch": "main",
+    "repository_commit": "2fadc09c5a6657dd820b465f60acabd2090b17e9",
+    "source_catalog": "contracts/source-catalog.json",
+    "source_catalog_sha256": "8358e9cffb068f63df0bdfcc8f99be035e66454ac8710d381f0ff9eb87728079",
+    "page_plan": "contracts/page-plan.json",
+    "page_plan_sha256": "997a7280b171df5803c2a3bb7c2ee8764082e01f3bdb03c194b9129fe18d26c9",
+    "source_manifest": "project/W1/sources.json",
+    "source_manifest_sha256": "f9bf676e213a1ccedb2ddb4e19c35fbc931b044844436970d3d65def49433de3",
+    "source_map": "project/W1/source-map.json",
+    "source_map_sha256": "d423630c6d0e0683d64bd6b32a9677f0d4f971f6a8572c217ef1c37c5f5a937a",
+    "batch_manifest": "project/W1/batches.json",
+    "batch_manifest_sha256": "35a285b5506fbd1dfbfb1c2c06994f6640617d9f68ef9f77636871c953b8ed4a",
+    "inventory_review": "project/W1/inventory-review.json",
+    "inventory_review_sha256": "e94cf19cc8ad6c7bf9e1fbfc2856e128f88b2ab2cf02be37b2fcf869d0a993bf",
+    "pilot_qa": "project/W1/qa/pilot.json",
+    "pilot_qa_sha256": "a2bf6bd4fcd799e1a7344bae403d461f27979175d4709e2b1c2591c405f99475",
+    "source_original_root": "/Users/xihangzou/Study/320_CPA/322_財務理論/images/cpa-fa-theory-short-answer-workbook-1-jpg",
+    "source_pdf_sha256": "cd4b9e8b7be475d5e40785cddfd41e48e775b57eeaed6ffb2b90f4c21c0fd04f",
+    "source_image_inventory_sha256": "593df03d5e6282b4d69ed9162a8afd9cbf6500cb0656884bec1c5b6b129fa5eb",
+    "edition": "2024/2025年合格目標",
+    "publication_date": "2023-01-23",
+    "physical_scope": "W1:046-W1:049",
+    "processing_scope": "W1:046-W1:049",
+    "content_authority": "designated existing JPGs only; PDF not used for transcription"
+  },
+  "dependency_commits": [
+    "a2fb2bb829d112522128cdb145523302e9d1e7fd",
+    "a62d278ae52faba8a97b49e08688e54ce2a466c2",
+    "46de4cd3c5999251a2ddf48fa02a363a58fa29d8"
+  ],
+  "source_images": [
+    {"page": "W1:046", "printed_page": "③-1", "image": "pages/W1/page-046.jpg", "sha256": "9f11ba022f305089fc62ff7f27cf77ec3fc887eaf7db978ebf4d33743747408a"},
+    {"page": "W1:047", "printed_page": "③-2", "image": "pages/W1/page-047.jpg", "sha256": "2618e59a3657fde9ec74ad0349c338d9a769da27cbfd7dcc97aca89b89ebf968"},
+    {"page": "W1:048", "printed_page": "③-3", "image": "pages/W1/page-048.jpg", "sha256": "9353cb52a80de0634094611eff1ad56fabfc86727adf723262d517db10f17be4"},
+    {"page": "W1:049", "printed_page": "③-4", "image": "pages/W1/page-049.jpg", "sha256": "8643b52f7b932afb34b6df681ebf0db9dcc7bf8576283bbd1a1b06b6ec99da45"}
+  ],
+  "section_outputs": [
+    {"task": "JPG-W1-C004-S01", "chunk": "project/W1/chunks/JPG-W1-C004/JPG-W1-C004-S01.md", "chunk_sha256": "34d3153faf28502a32d0a7e63a0f1c3372ad9ec8666c308c2cfa3ddc81a86238"}
+  ],
+  "coverage": [
+    {"page": "W1:046", "status": "pass", "regions": ["S01: 章・節見出しと問題1-7の問題文", "重要度B、H30/H23過去問・類題表示を確認", "全本文、余白および③-1フッターを確認"]},
+    {"page": "W1:047", "status": "pass", "regions": ["S01: 問題1-7の正誤と根拠説明", "問題3・7の追加でチェックを確認", "全本文、余白および③-2フッターを確認"]},
+    {"page": "W1:048", "status": "pass", "regions": ["S01: 問題8-11の問題文", "重要度B/CおよびH20過去問類題表示を確認", "全本文、余白および③-3フッターを確認"]},
+    {"page": "W1:049", "status": "pass", "regions": ["S01: 問題8-11の正誤と根拠説明", "問題11の追加でチェックを確認", "全本文、余白および③-4フッターを確認"]}
+  ],
+  "findings": [
+    "全4枚を原画像の読める解像度で確認し、単一の実在セクション『1. 静態論と動態論』として問題1-11と各解答・根拠説明を同一チャンクに保持した。",
+    "問題1の財産法と損益法、問題2-5の棚卸法・誘導法・実地調査、問題6-7の債権者保護と静態論、問題8-11の動態論・収支未解決項目・費用性資産・貨幣性資産の区別を画像と照合した。",
+    "問題4、7、9、10、11は誤りとして明示し、それぞれの訂正・理由を保持した。問題3、7、11の追加でチェックも保持した。",
+    "図表、計算表、数値計算は当該4ページにはなく、問題と解答の対応は1-7がW1:046-047、8-11がW1:048-049で全件完結している。"
+  ],
+  "question_answer_checks": {
+    "status": "pass",
+    "checked": "問題1-11の問題文、正誤判定、根拠説明を対応付けて確認。問題3・7・11の追加説明も同一チャンクに保持。"
+  },
+  "specific_checks": [
+    "問題1: 財産法は利益発生原因を把握できず、損益法は収益・費用の内訳から把握できるという対比を保持。",
+    "問題4: 『実地調査が行われることはない』を誤りの命題として保持し、棚卸資産等では実地棚卸を一部採用する訂正を保持。",
+    "問題7: 誘導法が合理的という命題を誤りとして保持し、債権者保護目的では棚卸法が合理的という訂正と静態論の追加説明を保持。",
+    "問題9-10: 動態論でも繰延資産・債務性のない引当金や次期損益に直接関連しない売掛金・貸付金を計上するという各訂正を保持。",
+    "問題11: 『収益・未収入』を負債とする命題を誤りとして保持し、資産であること、営業債権例、費用性資産・貨幣性資産の追加説明を保持。"
+  ],
+  "corrections": [],
+  "checks": {
+    "numerical": "not_applicable",
+    "diagram": "not_applicable",
+    "false_proposition": "pass",
+    "question_answer_pairing": "pass"
+  },
+  "unresolved_count": 0,
+  "excluded_pages": [],
+  "downstream_status": "ready_for_chapter_qa_after_this_batch_only"
+}
