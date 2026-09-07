@@ -1,0 +1,74 @@
+{
+  "batch_id": "JPG-W1-C018",
+  "source_id": "W1",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-W1-C018-S01",
+      "batch_id": "JPG-W1-C018",
+      "chapter": "16",
+      "section": "16.1",
+      "title": "1. 賃貸等不動産の時価等の開示総論",
+      "expected_pages": ["W1:176", "W1:177"],
+      "processing_pages": ["W1:176", "W1:177"],
+      "output": "chunks/JPG-W1-C018/JPG-W1-C018-S01.md",
+      "status": "pass",
+      "locators": [
+        {"page":"W1:176","printed_page":"⑯-1","source_region":"第16章見出し・第1節問題1-3の問題文","destination_heading":"## 1. 賃貸等不動産の時価等の開示総論"},
+        {"page":"W1:177","printed_page":"⑯-2","source_region":"第1節問題1-3の解答・説明","destination_heading":"## 1. 賃貸等不動産の時価等の開示総論"}
+      ],
+      "chunk_sha256": "e77f067d461ff25ba82909cc83fbad475cc92c433f83ce6710a153c3f575b06d"
+    },
+    {
+      "id": "JPG-W1-C018-S02",
+      "batch_id": "JPG-W1-C018",
+      "chapter": "16",
+      "section": "16.2",
+      "title": "2. 適用範囲",
+      "expected_pages": ["W1:178", "W1:179"],
+      "processing_pages": ["W1:178", "W1:179"],
+      "output": "chunks/JPG-W1-C018/JPG-W1-C018-S02.md",
+      "status": "pass",
+      "locators": [
+        {"page":"W1:178","printed_page":"⑯-3","source_region":"第2節問題4-5の問題文","destination_heading":"## 2. 適用範囲"},
+        {"page":"W1:179","printed_page":"⑯-4","source_region":"第2節問題4-5の解答・説明","destination_heading":"## 2. 適用範囲"}
+      ],
+      "chunk_sha256": "d294f264a4883d78fddfc99c4d802b631a85b1dad08ba2150f44ceb117495967"
+    },
+    {
+      "id": "JPG-W1-C018-S03",
+      "batch_id": "JPG-W1-C018",
+      "chapter": "16",
+      "section": "16.3",
+      "title": "3. 注記事項",
+      "expected_pages": ["W1:180", "W1:181"],
+      "processing_pages": ["W1:180", "W1:181"],
+      "output": "chunks/JPG-W1-C018/JPG-W1-C018-S03.md",
+      "status": "pass",
+      "locators": [
+        {"page":"W1:180","printed_page":"⑯-5","source_region":"第3節問題8-9の問題文","destination_heading":"## 3. 注記事項"},
+        {"page":"W1:181","printed_page":"⑯-6","source_region":"第3節問題8-9の解答・追加でチェック！","destination_heading":"## 3. 注記事項"}
+      ],
+      "chunk_sha256": "ba89ed49fa62e33c672177a5d8697ee7658371d1c2aa3ee1b2fc48d720cbd36c"
+    },
+    {
+      "id": "JPG-W1-C018-S04",
+      "batch_id": "JPG-W1-C018",
+      "chapter": "16",
+      "section": "16.4",
+      "title": "4. 適用指針",
+      "expected_pages": ["W1:180", "W1:181"],
+      "processing_pages": ["W1:180", "W1:181"],
+      "output": "chunks/JPG-W1-C018/JPG-W1-C018-S04.md",
+      "status": "pass",
+      "locators": [
+        {"page":"W1:180","printed_page":"⑯-5","source_region":"第4節問題10の問題文","destination_heading":"## 4. 適用指針"},
+        {"page":"W1:181","printed_page":"⑯-6","source_region":"第4節問題10の解答","destination_heading":"## 4. 適用指針"}
+      ],
+      "chunk_sha256": "4611ff5295cd86513b34c9b2a41c1bd03d6a0b3ed407e009ed98fd8f1259a87e"
+    }
+  ],
+  "review": "reviews/JPG-W1-C018.json",
+  "excluded_pages": [],
+  "source_scope": {"source_id":"W1","physical_range":"W1:176-W1:181","processing_range":"W1:176-W1:181","chapter":"16","title":"賃貸等不動産の時価等の開示に関する会計基準","content_authority":"designated existing JPGs only"}
+}
