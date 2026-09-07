@@ -1,0 +1,137 @@
+{
+  "batch_id": "JPG-W1-C009",
+  "source_id": "W1",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-W1-C009-S01",
+      "batch_id": "JPG-W1-C009",
+      "chapter": "08",
+      "section": "08.1",
+      "title": "1. 固定資産総論",
+      "expected_pages": ["W1:074", "W1:075"],
+      "processing_pages": ["W1:074", "W1:075"],
+      "output": "chunks/JPG-W1-C009/JPG-W1-C009-S01.md",
+      "status": "pass",
+      "locators": [
+        {"page": "W1:074", "printed_page": "⑧-1", "source_region": "第8章「固定資産」・1. 固定資産総論、問題1-2の問題文と重要度", "destination_heading": "## 1. 固定資産総論"},
+        {"page": "W1:075", "printed_page": "⑧-2", "source_region": "問題1-2の正誤・根拠説明、財務諸表等規則第23条参照", "destination_heading": "## 1. 固定資産総論"}
+      ],
+      "chunk_sha256": "d5d0fb1f4b673b8d23c7f592c34b1904644f02d94a243e819ad928482b163a72"
+    },
+    {
+      "id": "JPG-W1-C009-S02",
+      "batch_id": "JPG-W1-C009",
+      "chapter": "08",
+      "section": "08.2",
+      "title": "2. 有形固定資産の取得原価の算定",
+      "expected_pages": ["W1:074", "W1:075", "W1:076", "W1:077"],
+      "processing_pages": ["W1:074", "W1:075", "W1:076", "W1:077"],
+      "output": "chunks/JPG-W1-C009/JPG-W1-C009-S02.md",
+      "status": "pass",
+      "locators": [
+        {"page": "W1:074", "printed_page": "⑧-1", "source_region": "2. 有形固定資産の取得原価の算定、問題3-7の問題文、重要度、過去問表示", "destination_heading": "## 2. 有形固定資産の取得原価の算定"},
+        {"page": "W1:075", "printed_page": "⑧-2", "source_region": "問題3-7の正誤・根拠説明、追加チェック、連続意見書第三の参照", "destination_heading": "## 2. 有形固定資産の取得原価の算定"},
+        {"page": "W1:076", "printed_page": "⑧-3", "source_region": "問題8-9の問題文と重要度", "destination_heading": "## 2. 有形固定資産の取得原価の算定"},
+        {"page": "W1:077", "printed_page": "⑧-4", "source_region": "問題8-9の正誤・根拠説明、追加チェック", "destination_heading": "## 2. 有形固定資産の取得原価の算定"}
+      ],
+      "chunk_sha256": "67ddd9c195f1525294a4e9a7f994919e09bbcfef419ad810dc658537e1af0f05"
+    },
+    {
+      "id": "JPG-W1-C009-S03",
+      "batch_id": "JPG-W1-C009",
+      "chapter": "08",
+      "section": "08.3",
+      "title": "3. 正規の減価償却",
+      "expected_pages": ["W1:076", "W1:077", "W1:078", "W1:079"],
+      "processing_pages": ["W1:076", "W1:077", "W1:078", "W1:079"],
+      "output": "chunks/JPG-W1-C009/JPG-W1-C009-S03.md",
+      "status": "pass",
+      "locators": [
+        {"page": "W1:076", "printed_page": "⑧-3", "source_region": "3. 正規の減価償却、問題10-14の問題文、重要度、H20過去問類題表示", "destination_heading": "## 3. 正規の減価償却"},
+        {"page": "W1:077", "printed_page": "⑧-4", "source_region": "問題10-14の正誤・根拠説明、追加チェック", "destination_heading": "## 3. 正規の減価償却"},
+        {"page": "W1:078", "printed_page": "⑧-5", "source_region": "問題15-19の問題文と重要度", "destination_heading": "## 3. 正規の減価償却"},
+        {"page": "W1:079", "printed_page": "⑧-6", "source_region": "問題15-19の正誤・根拠説明、追加チェック", "destination_heading": "## 3. 正規の減価償却"}
+      ],
+      "chunk_sha256": "9b4da09d74fc2d60d1413693252b7352701e1618da0ce7d506f1072a54601028"
+    },
+    {
+      "id": "JPG-W1-C009-S04",
+      "batch_id": "JPG-W1-C009",
+      "chapter": "08",
+      "section": "08.4",
+      "title": "4. 正規の減価償却以外の費用配分",
+      "expected_pages": ["W1:078", "W1:079", "W1:080", "W1:081"],
+      "processing_pages": ["W1:078", "W1:079", "W1:080", "W1:081"],
+      "output": "chunks/JPG-W1-C009/JPG-W1-C009-S04.md",
+      "status": "pass",
+      "locators": [
+        {"page": "W1:078", "printed_page": "⑧-5", "source_region": "4. 正規の減価償却以外の費用配分、問題20の問題文と重要度", "destination_heading": "## 4. 正規の減価償却以外の費用配分"},
+        {"page": "W1:079", "printed_page": "⑧-6", "source_region": "問題20の正誤・根拠説明、追加チェック", "destination_heading": "## 4. 正規の減価償却以外の費用配分"},
+        {"page": "W1:080", "printed_page": "⑧-7", "source_region": "問題21-22の問題文、重要度、H25過去問・H30過去問類題表示", "destination_heading": "## 4. 正規の減価償却以外の費用配分"},
+        {"page": "W1:081", "printed_page": "⑧-8", "source_region": "問題21-22の正誤・根拠説明、追加チェック", "destination_heading": "## 4. 正規の減価償却以外の費用配分"}
+      ],
+      "chunk_sha256": "169aa690f654ca2b5e36a2e74d31f0c4b0bfc0003b0887480daac60397b816fb"
+    },
+    {
+      "id": "JPG-W1-C009-S05",
+      "batch_id": "JPG-W1-C009",
+      "chapter": "08",
+      "section": "08.5",
+      "title": "5. 有形固定資産の表示",
+      "expected_pages": ["W1:080", "W1:081", "W1:082", "W1:083"],
+      "processing_pages": ["W1:080", "W1:081", "W1:082", "W1:083"],
+      "output": "chunks/JPG-W1-C009/JPG-W1-C009-S05.md",
+      "status": "pass",
+      "locators": [
+        {"page": "W1:080", "printed_page": "⑧-7", "source_region": "5. 有形固定資産の表示、問題23-26の問題文、重要度、H27過去問類題表示", "destination_heading": "## 5. 有形固定資産の表示"},
+        {"page": "W1:081", "printed_page": "⑧-8", "source_region": "問題23-26の正誤・根拠説明、財務諸表等規則・企業会計原則参照", "destination_heading": "## 5. 有形固定資産の表示"},
+        {"page": "W1:082", "printed_page": "⑧-9", "source_region": "問題27の問題文、重要度、H27過去問類題表示", "destination_heading": "## 5. 有形固定資産の表示"},
+        {"page": "W1:083", "printed_page": "⑧-10", "source_region": "問題27の正誤・根拠説明、追加チェック", "destination_heading": "## 5. 有形固定資産の表示"}
+      ],
+      "chunk_sha256": "298e930cbe3a5aa3bf1aa0a29516993b02b0f0c2c3d722663030653daa527508"
+    },
+    {
+      "id": "JPG-W1-C009-S06",
+      "batch_id": "JPG-W1-C009",
+      "chapter": "08",
+      "section": "08.6",
+      "title": "6. 無形固定資産",
+      "expected_pages": ["W1:082", "W1:083"],
+      "processing_pages": ["W1:082", "W1:083"],
+      "output": "chunks/JPG-W1-C009/JPG-W1-C009-S06.md",
+      "status": "pass",
+      "locators": [
+        {"page": "W1:082", "printed_page": "⑧-9", "source_region": "6. 無形固定資産、問題28-31の問題文、重要度、H25過去問表示", "destination_heading": "## 6. 無形固定資産"},
+        {"page": "W1:083", "printed_page": "⑧-10", "source_region": "問題28-31の正誤・根拠説明、企業会計原則注解・連続意見書参照", "destination_heading": "## 6. 無形固定資産"}
+      ],
+      "chunk_sha256": "36a9a235535fb73983c977f574458bb0a5b6c312acec82afa5da8769a3234cc2"
+    },
+    {
+      "id": "JPG-W1-C009-S07",
+      "batch_id": "JPG-W1-C009",
+      "chapter": "08",
+      "section": "08.7",
+      "title": "7. その他",
+      "expected_pages": ["W1:082", "W1:083"],
+      "processing_pages": ["W1:082", "W1:083"],
+      "output": "chunks/JPG-W1-C009/JPG-W1-C009-S07.md",
+      "status": "pass",
+      "locators": [
+        {"page": "W1:082", "printed_page": "⑧-9", "source_region": "7. その他、問題32-33の問題文、重要度、H28過去問類題表示", "destination_heading": "## 7. その他"},
+        {"page": "W1:083", "printed_page": "⑧-10", "source_region": "問題32-33の正誤・根拠説明、追加チェック、減損会計意見書・財務諸表等規則ガイドライン参照", "destination_heading": "## 7. その他"}
+      ],
+      "chunk_sha256": "60aae69392a9b4756156921e07a90108a8fbf8390c501b18c5067ff1637032bd"
+    }
+  ],
+  "review": "reviews/JPG-W1-C009.json",
+  "excluded_pages": [],
+  "source_scope": {
+    "source_id": "W1",
+    "physical_range": "W1:074-W1:083",
+    "processing_range": "W1:074-W1:083",
+    "chapter": "08",
+    "title": "固定資産",
+    "content_authority": "designated existing JPGs only"
+  }
+}
