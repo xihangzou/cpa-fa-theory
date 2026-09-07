@@ -1,0 +1,81 @@
+{
+  "batch_id": "JPG-W1-C021",
+  "source_id": "W1",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-W1-C021-S01",
+      "batch_id": "JPG-W1-C021",
+      "chapter": "19",
+      "section": "19.1",
+      "title": "1. 当事業年度の所得等に対する法人税、住民税及び事業税等",
+      "expected_pages": ["W1:190", "W1:191"],
+      "processing_pages": ["W1:190", "W1:191"],
+      "output": "chunks/JPG-W1-C021/JPG-W1-C021-S01.md",
+      "status": "pass",
+      "locators": [
+        {
+          "page": "W1:190",
+          "printed_page": "⑲-1",
+          "source_region": "第19章見出し・第1節問題1-4の問題文",
+          "destination_heading": "## 1. 当事業年度の所得等に対する法人税、住民税及び事業税等"
+        },
+        {
+          "page": "W1:191",
+          "printed_page": "⑲-2",
+          "source_region": "第1節問題1-4の解答・説明・追加でチェック！",
+          "destination_heading": "## 1. 当事業年度の所得等に対する法人税、住民税及び事業税等"
+        }
+      ],
+      "chunk_sha256": "714d004da2b8b5a658ebbb885e50c89d2f4cdbe3f69fcb327196ed2ea286194b"
+    },
+    {
+      "id": "JPG-W1-C021-S02",
+      "batch_id": "JPG-W1-C021",
+      "chapter": "19",
+      "section": "19.2",
+      "title": "2. 更正等による追徴及び還付",
+      "expected_pages": ["W1:190", "W1:191", "W1:192", "W1:193"],
+      "processing_pages": ["W1:190", "W1:191", "W1:192", "W1:193"],
+      "output": "chunks/JPG-W1-C021/JPG-W1-C021-S02.md",
+      "status": "pass",
+      "locators": [
+        {
+          "page": "W1:190",
+          "printed_page": "⑲-1",
+          "source_region": "第2節見出し・問題5-6の問題文",
+          "destination_heading": "## 2. 更正等による追徴及び還付"
+        },
+        {
+          "page": "W1:191",
+          "printed_page": "⑲-2",
+          "source_region": "第2節問題5-6の解答・説明",
+          "destination_heading": "## 2. 更正等による追徴及び還付"
+        },
+        {
+          "page": "W1:192",
+          "printed_page": "⑲-3",
+          "source_region": "第2節問題7-9の問題文",
+          "destination_heading": "## 2. 更正等による追徴及び還付"
+        },
+        {
+          "page": "W1:193",
+          "printed_page": "⑲-4",
+          "source_region": "第2節問題7-9の解答・説明・追加でチェック！",
+          "destination_heading": "## 2. 更正等による追徴及び還付"
+        }
+      ],
+      "chunk_sha256": "54ac11bf4470bf89ff301516561ee5aada49b286e063fc087b61671f4122b220"
+    }
+  ],
+  "review": "reviews/JPG-W1-C021.json",
+  "excluded_pages": [],
+  "source_scope": {
+    "source_id": "W1",
+    "physical_range": "W1:190-W1:193",
+    "processing_range": "W1:190-W1:193",
+    "chapter": "19",
+    "title": "法人税、住民税及び事業税等に関する会計基準",
+    "content_authority": "designated existing JPGs only"
+  }
+}

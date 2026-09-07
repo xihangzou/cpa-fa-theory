@@ -1,0 +1,79 @@
+{
+  "batch_id": "JPG-W1-C021",
+  "source_id": "W1",
+  "status": "pass",
+  "reviewed_on": "2026-09-07",
+  "reviewer_model": "current execution model (no model switch)",
+  "source_revision": {
+    "delivery_branch": "main",
+    "repository_commit": "51d0d7e2ddc43238fb66068ff6be250154c5a79b",
+    "source_catalog": "contracts/source-catalog.json",
+    "source_catalog_sha256": "8358e9cffb068f63df0bdfcc8f99be035e66454ac8710d381f0ff9eb87728079",
+    "page_plan": "contracts/page-plan.json",
+    "page_plan_sha256": "997a7280b171dfb3c2a3bb7c2ee8764082e01f3bdb03c194b9129fe18d26c9",
+    "source_manifest": "project/W1/sources.json",
+    "source_manifest_sha256": "f9bf676e213a1ccedb2ddb4e19c35fbc931b044844436970d3d65def49433de3",
+    "source_map": "project/W1/source-map.json",
+    "source_map_sha256": "d423630c6d0e0683d64bd6b32a9677f0d4f971f6a8572c217ef1c37c5f5a937a",
+    "batch_manifest": "project/W1/batches.json",
+    "batch_manifest_sha256": "35a285b5506fbd1dfbfb1c2c06994f6640617d9f68ef9f77636871c953b8ed4a",
+    "inventory_review": "project/W1/inventory-review.json",
+    "inventory_review_sha256": "e94cf19cc8ad6c7bf9e1fbfc2856e128f88b2ab2cf02be37b2fcf869d0a993bf",
+    "pilot_qa": "project/W1/qa/pilot.json",
+    "pilot_qa_sha256": "a2bf6bd4fcd799e1a7344bae403d461f27979175d4709e2b1c2591c405f99475",
+    "source_original_root": "/Users/xihangzou/Study/320_CPA/322_財務理論/images/cpa-fa-theory-short-answer-workbook-1-jpg",
+    "source_pdf_sha256": "cd4b9e8b7be475d5e40785cddfd41e48e775b57eeaed6ffb2b90f4c21c0fd04f",
+    "source_image_inventory_sha256": "593df03d5e6282b4d69ed9162a8afd9cbf6500cb0656884bec1c5b6b129fa5eb",
+    "edition": "2024/2025年合格目標",
+    "publication_date": "2023-01-23",
+    "physical_scope": "W1:190-W1:193",
+    "processing_scope": "W1:190-W1:193",
+    "content_authority": "designated existing JPGs only; PDF not used for transcription"
+  },
+  "dependency_commits": [
+    "a2fb2bb829d112522128cdb145523302e9d1e7fd",
+    "a62d278ae52faba8a97b49e08688e54ce2a466c2",
+    "46de4cd3c5999251a2ddf48fa02a363a58fa29d8"
+  ],
+  "source_images": [
+    {"page":"W1:190","printed_page":"⑲-1","image":"pages/W1/page-190.jpg","sha256":"40b4515e5159111834347c9ca65c1c0caebcb1f4b202e2210f6ab075e694af2c"},
+    {"page":"W1:191","printed_page":"⑲-2","image":"pages/W1/page-191.jpg","sha256":"14e24b6ac29a770d206d28e56dce484dc96a16705d4e3d2a72a52df923702484"},
+    {"page":"W1:192","printed_page":"⑲-3","image":"pages/W1/page-192.jpg","sha256":"5207c1dce9935c67870baf40881f4b5d548f16f75e621cdc971e709dc5aa9e52"},
+    {"page":"W1:193","printed_page":"⑲-4","image":"pages/W1/page-193.jpg","sha256":"e3f7d542793a8f534fe5144a46c298a3d7de1d004b336299739edea922d229f5"}
+  ],
+  "section_outputs": [
+    {"task":"JPG-W1-C021-S01","chunk":"project/W1/chunks/JPG-W1-C021/JPG-W1-C021-S01.md","chunk_sha256":"714d004da2b8b5a658ebbb885e50c89d2f4cdbe3f69fcb327196ed2ea286194b"},
+    {"task":"JPG-W1-C021-S02","chunk":"project/W1/chunks/JPG-W1-C021/JPG-W1-C021-S02.md","chunk_sha256":"54ac11bf4470bf89ff301516561ee5aada49b286e063fc087b61671f4122b220"}
+  ],
+  "coverage": [
+    {"page":"W1:190","status":"pass","regions":["全画面確認：第1節問題1-4、第2節問題5-6の問題文、章・節見出し、余白、フッター"]},
+    {"page":"W1:191","status":"pass","regions":["全画面確認：第1節問題1-4、第2節問題5-6の解答・説明・追加でチェック！、余白、フッター"]},
+    {"page":"W1:192","status":"pass","regions":["全画面確認：第2節問題7-9の問題文、章見出し、余白、フッター"]},
+    {"page":"W1:193","status":"pass","regions":["全画面確認：第2節問題7-9の解答・説明・追加でチェック！、章見出し、余白、フッター"]}
+  ],
+  "findings": [
+    "4/4 designated images reopened at readable full-page resolution; chapter/section headers, margins and footers checked.",
+    "Questions 1-9 retain their source statements, importance/provenance labels, verdicts, cited standard paragraphs and explanations; false propositions remain explicitly labelled.",
+    "Section 1 covers questions 1-4 and section 2 covers questions 5-9; the page-190 shared ownership is represented by two section citations inside the single C021 batch owner.",
+    "No table, diagram, numerical calculation or cross-batch continuation is present in this batch."
+  ],
+  "corrections": [],
+  "checks": {
+    "numerical": "not_applicable",
+    "diagram": "not_applicable",
+    "false_proposition": "pass",
+    "question_answer_pairing": "pass"
+  },
+  "unresolved_count": 0,
+  "question_answer_checks": {
+    "status": "pass",
+    "checked": "問題1-9の問題文、正誤、重要度、根拠基準番号、説明、追加でチェック！を全件確認。"
+  },
+  "specific_checks": [
+    "問題1-4の税目別表示区分、事業税（付加価値割及び資本割）の原則表示、未払税額と未収還付税額の貸借対照表区分を確認。",
+    "問題5-6の追徴税額の原則計上、追徴税額を資産計上する可能性、還付税額の確実な見込みという要件差を確認。",
+    "問題7-9の更正等による追徴・還付の表示科目、重要性が乏しい場合の例外、付加価値割・資本割の表示、未納付・未受領税額の表示先を確認。"
+  ],
+  "excluded_pages": [],
+  "downstream_status": "ready_for_chapter_qa_after_this_batch_only"
+}
