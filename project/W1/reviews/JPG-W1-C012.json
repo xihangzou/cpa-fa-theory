@@ -1,0 +1,72 @@
+{
+  "batch_id": "JPG-W1-C012",
+  "source_id": "W1",
+  "status": "pass",
+  "reviewed_on": "2026-09-07",
+  "reviewer_model": "GPT-5.6 Sol (current execution model; no model switch)",
+  "source_revision": {
+    "delivery_branch": "main",
+    "repository_commit": "fbc5d5191804c6f5055d0460c58a0669bceda65b",
+    "source_catalog": "contracts/source-catalog.json",
+    "source_catalog_sha256": "8358e9cffb068f63df0bdfcc8f99be035e66454ac8710d381f0ff9eb87728079",
+    "page_plan": "contracts/page-plan.json",
+    "page_plan_sha256": "997a7280b171df5803c2a3bb7c2ee8764082e01f3bdb03c194b9129fe18d26c9",
+    "source_manifest": "project/W1/sources.json",
+    "source_manifest_sha256": "f9bf676e213a1ccedb2ddb4e19c35fbc931b044844436970d3d65def49433de3",
+    "source_map": "project/W1/source-map.json",
+    "source_map_sha256": "d423630c6d0e0683d64bd6b32a9677f0d4f971f6a8572c217ef1c37c5f5a937a",
+    "batch_manifest": "project/W1/batches.json",
+    "batch_manifest_sha256": "35a285b5506fbd1dfbfb1c2c06994f6640617d9f68ef9f77636871c953b8ed4a",
+    "inventory_review": "project/W1/inventory-review.json",
+    "inventory_review_sha256": "e94cf19cc8ad6c7bf9e1fbfc2856e128f88b2ab2cf02be37b2fcf869d0a993bf",
+    "pilot_qa": "project/W1/qa/pilot.json",
+    "pilot_qa_sha256": "a2bf6bd4fcd799e1a7344bae403d461f27979175d4709e2b1c2591c405f99475",
+    "source_original_root": "/Users/xihangzou/Study/320_CPA/322_財務理論/images/cpa-fa-theory-short-answer-workbook-1-jpg",
+    "source_pdf_sha256": "cd4b9e8b7be475d5e40785cddfd41e48e775b57eeaed6ffb2b90f4c21c0fd04f",
+    "source_image_inventory_sha256": "593df03d5e6282b4d69ed9162a8afd9cbf6500cb0656884bec1c5b6b129fa5eb",
+    "edition": "2024/2025年合格目標",
+    "publication_date": "2023-01-23",
+    "physical_scope": "W1:104-W1:107",
+    "processing_scope": "W1:104-W1:107",
+    "content_authority": "designated existing JPGs only; PDF not used for transcription"
+  },
+  "dependency_commits": [
+    "a2fb2bb829d112522128cdb145523302e9d1e7fd",
+    "a62d278ae52faba8a97b49e08688e54ce2a466c2",
+    "46de4cd3c5999251a2ddf48fa02a363a58fa29d8"
+  ],
+  "source_images": [
+    {"page": "W1:104", "printed_page": "⑪-1", "image": "pages/W1/page-104.jpg", "sha256": "88b15785c52d9a1e4285d2729161d72740ec6176962c3eee42675c4e20fa9158"},
+    {"page": "W1:105", "printed_page": "⑪-2", "image": "pages/W1/page-105.jpg", "sha256": "6a3449af39630ad704c39c30632adafbcb1947f7f14a03bbd4761c9f827389b7"},
+    {"page": "W1:106", "printed_page": "⑪-3", "image": "pages/W1/page-106.jpg", "sha256": "f3a8fb85935093d4eec084ef3c9b919f4afdde2da411665d53450812e3c5cf4f"},
+    {"page": "W1:107", "printed_page": "⑪-4", "image": "pages/W1/page-107.jpg", "sha256": "ffb2eff48a3a55c3a08922d3d3c70a8e2c3b503691656925c5a83196eb4a435d"}
+  ],
+  "section_outputs": [
+    {"task": "JPG-W1-C012-S01", "chunk": "project/W1/chunks/JPG-W1-C012/JPG-W1-C012-S01.md", "chunk_sha256": "e2ac460428edb2c71f65a7d06d8bb67789818dfc23edfaec7f99b1bc15b01593"},
+    {"task": "JPG-W1-C012-S02", "chunk": "project/W1/chunks/JPG-W1-C012/JPG-W1-C012-S02.md", "chunk_sha256": "08590fae1dfde814448a40fb4bbea729c439f256d336a647079e133bc67fe4c2"}
+  ],
+  "coverage": [
+    {"page": "W1:104", "status": "pass", "regions": ["S01: 第11章・1. 会計主体論、贈与剰余金、評価替剰余金、問題1-7の問題文・重要度・過去問表示", "ページ端、余白、⑪-1フッターを含む全画面確認"]},
+    {"page": "W1:105", "status": "pass", "regions": ["S01: 問題1-7の正誤・根拠説明、追加チェック", "余白、⑪-2フッターを含む全画面確認"]},
+    {"page": "W1:106", "status": "pass", "regions": ["S01: 問題8-9の問題文・重要度・過去問表示", "S02: 2. 物価変動会計、資本維持論、問題10-13の問題文・重要度・過去問表示", "余白、⑪-3フッターを含む全画面確認"]},
+    {"page": "W1:107", "status": "pass", "regions": ["S01: 問題8-9の正誤・根拠説明", "S02: 問題10-13の正誤・根拠説明、追加チェック、問題12の数値例", "余白、⑪-4フッターを含む全画面確認"]}
+  ],
+  "findings": [
+    "全4枚を指定原画像の読める解像度で確認し、第11章「資本会計（伝統論）」に実在する2セクションを2チャンクとして保持した。同一物理ページに複数セクションがあるW1:106-W1:107は、各セクション固有の意味内容を対応付けた。",
+    "問題1-13の問題文、重要度・過去問表示、正誤判定、根拠説明、追加チェックを対応する問題ブロックに保持した。誤りの命題10件はすべて明示的な「誤り。」を付し、誤った内容を正しい知識として提示していない。",
+    "会計主体論、国庫補助金・贈与剰余金、企業実体の公準、名目・実質・実体資本維持、取得原価主義会計・時価主義会計・一般物価変動会計の関係を原画像と照合した。問題12の数値例は取得原価100、売却価額150、物価指数20％上昇、名目資本維持50、実質資本維持30（150－120）を保持した。",
+    "表・図は本範囲に存在しない。各ページの余白・端部・フッターも確認し、W1:107で問題13と解説が完結しており、処理範囲外へ継続する未完の問題・解答・例外・サイドバーは存在しない。"
+  ],
+  "question_answer_checks": {"status": "pass", "checked": "問題1-13の問題文、重要度・過去問表示、正誤判定、根拠説明、追加チェックを対応付けて全件確認。"},
+  "specific_checks": [
+    "問題1-9: 企業主体理論・資本主理論、国庫補助金、配当と利息、企業実体の公準、贈与剰余金の扱いを保持。",
+    "問題10-13: 名目・実質・実体資本維持と取得原価主義会計・時価主義会計・一般物価変動会計の対応、減価償却基礎、取得原価主義会計による名目資本維持を保持。",
+    "問題12: 150－100＝50、100×120％＝120、150－120＝30の数値関係を保持し、インフレーション時は名目資本維持の売上総利益が実質資本維持より大きいことを確認。",
+    "正誤内訳: 正しい3件（問題3・5・6）、誤り10件（問題1・2・4・7・8・9・10・11・12・13）を確認。"
+  ],
+  "corrections": [],
+  "checks": {"numerical": "pass", "diagram": "not_applicable", "false_proposition": "pass", "question_answer_pairing": "pass"},
+  "unresolved_count": 0,
+  "excluded_pages": [],
+  "downstream_status": "ready_for_chapter_qa_after_this_batch_only"
+}

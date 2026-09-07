@@ -1,0 +1,51 @@
+{
+  "batch_id": "JPG-W1-C012",
+  "source_id": "W1",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-W1-C012-S01",
+      "batch_id": "JPG-W1-C012",
+      "chapter": "11",
+      "section": "11.1",
+      "title": "1. 会計主体論、贈与剰余金、評価替剰余金",
+      "expected_pages": ["W1:104", "W1:105", "W1:106", "W1:107"],
+      "processing_pages": ["W1:104", "W1:105", "W1:106", "W1:107"],
+      "output": "chunks/JPG-W1-C012/JPG-W1-C012-S01.md",
+      "status": "pass",
+      "locators": [
+        {"page": "W1:104", "printed_page": "⑪-1", "source_region": "第11章「資本会計（伝統論）」・1. 会計主体論、贈与剰余金、評価替剰余金、問題1-7の問題文・重要度・過去問表示", "destination_heading": "## 1. 会計主体論、贈与剰余金、評価替剰余金"},
+        {"page": "W1:105", "printed_page": "⑪-2", "source_region": "問題1-7の正誤・根拠説明、追加チェック", "destination_heading": "## 1. 会計主体論、贈与剰余金、評価替剰余金"},
+        {"page": "W1:106", "printed_page": "⑪-3", "source_region": "問題8-9の問題文・重要度・過去問表示", "destination_heading": "## 1. 会計主体論、贈与剰余金、評価替剰余金"},
+        {"page": "W1:107", "printed_page": "⑪-4", "source_region": "問題8-9の正誤・根拠説明", "destination_heading": "## 1. 会計主体論、贈与剰余金、評価替剰余金"}
+      ],
+      "chunk_sha256": "e2ac460428edb2c71f65a7d06d8bb67789818dfc23edfaec7f99b1bc15b01593"
+    },
+    {
+      "id": "JPG-W1-C012-S02",
+      "batch_id": "JPG-W1-C012",
+      "chapter": "11",
+      "section": "11.2",
+      "title": "2. 物価変動会計、資本維持論",
+      "expected_pages": ["W1:106", "W1:107"],
+      "processing_pages": ["W1:106", "W1:107"],
+      "output": "chunks/JPG-W1-C012/JPG-W1-C012-S02.md",
+      "status": "pass",
+      "locators": [
+        {"page": "W1:106", "printed_page": "⑪-3", "source_region": "2. 物価変動会計、資本維持論、問題10-13の問題文・重要度・過去問表示", "destination_heading": "## 2. 物価変動会計、資本維持論"},
+        {"page": "W1:107", "printed_page": "⑪-4", "source_region": "問題10-13の正誤・根拠説明、追加チェック、問題12の数値例", "destination_heading": "## 2. 物価変動会計、資本維持論"}
+      ],
+      "chunk_sha256": "08590fae1dfde814448a40fb4bbea729c439f256d336a647079e133bc67fe4c2"
+    }
+  ],
+  "review": "reviews/JPG-W1-C012.json",
+  "excluded_pages": [],
+  "source_scope": {
+    "source_id": "W1",
+    "physical_range": "W1:104-W1:107",
+    "processing_range": "W1:104-W1:107",
+    "chapter": "11",
+    "title": "資本会計（伝統論）",
+    "content_authority": "designated existing JPGs only"
+  }
+}
