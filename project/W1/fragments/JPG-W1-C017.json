@@ -1,0 +1,55 @@
+{
+  "batch_id": "JPG-W1-C017",
+  "source_id": "W1",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-W1-C017-S01",
+      "batch_id": "JPG-W1-C017",
+      "chapter": "15",
+      "section": "15.1",
+      "title": "1. 関連当事者総論",
+      "expected_pages": ["W1:166", "W1:167"],
+      "processing_pages": ["W1:166", "W1:167"],
+      "output": "chunks/JPG-W1-C017/JPG-W1-C017-S01.md",
+      "status": "pass",
+      "locators": [
+        {"page": "W1:166", "printed_page": "⑮-1", "source_region": "第15章・1. 関連当事者総論、問題1-7の問題文・重要度・過去問表示", "destination_heading": "## 1. 関連当事者総論"},
+        {"page": "W1:167", "printed_page": "⑮-2", "source_region": "問題1-7の正誤・根拠説明、法令・会計基準参照", "destination_heading": "## 1. 関連当事者総論"}
+      ],
+      "chunk_sha256": "30f02783760bdd984dac6867e81058487fc78d2e971a078ab0b0fa3ddf2e50fc"
+    },
+    {
+      "id": "JPG-W1-C017-S02",
+      "batch_id": "JPG-W1-C017",
+      "chapter": "15",
+      "section": "15.2",
+      "title": "2. 開示対象取引",
+      "expected_pages": ["W1:168", "W1:169", "W1:170", "W1:171", "W1:172", "W1:173", "W1:174", "W1:175"],
+      "processing_pages": ["W1:168", "W1:169", "W1:170", "W1:171", "W1:172", "W1:173", "W1:174", "W1:175"],
+      "output": "chunks/JPG-W1-C017/JPG-W1-C017-S02.md",
+      "status": "pass",
+      "locators": [
+        {"page": "W1:168", "printed_page": "⑮-3", "source_region": "2. 開示対象取引、問題8-15の問題文・重要度・過去問表示", "destination_heading": "## 2. 開示対象取引"},
+        {"page": "W1:169", "printed_page": "⑮-4", "source_region": "問題8-15の正誤・根拠説明、法令・会計基準参照", "destination_heading": "## 2. 開示対象取引"},
+        {"page": "W1:170", "printed_page": "⑮-5", "source_region": "問題16-17の問題文・重要度・過去問表示、ア〜ケ・ア〜キの全選択肢", "destination_heading": "## 2. 開示対象取引"},
+        {"page": "W1:171", "printed_page": "⑮-6", "source_region": "問題16-17の全判定・根拠説明・追加でチェック！", "destination_heading": "## 2. 開示対象取引"},
+        {"page": "W1:172", "printed_page": "⑮-7", "source_region": "問題18の問題文・重要度・過去問表示、ア〜コの全選択肢", "destination_heading": "## 2. 開示対象取引"},
+        {"page": "W1:173", "printed_page": "⑮-8", "source_region": "問題18の全判定・根拠説明・会計基準参照", "destination_heading": "## 2. 開示対象取引"},
+        {"page": "W1:174", "printed_page": "⑮-9", "source_region": "問題19-20の問題文・選択肢・組合せ番号", "destination_heading": "## 2. 開示対象取引"},
+        {"page": "W1:175", "printed_page": "⑮-10", "source_region": "問題19-20の正解・全選択肢の判定・根拠説明", "destination_heading": "## 2. 開示対象取引"}
+      ],
+      "chunk_sha256": "1c1e88cb109129b9b1b4cc0a73ee473e576467f4ed8bdfa9495a3afb2aaf9251"
+    }
+  ],
+  "review": "reviews/JPG-W1-C017.json",
+  "excluded_pages": [],
+  "source_scope": {
+    "source_id": "W1",
+    "physical_range": "W1:166-W1:175",
+    "processing_range": "W1:166-W1:175",
+    "chapter": "15",
+    "title": "関連当事者の開示に関する会計基準",
+    "content_authority": "designated existing JPGs only"
+  }
+}

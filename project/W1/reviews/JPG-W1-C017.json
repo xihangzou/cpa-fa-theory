@@ -1,0 +1,62 @@
+{
+  "issue": 104,
+  "issue_id": "JPG-W1-C017",
+  "batch_id": "JPG-W1-C017",
+  "source_id": "W1",
+  "status": "pass",
+  "source_images": [
+    {"page": "W1:166", "sha256": "e73d25a7197efa953b9087aba0bfb9616cb2f9528ab295a27e38c88b7f9a2f71"},
+    {"page": "W1:167", "sha256": "9609a0c6d62ecf69e9919aab29b10e9d8388815467edddbb7d51a004ea5cb25e"},
+    {"page": "W1:168", "sha256": "19e9e613e8c5c007274afab51714126d0483cd573886af8cb59aaa4a644ff7ea"},
+    {"page": "W1:169", "sha256": "87ab5343af07f5ccd642cbd3afcd2de3d2c009e6a681a6fc31eb7b6d6f275904"},
+    {"page": "W1:170", "sha256": "9e50fee020bdea7cc23318340be889684682b6132a9e941c96f77e3918c44c38"},
+    {"page": "W1:171", "sha256": "b85cec2502af1dccf83607b8fc42f15105449c7ae77c87ff12ead82ec5fa580a"},
+    {"page": "W1:172", "sha256": "d6c58aebd4ea032ccc1a7d91da5c3769215b66a439a2dcbcaeca88491dfc4d6b"},
+    {"page": "W1:173", "sha256": "3e2ebf48e6367c30564b6e49ae109fc155aa08fef7bf472466bab6c430cb4207"},
+    {"page": "W1:174", "sha256": "c26cee4b5edea7ff4968483ce7df4e024902931facfd75c4135e289f4e097e61"},
+    {"page": "W1:175", "sha256": "7f145fd5b73a30eb6dea9e11a4e168c2e6df9177f849e7a9d3d30e59b96c36f8"}
+  ],
+  "section_outputs": [
+    {"task": "JPG-W1-C017-S01", "chunk_sha256": "30f02783760bdd984dac6867e81058487fc78d2e971a078ab0b0fa3ddf2e50fc"},
+    {"task": "JPG-W1-C017-S02", "chunk_sha256": "1c1e88cb109129b9b1b4cc0a73ee473e576467f4ed8bdfa9495a3afb2aaf9251"}
+  ],
+  "coverage": [
+    {"page": "W1:166", "regions": ["chapter header; section 1; questions 1-7; importance and H30/H25 labels; footer"], "status": "pass"},
+    {"page": "W1:167", "regions": ["answer header; questions 1-7 verdicts, explanations, standard references and bold conclusion content; footer"], "status": "pass"},
+    {"page": "W1:168", "regions": ["section 2; questions 8-15; importance and H25/H30 labels; footer"], "status": "pass"},
+    {"page": "W1:169", "regions": ["questions 8-15 verdicts, explanations, standard references and disclosure distinctions; footer"], "status": "pass"},
+    {"page": "W1:170", "regions": ["questions 16-17 all listed cases, importance and H29/H31 labels; footer"], "status": "pass"},
+    {"page": "W1:171", "regions": ["questions 16-17 all judgments, standard references, thresholds, exceptions and additional-check marker; footer"], "status": "pass"},
+    {"page": "W1:172", "regions": ["question 18 all cases, importance and H30 labels; footer"], "status": "pass"},
+    {"page": "W1:173", "regions": ["question 18 all judgments, standard references and reasons; footer"], "status": "pass"},
+    {"page": "W1:174", "regions": ["questions 19-20 all statements, options, combination numbers, importance and H29/H30 labels; footer"], "status": "pass"},
+    {"page": "W1:175", "regions": ["questions 19-20 correct answers, all statement judgments, reasons and standard references; footer"], "status": "pass"}
+  ],
+  "findings": [
+    "All ten included pages are readable portrait source images and match the accepted manifest hashes.",
+    "Section boundary is explicit at page 168: section 1 ends with question 7 answers and section 2 begins with question 8.",
+    "Questions 1-20 are retained with their corresponding answer/verdict and explanation; false propositions remain explicitly labelled 誤り or ×.",
+    "Past-exam labels, importance labels, standard references, additional-check marker, list alternatives and combination answers were reviewed against the images.",
+    "No diagram-only object, numerical calculation or debit/credit table appears in this batch; diagram and numerical checks are not applicable."
+  ],
+  "corrections": [],
+  "checks": {"numerical": "not_applicable", "diagram": "not_applicable", "false_proposition": "pass"},
+  "unresolved_count": 0,
+  "reviewer_model": "GPT-5 (current execution model; no model switch)",
+  "dependency_commits": [
+    "a2fb2bb829d112522128cdb145523302e9d1e7fd",
+    "a62d278ae52faba8a97b49e08688e54ce2a466c2",
+    "0034627e759ba83225ae91dbc5cba1c1825ba3a6"
+  ],
+  "delivery_base_sha": "b2a9a3d49626c3625aebc0f9816abc567d95c61a",
+  "source_revision": {
+    "edition": "2024/2025年合格目標",
+    "publication_date": "2023-01-23",
+    "source_folder": "/Users/xihangzou/Study/320_CPA/322_財務理論/images/cpa-fa-theory-short-answer-workbook-1-jpg",
+    "source_pdf_sha256": "cd4b9e8b7be475d5e40785cddfd41e48e775b57eeaed6ffb2b90f4c21c0fd04f",
+    "manifest_sha256": "f9bf676e213a1ccedb2ddb4e19c35fbc931b044844436970d3d65def49433de3",
+    "source_map_sha256": "d423630c6d0e0683d64bd6b32a9677f0d4f971f6a8572c217ef1c37c5f5a937a",
+    "batch_manifest_sha256": "35a285b5506fbd1dfbfb1c2c06994f6640617d9f68ef9f77636871c953b8ed4a"
+  },
+  "downstream": {"status": "ready", "outputs": ["project/W1/chunks/JPG-W1-C017/", "project/W1/fragments/JPG-W1-C017.json", "project/W1/reviews/JPG-W1-C017.json"], "canonical_tasks_unchanged": true, "merged_markdown_created": false, "cards_created": false}
+}
