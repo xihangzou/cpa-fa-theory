@@ -1,0 +1,87 @@
+{
+  "batch_id": "JPG-W1-C011",
+  "source_id": "W1",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-W1-C011-S01",
+      "batch_id": "JPG-W1-C011",
+      "chapter": "10",
+      "section": "10.1",
+      "title": "1. 負債会計総論",
+      "expected_pages": ["W1:094", "W1:095"],
+      "processing_pages": ["W1:094", "W1:095"],
+      "output": "chunks/JPG-W1-C011/JPG-W1-C011-S01.md",
+      "status": "pass",
+      "locators": [
+        {"page": "W1:094", "printed_page": "⑩-1", "source_region": "第10章「負債会計」・1. 負債会計総論、問題1-4の問題文・重要度・過去問表示", "destination_heading": "## 1. 負債会計総論"},
+        {"page": "W1:095", "printed_page": "⑩-2", "source_region": "問題1-4の正誤・根拠説明", "destination_heading": "## 1. 負債会計総論"}
+      ],
+      "chunk_sha256": "a188c7f308c90502d55c3cc06ad0a06aa8b9be4b98b5db402f82869b1a4c9af6"
+    },
+    {
+      "id": "JPG-W1-C011-S02",
+      "batch_id": "JPG-W1-C011",
+      "chapter": "10",
+      "section": "10.2",
+      "title": "2. 引当金",
+      "expected_pages": ["W1:094", "W1:095", "W1:096", "W1:097", "W1:098", "W1:099"],
+      "processing_pages": ["W1:094", "W1:095", "W1:096", "W1:097", "W1:098", "W1:099"],
+      "output": "chunks/JPG-W1-C011/JPG-W1-C011-S02.md",
+      "status": "pass",
+      "locators": [
+        {"page": "W1:094", "printed_page": "⑩-1", "source_region": "2. 引当金、問題5-7の問題文・重要度・過去問表示", "destination_heading": "## 2. 引当金"},
+        {"page": "W1:095", "printed_page": "⑩-2", "source_region": "問題5-7の正誤・根拠説明、追加チェック", "destination_heading": "## 2. 引当金"},
+        {"page": "W1:096", "printed_page": "⑩-3", "source_region": "問題8-15の問題文・重要度・過去問表示", "destination_heading": "## 2. 引当金"},
+        {"page": "W1:097", "printed_page": "⑩-4", "source_region": "問題8-15の正誤・根拠説明、追加チェック", "destination_heading": "## 2. 引当金"},
+        {"page": "W1:098", "printed_page": "⑩-5", "source_region": "問題16-21の問題文・重要度・過去問表示", "destination_heading": "## 2. 引当金"},
+        {"page": "W1:099", "printed_page": "⑩-6", "source_region": "問題16-21の正誤・根拠説明", "destination_heading": "## 2. 引当金"}
+      ],
+      "chunk_sha256": "a40b4c17edb7b25fd37922373b59d78f6080c29abff063456b2ee9996436e5d0"
+    },
+    {
+      "id": "JPG-W1-C011-S03",
+      "batch_id": "JPG-W1-C011",
+      "chapter": "10",
+      "section": "10.3",
+      "title": "3. 債務保証",
+      "expected_pages": ["W1:098", "W1:099", "W1:100", "W1:101"],
+      "processing_pages": ["W1:098", "W1:099", "W1:100", "W1:101"],
+      "output": "chunks/JPG-W1-C011/JPG-W1-C011-S03.md",
+      "status": "pass",
+      "locators": [
+        {"page": "W1:098", "printed_page": "⑩-5", "source_region": "3. 債務保証、問題22-24の問題文・重要度・過去問表示", "destination_heading": "## 3. 債務保証"},
+        {"page": "W1:099", "printed_page": "⑩-6", "source_region": "問題22-24の正誤・根拠説明", "destination_heading": "## 3. 債務保証"},
+        {"page": "W1:100", "printed_page": "⑩-7", "source_region": "問題25-29の問題文・重要度・過去問表示", "destination_heading": "## 3. 債務保証"},
+        {"page": "W1:101", "printed_page": "⑩-8", "source_region": "問題25-29の正誤・根拠説明、追加チェック", "destination_heading": "## 3. 債務保証"}
+      ],
+      "chunk_sha256": "87d62b8f947b82353160c754b3d8576a771dd995581b901e5af6862a52442c6d"
+    },
+    {
+      "id": "JPG-W1-C011-S04",
+      "batch_id": "JPG-W1-C011",
+      "chapter": "10",
+      "section": "10.4",
+      "title": "4. その他の負債",
+      "expected_pages": ["W1:102", "W1:103"],
+      "processing_pages": ["W1:102", "W1:103"],
+      "output": "chunks/JPG-W1-C011/JPG-W1-C011-S04.md",
+      "status": "pass",
+      "locators": [
+        {"page": "W1:102", "printed_page": "⑩-9", "source_region": "4. その他の負債、問題30-33の問題文・重要度・過去問表示", "destination_heading": "## 4. その他の負債"},
+        {"page": "W1:103", "printed_page": "⑩-10", "source_region": "問題30-33の正誤・根拠説明、追加チェック", "destination_heading": "## 4. その他の負債"}
+      ],
+      "chunk_sha256": "de23332200d900ca0cee1c481361659cdcee47d15aa18d9c7b1719a2e2320706"
+    }
+  ],
+  "review": "reviews/JPG-W1-C011.json",
+  "excluded_pages": [],
+  "source_scope": {
+    "source_id": "W1",
+    "physical_range": "W1:094-W1:103",
+    "processing_range": "W1:094-W1:103",
+    "chapter": "10",
+    "title": "負債会計",
+    "content_authority": "designated existing JPGs only"
+  }
+}

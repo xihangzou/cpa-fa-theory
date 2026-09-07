@@ -1,0 +1,86 @@
+{
+  "batch_id": "JPG-W1-C011",
+  "source_id": "W1",
+  "status": "pass",
+  "reviewed_on": "2026-09-07",
+  "reviewer_model": "GPT-5.6 Sol (current execution model; no model switch)",
+  "source_revision": {
+    "delivery_branch": "main",
+    "repository_commit": "4a69d337fde9e56b7383d1ece9578f0b82169b7b",
+    "source_catalog": "contracts/source-catalog.json",
+    "source_catalog_sha256": "8358e9cffb068f63df0bdfcc8f99be035e66454ac8710d381f0ff9eb87728079",
+    "page_plan": "contracts/page-plan.json",
+    "page_plan_sha256": "997a7280b171df5803c2a3bb7c2ee8764082e01f3bdb03c194b9129fe18d26c9",
+    "source_manifest": "project/W1/sources.json",
+    "source_manifest_sha256": "f9bf676e213a1ccedb2ddb4e19c35fbc931b044844436970d3d65def49433de3",
+    "source_map": "project/W1/source-map.json",
+    "source_map_sha256": "d423630c6d0e0683d64bd6b32a9677f0d4f971f6a8572c217ef1c37c5f5a937a",
+    "batch_manifest": "project/W1/batches.json",
+    "batch_manifest_sha256": "35a285b5506fbd1dfbfb1c2c06994f6640617d9f68ef9f77636871c953b8ed4a",
+    "inventory_review": "project/W1/inventory-review.json",
+    "inventory_review_sha256": "e94cf19cc8ad6c7bf9e1fbfc2856e128f88b2ab2cf02be37b2fcf869d0a993bf",
+    "pilot_qa": "project/W1/qa/pilot.json",
+    "pilot_qa_sha256": "a2bf6bd4fcd799e1a7344bae403d461f27979175d4709e2b1c2591c405f99475",
+    "source_original_root": "/Users/xihangzou/Study/320_CPA/322_財務理論/images/cpa-fa-theory-short-answer-workbook-1-jpg",
+    "source_pdf_sha256": "cd4b9e8b7be475d5e40785cddfd41e48e775b57eeaed6ffb2b90f4c21c0fd04f",
+    "source_image_inventory_sha256": "593df03d5e6282b4d69ed9162a8afd9cbf6500cb0656884bec1c5b6b129fa5eb",
+    "edition": "2024/2025年合格目標",
+    "publication_date": "2023-01-23",
+    "physical_scope": "W1:094-W1:103",
+    "processing_scope": "W1:094-W1:103",
+    "content_authority": "designated existing JPGs only; PDF not used for transcription"
+  },
+  "dependency_commits": [
+    "a2fb2bb829d112522128cdb145523302e9d1e7fd",
+    "a62d278ae52faba8a97b49e08688e54ce2a466c2",
+    "46de4cd3c5999251a2ddf48fa02a363a58fa29d8"
+  ],
+  "source_images": [
+    {"page": "W1:094", "printed_page": "⑩-1", "image": "pages/W1/page-094.jpg", "sha256": "361d63d454d633f70b17a51b72131fae214f203763be5d9e9099cfc129916ebc"},
+    {"page": "W1:095", "printed_page": "⑩-2", "image": "pages/W1/page-095.jpg", "sha256": "54986a5a30cd228d4edc1c7dc5ce79c736abd7fc92c539ac7eed2beda54e2a25"},
+    {"page": "W1:096", "printed_page": "⑩-3", "image": "pages/W1/page-096.jpg", "sha256": "1723c627cbb9ccf459da8e58f7c0016d426f64d7e1a9658523b7de14887c3a8d"},
+    {"page": "W1:097", "printed_page": "⑩-4", "image": "pages/W1/page-097.jpg", "sha256": "03289ffb824b2dcc9deb28f27fd9125c15fbc2db3c0ccac47ce9edce7d3f0a81"},
+    {"page": "W1:098", "printed_page": "⑩-5", "image": "pages/W1/page-098.jpg", "sha256": "ed53967fb66d8502286fb996ef6a53a50d0051d5fe35541b0f0d8a7003027d62"},
+    {"page": "W1:099", "printed_page": "⑩-6", "image": "pages/W1/page-099.jpg", "sha256": "5b27e6726238a712a6f7113e3933fe889311c1343e9078a1707c553e13bf4e58"},
+    {"page": "W1:100", "printed_page": "⑩-7", "image": "pages/W1/page-100.jpg", "sha256": "6e14f6bc7c4a837c4d9a1cf916c3fa514dcc526c8953995a825d0c7fce5ef5cf"},
+    {"page": "W1:101", "printed_page": "⑩-8", "image": "pages/W1/page-101.jpg", "sha256": "fbe83182e4a64821f069d2a00db8eeec06970488e4390d0e8cda6efd1fe95cf5"},
+    {"page": "W1:102", "printed_page": "⑩-9", "image": "pages/W1/page-102.jpg", "sha256": "7a94aacd9f64cd1336656bcce26ccf55ef39bc7d71c99debb23245030da303d4"},
+    {"page": "W1:103", "printed_page": "⑩-10", "image": "pages/W1/page-103.jpg", "sha256": "7cb80abd758e189491433eef665bf1bab15143e8e950e7985f2b94b15b5fa6de"}
+  ],
+  "section_outputs": [
+    {"task": "JPG-W1-C011-S01", "chunk": "project/W1/chunks/JPG-W1-C011/JPG-W1-C011-S01.md", "chunk_sha256": "a188c7f308c90502d55c3cc06ad0a06aa8b9be4b98b5db402f82869b1a4c9af6"},
+    {"task": "JPG-W1-C011-S02", "chunk": "project/W1/chunks/JPG-W1-C011/JPG-W1-C011-S02.md", "chunk_sha256": "a40b4c17edb7b25fd37922373b59d78f6080c29abff063456b2ee9996436e5d0"},
+    {"task": "JPG-W1-C011-S03", "chunk": "project/W1/chunks/JPG-W1-C011/JPG-W1-C011-S03.md", "chunk_sha256": "87d62b8f947b82353160c754b3d8576a771dd995581b901e5af6862a52442c6d"},
+    {"task": "JPG-W1-C011-S04", "chunk": "project/W1/chunks/JPG-W1-C011/JPG-W1-C011-S04.md", "chunk_sha256": "de23332200d900ca0cee1c481361659cdcee47d15aa18d9c7b1719a2e2320706"}
+  ],
+  "coverage": [
+    {"page": "W1:094", "status": "pass", "regions": ["S01: 第10章・1. 負債会計総論、問題1-4の問題文・重要度・過去問表示", "S02: 2. 引当金、問題5-7の問題文・重要度・過去問表示", "ページ端、余白、⑩-1フッターを含む全画面確認"]},
+    {"page": "W1:095", "status": "pass", "regions": ["S01: 問題1-4の正誤・根拠説明", "S02: 問題5-7の正誤・根拠説明、追加チェック", "余白、⑩-2フッターを含む全画面確認"]},
+    {"page": "W1:096", "status": "pass", "regions": ["S02: 問題8-15の問題文・重要度・過去問表示", "余白、⑩-3フッターを含む全画面確認"]},
+    {"page": "W1:097", "status": "pass", "regions": ["S02: 問題8-15の正誤・根拠説明、追加チェック", "余白、⑩-4フッターを含む全画面確認"]},
+    {"page": "W1:098", "status": "pass", "regions": ["S02: 問題16-21の問題文・重要度・過去問表示", "S03: 3. 債務保証、問題22-24の問題文・重要度・過去問表示", "余白、⑩-5フッターを含む全画面確認"]},
+    {"page": "W1:099", "status": "pass", "regions": ["S02: 問題16-21の正誤・根拠説明", "S03: 問題22-24の正誤・根拠説明", "余白、⑩-6フッターを含む全画面確認"]},
+    {"page": "W1:100", "status": "pass", "regions": ["S03: 問題25-29の問題文・重要度・過去問表示", "余白、⑩-7フッターを含む全画面確認"]},
+    {"page": "W1:101", "status": "pass", "regions": ["S03: 問題25-29の正誤・根拠説明、追加チェック", "余白、⑩-8フッターを含む全画面確認"]},
+    {"page": "W1:102", "status": "pass", "regions": ["S04: 4. その他の負債、問題30-33の問題文・重要度・過去問表示", "余白、⑩-9フッターを含む全画面確認"]},
+    {"page": "W1:103", "status": "pass", "regions": ["S04: 問題30-33の正誤・根拠説明、追加チェック", "余白、⑩-10フッターを含む全画面確認"]}
+  ],
+  "findings": [
+    "全10枚を指定原画像の読める解像度で確認し、第10章「負債会計」に実在する4セクションを4チャンクとして保持した。同一物理ページに複数セクションがあるW1:094-W1:095およびW1:098-W1:099は、各セクション固有の意味内容を対応付けた。",
+    "問題1-33の問題文、重要度・過去問表示、正誤判定、根拠説明、追加チェックを対応する問題ブロックに保持した。誤りの命題はすべて明示的な「誤り。」を付し、誤った内容を正しい知識として提示していない。",
+    "負債会計総論、引当金の4要件・表示・注記、債務保証・偶発債務・債務保証損失引当金、前受収益・未払費用・未決算勘定・当座借越の条件・例外・理由を原画像と照合した。問題25の注記額は原画像どおり、保証総額1,000万から引当金400万を控除した600万に変更する説明を保持した。",
+    "表・図・数値計算は本範囲に存在しない。各ページの余白・端部・フッターも確認し、W1:103で問題33と解説が完結しており、処理範囲外へ継続する未完の問題・解答・例外・サイドバーは存在しない。"
+  ],
+  "question_answer_checks": {"status": "pass", "checked": "問題1-33の問題文、重要度・過去問表示、正誤判定、根拠説明、追加チェックを対応付けて全件確認。"},
+  "specific_checks": [
+    "問題1-4: 負債定義と修繕引当金、会計的負債、正常営業循環基準、負債のパラドックスを保持。",
+    "問題5-21: 引当金の4要件、地震損失引当金、貸倒引当金、株主優待引当金、重要性、資金留保効果、負債性引当金、表示・注記・準備金・一年基準を保持。",
+    "問題22-29: 偶発債務の注記、債務保証損失引当金の計上要件・表示・見積り、問題25の1,000万から600万への注記額変更、担保提供時の総額表示を保持。",
+    "問題30-33: 前受収益、未払費用、仮受金等の未決算勘定、当座借越の表示を保持。"
+  ],
+  "corrections": [],
+  "checks": {"numerical": "not_applicable", "diagram": "not_applicable", "false_proposition": "pass", "question_answer_pairing": "pass"},
+  "unresolved_count": 0,
+  "excluded_pages": [],
+  "downstream_status": "ready_for_chapter_qa_after_this_batch_only"
+}
