@@ -1,0 +1,65 @@
+{
+  "batch_id": "JPG-W1-C006",
+  "source_id": "W1",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-W1-C006-S01",
+      "batch_id": "JPG-W1-C006",
+      "chapter": "05",
+      "section": "05.1",
+      "title": "1. 貸借対照表総論",
+      "expected_pages": [
+        "W1:062",
+        "W1:063",
+        "W1:064",
+        "W1:065"
+      ],
+      "processing_pages": [
+        "W1:062",
+        "W1:063",
+        "W1:064",
+        "W1:065"
+      ],
+      "output": "chunks/JPG-W1-C006/JPG-W1-C006-S01.md",
+      "status": "pass",
+      "locators": [
+        {
+          "page": "W1:062",
+          "printed_page": "⑤-1",
+          "source_region": "第5章「貸借対照表総論」・1. 貸借対照表総論、問題1から問題8の問題文、重要度、H27・H30・R4過去問表示、余白およびフッター",
+          "destination_heading": "## 1. 貸借対照表総論"
+        },
+        {
+          "page": "W1:063",
+          "printed_page": "⑤-2",
+          "source_region": "問題1から問題8の正誤、根拠説明、参照規定、問題1・3の追加でチェック、H31過去問類題表示、余白およびフッター",
+          "destination_heading": "## 1. 貸借対照表総論"
+        },
+        {
+          "page": "W1:064",
+          "printed_page": "⑤-3",
+          "source_region": "問題9の問題文、重要度C、問題下の空白領域、余白およびフッター",
+          "destination_heading": "## 1. 貸借対照表総論"
+        },
+        {
+          "page": "W1:065",
+          "printed_page": "⑤-4",
+          "source_region": "問題9の正誤、参照規定、根拠説明、解説下の空白領域、余白およびフッター",
+          "destination_heading": "## 1. 貸借対照表総論"
+        }
+      ],
+      "chunk_sha256": "47b1634513d5cdb02294920af3ffb9874a7abcea5f11a0ad8afbcbb50304b9f5"
+    }
+  ],
+  "review": "reviews/JPG-W1-C006.json",
+  "excluded_pages": [],
+  "source_scope": {
+    "source_id": "W1",
+    "physical_range": "W1:062-W1:065",
+    "processing_range": "W1:062-W1:065",
+    "chapter": "05",
+    "title": "貸借対照表総論",
+    "content_authority": "designated existing JPGs only"
+  }
+}
