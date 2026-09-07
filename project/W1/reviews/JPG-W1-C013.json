@@ -161,22 +161,22 @@
     {
       "task": "JPG-W1-C013-S01",
       "chunk": "project/W1/chunks/JPG-W1-C013/JPG-W1-C013-S01.md",
-      "chunk_sha256": "aad4d044c5851531c2ae889dc05dcc2c0153e241230995745c93b7e575dc6167"
+      "chunk_sha256": "3e13ec6ed76d871c36088a06daeec2858d923a022a8e9b6eb02760e9ea25cb8c"
     },
     {
       "task": "JPG-W1-C013-S02",
       "chunk": "project/W1/chunks/JPG-W1-C013/JPG-W1-C013-S02.md",
-      "chunk_sha256": "b9f3350d309e1b829cd057302ff1ade4dff740393722494057cc4e1488c16df9"
+      "chunk_sha256": "3653ede817349ca22ab9ad64489d87bc02137b07975c2554be21f6cc3fa2dbbf"
     },
     {
       "task": "JPG-W1-C013-S03",
       "chunk": "project/W1/chunks/JPG-W1-C013/JPG-W1-C013-S03.md",
-      "chunk_sha256": "85c57dc91f9c60ca8379e660389d628d0a28f1fadcbbfe2c371fd6be86903df0"
+      "chunk_sha256": "78e0ad620a030e9edce75a3136a6ce0a18d2738724e91d7c4ff867ed2ec39a2b"
     },
     {
       "task": "JPG-W1-C013-S04",
       "chunk": "project/W1/chunks/JPG-W1-C013/JPG-W1-C013-S04.md",
-      "chunk_sha256": "b6d62a6f925fe8578ea53f66472def90729c6c5e0bd99ee010e815d70b53aa86"
+      "chunk_sha256": "e2b7a84badc00cc652f8eca4cd241be62dca553d4d97ad346b174f0afe76cbbd"
     }
   ],
   "coverage": [
@@ -323,12 +323,14 @@
     }
   ],
   "findings": [
-    "全20枚を指定原画像の読める解像度で確認し、第12章に実在する4セクションを4チャンクとして保持した。同一物理ページW1:116およびW1:123は、隣接セクションの固有内容を別々に対応付けた。",
-    "問題1-65の問題文、重要度・過去問表示、正誤判定、根拠説明、追加でチェック！を対応する問題ブロックに保持した。誤りの命題は解答欄で明示的に「誤り。」として扱った。",
-    "第1章の情報の非対称性・財務報告目的、第2章の意思決定有用性・信頼性・比較可能性、第3章の構成要素・資産負債純資産の関係について、定義・条件・例外・理由を画像と照合した。",
-    "図表・数値計算は本範囲に存在しない。全ページの余白・端部・フッターを確認し、W1:127で問題65と解説が完結している。"
+    "全20枚の指定原画像を再確認し、問題1–65を問題文と対応する解答・正誤・根拠説明の単位で再構成した。",
+    "PDF抽出由来の改行・字間・見出しノイズを除去し、画像で確認できる日本語、数字、条件、例外、過去問表示、追加でチェックを保持した。",
+    "問題27/28、問題50/51の物理ページ境界は、各チャンクに該当する問題ブロックだけを帰属させた。",
+    "誤りの命題はすべて解答欄で明示的に誤りとして示し、追加チェックの補足説明も対応する問題に保持した。"
   ],
-  "corrections": [],
+  "corrections": [
+    "Previous generated chunks were discarded and recreated from paired image-page blocks; no prior Markdown body was reused."
+  ],
   "question_answer_checks": {
     "status": "pass",
     "checked": "問題1-65の問題文、正誤判定、根拠説明、追加でチェック！の対応を全件確認。"
