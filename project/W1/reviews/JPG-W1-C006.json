@@ -121,5 +121,5 @@
   },
   "unresolved_count": 0,
   "excluded_pages": [],
-  "downstream_status": "blocked_pending_repository_local_check_batch_and_git_checks"
+  "downstream_status": "ready_for_chapter_qa_after_this_batch_only"
 }
