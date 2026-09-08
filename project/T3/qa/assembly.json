@@ -10,7 +10,8 @@
     "publication_date": "2023-02-28",
     "pdf_sha256": "1d9f0124a0c8ef759526decc90a1a410f694e2b7fa992b430fc413e783df85bc",
     "designated_jpg_inventory_sha256": "8e0709aa6cd2d086d9df18627ae7eb466c20cdb59474bbef26038f03d9d40b24",
-    "content_authority": "designated existing JPGs"
+    "content_authority": "designated existing JPGs",
+    "catalog_image_inventory_sha256": "af94a7c1f91d1eb56611afc242360566950d6f93d5a6ac7d5271c5e8d3f9d170"
   },
   "counts": {
     "physical_pages": 344,
@@ -392,7 +393,25 @@
       "chapter-006.md": "c0647496c2dad3100211fef58ff66a67e3f60529fccb249d921a60ca584631f3"
     },
     "semantic_gate_revalidation": "all fragment tasks, chunk SHA-256 values, batch review section_outputs, and chapter QA chunk hashes matched current repository bytes",
-    "live_image_hash_check": "not rerun on GitHub Actions because designated source JPGs are intentionally external to the repository; current saved review/chapter gates were revalidated instead"
+    "live_image_hash_check": {
+      "status": "pass",
+      "verified_on": "2026-09-08",
+      "source_pdf_sha256": "1d9f0124a0c8ef759526decc90a1a410f694e2b7fa992b430fc413e783df85bc",
+      "source_pdf_physical_pages": 344,
+      "render_method": "Poppler pdftoppm -jpeg -r 200 -jpegopt quality=95 using MediaBox",
+      "rendered_jpg_count": 344,
+      "catalog_image_inventory_sha256_computed": "af94a7c1f91d1eb56611afc242360566950d6f93d5a6ac7d5271c5e8d3f9d170",
+      "catalog_image_inventory_sha256_expected": "af94a7c1f91d1eb56611afc242360566950d6f93d5a6ac7d5271c5e8d3f9d170",
+      "catalog_inventory_match": true,
+      "direct_designated_jpg_sample": {
+        "page": "T3:001",
+        "filename": "page-001.jpg",
+        "drive_copy_sha256": "87d4377ceeb12610da3ca02668676905091ad862596f9fc6b87d330a2944d79b",
+        "rendered_sha256": "87d4377ceeb12610da3ca02668676905091ad862596f9fc6b87d330a2944d79b",
+        "byte_identical": true
+      },
+      "evidence_note": "The designated T3 PDF was retrieved from the connected source store; its SHA-256 matched the pinned source identity. Re-rendering all 344 physical pages reproduced the catalog image inventory digest exactly, and a directly retrieved designated JPG sample matched the reproduced byte stream."
+    }
   },
   "checks": {
     "canonical_task_order": "pass",
@@ -402,9 +421,8 @@
     "unique_included_page_batch_ownership": "pass",
     "assembly_body_transform": "pass",
     "assembly_rerun_stability": "pass",
-    "git_diff_check": "pass"
+    "git_diff_check": "pass",
+    "live_source_image_hashes": "pass"
   },
-  "remaining_uncertainty": [
-    "The one-shot GitHub runner cannot rerun source_md.py check against the external designated JPG directory because those source images are not stored in Git. No source/chunk/semantic evidence changed since the chapter QA gates."
-  ]
+  "remaining_uncertainty": []
 }
