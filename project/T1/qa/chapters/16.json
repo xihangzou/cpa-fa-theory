@@ -1,0 +1,9 @@
+{
+  "chapter":"16","status":"pass","unresolved_count":0,
+  "chunks":[{"task":"JPG-T1-C024-S01","chunk_sha256":"f8aeaf4df375bc88a8464c73358120f2ee9a4f258b7cdd6c7fcba0fdbc075e36"}],
+  "title":"賃貸等不動産の時価等の開示に関する会計基準","qa_issue":169,"source_id":"T1","reviewed_on":"2026-09-08","reviewer_model":"GPT-5.6 Sol",
+  "scope":{"physical_range":"T1:323-T1:326","included_range":"T1:323-T1:326","excluded_pages":[]},
+  "review_basis":[{"batch":"JPG-T1-C024","fragment":"project/T1/fragments/JPG-T1-C024.json","fragment_blob_sha":"67f3502cfd9271d7b754d30ec33dca3f671bc6f9","review":"project/T1/reviews/JPG-T1-C024.json"}],
+  "chapter_review":{"page_coverage":"pass","section_order":"pass: 16.1","continuations":"not_applicable","boundary_review":"pass: the sole section covers all four physical pages and completes on T1:326","findings":["Current reviewed evidence accounts for all scope, definitions, classification cases and disclosure examples.","No unresolved marker, stale reviewed hash or boundary conflict is recorded."],"corrections_required":false,"corrections":[],"method":"Revalidated current exact-JPG review evidence, current chunk hash, page union and chapter boundary."},
+  "source_identity":{"edition":"2024/2025年合格目標","publication_date":"2023-01-23","pdf_sha256":"c09d9d91ce39de787cab04e146719d95b638134399d57112802ffacfa67243f3","content_authority":"designated existing JPGs"}
+}
