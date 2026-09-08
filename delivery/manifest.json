@@ -1,0 +1,122 @@
+{
+  "schema": "cpa-fa-theory-delivery-manifest-v1",
+  "issue": 226,
+  "status": "pass_with_owner_waiver",
+  "delivery_branch": "main",
+  "indexed_revision": "ce0257b6ee256a728a4fbf2f0aa494a6cbd9408e",
+  "verified_on": "2026-09-08",
+  "outputs": [
+    {
+      "book": "T1",
+      "title": "財務会計論テキスト　理論1",
+      "edition": "2024/2025年合格目標",
+      "path": "project/T1/merged/textbook.md",
+      "declared_revision": "ce0257b6ee256a728a4fbf2f0aa494a6cbd9408e",
+      "reviewed_revision": "992e7aae6d57ea8fae4ee58071150252423420c2",
+      "qa_record": "project/T1/qa/final.json",
+      "qa_status": "pass",
+      "unresolved_count": 0,
+      "chapters": 21,
+      "included_pages": 341,
+      "qa_recorded_sha256": "e850348e650acf654acaddae922ab606785ac23c858a01251041fdec4e17b027"
+    },
+    {
+      "book": "T2",
+      "title": "財務会計論テキスト　理論2",
+      "edition": "2024/2025年合格目標",
+      "path": "project/T2/merged/textbook.md",
+      "declared_revision": "ce0257b6ee256a728a4fbf2f0aa494a6cbd9408e",
+      "reviewed_revision": "497d24bd45f02507e30d7d91eb774650d0869394",
+      "qa_record": "project/T2/qa/final.json",
+      "qa_status": "pass",
+      "unresolved_count": 0,
+      "chapters": 12,
+      "included_pages": 431,
+      "qa_recorded_sha256": "16c3f9ff0c07a35d4556a087b47009ff72b711fba34de82e8d5b7ffc1fe3f892"
+    },
+    {
+      "book": "T3",
+      "title": "財務会計論テキスト　理論3",
+      "edition": "2024/2025年合格目標",
+      "path": "project/T3/merged/textbook.md",
+      "declared_revision": "ce0257b6ee256a728a4fbf2f0aa494a6cbd9408e",
+      "reviewed_revision": "1e86f4cf371f83b2003513ece93f1aed9e40e944",
+      "qa_record": "project/T3/qa/final.json",
+      "qa_status": "pass",
+      "unresolved_count": 0,
+      "chapters": 8,
+      "included_pages": 334,
+      "qa_recorded_sha256": "dbf52450e8f5c5a1b91ce8a4801868a95e19633e3e7f0e4de936f415f0cc3bfc"
+    },
+    {
+      "book": "W1",
+      "title": "財務会計論短答対策問題集　理論1",
+      "edition": "2024/2025年合格目標",
+      "path": "project/W1/merged/textbook.md",
+      "declared_revision": "ce0257b6ee256a728a4fbf2f0aa494a6cbd9408e",
+      "reviewed_revision": "d2958c86efd70f7b5f862d67c63ebae3ceb44f6e",
+      "qa_record": "project/W1/qa/final.json",
+      "qa_status": "pass",
+      "unresolved_count": 0,
+      "chapters": 20,
+      "question_pairs": 509,
+      "qa_recorded_sha256": "54c7e3cc0497b1adb102de3627db3332ba437f55c2f4e780917cf15fb5cde55a"
+    },
+    {
+      "book": "W2",
+      "title": "財務会計論短答対策問題集　理論2",
+      "edition": "2024/2025年合格目標",
+      "path": "project/W2/merged/textbook.md",
+      "declared_revision": "ce0257b6ee256a728a4fbf2f0aa494a6cbd9408e",
+      "reviewed_revision": "d2958c86efd70f7b5f862d67c63ebae3ceb44f6e",
+      "qa_record": "project/W2/qa/final.json",
+      "qa_status": "pass",
+      "unresolved_count": 0,
+      "chapters": 21,
+      "question_pairs": 1180,
+      "qa_recorded_sha256": "4e8653fa408a7ff11c02a78cd4c0e55846886c9044998a4d4b61840dc6f936be"
+    }
+  ],
+  "aggregate": {
+    "theory": {
+      "books": ["T1", "T2", "T3"],
+      "chapters": 41,
+      "included_pages": 1106
+    },
+    "workbooks": {
+      "books": ["W1", "W2"],
+      "chapters": 41,
+      "question_pairs": 1689
+    }
+  },
+  "verification": {
+    "final_qa": "pass_5_of_5_unresolved_0",
+    "github_readback": {
+      "status": "pass",
+      "revision": "ce0257b6ee256a728a4fbf2f0aa494a6cbd9408e",
+      "paths_resolved": 5,
+      "note": "Canonical Markdown paths were re-fetched from GitHub at the declared immutable revision."
+    },
+    "fresh_independent_sha256_recomputation": {
+      "status": "waived",
+      "authorized_by": "repository owner",
+      "authorized_on": "2026-09-08",
+      "note": "QA-recorded SHA-256 values are retained as acceptance identities; no claim of fresh recomputation is made."
+    },
+    "repository_hygiene": {
+      "tracked_forbidden_extensions_checked": [".pdf", ".jpg", ".jpeg", ".png", ".apkg"],
+      "matches": 0
+    }
+  },
+  "delivery_constraints": {
+    "separate_textbook_files": true,
+    "cross_book_integration": false,
+    "raw_source_media_published": false,
+    "anki_or_cloze_data_published": false,
+    "automated_dispatch_configuration_published": false,
+    "package_or_zip_published": false
+  },
+  "remaining_uncertainty": [
+    "The original #226 fresh independent SHA-256 recomputation check was intentionally waived by owner instruction."
+  ]
+}
