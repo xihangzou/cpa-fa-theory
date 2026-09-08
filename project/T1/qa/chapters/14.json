@@ -1,0 +1,17 @@
+{
+  "chapter":"14","status":"pass","unresolved_count":0,
+  "chunks":[
+    {"task":"JPG-T1-C021-S01","chunk_sha256":"3ae5da2017aa050ae83738a69726e147d9bf41f96f7a9992b3b72997adb30ca2"},
+    {"task":"JPG-T1-C021-S02","chunk_sha256":"2cf969ab4de943b6b8e11fd1d657e9ebec71df3ef906771405c746d452d63e64"},
+    {"task":"JPG-T1-C021-S03","chunk_sha256":"f8f08c98a8c0b886c34502980c01651110ca9c240d68ee98a0690870c479fcaa"},
+    {"task":"JPG-T1-C021-S04","chunk_sha256":"feb3b907a34d4f3864585033758e1f4e7e71c865ffbffa2f2f155dca5cca4d1c"},
+    {"task":"JPG-T1-C021-S05","chunk_sha256":"f0bd60e85c4159898f78ea697f69757634031825846f6b0e3fb02f2ea156bdf7"},
+    {"task":"JPG-T1-C021-S06","chunk_sha256":"9cf5cf577660f017436f1bdb6498f150d3fe4c7bcb73dfadeb5ecffee438fe6b"},
+    {"task":"JPG-T1-C022-S01","chunk_sha256":"f0f0c116d86123c0b92f61658362ebdc2030753a1b15cca929424ba195009a4a"}
+  ],
+  "title":"セグメント情報等の開示に関する会計基準","qa_issue":168,"source_id":"T1","reviewed_on":"2026-09-08","reviewer_model":"GPT-5.6 Sol",
+  "scope":{"physical_range":"T1:285-T1:310","included_range":"T1:285-T1:310","excluded_pages":[]},
+  "review_basis":[{"batch":"JPG-T1-C021","fragment":"project/T1/fragments/JPG-T1-C021.json","fragment_blob_sha":"e56852fa029cd11c9df4d07844e986c699777885","review":"project/T1/reviews/JPG-T1-C021.json"},{"batch":"JPG-T1-C022","fragment":"project/T1/fragments/JPG-T1-C022.json","fragment_blob_sha":"b933de4482eba5ed8491a23044b8be0f1861fb42","review":"project/T1/reviews/JPG-T1-C022.json"}],
+  "chapter_review":{"page_coverage":"pass","section_order":"pass: 14.1 -> 14.2 -> 14.3 -> 14.4 -> 14.5 -> 14.6 -> 14.7","continuations":"not_applicable","boundary_review":"pass: C021 section 14.6 completes on T1:307; C022 starts new section 14.7 on T1:308 and completes on T1:310","findings":["The chapter-wide page union across C021/C022 is contiguous and complete.","Current review evidence explicitly audits section boundaries inside C021 and no cross-batch continuation or stale reviewed hash is recorded."],"corrections_required":false,"corrections":[],"method":"Revalidated current exact-JPG review evidence and seven task hashes, then audited chapter-wide order and the C021/C022 boundary."},
+  "source_identity":{"edition":"2024/2025年合格目標","publication_date":"2023-01-23","pdf_sha256":"c09d9d91ce39de787cab04e146719d95b638134399d57112802ffacfa67243f3","content_authority":"designated existing JPGs"}
+}
