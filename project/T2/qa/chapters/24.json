@@ -1,0 +1,22 @@
+{
+  "chapter":"24","status":"pass","unresolved_count":0,
+  "chunks":[
+    {"task":"JPG-T2-C006-S01","chunk_sha256":"de59cff1b7d3f8f4491a81df87d2a40e8089562d41c718a8c0cf517678f4c39d"},
+    {"task":"JPG-T2-C006-S02","chunk_sha256":"9dbf72e0ed048c09496d50bd37eb7c395054b6febcbe042bdd1519406fd3f0d4"},
+    {"task":"JPG-T2-C006-S03","chunk_sha256":"2a4b1961fa393df3a86baff1b6fd6a873fa867015f7dc3b469fe95e07c273520"},
+    {"task":"JPG-T2-C007-S01","chunk_sha256":"5972d8f150e9192bdfc1cb14f5db77aebd0d57d0966132b5e7b844106cd11428"},
+    {"task":"JPG-T2-C007-S02","chunk_sha256":"7b638b2e09ff5d43f93aacec4e74fc40545f41edc964c0becff7b0ca610530de"},
+    {"task":"JPG-T2-C007-S03","chunk_sha256":"8d24f181a2973d67d62b94d640d76da9a46e9e661d7ea18abf78b8c840af165c"},
+    {"task":"JPG-T2-C007-S04","chunk_sha256":"626bbf2e84c95e0275e6d17119c0e64721b8bf0a5f7a3a5ee3b85ab33c6d6616"},
+    {"task":"JPG-T2-C007-S05","chunk_sha256":"a07bb249d53ede493c1f3fd4fe27ffb18baa77c103f33a143144491df5e1e444"},
+    {"task":"JPG-T2-C007-S06","chunk_sha256":"ee3652926627f4981647e7692e66b9e6751c54001eae303dbab0f45d5aeb56fd"}
+  ],
+  "title":"退職給付に関する会計基準","qa_issue":173,"source_id":"T2","reviewed_on":"2026-09-08","reviewer_model":"GPT-5.6 Sol",
+  "scope":{"physical_range":"T2:101-T2:142","included_range":"T2:101-T2:141","excluded_pages":[{"page":"T2:142","reason":"【MEMO】の白紙ページ。inventory-confirmed and image-reviewed as having no learner content."}]},
+  "review_basis":[
+    {"batch":"JPG-T2-C006","fragment":"project/T2/fragments/JPG-T2-C006.json","fragment_blob_sha":"ee6034735d87d65baf835f64ae6cc064bd20c02b","review":"project/T2/reviews/JPG-T2-C006.json"},
+    {"batch":"JPG-T2-C007","fragment":"project/T2/fragments/JPG-T2-C007.json","fragment_blob_sha":"b9b28040e8ba732f1a3505a6d0a33f5ed318169b","review":"project/T2/reviews/JPG-T2-C007.json"}
+  ],
+  "chapter_review":{"page_coverage":"pass: T2:101-T2:141 are included in current PASS evidence; T2:142 is the image-confirmed blank MEMO exclusion","section_order":"pass: 24.1 -> 24.2 -> 24.3 -> 24.4 -> 24.5 -> 24.6 -> 24.7 -> 24.8 -> 24.9","continuations":"pass: no same-section continuation crosses C006/C007","boundary_review":"pass: C006 ends 24.3 on T2:118 and C007 begins 24.4 on T2:119","findings":["The two-batch substantive page union is contiguous across T2:101-T2:141.","Obligation measurement, actuarial differences, plan assets, OCI/recycling, numerical examples and disclosures are covered by saved page-level evidence.","No unresolved marker, stale task hash or section-order defect was found."],"corrections_required":false,"corrections":[],"method":"Revalidated current exact-JPG C006/C007 review evidence and all nine task hashes, then audited the chapter union, blank-page ledger and batch boundary."},
+  "source_identity":{"edition":"2024/2025年合格目標","publication_date":"2023-05-04","pdf_sha256":"ba4b33c8881021044b6360bfd10899f1b1f882bda3ccc7df3f1f895e9cc55ba5","content_authority":"designated existing JPGs"}
+}
