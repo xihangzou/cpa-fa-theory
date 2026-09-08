@@ -1,0 +1,19 @@
+{
+  "schema": "cpa-fa-theory-direct-handoff-v1",
+  "book": "W1",
+  "title": "財務会計論短答対策問題集　理論1",
+  "canonical_artifact": {
+    "filename": "W1_final_textbook.md",
+    "sha256": "54c7e3cc0497b1adb102de3627db3332ba437f55c2f4e780917cf15fb5cde55a",
+    "chapters": "1-20",
+    "question_count": 509,
+    "artifact_channel": "user-authorized ChatGPT direct-conversion artifact",
+    "github_byte_mirror": null
+  },
+  "qa_chain": {
+    "chapter_issues": [189, 190, 191, 192, 193, 194],
+    "final_issue": 220,
+    "contract": "contracts/DIRECT_HANDOFF.md"
+  },
+  "note": "This record identifies the reviewed direct Markdown by exact SHA-256. Partial merged/chapters or _direct_payload staging files are non-canonical and must not be used as the handoff."
+}
