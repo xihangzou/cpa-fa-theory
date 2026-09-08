@@ -1,0 +1,61 @@
+name: PR assemble canonical theory Markdown
+
+on:
+  pull_request:
+    branches: [main]
+    paths:
+      - 'project/_upload/pr-trigger'
+
+permissions:
+  contents: write
+
+jobs:
+  assemble:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Rebuild and verify canonical files
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import base64, hashlib, lzma
+          root = Path('.')
+          parts = sorted((root/'project/_upload/unified-xz').glob('part-*.b64'))
+          if not parts:
+              raise SystemExit('no compressed upload parts')
+          packed = base64.b64decode(''.join(p.read_text() for p in parts))
+          integrated = lzma.decompress(packed).decode('utf-8')
+          hashes = {
+              'integrated': '56dfa36dd9ba7c0744c4d6eacb43741fdd620d15df4052c742ee626c0c30ffdc',
+              'W1': '54c7e3cc0497b1adb102de3627db3332ba437f55c2f4e780917cf15fb5cde55a',
+              'W2': '4e8653fa408a7ff11c02a78cd4c0e55846886c9044998a4d4b61840dc6f936be',
+          }
+          if hashlib.sha256(integrated.encode()).hexdigest() != hashes['integrated']:
+              raise SystemExit('integrated SHA-256 mismatch')
+          s1 = integrated.index('# 第1章 財務会計における基礎概念')
+          s21 = integrated.index('# 第21章 棚卸資産の評価に関する会計基準', s1)
+          w1 = (root/'project/_upload/w1-prefix.txt').read_text() + integrated[s1:s21-1]
+          w2 = (root/'project/_upload/w2-prefix.txt').read_text() + integrated[s21:]
+          if hashlib.sha256(w1.encode()).hexdigest() != hashes['W1']:
+              raise SystemExit('W1 SHA-256 mismatch')
+          if hashlib.sha256(w2.encode()).hexdigest() != hashes['W2']:
+              raise SystemExit('W2 SHA-256 mismatch')
+          (root/'財務会計論短答対策問題集_理論_統合版.md').write_text(integrated)
+          (root/'project/W1/merged/textbook.md').write_text(w1)
+          (root/'project/W2/merged/textbook.md').write_text(w2)
+          print(hashes)
+          PY
+
+      - name: Publish to main and clean staging
+        shell: bash
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add '財務会計論短答対策問題集_理論_統合版.md' project/W1/merged/textbook.md project/W2/merged/textbook.md
+          git rm -r project/_upload/unified-xz project/_upload/unified-xz-ready project/_upload/w1-prefix.txt project/_upload/w2-prefix.txt project/_upload/pr-trigger
+          git commit -m 'handoff: publish three canonical theory Markdown files'
+          git push origin HEAD:main
