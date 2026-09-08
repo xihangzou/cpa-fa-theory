@@ -1,0 +1,761 @@
+{
+  "issue": 211,
+  "book": "T2",
+  "status": "pass",
+  "unresolved_count": 0,
+  "reviewed_on": "2026-09-08",
+  "delivery_branch": "main",
+  "source_identity": {
+    "title": "財務会計論テキスト　理論2",
+    "edition": "2024/2025年合格目標",
+    "publication_date": "2023-05-04",
+    "pdf_sha256": "ba4b33c8881021044b6360bfd10899f1b1f882bda3ccc7df3f1f895e9cc55ba5",
+    "designated_jpg_inventory_sha256": "d577500ca271c7d4f0e8a1103b481e38e2494cc9c236d9fe954b35938a9a1c91",
+    "content_authority": "designated existing JPGs from connected Google Drive; PDF identity/planning only",
+    "drive_folder": "/Google Drive/cpa-fa-theory/images/cpa-fa-theory-textbook-2-jpg",
+    "drive_jpg_count": 450,
+    "drive_live_hash_match": true
+  },
+  "counts": {
+    "physical_pages": 450,
+    "included_pages": 431,
+    "excluded_pages": 19,
+    "batches": 25,
+    "canonical_tasks": 104,
+    "chapters": 12,
+    "chunks": 104
+  },
+  "input_prerequisite_digest": {
+    "sha256": "2bc0121e4ecfdd89e9f84a7881be90c579465e61203ebd6d71da03f7ac8d54c0",
+    "file_count": 172,
+    "excludes": [
+      "tasks.json",
+      "merged/**",
+      "qa/assembly.json",
+      "pages/**"
+    ]
+  },
+  "canonical_tasks": {
+    "path": "project/T2/tasks.json",
+    "sha256": "fa37e4efcb62d383a7a86fb8430ae3f02322ca9cd63851bca1e29508c45b5360",
+    "exact_ordered_fragment_concatenation": true,
+    "first_task": "JPG-T2-C001-S01",
+    "last_task": "JPG-T2-C025-S01"
+  },
+  "fragment_evidence": [
+    {
+      "batch": "JPG-T2-C001",
+      "path": "project/T2/fragments/JPG-T2-C001.json",
+      "sha256": "768d03ebaa1394b4faf0d8455cbcba7a69d359f92ece0ff30b71f5b016818442",
+      "status": "pass",
+      "task_count": 6
+    },
+    {
+      "batch": "JPG-T2-C002",
+      "path": "project/T2/fragments/JPG-T2-C002.json",
+      "sha256": "0658632b8352e26b36d28ebed17b1fd10f208fc6b4465b32884585f2dfb326cd",
+      "status": "pass",
+      "task_count": 2
+    },
+    {
+      "batch": "JPG-T2-C003",
+      "path": "project/T2/fragments/JPG-T2-C003.json",
+      "sha256": "a8a17bc39144ffe74c0efe088c1d7780ed5b236b3372fa1f4badd8dfddfc2386",
+      "status": "pass",
+      "task_count": 4
+    },
+    {
+      "batch": "JPG-T2-C004",
+      "path": "project/T2/fragments/JPG-T2-C004.json",
+      "sha256": "3d29509d0778fd73b2f7f35350e295914684eccaea874f1f9629f78330998901",
+      "status": "pass",
+      "task_count": 7
+    },
+    {
+      "batch": "JPG-T2-C005",
+      "path": "project/T2/fragments/JPG-T2-C005.json",
+      "sha256": "2063567d0c4dc74fdc9da55559260ca70da7e7abb77aa9121e4570bb56318e33",
+      "status": "pass",
+      "task_count": 4
+    },
+    {
+      "batch": "JPG-T2-C006",
+      "path": "project/T2/fragments/JPG-T2-C006.json",
+      "sha256": "115703e564fcb321020162857398ab57994308a6134b65e5b2f88780f1cba42c",
+      "status": "pass",
+      "task_count": 3
+    },
+    {
+      "batch": "JPG-T2-C007",
+      "path": "project/T2/fragments/JPG-T2-C007.json",
+      "sha256": "498955e3cc62452ea311201e4b19892f6065aee825a71b8f14398effed41eec1",
+      "status": "pass",
+      "task_count": 6
+    },
+    {
+      "batch": "JPG-T2-C008",
+      "path": "project/T2/fragments/JPG-T2-C008.json",
+      "sha256": "0d6c251c5a36f8e3cdb71b601c712dc930add00f00b5ca396cfd92b580ad68c7",
+      "status": "pass",
+      "task_count": 5
+    },
+    {
+      "batch": "JPG-T2-C009",
+      "path": "project/T2/fragments/JPG-T2-C009.json",
+      "sha256": "da5e1a1c696f7ae0119238076713cc5f49ed164ea5f769efcbabcb90d24ca2e6",
+      "status": "pass",
+      "task_count": 5
+    },
+    {
+      "batch": "JPG-T2-C010",
+      "path": "project/T2/fragments/JPG-T2-C010.json",
+      "sha256": "937e991fcb223b5a6ec4ed066165dd6c374d3b74db8323e6106d1fe9b217f966",
+      "status": "pass",
+      "task_count": 2
+    },
+    {
+      "batch": "JPG-T2-C011",
+      "path": "project/T2/fragments/JPG-T2-C011.json",
+      "sha256": "ac196dd320d954aa291b7924e81c49a17ac880b28e1f684f200b1e5c8527cf03",
+      "status": "pass",
+      "task_count": 1
+    },
+    {
+      "batch": "JPG-T2-C012",
+      "path": "project/T2/fragments/JPG-T2-C012.json",
+      "sha256": "383d52b4260860e86e861b650285ed9a5d20494e9e52e31b2c0fead5f816dce8",
+      "status": "pass",
+      "task_count": 4
+    },
+    {
+      "batch": "JPG-T2-C013",
+      "path": "project/T2/fragments/JPG-T2-C013.json",
+      "sha256": "011a09e5a880c76c6b020c2157d63754090033f7dbc07e9be7fe5c55ee15b057",
+      "status": "pass",
+      "task_count": 5
+    },
+    {
+      "batch": "JPG-T2-C014",
+      "path": "project/T2/fragments/JPG-T2-C014.json",
+      "sha256": "0f0d430c17c785e72edead748cd8a094194552a86f4fdf93d593f90d5b4e1b79",
+      "status": "pass",
+      "task_count": 6
+    },
+    {
+      "batch": "JPG-T2-C015",
+      "path": "project/T2/fragments/JPG-T2-C015.json",
+      "sha256": "d2527c9cb34f5a2e3f172d735123f5ab6b2b5900f052f1d12a83ec95afc99a01",
+      "status": "pass",
+      "task_count": 3
+    },
+    {
+      "batch": "JPG-T2-C016",
+      "path": "project/T2/fragments/JPG-T2-C016.json",
+      "sha256": "e6c4f5825fe153087f9114678a261a8fe6807089217fd07a2ae346cb7df932fd",
+      "status": "pass",
+      "task_count": 3
+    },
+    {
+      "batch": "JPG-T2-C017",
+      "path": "project/T2/fragments/JPG-T2-C017.json",
+      "sha256": "2c7dca3b55219caa28b7861177a8082d7a979ea6729d24f9ae51eceb472fe8a5",
+      "status": "pass",
+      "task_count": 2
+    },
+    {
+      "batch": "JPG-T2-C018",
+      "path": "project/T2/fragments/JPG-T2-C018.json",
+      "sha256": "f97f02fb8c1a3058922f1480001191cfb3681c9337016d504734cb0fcf096f56",
+      "status": "pass",
+      "task_count": 1
+    },
+    {
+      "batch": "JPG-T2-C019",
+      "path": "project/T2/fragments/JPG-T2-C019.json",
+      "sha256": "f46c9f22655332549e0540cc194c27efde16fc675422c51b2a03727e102205e7",
+      "status": "pass",
+      "task_count": 3
+    },
+    {
+      "batch": "JPG-T2-C020",
+      "path": "project/T2/fragments/JPG-T2-C020.json",
+      "sha256": "a785bac53cf5b37f9a96960d4f8d0a51fd1c16ceac0f463fe6a9ddb6de40d5ee",
+      "status": "pass",
+      "task_count": 11
+    },
+    {
+      "batch": "JPG-T2-C021",
+      "path": "project/T2/fragments/JPG-T2-C021.json",
+      "sha256": "c28cbb8d1421ceb25d0afdc17918144939b0cd450c744484653325e6b4525ffc",
+      "status": "pass",
+      "task_count": 4
+    },
+    {
+      "batch": "JPG-T2-C022",
+      "path": "project/T2/fragments/JPG-T2-C022.json",
+      "sha256": "50995abb84c0b3c36d23e5ebe66281a1f1e4b7ba0f7ff4af4acd71ba7984d7b8",
+      "status": "pass",
+      "task_count": 3
+    },
+    {
+      "batch": "JPG-T2-C023",
+      "path": "project/T2/fragments/JPG-T2-C023.json",
+      "sha256": "45de7abbee50f4686d27c8b286be2a3a46d2a99043580ebaf3770a6517cba59f",
+      "status": "pass",
+      "task_count": 5
+    },
+    {
+      "batch": "JPG-T2-C024",
+      "path": "project/T2/fragments/JPG-T2-C024.json",
+      "sha256": "55d5d79369da5a3c26cafffddc339904c6d6df063e0716b2fe67fdcafa498959",
+      "status": "pass",
+      "task_count": 8
+    },
+    {
+      "batch": "JPG-T2-C025",
+      "path": "project/T2/fragments/JPG-T2-C025.json",
+      "sha256": "8b214aae15d6209c2c4373a46013897f2f95b5ca6a3fcad24f43ec2668869fa4",
+      "status": "pass",
+      "task_count": 1
+    }
+  ],
+  "review_evidence": [
+    {
+      "batch": "JPG-T2-C001",
+      "path": "project/T2/reviews/JPG-T2-C001.json",
+      "sha256": "bc9b9176b36305a801cd28f3a1760846ba40428ab51f5cbb255e46a936b3f924",
+      "status": "pass",
+      "unresolved_count": 0
+    },
+    {
+      "batch": "JPG-T2-C002",
+      "path": "project/T2/reviews/JPG-T2-C002.json",
+      "sha256": "bdefe566d788c0e19be65f3b184bc7e5695fa9c91371121feaa0097acfeed818",
+      "status": "pass",
+      "unresolved_count": 0
+    },
+    {
+      "batch": "JPG-T2-C003",
+      "path": "project/T2/reviews/JPG-T2-C003.json",
+      "sha256": "c17eb1358b42d45efb317c1e92803699e8700c05434b31771fa5ce3e8489b306",
+      "status": "pass",
+      "unresolved_count": 0
+    },
+    {
+      "batch": "JPG-T2-C004",
+      "path": "project/T2/reviews/JPG-T2-C004.json",
+      "sha256": "f76b9f5268804417a31d52e28de40315c02c4a0cf03dc69c7d412c9d766d349b",
+      "status": "pass",
+      "unresolved_count": 0
+    },
+    {
+      "batch": "JPG-T2-C005",
+      "path": "project/T2/reviews/JPG-T2-C005.json",
+      "sha256": "6407a8a5609964b47bd033b875199aa929901c74749396b57b154118ecaa61ce",
+      "status": "pass",
+      "unresolved_count": 0
+    },
+    {
+      "batch": "JPG-T2-C006",
+      "path": "project/T2/reviews/JPG-T2-C006.json",
+      "sha256": "68a9585d8e348d224e0f5506987cf37ca22921c816e55174824d173f087f06d6",
+      "status": "pass",
+      "unresolved_count": 0
+    },
+    {
+      "batch": "JPG-T2-C007",
+      "path": "project/T2/reviews/JPG-T2-C007.json",
+      "sha256": "caa87e0c00a64360db7e5e884a1423e7cbdf0e1e96ba77dd5725fc821e0ac91f",
+      "status": "pass",
+      "unresolved_count": 0
+    },
+    {
+      "batch": "JPG-T2-C008",
+      "path": "project/T2/reviews/JPG-T2-C008.json",
+      "sha256": "ebd0a98f5b12a3e2776f31f07436d2d410332535f44ae3097ad0d7e6a4320e66",
+      "status": "pass",
+      "unresolved_count": 0
+    },
+    {
+      "batch": "JPG-T2-C009",
+      "path": "project/T2/reviews/JPG-T2-C009.json",
+      "sha256": "f9cb166d3d1375672fe737030fccb2142689298ee9049c11a6ef28ca2a9e9a07",
+      "status": "pass",
+      "unresolved_count": 0
+    },
+    {
+      "batch": "JPG-T2-C010",
+      "path": "project/T2/reviews/JPG-T2-C010.json",
+      "sha256": "1bd88540adee2093d1cdc2daf7e8bd59a07f89a55201ffa879e976daf56efebc",
+      "status": "pass",
+      "unresolved_count": 0
+    },
+    {
+      "batch": "JPG-T2-C011",
+      "path": "project/T2/reviews/JPG-T2-C011.json",
+      "sha256": "a5d9701216823fd14bef341f634da47bf9884a72df74407d8686cea718f101e3",
+      "status": "pass",
+      "unresolved_count": 0
+    },
+    {
+      "batch": "JPG-T2-C012",
+      "path": "project/T2/reviews/JPG-T2-C012.json",
+      "sha256": "2f5eee32db2f9c6b4429d3cc0948e503e827e7fa14b956b621b90563947cf2e9",
+      "status": "pass",
+      "unresolved_count": 0
+    },
+    {
+      "batch": "JPG-T2-C013",
+      "path": "project/T2/reviews/JPG-T2-C013.json",
+      "sha256": "5e89368bb4d34a0a59bd8b2129f378e600a2502edaf81813525af30bc606faaa",
+      "status": "pass",
+      "unresolved_count": 0
+    },
+    {
+      "batch": "JPG-T2-C014",
+      "path": "project/T2/reviews/JPG-T2-C014.json",
+      "sha256": "f638ee514de0de94cd2cf76260d0333827e9169101e82444d54f3c472a9bf38b",
+      "status": "pass",
+      "unresolved_count": 0
+    },
+    {
+      "batch": "JPG-T2-C015",
+      "path": "project/T2/reviews/JPG-T2-C015.json",
+      "sha256": "4642d9dec461250a976b8c23b13fb1b4abbbb3711aa6885bafc73f505f0818e3",
+      "status": "pass",
+      "unresolved_count": 0
+    },
+    {
+      "batch": "JPG-T2-C016",
+      "path": "project/T2/reviews/JPG-T2-C016.json",
+      "sha256": "9d30c58b01fa206d8c22722814a66ec96148b8aa184f1b5a71d2fd2efd83ab47",
+      "status": "pass",
+      "unresolved_count": 0
+    },
+    {
+      "batch": "JPG-T2-C017",
+      "path": "project/T2/reviews/JPG-T2-C017.json",
+      "sha256": "aabf05e9f9587eec56f78751e3c88a890790ba159cad2dd1be806050135c1e4a",
+      "status": "pass",
+      "unresolved_count": 0
+    },
+    {
+      "batch": "JPG-T2-C018",
+      "path": "project/T2/reviews/JPG-T2-C018.json",
+      "sha256": "3a5134c4b5d1d8899a6e024bb6da0977b36fe61ef3eaddc1306bf070214c175c",
+      "status": "pass",
+      "unresolved_count": 0
+    },
+    {
+      "batch": "JPG-T2-C019",
+      "path": "project/T2/reviews/JPG-T2-C019.json",
+      "sha256": "f696592088e5e1e88114473cd3be57b099b51b57170ba2f8bf73cbddae5a7eb4",
+      "status": "pass",
+      "unresolved_count": 0
+    },
+    {
+      "batch": "JPG-T2-C020",
+      "path": "project/T2/reviews/JPG-T2-C020.json",
+      "sha256": "b931ff588ef855bb1ceb2d7591b09f4abbe98f5bced931fd5c1dea52dd26f3f7",
+      "status": "pass",
+      "unresolved_count": 0
+    },
+    {
+      "batch": "JPG-T2-C021",
+      "path": "project/T2/reviews/JPG-T2-C021.json",
+      "sha256": "2559431ab29462fdfc60ee5cc66853f206b22c03b959756b0bd0c9db87e83691",
+      "status": "pass",
+      "unresolved_count": 0
+    },
+    {
+      "batch": "JPG-T2-C022",
+      "path": "project/T2/reviews/JPG-T2-C022.json",
+      "sha256": "2b67c60c2bb39c34bb2a736846a3f997e2df400cb8830a01aa9a67712f799601",
+      "status": "pass",
+      "unresolved_count": 0
+    },
+    {
+      "batch": "JPG-T2-C023",
+      "path": "project/T2/reviews/JPG-T2-C023.json",
+      "sha256": "65fc9630d89bf29175ac0f65bb1905ee4fa325936c7a527cba81cdb0d951d01f",
+      "status": "pass",
+      "unresolved_count": 0
+    },
+    {
+      "batch": "JPG-T2-C024",
+      "path": "project/T2/reviews/JPG-T2-C024.json",
+      "sha256": "69ce30efe1476a909cbf63e62feb51a3fe99792f9324cd82daae101fe7cc3e30",
+      "status": "pass",
+      "unresolved_count": 0
+    },
+    {
+      "batch": "JPG-T2-C025",
+      "path": "project/T2/reviews/JPG-T2-C025.json",
+      "sha256": "5dc329770f09a51fc79e4103a54535972a372a5a2e414bb1eda3292d80d1a49e",
+      "status": "pass",
+      "unresolved_count": 0
+    }
+  ],
+  "chapter_gates": {
+    "21": {
+      "path": "project/T2/qa/chapters/21.json",
+      "sha256": "726eb683d3482ff0c3fce96b3cea9f6c5ae753a7a302b7e3f69d4b8f5a3014d4",
+      "task_count": 8,
+      "status": "pass",
+      "unresolved_count": 0
+    },
+    "22": {
+      "path": "project/T2/qa/chapters/22.json",
+      "sha256": "5a8260e1cd2fdc1c7e9ca95ba2a25506e3212936b2bcffa3170a8495b533e90f",
+      "task_count": 4,
+      "status": "pass",
+      "unresolved_count": 0
+    },
+    "23": {
+      "path": "project/T2/qa/chapters/23.json",
+      "sha256": "cd16ecc7bc1be0f5cfeea376ea15f595a7dcfe20ccda808a2cb6bbf2cd6fd5c3",
+      "task_count": 11,
+      "status": "pass",
+      "unresolved_count": 0
+    },
+    "24": {
+      "path": "project/T2/qa/chapters/24.json",
+      "sha256": "4b43c76c2af564c904d68ce80a2a01705b763e6665567ad145d9598f2f1e29f9",
+      "task_count": 9,
+      "status": "pass",
+      "unresolved_count": 0
+    },
+    "25": {
+      "path": "project/T2/qa/chapters/25.json",
+      "sha256": "c8ade2b342ca9e618e7e16e0dd05665e0f9b21ba8f74699814db1d75ada31530",
+      "task_count": 5,
+      "status": "pass",
+      "unresolved_count": 0
+    },
+    "26": {
+      "path": "project/T2/qa/chapters/26.json",
+      "sha256": "968022ac6b22628f049ac81ed44deb126d40a09d7d774acdd92743a72fc096e9",
+      "task_count": 8,
+      "status": "pass",
+      "unresolved_count": 0
+    },
+    "27": {
+      "path": "project/T2/qa/chapters/27.json",
+      "sha256": "da537a53b4d0b34e712147d03ffe542d33b102d11643b459e234cfdc068ceb62",
+      "task_count": 9,
+      "status": "pass",
+      "unresolved_count": 0
+    },
+    "28": {
+      "path": "project/T2/qa/chapters/28.json",
+      "sha256": "767c97e55598de0e822d16468cbba847adbbc7de0d9a51ad34a47066e5b61734",
+      "task_count": 9,
+      "status": "pass",
+      "unresolved_count": 0
+    },
+    "29": {
+      "path": "project/T2/qa/chapters/29.json",
+      "sha256": "143c16d225b8846ac89a327e49ae60015309fcbeda2bcd3eed34bc3c04df7d9f",
+      "task_count": 6,
+      "status": "pass",
+      "unresolved_count": 0
+    },
+    "30": {
+      "path": "project/T2/qa/chapters/30.json",
+      "sha256": "5c8463f52649b5fd866d3d39a02752fd1365aa59b07b64cd64fd2612c4279022",
+      "task_count": 14,
+      "status": "pass",
+      "unresolved_count": 0
+    },
+    "31": {
+      "path": "project/T2/qa/chapters/31.json",
+      "sha256": "fcd90e1944e6c33d26fa0e24be0d8e681303f41454ecf0c20e164de2cdeaa163",
+      "task_count": 7,
+      "status": "pass",
+      "unresolved_count": 0
+    },
+    "32": {
+      "path": "project/T2/qa/chapters/32.json",
+      "sha256": "bb4456314b490316315104517a84dbf0eb9fa3a92ac44c802bacebc1eebd1596",
+      "task_count": 14,
+      "status": "pass",
+      "unresolved_count": 0
+    }
+  },
+  "manifest_coverage": {
+    "physical_pages": 450,
+    "included_pages": 431,
+    "excluded_pages": 19,
+    "included_batch_owned_exactly_once": true,
+    "excluded_not_processed_by_batches": true,
+    "duplicate_batch_processing_pages": [],
+    "shared_section_boundary_processing_pages": [
+      {
+        "page": "T2:370",
+        "tasks": [
+          {
+            "task": "JPG-T2-C020-S02",
+            "batch": "JPG-T2-C020",
+            "chapter": "30",
+            "section": "30.4",
+            "source_regions": [
+              "method-selection rationale for ①-③; boundary continuation"
+            ]
+          },
+          {
+            "task": "JPG-T2-C020-S03",
+            "batch": "JPG-T2-C020",
+            "chapter": "30",
+            "section": "30.4",
+            "source_regions": [
+              "product/merchant lessor supplement; 46,800/48,000/60,000 example; 3.利息相当額の総額の算定 and principle/exception"
+            ]
+          }
+        ],
+        "classification": "intentional section-boundary split with distinct locator regions"
+      },
+      {
+        "page": "T2:376",
+        "tasks": [
+          {
+            "task": "JPG-T2-C020-S08",
+            "batch": "JPG-T2-C020",
+            "chapter": "30",
+            "section": "30.7",
+            "source_regions": [
+              "operating-lease contract/payment entries; 3. various views opening"
+            ]
+          },
+          {
+            "task": "JPG-T2-C020-S09",
+            "batch": "JPG-T2-C020",
+            "chapter": "30",
+            "section": "30.7",
+            "source_regions": [
+              "financial-transaction alternative and current-treatment problem opening"
+            ]
+          }
+        ],
+        "classification": "intentional section-boundary split with distinct locator regions"
+      },
+      {
+        "page": "T2:377",
+        "tasks": [
+          {
+            "task": "JPG-T2-C020-S09",
+            "batch": "JPG-T2-C020",
+            "chapter": "30",
+            "section": "30.7",
+            "source_regions": [
+              "financial-transaction alternative entry and liability/non-liability problem conclusion"
+            ]
+          },
+          {
+            "task": "JPG-T2-C020-S10",
+            "batch": "JPG-T2-C020",
+            "chapter": "30",
+            "section": "30.8",
+            "source_regions": [
+              "第8節; installment-purchase theory and four characteristics; substance-over-form view"
+            ]
+          }
+        ],
+        "classification": "intentional section-boundary split with distinct locator regions"
+      },
+      {
+        "page": "T2:415",
+        "tasks": [
+          {
+            "task": "JPG-T2-C023-S02",
+            "batch": "JPG-T2-C023",
+            "chapter": "32",
+            "section": "32.1",
+            "source_regions": [
+              "topic 4(3) equity-statement alternatives and current treatment; deadline supplement; topic 5(1) opening"
+            ]
+          },
+          {
+            "task": "JPG-T2-C023-S03",
+            "batch": "JPG-T2-C023",
+            "chapter": "32",
+            "section": "32.1",
+            "source_regions": [
+              "topic 5(1) lower-page opening and comparative-period disclosure boundary"
+            ]
+          }
+        ],
+        "classification": "intentional section-boundary split with distinct locator regions"
+      }
+    ],
+    "unintended_duplicate_processing_regions": 0
+  },
+  "chunk_integrity": {
+    "referenced_chunk_count": 104,
+    "filesystem_chunk_count": 104,
+    "orphan_chunks": [],
+    "missing_chunks": [],
+    "all_task_chunk_hashes_current": true,
+    "all_review_section_output_hashes_current": true,
+    "all_chapter_gate_hashes_current": true
+  },
+  "assembly": {
+    "method": "accepted workflow/scripts/source_md.py; live unpatched helper run used byte-validated Drive JPGs, publication replay revalidated repository-side gates against identical prerequisite digest",
+    "allowed_structural_removals": [
+      "chunk YAML envelope",
+      "duplicated initial chapter heading for subsequent chunks in the same chapter",
+      "duplicated initial section heading only for adjacent continuation chunks with the same section id"
+    ],
+    "task_count": 104,
+    "chapter_outputs": [
+      {
+        "id": "21",
+        "output": "merged/chapter-000.md",
+        "sha256": "374acff8a615a4f392546f61f34dceeac09c01b666959689d75bfdfe91668e0a"
+      },
+      {
+        "id": "22",
+        "output": "merged/chapter-001.md",
+        "sha256": "ac1b305ed695b134bb10a8f90b4bc81c14d3543c2a26e4c807a8d0745ea2bb8b"
+      },
+      {
+        "id": "23",
+        "output": "merged/chapter-002.md",
+        "sha256": "8140d2dea43823b891aed6a059258130a371263ab392f41f27329ea5eab31304"
+      },
+      {
+        "id": "24",
+        "output": "merged/chapter-003.md",
+        "sha256": "f210a7c08b4671b5e5a90e6e6ca3809cccac5c0332c0ac7c8fe54cab23023aae"
+      },
+      {
+        "id": "25",
+        "output": "merged/chapter-004.md",
+        "sha256": "9c80cc316aab3dc6ad788ae107324ba82f9440c85651f0cc0f62d82be2509c89"
+      },
+      {
+        "id": "26",
+        "output": "merged/chapter-005.md",
+        "sha256": "a8890268600e6192a9ead8dfd6d36aa5d0635088f5b0d18e7da47cb850537e91"
+      },
+      {
+        "id": "27",
+        "output": "merged/chapter-006.md",
+        "sha256": "ca5c0dcb4d30488ee317da3e25a4f9f2823e8e1b69cb8bac9e801c4f24d6e4f0"
+      },
+      {
+        "id": "28",
+        "output": "merged/chapter-007.md",
+        "sha256": "ac68670cba5b14357fbd548909914d9036e58461c2114bf939eb7c36a3f3029a"
+      },
+      {
+        "id": "29",
+        "output": "merged/chapter-008.md",
+        "sha256": "bffcb8a216ade6ce437f350dc8b9954b4f3898b57918c38eff75d1096420ab7b"
+      },
+      {
+        "id": "30",
+        "output": "merged/chapter-009.md",
+        "sha256": "7b76900a7126395c2e0add372e10879b76eb517010a05b99978b154246630b13"
+      },
+      {
+        "id": "31",
+        "output": "merged/chapter-010.md",
+        "sha256": "e84ec940a3cb2eefcef483b0a26827ee85c3b2722a68638c9f7756401b3c9068"
+      },
+      {
+        "id": "32",
+        "output": "merged/chapter-011.md",
+        "sha256": "c1b9df1245f5a4aa54b5b8c149d800f8e48108aaf954c0756f19216b5a713c46"
+      }
+    ],
+    "textbook_sha256": "16c3f9ff0c07a35d4556a087b47009ff72b711fba34de82e8d5b7ffc1fe3f892",
+    "assembly_manifest_sha256": "407e71786acd0556827461df03bf0720e021dc2159a843d097d6fac9b804e066",
+    "second_run_byte_identical": true,
+    "second_run_hashes": {
+      "merged/assembly.json": "407e71786acd0556827461df03bf0720e021dc2159a843d097d6fac9b804e066",
+      "merged/chapter-000.md": "374acff8a615a4f392546f61f34dceeac09c01b666959689d75bfdfe91668e0a",
+      "merged/chapter-001.md": "ac1b305ed695b134bb10a8f90b4bc81c14d3543c2a26e4c807a8d0745ea2bb8b",
+      "merged/chapter-002.md": "8140d2dea43823b891aed6a059258130a371263ab392f41f27329ea5eab31304",
+      "merged/chapter-003.md": "f210a7c08b4671b5e5a90e6e6ca3809cccac5c0332c0ac7c8fe54cab23023aae",
+      "merged/chapter-004.md": "9c80cc316aab3dc6ad788ae107324ba82f9440c85651f0cc0f62d82be2509c89",
+      "merged/chapter-005.md": "a8890268600e6192a9ead8dfd6d36aa5d0635088f5b0d18e7da47cb850537e91",
+      "merged/chapter-006.md": "ca5c0dcb4d30488ee317da3e25a4f9f2823e8e1b69cb8bac9e801c4f24d6e4f0",
+      "merged/chapter-007.md": "ac68670cba5b14357fbd548909914d9036e58461c2114bf939eb7c36a3f3029a",
+      "merged/chapter-008.md": "bffcb8a216ade6ce437f350dc8b9954b4f3898b57918c38eff75d1096420ab7b",
+      "merged/chapter-009.md": "7b76900a7126395c2e0add372e10879b76eb517010a05b99978b154246630b13",
+      "merged/chapter-010.md": "e84ec940a3cb2eefcef483b0a26827ee85c3b2722a68638c9f7756401b3c9068",
+      "merged/chapter-011.md": "c1b9df1245f5a4aa54b5b8c149d800f8e48108aaf954c0756f19216b5a713c46",
+      "merged/textbook.md": "16c3f9ff0c07a35d4556a087b47009ff72b711fba34de82e8d5b7ffc1fe3f892"
+    },
+    "exact_body_comparison": "pass: every merged chapter and textbook byte stream equals ordered reviewed chunk bodies after only the allowed boundary-heading removals"
+  },
+  "checks": {
+    "drive_450_jpg_hashes": "pass",
+    "catalog_image_inventory_sha256": "pass",
+    "canonical_task_order": "pass",
+    "chunk_hashes": "pass",
+    "review_hashes": "pass",
+    "chapter_gate_hashes": "pass",
+    "unique_included_page_batch_ownership": "pass",
+    "locator_coverage": "pass",
+    "orphan_chunks": "pass",
+    "unresolved_markers": "pass",
+    "unintended_duplicate_processing_regions": "pass",
+    "assembly_body_transform": "pass",
+    "assembly_rerun_stability": "pass",
+    "git_diff_check": "pass",
+    "source_md_check": "pass",
+    "source_md_assemble_first": "pass",
+    "source_md_assemble_second": "pass",
+    "actual_helper_execution": "pass"
+  },
+  "helper_execution": {
+    "status": "pass",
+    "verified_on": "2026-09-08",
+    "repository_snapshot_commit": "ffbc98f59b5e5514139e998c35896c3bcad420fa",
+    "repository_snapshot_workflow_run_id": 34190189815,
+    "repository_snapshot_artifact_id": 10041917715,
+    "source_cache": {
+      "physical_jpg_count": 450,
+      "catalog_image_inventory_sha256": "d577500ca271c7d4f0e8a1103b481e38e2494cc9c236d9fe954b35938a9a1c91",
+      "catalog_inventory_match": true,
+      "per_page_hash_mismatches": 0
+    },
+    "commands": [
+      {
+        "command": "python3 workflow/scripts/source_md.py check project/T2",
+        "exit_code": 0,
+        "stdout": "Source/task structural checks pass; image-to-text meaning requires human source review."
+      },
+      {
+        "command": "python3 workflow/scripts/source_md.py assemble project/T2",
+        "run": "first",
+        "exit_code": 0,
+        "stdout": "Merged without rewriting body text. Source revision: sha256:16c3f9ff0c07a35d4556a087b47009ff72b711fba34de82e8d5b7ffc1fe3f892"
+      },
+      {
+        "command": "python3 workflow/scripts/source_md.py assemble project/T2",
+        "run": "second",
+        "exit_code": 0,
+        "stdout": "Merged without rewriting body text. Source revision: sha256:16c3f9ff0c07a35d4556a087b47009ff72b711fba34de82e8d5b7ffc1fe3f892"
+      },
+      {
+        "command": "git diff --check",
+        "exit_code": 0
+      }
+    ],
+    "hash_comparisons": {
+      "first_run_equals_second_run": true,
+      "output_file_count": 14,
+      "textbook_sha256": "16c3f9ff0c07a35d4556a087b47009ff72b711fba34de82e8d5b7ffc1fe3f892",
+      "assembly_manifest_sha256": "407e71786acd0556827461df03bf0720e021dc2159a843d097d6fac9b804e066"
+    },
+    "note": "GitHub Actions exported main snapshot ffbc98f59b5e5514139e998c35896c3bcad420fa as artifact 10041917715. The execution environment restored all 450 connected-Drive JPGs byte-for-byte into manifest paths and ran the accepted unpatched helper. The later publication step is gated by the identical T2 prerequisite digest."
+  },
+  "publication_transport": {
+    "base_main_commit": "74cb41536bcce46f335273361789ec386a2a8671",
+    "input_digest_verified": true,
+    "expected_output_hashes_verified": true
+  },
+  "remaining_uncertainty": []
+}

@@ -1,0 +1,1845 @@
+{
+  "chapters": [
+    {
+      "id": "21",
+      "output": "merged/chapter-000.md",
+      "sha256": "374acff8a615a4f392546f61f34dceeac09c01b666959689d75bfdfe91668e0a"
+    },
+    {
+      "id": "22",
+      "output": "merged/chapter-001.md",
+      "sha256": "ac1b305ed695b134bb10a8f90b4bc81c14d3543c2a26e4c807a8d0745ea2bb8b"
+    },
+    {
+      "id": "23",
+      "output": "merged/chapter-002.md",
+      "sha256": "8140d2dea43823b891aed6a059258130a371263ab392f41f27329ea5eab31304"
+    },
+    {
+      "id": "24",
+      "output": "merged/chapter-003.md",
+      "sha256": "f210a7c08b4671b5e5a90e6e6ca3809cccac5c0332c0ac7c8fe54cab23023aae"
+    },
+    {
+      "id": "25",
+      "output": "merged/chapter-004.md",
+      "sha256": "9c80cc316aab3dc6ad788ae107324ba82f9440c85651f0cc0f62d82be2509c89"
+    },
+    {
+      "id": "26",
+      "output": "merged/chapter-005.md",
+      "sha256": "a8890268600e6192a9ead8dfd6d36aa5d0635088f5b0d18e7da47cb850537e91"
+    },
+    {
+      "id": "27",
+      "output": "merged/chapter-006.md",
+      "sha256": "ca5c0dcb4d30488ee317da3e25a4f9f2823e8e1b69cb8bac9e801c4f24d6e4f0"
+    },
+    {
+      "id": "28",
+      "output": "merged/chapter-007.md",
+      "sha256": "ac68670cba5b14357fbd548909914d9036e58461c2114bf939eb7c36a3f3029a"
+    },
+    {
+      "id": "29",
+      "output": "merged/chapter-008.md",
+      "sha256": "bffcb8a216ade6ce437f350dc8b9954b4f3898b57918c38eff75d1096420ab7b"
+    },
+    {
+      "id": "30",
+      "output": "merged/chapter-009.md",
+      "sha256": "7b76900a7126395c2e0add372e10879b76eb517010a05b99978b154246630b13"
+    },
+    {
+      "id": "31",
+      "output": "merged/chapter-010.md",
+      "sha256": "e84ec940a3cb2eefcef483b0a26827ee85c3b2722a68638c9f7756401b3c9068"
+    },
+    {
+      "id": "32",
+      "output": "merged/chapter-011.md",
+      "sha256": "c1b9df1245f5a4aa54b5b8c149d800f8e48108aaf954c0756f19216b5a713c46"
+    }
+  ],
+  "chunks": [
+    {
+      "task": "JPG-T2-C001-S01",
+      "batch": "JPG-T2-C001",
+      "chapter": "21",
+      "section": "21.1",
+      "chunk_sha256": "4368f606d053e217f378cf7df7843a0ba3746d9293d5d0321e869b91e5447ba4",
+      "processing_pages": [
+        "T2:007",
+        "T2:008",
+        "T2:009"
+      ],
+      "removed_boundary_headings": [],
+      "output": "merged/chapter-000.md"
+    },
+    {
+      "task": "JPG-T2-C001-S02",
+      "batch": "JPG-T2-C001",
+      "chapter": "21",
+      "section": "21.2",
+      "chunk_sha256": "4b54e3a9a556e8b56a6a706f7a88334ca7d4702887b019919db6ec7e44eb6bf5",
+      "processing_pages": [
+        "T2:010",
+        "T2:011",
+        "T2:012"
+      ],
+      "removed_boundary_headings": [
+        "# 第21章 棚卸資産の評価に関する会計基準"
+      ],
+      "output": "merged/chapter-000.md"
+    },
+    {
+      "task": "JPG-T2-C001-S03",
+      "batch": "JPG-T2-C001",
+      "chapter": "21",
+      "section": "21.3",
+      "chunk_sha256": "612fdc0d3510c5740b0452c4f30f06d9b2d528f440839e37829d827e7fdbb51f",
+      "processing_pages": [
+        "T2:013",
+        "T2:014"
+      ],
+      "removed_boundary_headings": [
+        "# 第21章 棚卸資産の評価に関する会計基準"
+      ],
+      "output": "merged/chapter-000.md"
+    },
+    {
+      "task": "JPG-T2-C001-S04",
+      "batch": "JPG-T2-C001",
+      "chapter": "21",
+      "section": "21.4",
+      "chunk_sha256": "8220e30f1b246f714c7e5eab62fc70c4aefea2ba2ada05517c480669f6a6eee0",
+      "processing_pages": [
+        "T2:015",
+        "T2:016",
+        "T2:017",
+        "T2:018",
+        "T2:019",
+        "T2:020"
+      ],
+      "removed_boundary_headings": [
+        "# 第21章 棚卸資産の評価に関する会計基準"
+      ],
+      "output": "merged/chapter-000.md"
+    },
+    {
+      "task": "JPG-T2-C001-S05",
+      "batch": "JPG-T2-C001",
+      "chapter": "21",
+      "section": "21.5",
+      "chunk_sha256": "785282c94dc62390906d672a21de1f900ac9c6e523a78a789c01b5e8c9ca1ac3",
+      "processing_pages": [
+        "T2:021",
+        "T2:022",
+        "T2:023",
+        "T2:024",
+        "T2:025"
+      ],
+      "removed_boundary_headings": [
+        "# 第21章 棚卸資産の評価に関する会計基準"
+      ],
+      "output": "merged/chapter-000.md"
+    },
+    {
+      "task": "JPG-T2-C001-S06",
+      "batch": "JPG-T2-C001",
+      "chapter": "21",
+      "section": "21.6",
+      "chunk_sha256": "6ea739c9cff5e9ba0a8f1d4478ee98aa551c27f198b819b88f71ade4af2f15ec",
+      "processing_pages": [
+        "T2:026",
+        "T2:027",
+        "T2:028",
+        "T2:029",
+        "T2:030"
+      ],
+      "removed_boundary_headings": [
+        "# 第21章 棚卸資産の評価に関する会計基準"
+      ],
+      "output": "merged/chapter-000.md"
+    },
+    {
+      "task": "JPG-T2-C002-S01",
+      "batch": "JPG-T2-C002",
+      "chapter": "21",
+      "section": "21.7",
+      "chunk_sha256": "e3b8e3a6637035ec3aa4a7eebafdf411e7fd270b134dc35da108fd4ec1588bd9",
+      "processing_pages": [
+        "T2:031",
+        "T2:032",
+        "T2:033",
+        "T2:034",
+        "T2:035",
+        "T2:036",
+        "T2:037"
+      ],
+      "removed_boundary_headings": [
+        "# 第21章 棚卸資産の評価に関する会計基準"
+      ],
+      "output": "merged/chapter-000.md"
+    },
+    {
+      "task": "JPG-T2-C002-S02",
+      "batch": "JPG-T2-C002",
+      "chapter": "21",
+      "section": "21.8",
+      "chunk_sha256": "f1649e120afa33dec3f824b82e10a20e2ba0e524ab25d89f36a00026a1209ef7",
+      "processing_pages": [
+        "T2:038",
+        "T2:039"
+      ],
+      "removed_boundary_headings": [
+        "# 第21章 棚卸資産の評価に関する会計基準"
+      ],
+      "output": "merged/chapter-000.md"
+    },
+    {
+      "task": "JPG-T2-C003-S01",
+      "batch": "JPG-T2-C003",
+      "chapter": "22",
+      "section": "22.1",
+      "chunk_sha256": "70990290a934240f83b29f667029b2b75cd9ef44aacd90615ff62917fd078390",
+      "processing_pages": [
+        "T2:041",
+        "T2:042",
+        "T2:043",
+        "T2:044",
+        "T2:045",
+        "T2:046",
+        "T2:047",
+        "T2:048"
+      ],
+      "removed_boundary_headings": [],
+      "output": "merged/chapter-001.md"
+    },
+    {
+      "task": "JPG-T2-C003-S02",
+      "batch": "JPG-T2-C003",
+      "chapter": "22",
+      "section": "22.2",
+      "chunk_sha256": "137f22e19a873407004c9ad437229733c0e7eb4b73b4bf0df5ecce50cf47f3a7",
+      "processing_pages": [
+        "T2:049",
+        "T2:050",
+        "T2:051",
+        "T2:052",
+        "T2:053",
+        "T2:054",
+        "T2:055"
+      ],
+      "removed_boundary_headings": [
+        "# 第22章 研究開発費等に係る会計基準"
+      ],
+      "output": "merged/chapter-001.md"
+    },
+    {
+      "task": "JPG-T2-C003-S03",
+      "batch": "JPG-T2-C003",
+      "chapter": "22",
+      "section": "22.3",
+      "chunk_sha256": "0191489ca42108909b3181b71da8d49554549f1c6a2d85f3dee12a097ef35f21",
+      "processing_pages": [
+        "T2:056",
+        "T2:057"
+      ],
+      "removed_boundary_headings": [
+        "# 第22章 研究開発費等に係る会計基準"
+      ],
+      "output": "merged/chapter-001.md"
+    },
+    {
+      "task": "JPG-T2-C003-S04",
+      "batch": "JPG-T2-C003",
+      "chapter": "22",
+      "section": "22.4",
+      "chunk_sha256": "9e20d5beb7224a6f9c63c0b166526f6c74c712121017f53965ae308e6f8e6f1b",
+      "processing_pages": [
+        "T2:058",
+        "T2:059",
+        "T2:060",
+        "T2:061"
+      ],
+      "removed_boundary_headings": [
+        "# 第22章 研究開発費等に係る会計基準"
+      ],
+      "output": "merged/chapter-001.md"
+    },
+    {
+      "task": "JPG-T2-C004-S01",
+      "batch": "JPG-T2-C004",
+      "chapter": "23",
+      "section": "23.1",
+      "chunk_sha256": "ad98a14ba353d646cf8109ca9418aceec41f210fb8e9342de7bf9530c9a45198",
+      "processing_pages": [
+        "T2:063",
+        "T2:064",
+        "T2:065"
+      ],
+      "removed_boundary_headings": [],
+      "output": "merged/chapter-002.md"
+    },
+    {
+      "task": "JPG-T2-C004-S02",
+      "batch": "JPG-T2-C004",
+      "chapter": "23",
+      "section": "23.2",
+      "chunk_sha256": "1be754c8b01d3e8ec6004203fe0ca0a07f7ed908ca08922463c23d1edd991cd9",
+      "processing_pages": [
+        "T2:066"
+      ],
+      "removed_boundary_headings": [
+        "# 第23章 固定資産の減損に係る会計基準"
+      ],
+      "output": "merged/chapter-002.md"
+    },
+    {
+      "task": "JPG-T2-C004-S03",
+      "batch": "JPG-T2-C004",
+      "chapter": "23",
+      "section": "23.3",
+      "chunk_sha256": "2f39f569c62658df0281fcc7f4487ed9522e5d98fffa78c3787f8a95b85df0da",
+      "processing_pages": [
+        "T2:067"
+      ],
+      "removed_boundary_headings": [
+        "# 第23章 固定資産の減損に係る会計基準"
+      ],
+      "output": "merged/chapter-002.md"
+    },
+    {
+      "task": "JPG-T2-C004-S04",
+      "batch": "JPG-T2-C004",
+      "chapter": "23",
+      "section": "23.4",
+      "chunk_sha256": "71e12aaa4332e43032f9a3d05ad2a6182b8585d44a32c79395db4bc243f1d2ef",
+      "processing_pages": [
+        "T2:068",
+        "T2:069",
+        "T2:070"
+      ],
+      "removed_boundary_headings": [
+        "# 第23章 固定資産の減損に係る会計基準"
+      ],
+      "output": "merged/chapter-002.md"
+    },
+    {
+      "task": "JPG-T2-C004-S05",
+      "batch": "JPG-T2-C004",
+      "chapter": "23",
+      "section": "23.5",
+      "chunk_sha256": "eb53719d0b4b3ab2b3170d0f294924cb7f6b177138e6bb58594593f75859eadf",
+      "processing_pages": [
+        "T2:071",
+        "T2:072",
+        "T2:073"
+      ],
+      "removed_boundary_headings": [
+        "# 第23章 固定資産の減損に係る会計基準"
+      ],
+      "output": "merged/chapter-002.md"
+    },
+    {
+      "task": "JPG-T2-C004-S06",
+      "batch": "JPG-T2-C004",
+      "chapter": "23",
+      "section": "23.6",
+      "chunk_sha256": "15b42bb0470b47c175a68b15a3596085cb450cb36ce2c5e50328096f32314683",
+      "processing_pages": [
+        "T2:074",
+        "T2:075",
+        "T2:076",
+        "T2:077",
+        "T2:078",
+        "T2:079",
+        "T2:080"
+      ],
+      "removed_boundary_headings": [
+        "# 第23章 固定資産の減損に係る会計基準"
+      ],
+      "output": "merged/chapter-002.md"
+    },
+    {
+      "task": "JPG-T2-C004-S07",
+      "batch": "JPG-T2-C004",
+      "chapter": "23",
+      "section": "23.7",
+      "chunk_sha256": "975dc56c3b1c475d2e1f5cf379e89c47e1eb51eaba2d70811779e417ad2712fc",
+      "processing_pages": [
+        "T2:081",
+        "T2:082",
+        "T2:083",
+        "T2:084",
+        "T2:085"
+      ],
+      "removed_boundary_headings": [
+        "# 第23章 固定資産の減損に係る会計基準"
+      ],
+      "output": "merged/chapter-002.md"
+    },
+    {
+      "task": "JPG-T2-C005-S01",
+      "batch": "JPG-T2-C005",
+      "chapter": "23",
+      "section": "23.8",
+      "chunk_sha256": "f5b769151c571d2f9b8a371067656b3762f9c503770d1a9a412834ba188bf3d9",
+      "processing_pages": [
+        "T2:086",
+        "T2:087",
+        "T2:088",
+        "T2:089"
+      ],
+      "removed_boundary_headings": [
+        "# 第23章 固定資産の減損に係る会計基準"
+      ],
+      "output": "merged/chapter-002.md"
+    },
+    {
+      "task": "JPG-T2-C005-S02",
+      "batch": "JPG-T2-C005",
+      "chapter": "23",
+      "section": "23.9",
+      "chunk_sha256": "817f49f65f291fa30436e5c22cae3a4a26d9db3913f39b59309c96debc1353f9",
+      "processing_pages": [
+        "T2:090",
+        "T2:091",
+        "T2:092",
+        "T2:093",
+        "T2:094",
+        "T2:095"
+      ],
+      "removed_boundary_headings": [
+        "# 第23章 固定資産の減損に係る会計基準"
+      ],
+      "output": "merged/chapter-002.md"
+    },
+    {
+      "task": "JPG-T2-C005-S03",
+      "batch": "JPG-T2-C005",
+      "chapter": "23",
+      "section": "23.10",
+      "chunk_sha256": "b0b88c326e7193aa674a0907ffd86ea748384fb437b8de2fff85bfbeb144162b",
+      "processing_pages": [
+        "T2:096",
+        "T2:097",
+        "T2:098"
+      ],
+      "removed_boundary_headings": [
+        "# 第23章 固定資産の減損に係る会計基準"
+      ],
+      "output": "merged/chapter-002.md"
+    },
+    {
+      "task": "JPG-T2-C005-S04",
+      "batch": "JPG-T2-C005",
+      "chapter": "23",
+      "section": "23.11",
+      "chunk_sha256": "5dd94ac3b9799d5c7627a97f532ec9dceb1bca5f393fe0ad41ddab2ce8be5a5b",
+      "processing_pages": [
+        "T2:099",
+        "T2:100"
+      ],
+      "removed_boundary_headings": [
+        "# 第23章 固定資産の減損に係る会計基準"
+      ],
+      "output": "merged/chapter-002.md"
+    },
+    {
+      "task": "JPG-T2-C006-S01",
+      "batch": "JPG-T2-C006",
+      "chapter": "24",
+      "section": "24.1",
+      "chunk_sha256": "de59cff1b7d3f8f4491a81df87d2a40e8089562d41c718a8c0cf517678f4c39d",
+      "processing_pages": [
+        "T2:101",
+        "T2:102",
+        "T2:103",
+        "T2:104"
+      ],
+      "removed_boundary_headings": [],
+      "output": "merged/chapter-003.md"
+    },
+    {
+      "task": "JPG-T2-C006-S02",
+      "batch": "JPG-T2-C006",
+      "chapter": "24",
+      "section": "24.2",
+      "chunk_sha256": "9dbf72e0ed048c09496d50bd37eb7c395054b6febcbe042bdd1519406fd3f0d4",
+      "processing_pages": [
+        "T2:105",
+        "T2:106",
+        "T2:107",
+        "T2:108",
+        "T2:109",
+        "T2:110",
+        "T2:111",
+        "T2:112",
+        "T2:113",
+        "T2:114"
+      ],
+      "removed_boundary_headings": [
+        "# 第24章 退職給付に関する会計基準"
+      ],
+      "output": "merged/chapter-003.md"
+    },
+    {
+      "task": "JPG-T2-C006-S03",
+      "batch": "JPG-T2-C006",
+      "chapter": "24",
+      "section": "24.3",
+      "chunk_sha256": "2a4b1961fa393df3a86baff1b6fd6a873fa867015f7dc3b469fe95e07c273520",
+      "processing_pages": [
+        "T2:115",
+        "T2:116",
+        "T2:117",
+        "T2:118"
+      ],
+      "removed_boundary_headings": [
+        "# 第24章 退職給付に関する会計基準"
+      ],
+      "output": "merged/chapter-003.md"
+    },
+    {
+      "task": "JPG-T2-C007-S01",
+      "batch": "JPG-T2-C007",
+      "chapter": "24",
+      "section": "24.4",
+      "chunk_sha256": "5972d8f150e9192bdfc1cb14f5db77aebd0d57d0966132b5e7b844106cd11428",
+      "processing_pages": [
+        "T2:119",
+        "T2:120",
+        "T2:121",
+        "T2:122",
+        "T2:123",
+        "T2:124",
+        "T2:125",
+        "T2:126",
+        "T2:127",
+        "T2:128"
+      ],
+      "removed_boundary_headings": [
+        "# 第24章 退職給付に関する会計基準"
+      ],
+      "output": "merged/chapter-003.md"
+    },
+    {
+      "task": "JPG-T2-C007-S02",
+      "batch": "JPG-T2-C007",
+      "chapter": "24",
+      "section": "24.5",
+      "chunk_sha256": "7b638b2e09ff5d43f93aacec4e74fc40545f41edc964c0becff7b0ca610530de",
+      "processing_pages": [
+        "T2:129",
+        "T2:130"
+      ],
+      "removed_boundary_headings": [
+        "# 第24章 退職給付に関する会計基準"
+      ],
+      "output": "merged/chapter-003.md"
+    },
+    {
+      "task": "JPG-T2-C007-S03",
+      "batch": "JPG-T2-C007",
+      "chapter": "24",
+      "section": "24.6",
+      "chunk_sha256": "8d24f181a2973d67d62b94d640d76da9a46e9e661d7ea18abf78b8c840af165c",
+      "processing_pages": [
+        "T2:131",
+        "T2:132",
+        "T2:133",
+        "T2:134"
+      ],
+      "removed_boundary_headings": [
+        "# 第24章 退職給付に関する会計基準"
+      ],
+      "output": "merged/chapter-003.md"
+    },
+    {
+      "task": "JPG-T2-C007-S04",
+      "batch": "JPG-T2-C007",
+      "chapter": "24",
+      "section": "24.7",
+      "chunk_sha256": "626bbf2e84c95e0275e6d17119c0e64721b8bf0a5f7a3a5ee3b85ab33c6d6616",
+      "processing_pages": [
+        "T2:135",
+        "T2:136"
+      ],
+      "removed_boundary_headings": [
+        "# 第24章 退職給付に関する会計基準"
+      ],
+      "output": "merged/chapter-003.md"
+    },
+    {
+      "task": "JPG-T2-C007-S05",
+      "batch": "JPG-T2-C007",
+      "chapter": "24",
+      "section": "24.8",
+      "chunk_sha256": "a07bb249d53ede493c1f3fd4fe27ffb18baa77c103f33a143144491df5e1e444",
+      "processing_pages": [
+        "T2:137",
+        "T2:138",
+        "T2:139",
+        "T2:140"
+      ],
+      "removed_boundary_headings": [
+        "# 第24章 退職給付に関する会計基準"
+      ],
+      "output": "merged/chapter-003.md"
+    },
+    {
+      "task": "JPG-T2-C007-S06",
+      "batch": "JPG-T2-C007",
+      "chapter": "24",
+      "section": "24.9",
+      "chunk_sha256": "ee3652926627f4981647e7692e66b9e6751c54001eae303dbab0f45d5aeb56fd",
+      "processing_pages": [
+        "T2:141"
+      ],
+      "removed_boundary_headings": [
+        "# 第24章 退職給付に関する会計基準"
+      ],
+      "output": "merged/chapter-003.md"
+    },
+    {
+      "task": "JPG-T2-C008-S01",
+      "batch": "JPG-T2-C008",
+      "chapter": "25",
+      "section": "25.1",
+      "chunk_sha256": "82e21d30838556636525504cc2e455e9f885e453a32aac7c27259b0b30a108f6",
+      "processing_pages": [
+        "T2:143",
+        "T2:144",
+        "T2:145"
+      ],
+      "removed_boundary_headings": [],
+      "output": "merged/chapter-004.md"
+    },
+    {
+      "task": "JPG-T2-C008-S02",
+      "batch": "JPG-T2-C008",
+      "chapter": "25",
+      "section": "25.2",
+      "chunk_sha256": "209d4a211ebaaca00b5c4c72037fd2021668bc8e8e7bb72db1d9a9049a8bc48e",
+      "processing_pages": [
+        "T2:146",
+        "T2:147",
+        "T2:148",
+        "T2:149",
+        "T2:150",
+        "T2:151",
+        "T2:152"
+      ],
+      "removed_boundary_headings": [
+        "# 第25章 資産除去債務に関する会計基準"
+      ],
+      "output": "merged/chapter-004.md"
+    },
+    {
+      "task": "JPG-T2-C008-S03",
+      "batch": "JPG-T2-C008",
+      "chapter": "25",
+      "section": "25.3",
+      "chunk_sha256": "a753338bbb726f4fa9fd9f65d3a3726590d322a4179d6bbef5eec5f1285c0787",
+      "processing_pages": [
+        "T2:153",
+        "T2:154",
+        "T2:155",
+        "T2:156",
+        "T2:157"
+      ],
+      "removed_boundary_headings": [
+        "# 第25章 資産除去債務に関する会計基準"
+      ],
+      "output": "merged/chapter-004.md"
+    },
+    {
+      "task": "JPG-T2-C008-S04",
+      "batch": "JPG-T2-C008",
+      "chapter": "25",
+      "section": "25.4",
+      "chunk_sha256": "9dc65262e8c4000c9e2aa07d33010246c5b1110d9dbfec06bc585c988d81ed02",
+      "processing_pages": [
+        "T2:158",
+        "T2:159",
+        "T2:160",
+        "T2:161",
+        "T2:162",
+        "T2:163",
+        "T2:164"
+      ],
+      "removed_boundary_headings": [
+        "# 第25章 資産除去債務に関する会計基準"
+      ],
+      "output": "merged/chapter-004.md"
+    },
+    {
+      "task": "JPG-T2-C008-S05",
+      "batch": "JPG-T2-C008",
+      "chapter": "25",
+      "section": "25.5",
+      "chunk_sha256": "529215f63fd6a7b4b4becc058ead0341b98390b937e8b6f92cc0b14f33aaf319",
+      "processing_pages": [
+        "T2:165"
+      ],
+      "removed_boundary_headings": [
+        "# 第25章 資産除去債務に関する会計基準"
+      ],
+      "output": "merged/chapter-004.md"
+    },
+    {
+      "task": "JPG-T2-C009-S01",
+      "batch": "JPG-T2-C009",
+      "chapter": "26",
+      "section": "26.1",
+      "chunk_sha256": "93fead16634bc47ec8d0908b125137d6aa4dcb153ccf4032b8c7dd404bc18063",
+      "processing_pages": [
+        "T2:167",
+        "T2:168"
+      ],
+      "removed_boundary_headings": [],
+      "output": "merged/chapter-005.md"
+    },
+    {
+      "task": "JPG-T2-C009-S02",
+      "batch": "JPG-T2-C009",
+      "chapter": "26",
+      "section": "26.2",
+      "chunk_sha256": "e4d1dd154617a57da06dde36433c359f5d956541e0d7b574c2c525fab3786dc9",
+      "processing_pages": [
+        "T2:169",
+        "T2:170"
+      ],
+      "removed_boundary_headings": [
+        "# 第26章 資本会計（会計基準論点）"
+      ],
+      "output": "merged/chapter-005.md"
+    },
+    {
+      "task": "JPG-T2-C009-S03",
+      "batch": "JPG-T2-C009",
+      "chapter": "26",
+      "section": "26.3",
+      "chunk_sha256": "fe8fcefa4b2142a0dac61019543d801926eb32729e28022ed462ec0b46ccc5a1",
+      "processing_pages": [
+        "T2:171",
+        "T2:172",
+        "T2:173",
+        "T2:174",
+        "T2:175",
+        "T2:176",
+        "T2:177"
+      ],
+      "removed_boundary_headings": [
+        "# 第26章 資本会計（会計基準論点）"
+      ],
+      "output": "merged/chapter-005.md"
+    },
+    {
+      "task": "JPG-T2-C009-S04",
+      "batch": "JPG-T2-C009",
+      "chapter": "26",
+      "section": "26.4",
+      "chunk_sha256": "7aaaca3b5d89a454b7e48635c369cae0771c1f1481222f03d6630bc12c5b4137",
+      "processing_pages": [
+        "T2:178",
+        "T2:179"
+      ],
+      "removed_boundary_headings": [
+        "# 第26章 資本会計（会計基準論点）"
+      ],
+      "output": "merged/chapter-005.md"
+    },
+    {
+      "task": "JPG-T2-C009-S05",
+      "batch": "JPG-T2-C009",
+      "chapter": "26",
+      "section": "26.5",
+      "chunk_sha256": "abfeb4fb3f48b3782386436b85dd2d9260253172bc38a9cdfea69e9c90def822",
+      "processing_pages": [
+        "T2:180",
+        "T2:181",
+        "T2:182",
+        "T2:183",
+        "T2:184",
+        "T2:185"
+      ],
+      "removed_boundary_headings": [
+        "# 第26章 資本会計（会計基準論点）"
+      ],
+      "output": "merged/chapter-005.md"
+    },
+    {
+      "task": "JPG-T2-C010-S01",
+      "batch": "JPG-T2-C010",
+      "chapter": "26",
+      "section": "26.6",
+      "chunk_sha256": "15a954632c0880166d2a4628441e276023a6e0921fdeb353d8bdb81490bb4697",
+      "processing_pages": [
+        "T2:186",
+        "T2:187",
+        "T2:188",
+        "T2:189",
+        "T2:190",
+        "T2:191",
+        "T2:192",
+        "T2:193",
+        "T2:194",
+        "T2:195",
+        "T2:196",
+        "T2:197",
+        "T2:198"
+      ],
+      "removed_boundary_headings": [
+        "# 第26章 資本会計（会計基準論点）"
+      ],
+      "output": "merged/chapter-005.md"
+    },
+    {
+      "task": "JPG-T2-C010-S02",
+      "batch": "JPG-T2-C010",
+      "chapter": "26",
+      "section": "26.7",
+      "chunk_sha256": "9c165baf0c4365d2e54c43dd9c9e2c52ad905b9f56335d59453687ae8f755aab",
+      "processing_pages": [
+        "T2:199",
+        "T2:200",
+        "T2:201",
+        "T2:202",
+        "T2:203",
+        "T2:204",
+        "T2:205",
+        "T2:206",
+        "T2:207",
+        "T2:208"
+      ],
+      "removed_boundary_headings": [
+        "# 第26章 資本会計（会計基準論点）"
+      ],
+      "output": "merged/chapter-005.md"
+    },
+    {
+      "task": "JPG-T2-C011-S01",
+      "batch": "JPG-T2-C011",
+      "chapter": "26",
+      "section": "26.8",
+      "chunk_sha256": "eed4d696f14eb20785d3fd4b6b6a7c67455c21da91363820aa2189fe3243aa41",
+      "processing_pages": [
+        "T2:209",
+        "T2:210",
+        "T2:211",
+        "T2:212",
+        "T2:213"
+      ],
+      "removed_boundary_headings": [
+        "# 第26章 資本会計（会計基準論点）"
+      ],
+      "output": "merged/chapter-005.md"
+    },
+    {
+      "task": "JPG-T2-C012-S01",
+      "batch": "JPG-T2-C012",
+      "chapter": "27",
+      "section": "27.1",
+      "chunk_sha256": "ff409bd29a254123567a224296acca55b66ce1ae66f9f6f84a5073f009a00910",
+      "processing_pages": [
+        "T2:215",
+        "T2:216",
+        "T2:217",
+        "T2:218"
+      ],
+      "removed_boundary_headings": [],
+      "output": "merged/chapter-006.md"
+    },
+    {
+      "task": "JPG-T2-C012-S02",
+      "batch": "JPG-T2-C012",
+      "chapter": "27",
+      "section": "27.2",
+      "chunk_sha256": "92978ed63f53731f9d435b2153fe066ea50458e135e9ec7084ed35ac9ddeefc2",
+      "processing_pages": [
+        "T2:219",
+        "T2:220",
+        "T2:221",
+        "T2:222",
+        "T2:223",
+        "T2:224"
+      ],
+      "removed_boundary_headings": [
+        "# 第27章 ストック・オプション等に関する会計基準"
+      ],
+      "output": "merged/chapter-006.md"
+    },
+    {
+      "task": "JPG-T2-C012-S03",
+      "batch": "JPG-T2-C012",
+      "chapter": "27",
+      "section": "27.3",
+      "chunk_sha256": "2bab97c709b7001cb89fdc0a4884f4e416edd01102d0cb329bcc9bfd8b63b7e6",
+      "processing_pages": [
+        "T2:225",
+        "T2:226",
+        "T2:227",
+        "T2:228",
+        "T2:229",
+        "T2:230",
+        "T2:231",
+        "T2:232"
+      ],
+      "removed_boundary_headings": [
+        "# 第27章 ストック・オプション等に関する会計基準"
+      ],
+      "output": "merged/chapter-006.md"
+    },
+    {
+      "task": "JPG-T2-C012-S04",
+      "batch": "JPG-T2-C012",
+      "chapter": "27",
+      "section": "27.4",
+      "chunk_sha256": "bbf2c7fce891efc25ba8d6145ae193f90a591ef4349f7f49dc05a369f00d1011",
+      "processing_pages": [
+        "T2:233",
+        "T2:234",
+        "T2:235",
+        "T2:236",
+        "T2:237",
+        "T2:238"
+      ],
+      "removed_boundary_headings": [
+        "# 第27章 ストック・オプション等に関する会計基準"
+      ],
+      "output": "merged/chapter-006.md"
+    },
+    {
+      "task": "JPG-T2-C013-S01",
+      "batch": "JPG-T2-C013",
+      "chapter": "27",
+      "section": "27.5",
+      "chunk_sha256": "902dc355b24c093eee569ebd499f946146c2ba6236c6b07519338a9c0bec23aa",
+      "processing_pages": [
+        "T2:239",
+        "T2:240",
+        "T2:241",
+        "T2:242"
+      ],
+      "removed_boundary_headings": [
+        "# 第27章 ストック・オプション等に関する会計基準"
+      ],
+      "output": "merged/chapter-006.md"
+    },
+    {
+      "task": "JPG-T2-C013-S02",
+      "batch": "JPG-T2-C013",
+      "chapter": "27",
+      "section": "27.6",
+      "chunk_sha256": "5f76856bd1275bc2a41043dff6bcb1f0572195b65ddf43cac69c15ec5d7a4257",
+      "processing_pages": [
+        "T2:243",
+        "T2:244"
+      ],
+      "removed_boundary_headings": [
+        "# 第27章 ストック・オプション等に関する会計基準"
+      ],
+      "output": "merged/chapter-006.md"
+    },
+    {
+      "task": "JPG-T2-C013-S03",
+      "batch": "JPG-T2-C013",
+      "chapter": "27",
+      "section": "27.7",
+      "chunk_sha256": "c37d9b380300c9efdfe429b1a69cd757ee2f5a663c61ac02419ffc2cb29439d3",
+      "processing_pages": [
+        "T2:245",
+        "T2:246",
+        "T2:247"
+      ],
+      "removed_boundary_headings": [
+        "# 第27章 ストック・オプション等に関する会計基準"
+      ],
+      "output": "merged/chapter-006.md"
+    },
+    {
+      "task": "JPG-T2-C013-S04",
+      "batch": "JPG-T2-C013",
+      "chapter": "27",
+      "section": "27.8",
+      "chunk_sha256": "ab1ba3d1eab6cb421a8a8463c914d5e0607b930d71c7947cd11bbf9970f7a1c8",
+      "processing_pages": [
+        "T2:248"
+      ],
+      "removed_boundary_headings": [
+        "# 第27章 ストック・オプション等に関する会計基準"
+      ],
+      "output": "merged/chapter-006.md"
+    },
+    {
+      "task": "JPG-T2-C013-S05",
+      "batch": "JPG-T2-C013",
+      "chapter": "27",
+      "section": "27.9",
+      "chunk_sha256": "677f5b3986a1c5c9c469cc320a45d3999dd4b99d325deacef4b49becb7c12d22",
+      "processing_pages": [
+        "T2:249",
+        "T2:250",
+        "T2:251",
+        "T2:252"
+      ],
+      "removed_boundary_headings": [
+        "# 第27章 ストック・オプション等に関する会計基準"
+      ],
+      "output": "merged/chapter-006.md"
+    },
+    {
+      "task": "JPG-T2-C014-S01",
+      "batch": "JPG-T2-C014",
+      "chapter": "28",
+      "section": "28.1",
+      "chunk_sha256": "3e6f9d8f98db0c2e665faa08345f476f98e2e899241e729045c82b95180e346c",
+      "processing_pages": [
+        "T2:253",
+        "T2:254"
+      ],
+      "removed_boundary_headings": [],
+      "output": "merged/chapter-007.md"
+    },
+    {
+      "task": "JPG-T2-C014-S02",
+      "batch": "JPG-T2-C014",
+      "chapter": "28",
+      "section": "28.2",
+      "chunk_sha256": "883a6a98de12db1911665e97d2f7a2798c8c018335a0708d5884b717cbc3ea97",
+      "processing_pages": [
+        "T2:255",
+        "T2:256",
+        "T2:257",
+        "T2:258",
+        "T2:259"
+      ],
+      "removed_boundary_headings": [
+        "# 第28章 外貨建取引等会計処理基準"
+      ],
+      "output": "merged/chapter-007.md"
+    },
+    {
+      "task": "JPG-T2-C014-S03",
+      "batch": "JPG-T2-C014",
+      "chapter": "28",
+      "section": "28.3",
+      "chunk_sha256": "ec11af700acd50bfe9d948fc4e6004209a4164f7f597e91cbc170893f6e3c1c2",
+      "processing_pages": [
+        "T2:260",
+        "T2:261",
+        "T2:262",
+        "T2:263"
+      ],
+      "removed_boundary_headings": [
+        "# 第28章 外貨建取引等会計処理基準"
+      ],
+      "output": "merged/chapter-007.md"
+    },
+    {
+      "task": "JPG-T2-C014-S04",
+      "batch": "JPG-T2-C014",
+      "chapter": "28",
+      "section": "28.4",
+      "chunk_sha256": "66916f571b66993d1500e4b4de0815b8f7db2692224dff96e1303c7db9be8b21",
+      "processing_pages": [
+        "T2:264",
+        "T2:265",
+        "T2:266",
+        "T2:267",
+        "T2:268",
+        "T2:269",
+        "T2:270"
+      ],
+      "removed_boundary_headings": [
+        "# 第28章 外貨建取引等会計処理基準"
+      ],
+      "output": "merged/chapter-007.md"
+    },
+    {
+      "task": "JPG-T2-C014-S05",
+      "batch": "JPG-T2-C014",
+      "chapter": "28",
+      "section": "28.5",
+      "chunk_sha256": "2d33d63b1f000b356ba1c09dbdc23829dd156d050bb1335e455035c861fa2c09",
+      "processing_pages": [
+        "T2:271",
+        "T2:272",
+        "T2:273",
+        "T2:274",
+        "T2:275"
+      ],
+      "removed_boundary_headings": [
+        "# 第28章 外貨建取引等会計処理基準"
+      ],
+      "output": "merged/chapter-007.md"
+    },
+    {
+      "task": "JPG-T2-C014-S06",
+      "batch": "JPG-T2-C014",
+      "chapter": "28",
+      "section": "28.6",
+      "chunk_sha256": "8167723f6137d9bff4747927d812f20ab58fd2812c106a9b52baeec1849790fe",
+      "processing_pages": [
+        "T2:276"
+      ],
+      "removed_boundary_headings": [
+        "# 第28章 外貨建取引等会計処理基準"
+      ],
+      "output": "merged/chapter-007.md"
+    },
+    {
+      "task": "JPG-T2-C015-S01",
+      "batch": "JPG-T2-C015",
+      "chapter": "28",
+      "section": "28.7",
+      "chunk_sha256": "d8601ddb55fdcfbb0ed1e5c8cb0b8c29658567fb327076b500555bf0dccc7063",
+      "processing_pages": [
+        "T2:277",
+        "T2:278",
+        "T2:279",
+        "T2:280",
+        "T2:281",
+        "T2:282",
+        "T2:283"
+      ],
+      "removed_boundary_headings": [
+        "# 第28章 外貨建取引等会計処理基準"
+      ],
+      "output": "merged/chapter-007.md"
+    },
+    {
+      "task": "JPG-T2-C015-S02",
+      "batch": "JPG-T2-C015",
+      "chapter": "28",
+      "section": "28.8",
+      "chunk_sha256": "ef288cc7a9b206fb7edc48d5e4a371adbdfc7fa2cdfda1aa53154f750649bf81",
+      "processing_pages": [
+        "T2:284",
+        "T2:285"
+      ],
+      "removed_boundary_headings": [
+        "# 第28章 外貨建取引等会計処理基準"
+      ],
+      "output": "merged/chapter-007.md"
+    },
+    {
+      "task": "JPG-T2-C015-S03",
+      "batch": "JPG-T2-C015",
+      "chapter": "28",
+      "section": "28.9",
+      "chunk_sha256": "9946e52d5bc2a6875f4b6a35af4591d701c2840b8f927c789e4e9ee83d918ca6",
+      "processing_pages": [
+        "T2:286",
+        "T2:287",
+        "T2:288",
+        "T2:289",
+        "T2:290",
+        "T2:291",
+        "T2:292",
+        "T2:293",
+        "T2:294",
+        "T2:295"
+      ],
+      "removed_boundary_headings": [
+        "# 第28章 外貨建取引等会計処理基準"
+      ],
+      "output": "merged/chapter-007.md"
+    },
+    {
+      "task": "JPG-T2-C016-S01",
+      "batch": "JPG-T2-C016",
+      "chapter": "29",
+      "section": "29.1",
+      "chunk_sha256": "496a957722c902a6baf46bc25103cddc571425f0c4f2f85250596b011eaca809",
+      "processing_pages": [
+        "T2:297",
+        "T2:298",
+        "T2:299",
+        "T2:300",
+        "T2:301",
+        "T2:302"
+      ],
+      "removed_boundary_headings": [],
+      "output": "merged/chapter-008.md"
+    },
+    {
+      "task": "JPG-T2-C016-S02",
+      "batch": "JPG-T2-C016",
+      "chapter": "29",
+      "section": "29.2",
+      "chunk_sha256": "b198852b5be0de55c5c3dc31803ba4538a2fc4590db7d744fd14105777ce0c83",
+      "processing_pages": [
+        "T2:303",
+        "T2:304",
+        "T2:305",
+        "T2:306"
+      ],
+      "removed_boundary_headings": [
+        "# 第29章 税効果会計に係る会計基準"
+      ],
+      "output": "merged/chapter-008.md"
+    },
+    {
+      "task": "JPG-T2-C016-S03",
+      "batch": "JPG-T2-C016",
+      "chapter": "29",
+      "section": "29.3",
+      "chunk_sha256": "c84551d65822d2ec65b1564aa39de66f36a2f9ae7dfca1f7f13ea343b0a4a4b4",
+      "processing_pages": [
+        "T2:307",
+        "T2:308",
+        "T2:309",
+        "T2:310",
+        "T2:311",
+        "T2:312",
+        "T2:313",
+        "T2:314"
+      ],
+      "removed_boundary_headings": [
+        "# 第29章 税効果会計に係る会計基準"
+      ],
+      "output": "merged/chapter-008.md"
+    },
+    {
+      "task": "JPG-T2-C017-S01",
+      "batch": "JPG-T2-C017",
+      "chapter": "29",
+      "section": "29.4",
+      "chunk_sha256": "5e72e89b4b926aa7663d9021a8b115cb4673588743d26b9c087d0905e067d4a6",
+      "processing_pages": [
+        "T2:315",
+        "T2:316",
+        "T2:317",
+        "T2:318",
+        "T2:319",
+        "T2:320",
+        "T2:321",
+        "T2:322",
+        "T2:323",
+        "T2:324",
+        "T2:325",
+        "T2:326",
+        "T2:327",
+        "T2:328",
+        "T2:329"
+      ],
+      "removed_boundary_headings": [
+        "# 第29章 税効果会計に係る会計基準"
+      ],
+      "output": "merged/chapter-008.md"
+    },
+    {
+      "task": "JPG-T2-C017-S02",
+      "batch": "JPG-T2-C017",
+      "chapter": "29",
+      "section": "29.5",
+      "chunk_sha256": "499045df94bf4b33b582c3d42452099413d465204f6903bcfeaf320732ed1585",
+      "processing_pages": [
+        "T2:330",
+        "T2:331",
+        "T2:332"
+      ],
+      "removed_boundary_headings": [
+        "# 第29章 税効果会計に係る会計基準"
+      ],
+      "output": "merged/chapter-008.md"
+    },
+    {
+      "task": "JPG-T2-C018-S01",
+      "batch": "JPG-T2-C018",
+      "chapter": "29",
+      "section": "29.6",
+      "chunk_sha256": "00dc0ebf6d76b521b644fce1e6e23c698c3f45b651149d41c9ede6e53bce69c8",
+      "processing_pages": [
+        "T2:333",
+        "T2:334",
+        "T2:335",
+        "T2:336",
+        "T2:337",
+        "T2:338",
+        "T2:339",
+        "T2:340",
+        "T2:341",
+        "T2:342",
+        "T2:343",
+        "T2:344",
+        "T2:345",
+        "T2:346"
+      ],
+      "removed_boundary_headings": [
+        "# 第29章 税効果会計に係る会計基準"
+      ],
+      "output": "merged/chapter-008.md"
+    },
+    {
+      "task": "JPG-T2-C019-S01",
+      "batch": "JPG-T2-C019",
+      "chapter": "30",
+      "section": "30.1",
+      "chunk_sha256": "d3d7f0b96fbea92cb4149d87ce5a0769fc2c3e63a41780a6522d5e41586928f2",
+      "processing_pages": [
+        "T2:347",
+        "T2:348",
+        "T2:349",
+        "T2:350",
+        "T2:351",
+        "T2:352",
+        "T2:353"
+      ],
+      "removed_boundary_headings": [],
+      "output": "merged/chapter-009.md"
+    },
+    {
+      "task": "JPG-T2-C019-S02",
+      "batch": "JPG-T2-C019",
+      "chapter": "30",
+      "section": "30.2",
+      "chunk_sha256": "c2afa36e8a9bb81db29c25d431cc3737602b579cb7f3cc8e82ee200a44f6d3aa",
+      "processing_pages": [
+        "T2:354",
+        "T2:355",
+        "T2:356",
+        "T2:357",
+        "T2:358"
+      ],
+      "removed_boundary_headings": [
+        "# 第30章 リース取引に関する会計基準"
+      ],
+      "output": "merged/chapter-009.md"
+    },
+    {
+      "task": "JPG-T2-C019-S03",
+      "batch": "JPG-T2-C019",
+      "chapter": "30",
+      "section": "30.3",
+      "chunk_sha256": "ed3ccdeda4bef47b6ca046a60844c1bd626b3012ba28428cb1795d9f3715e1d2",
+      "processing_pages": [
+        "T2:359",
+        "T2:360",
+        "T2:361",
+        "T2:362",
+        "T2:363",
+        "T2:364",
+        "T2:365",
+        "T2:366",
+        "T2:367"
+      ],
+      "removed_boundary_headings": [
+        "# 第30章 リース取引に関する会計基準"
+      ],
+      "output": "merged/chapter-009.md"
+    },
+    {
+      "task": "JPG-T2-C020-S01",
+      "batch": "JPG-T2-C020",
+      "chapter": "30",
+      "section": "30.4",
+      "chunk_sha256": "3805725d2da74d21de8146e30e0a266ba0b44e91a1944456b6bc50b0635aae1b",
+      "processing_pages": [
+        "T2:368"
+      ],
+      "removed_boundary_headings": [
+        "# 第30章 リース取引に関する会計基準"
+      ],
+      "output": "merged/chapter-009.md"
+    },
+    {
+      "task": "JPG-T2-C020-S02",
+      "batch": "JPG-T2-C020",
+      "chapter": "30",
+      "section": "30.4",
+      "chunk_sha256": "f1bed3d25fa2ef657425600760582d234602bcfc272ff6dd320c5895f9ad6ff3",
+      "processing_pages": [
+        "T2:369",
+        "T2:370"
+      ],
+      "removed_boundary_headings": [
+        "# 第30章 リース取引に関する会計基準",
+        "## 第4節 ファイナンス・リース取引の貸手の会計処理"
+      ],
+      "output": "merged/chapter-009.md"
+    },
+    {
+      "task": "JPG-T2-C020-S03",
+      "batch": "JPG-T2-C020",
+      "chapter": "30",
+      "section": "30.4",
+      "chunk_sha256": "e929590649a764a6accbafec67b19d7b06c42036ad797a36d9d3b37f65dc2c0a",
+      "processing_pages": [
+        "T2:370"
+      ],
+      "removed_boundary_headings": [
+        "# 第30章 リース取引に関する会計基準",
+        "## 第4節 ファイナンス・リース取引の貸手の会計処理"
+      ],
+      "output": "merged/chapter-009.md"
+    },
+    {
+      "task": "JPG-T2-C020-S04",
+      "batch": "JPG-T2-C020",
+      "chapter": "30",
+      "section": "30.4",
+      "chunk_sha256": "7dfc603a9e198bab65d101489235c7ad007c59b178e8855e03457eace5ca7786",
+      "processing_pages": [
+        "T2:371"
+      ],
+      "removed_boundary_headings": [
+        "# 第30章 リース取引に関する会計基準",
+        "## 第4節 ファイナンス・リース取引の貸手の会計処理"
+      ],
+      "output": "merged/chapter-009.md"
+    },
+    {
+      "task": "JPG-T2-C020-S05",
+      "batch": "JPG-T2-C020",
+      "chapter": "30",
+      "section": "30.5",
+      "chunk_sha256": "bfb9a56d79a2c20677cdfae6dade2c1bae3b86cd3631c135187bc28bfa1823f7",
+      "processing_pages": [
+        "T2:372"
+      ],
+      "removed_boundary_headings": [
+        "# 第30章 リース取引に関する会計基準"
+      ],
+      "output": "merged/chapter-009.md"
+    },
+    {
+      "task": "JPG-T2-C020-S06",
+      "batch": "JPG-T2-C020",
+      "chapter": "30",
+      "section": "30.6",
+      "chunk_sha256": "632a6a462908d5542c6f3ce49baf0c1604dc3a404bbb472fc96908f773051ae3",
+      "processing_pages": [
+        "T2:373"
+      ],
+      "removed_boundary_headings": [
+        "# 第30章 リース取引に関する会計基準"
+      ],
+      "output": "merged/chapter-009.md"
+    },
+    {
+      "task": "JPG-T2-C020-S07",
+      "batch": "JPG-T2-C020",
+      "chapter": "30",
+      "section": "30.7",
+      "chunk_sha256": "1f00bcb77829d4d9ebc6aa79fbb51e63aad5c5eb6219f01d23fd78a0cafbdb9c",
+      "processing_pages": [
+        "T2:374"
+      ],
+      "removed_boundary_headings": [
+        "# 第30章 リース取引に関する会計基準"
+      ],
+      "output": "merged/chapter-009.md"
+    },
+    {
+      "task": "JPG-T2-C020-S08",
+      "batch": "JPG-T2-C020",
+      "chapter": "30",
+      "section": "30.7",
+      "chunk_sha256": "efbd3339a00b7d835cdc6b4fd31ff80948aece8f58e3de84bcd5b6a31508da08",
+      "processing_pages": [
+        "T2:375",
+        "T2:376"
+      ],
+      "removed_boundary_headings": [
+        "# 第30章 リース取引に関する会計基準",
+        "## 第7節 セール・アンド・リースバック取引"
+      ],
+      "output": "merged/chapter-009.md"
+    },
+    {
+      "task": "JPG-T2-C020-S09",
+      "batch": "JPG-T2-C020",
+      "chapter": "30",
+      "section": "30.7",
+      "chunk_sha256": "877226a0379a35706af26f8a50a3b3836fc511e241be32bcea639bb8e76438c8",
+      "processing_pages": [
+        "T2:376",
+        "T2:377"
+      ],
+      "removed_boundary_headings": [
+        "# 第30章 リース取引に関する会計基準",
+        "## 第7節 セール・アンド・リースバック取引"
+      ],
+      "output": "merged/chapter-009.md"
+    },
+    {
+      "task": "JPG-T2-C020-S10",
+      "batch": "JPG-T2-C020",
+      "chapter": "30",
+      "section": "30.8",
+      "chunk_sha256": "7ac29be3faf19756a7abb5f68d6474aa314672d1f8fa41fb71fe04fee72516ec",
+      "processing_pages": [
+        "T2:377",
+        "T2:378"
+      ],
+      "removed_boundary_headings": [
+        "# 第30章 リース取引に関する会計基準"
+      ],
+      "output": "merged/chapter-009.md"
+    },
+    {
+      "task": "JPG-T2-C020-S11",
+      "batch": "JPG-T2-C020",
+      "chapter": "30",
+      "section": "30.8",
+      "chunk_sha256": "bb166718352bd06f64ca8dd2710ce8ff2d10d82ee970aca06c644f4f2191818c",
+      "processing_pages": [
+        "T2:379"
+      ],
+      "removed_boundary_headings": [
+        "# 第30章 リース取引に関する会計基準",
+        "## 第8節 近年のリース取引の考え方"
+      ],
+      "output": "merged/chapter-009.md"
+    },
+    {
+      "task": "JPG-T2-C021-S01",
+      "batch": "JPG-T2-C021",
+      "chapter": "31",
+      "section": "31.1",
+      "chunk_sha256": "dd0c19aaa1a5b6cc20dc2fa3d65e3f35bf4ab42451e0d291170a8b9ea6464d64",
+      "processing_pages": [
+        "T2:381",
+        "T2:382",
+        "T2:383"
+      ],
+      "removed_boundary_headings": [],
+      "output": "merged/chapter-010.md"
+    },
+    {
+      "task": "JPG-T2-C021-S02",
+      "batch": "JPG-T2-C021",
+      "chapter": "31",
+      "section": "31.2",
+      "chunk_sha256": "ab47d2056209ce35df69663dc1bb9cbd81ae54f3496a97549781c3a0750e32e4",
+      "processing_pages": [
+        "T2:384",
+        "T2:385",
+        "T2:386",
+        "T2:387"
+      ],
+      "removed_boundary_headings": [
+        "# 第31章 会計方針の開示、会計上の変更及び誤謬の訂正に関する会計基準"
+      ],
+      "output": "merged/chapter-010.md"
+    },
+    {
+      "task": "JPG-T2-C021-S03",
+      "batch": "JPG-T2-C021",
+      "chapter": "31",
+      "section": "31.3",
+      "chunk_sha256": "b781952549cd377204e3cd6af1f8bbe4c4339dd312be62f36e920d7edd0ad4ec",
+      "processing_pages": [
+        "T2:388",
+        "T2:389",
+        "T2:390",
+        "T2:391",
+        "T2:392",
+        "T2:393",
+        "T2:394",
+        "T2:395",
+        "T2:396",
+        "T2:397"
+      ],
+      "removed_boundary_headings": [
+        "# 第31章 会計方針の開示、会計上の変更及び誤謬の訂正に関する会計基準"
+      ],
+      "output": "merged/chapter-010.md"
+    },
+    {
+      "task": "JPG-T2-C021-S04",
+      "batch": "JPG-T2-C021",
+      "chapter": "31",
+      "section": "31.4",
+      "chunk_sha256": "b56fae4f0759941fcb0c55456ee7fcdf9cd12e9e23009be52ab21916e383aaf0",
+      "processing_pages": [
+        "T2:398",
+        "T2:399",
+        "T2:400"
+      ],
+      "removed_boundary_headings": [
+        "# 第31章 会計方針の開示、会計上の変更及び誤謬の訂正に関する会計基準"
+      ],
+      "output": "merged/chapter-010.md"
+    },
+    {
+      "task": "JPG-T2-C022-S01",
+      "batch": "JPG-T2-C022",
+      "chapter": "31",
+      "section": "31.5",
+      "chunk_sha256": "35f230c3bdcfbf7007f173b1fa8b936e632df9b4b2bf91dfcab97129cb76c497",
+      "processing_pages": [
+        "T2:401",
+        "T2:402",
+        "T2:403",
+        "T2:404"
+      ],
+      "removed_boundary_headings": [
+        "# 第31章 会計方針の開示、会計上の変更及び誤謬の訂正に関する会計基準"
+      ],
+      "output": "merged/chapter-010.md"
+    },
+    {
+      "task": "JPG-T2-C022-S02",
+      "batch": "JPG-T2-C022",
+      "chapter": "31",
+      "section": "31.6",
+      "chunk_sha256": "2af8718a31d11884f649fdeff343fa6256a2c381edd4d358cf49826d30bcbcc2",
+      "processing_pages": [
+        "T2:405",
+        "T2:406",
+        "T2:407",
+        "T2:408"
+      ],
+      "removed_boundary_headings": [
+        "# 第31章 会計方針の開示、会計上の変更及び誤謬の訂正に関する会計基準"
+      ],
+      "output": "merged/chapter-010.md"
+    },
+    {
+      "task": "JPG-T2-C022-S03",
+      "batch": "JPG-T2-C022",
+      "chapter": "31",
+      "section": "31.7",
+      "chunk_sha256": "77561efd307b6e47bae453b159d2be3b74e59cf2f516700cba9a7a2133517a31",
+      "processing_pages": [
+        "T2:409"
+      ],
+      "removed_boundary_headings": [
+        "# 第31章 会計方針の開示、会計上の変更及び誤謬の訂正に関する会計基準"
+      ],
+      "output": "merged/chapter-010.md"
+    },
+    {
+      "task": "JPG-T2-C023-S01",
+      "batch": "JPG-T2-C023",
+      "chapter": "32",
+      "section": "32.1",
+      "chunk_sha256": "b8f8c4f31a218824be53bd1354ba65f217b3034abf74f4896db1f0609d5a752c",
+      "processing_pages": [
+        "T2:411",
+        "T2:412",
+        "T2:413"
+      ],
+      "removed_boundary_headings": [],
+      "output": "merged/chapter-011.md"
+    },
+    {
+      "task": "JPG-T2-C023-S02",
+      "batch": "JPG-T2-C023",
+      "chapter": "32",
+      "section": "32.1",
+      "chunk_sha256": "58426334509e925e5bb590f3f685673dc8efb185e4de643d924ff0dbc9dfc03a",
+      "processing_pages": [
+        "T2:414",
+        "T2:415"
+      ],
+      "removed_boundary_headings": [
+        "# 第32章 四半期財務諸表に関する会計基準",
+        "## 第1節 四半期財務諸表の総論"
+      ],
+      "output": "merged/chapter-011.md"
+    },
+    {
+      "task": "JPG-T2-C023-S03",
+      "batch": "JPG-T2-C023",
+      "chapter": "32",
+      "section": "32.1",
+      "chunk_sha256": "ac1c40a247467cb19d5b2a5cf453e92251e5cdf6721ea40e3fbbec8b202d08c3",
+      "processing_pages": [
+        "T2:415",
+        "T2:416",
+        "T2:417"
+      ],
+      "removed_boundary_headings": [
+        "# 第32章 四半期財務諸表に関する会計基準",
+        "## 第1節 四半期財務諸表の総論"
+      ],
+      "output": "merged/chapter-011.md"
+    },
+    {
+      "task": "JPG-T2-C023-S04",
+      "batch": "JPG-T2-C023",
+      "chapter": "32",
+      "section": "32.1",
+      "chunk_sha256": "92884e91e97fe4ef390d124a680929e0d8b4e52468a3967d46067170a72bbbdc",
+      "processing_pages": [
+        "T2:418",
+        "T2:419",
+        "T2:420"
+      ],
+      "removed_boundary_headings": [
+        "# 第32章 四半期財務諸表に関する会計基準",
+        "## 第1節 四半期財務諸表の総論"
+      ],
+      "output": "merged/chapter-011.md"
+    },
+    {
+      "task": "JPG-T2-C023-S05",
+      "batch": "JPG-T2-C023",
+      "chapter": "32",
+      "section": "32.1",
+      "chunk_sha256": "9abc55dbec65aabec44d8ec1329d4da7109c9d06eefabd8431a10b0984c0649d",
+      "processing_pages": [
+        "T2:421"
+      ],
+      "removed_boundary_headings": [
+        "# 第32章 四半期財務諸表に関する会計基準",
+        "## 第1節 四半期財務諸表の総論"
+      ],
+      "output": "merged/chapter-011.md"
+    },
+    {
+      "task": "JPG-T2-C024-S01",
+      "batch": "JPG-T2-C024",
+      "chapter": "32",
+      "section": "32.2",
+      "chunk_sha256": "5c85cd90908345b69fd2ae5f1fc62c17554e0505976a4cff3dba0492f2c07fb0",
+      "processing_pages": [
+        "T2:422",
+        "T2:423"
+      ],
+      "removed_boundary_headings": [
+        "# 第32章 四半期財務諸表に関する会計基準"
+      ],
+      "output": "merged/chapter-011.md"
+    },
+    {
+      "task": "JPG-T2-C024-S02",
+      "batch": "JPG-T2-C024",
+      "chapter": "32",
+      "section": "32.2",
+      "chunk_sha256": "42f0d729749b703b7ca85544290e123c991962e2add9e8d36f2a3dea03545b3e",
+      "processing_pages": [
+        "T2:424",
+        "T2:425",
+        "T2:426"
+      ],
+      "removed_boundary_headings": [
+        "# 第32章 四半期財務諸表に関する会計基準",
+        "## 第2節 四半期連結財務諸表の作成基準"
+      ],
+      "output": "merged/chapter-011.md"
+    },
+    {
+      "task": "JPG-T2-C024-S03",
+      "batch": "JPG-T2-C024",
+      "chapter": "32",
+      "section": "32.2",
+      "chunk_sha256": "4848a12d3e374ce1132947393f421736157334018e171bc53f88f9eff8b5a670",
+      "processing_pages": [
+        "T2:427",
+        "T2:428"
+      ],
+      "removed_boundary_headings": [
+        "# 第32章 四半期財務諸表に関する会計基準",
+        "## 第2節 四半期連結財務諸表の作成基準"
+      ],
+      "output": "merged/chapter-011.md"
+    },
+    {
+      "task": "JPG-T2-C024-S04",
+      "batch": "JPG-T2-C024",
+      "chapter": "32",
+      "section": "32.2",
+      "chunk_sha256": "1e6d9e6e7724feb84c9d4c16b37188e625ff5b230896cf36415238a0ca4fbb26",
+      "processing_pages": [
+        "T2:429",
+        "T2:430",
+        "T2:431",
+        "T2:432",
+        "T2:433"
+      ],
+      "removed_boundary_headings": [
+        "# 第32章 四半期財務諸表に関する会計基準",
+        "## 第2節 四半期連結財務諸表の作成基準"
+      ],
+      "output": "merged/chapter-011.md"
+    },
+    {
+      "task": "JPG-T2-C024-S05",
+      "batch": "JPG-T2-C024",
+      "chapter": "32",
+      "section": "32.2",
+      "chunk_sha256": "369a352f32bc0836c1f7d647f3c691bef07d387806a2a9ad9e4e22a196dd3707",
+      "processing_pages": [
+        "T2:434",
+        "T2:435"
+      ],
+      "removed_boundary_headings": [
+        "# 第32章 四半期財務諸表に関する会計基準",
+        "## 第2節 四半期連結財務諸表の作成基準"
+      ],
+      "output": "merged/chapter-011.md"
+    },
+    {
+      "task": "JPG-T2-C024-S06",
+      "batch": "JPG-T2-C024",
+      "chapter": "32",
+      "section": "32.3",
+      "chunk_sha256": "8a5d070175280876aeacebeb7242b021b5a1b3faf0cb7b5d1b14d7e1928e6689",
+      "processing_pages": [
+        "T2:436",
+        "T2:437"
+      ],
+      "removed_boundary_headings": [
+        "# 第32章 四半期財務諸表に関する会計基準"
+      ],
+      "output": "merged/chapter-011.md"
+    },
+    {
+      "task": "JPG-T2-C024-S07",
+      "batch": "JPG-T2-C024",
+      "chapter": "32",
+      "section": "32.4",
+      "chunk_sha256": "f73f89fa0afb401f8d995050326b92e14c0c39eb26570eed483f2b86d8cd0f94",
+      "processing_pages": [
+        "T2:438",
+        "T2:439",
+        "T2:440"
+      ],
+      "removed_boundary_headings": [
+        "# 第32章 四半期財務諸表に関する会計基準"
+      ],
+      "output": "merged/chapter-011.md"
+    },
+    {
+      "task": "JPG-T2-C024-S08",
+      "batch": "JPG-T2-C024",
+      "chapter": "32",
+      "section": "32.4",
+      "chunk_sha256": "6a34775188dcbadc423fb7a0ee6cce55168ccbad4963f5bf18e97b703542bd61",
+      "processing_pages": [
+        "T2:441",
+        "T2:442"
+      ],
+      "removed_boundary_headings": [
+        "# 第32章 四半期財務諸表に関する会計基準",
+        "## 第4節 四半期連結財務諸表と会計方針等の変更"
+      ],
+      "output": "merged/chapter-011.md"
+    },
+    {
+      "task": "JPG-T2-C025-S01",
+      "batch": "JPG-T2-C025",
+      "chapter": "32",
+      "section": "32.5",
+      "chunk_sha256": "217f9a32550622e9474255e485fb093f2a031a4f29d2156c88dab986abf62528",
+      "processing_pages": [
+        "T2:443",
+        "T2:444",
+        "T2:445"
+      ],
+      "removed_boundary_headings": [
+        "# 第32章 四半期財務諸表に関する会計基準"
+      ],
+      "output": "merged/chapter-011.md"
+    }
+  ],
+  "sha256": "16c3f9ff0c07a35d4556a087b47009ff72b711fba34de82e8d5b7ffc1fe3f892"
+}
