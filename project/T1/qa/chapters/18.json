@@ -1,0 +1,12 @@
+{
+  "chapter":"18","status":"pass","unresolved_count":0,
+  "chunks":[
+    {"task":"JPG-T1-C026-S01","chunk_sha256":"e1ed03e0b7850ca9b9ffe9744f4085c1e7ce2fca6d109a357742c10ea7054242"},
+    {"task":"JPG-T1-C026-S02","chunk_sha256":"8598769b031e824afbebff31f66962abca51ef9919f1dc4652bf6c5de30fa5f6"}
+  ],
+  "title":"時価の算定に関する会計基準","qa_issue":169,"source_id":"T1","reviewed_on":"2026-09-08","reviewer_model":"GPT-5.6 Sol",
+  "scope":{"physical_range":"T1:331-T1:340","included_range":"T1:331-T1:339","excluded_pages":[{"page":"T1:340","reason":"Blank chapter-end MEMO page after section 18.2 completes on T1:339."}]},
+  "review_basis":[{"batch":"JPG-T1-C026","fragment":"project/T1/fragments/JPG-T1-C026.json","fragment_blob_sha":"47622da16d42d37dbcb49f7bdad2e9508233d805","review":"project/T1/reviews/JPG-T1-C026.json"}],
+  "chapter_review":{"page_coverage":"pass","section_order":"pass: 18.1 -> 18.2","continuations":"not_applicable","boundary_review":"pass: section 18.2 completes on T1:339; current review and inventory evidence both identify T1:340 as blank MEMO","findings":["All ten batch images were previously reopened in the current review evidence; T1:331-T1:339 are substantive and T1:340 is the recorded exclusion.","Current task hashes match the reviewed outputs; no unresolved marker, stale hash or section conflict is recorded."],"corrections_required":false,"corrections":[],"method":"Revalidated current exact-JPG review/inventory evidence, both task hashes, page union, section order and the T1:340 exclusion."},
+  "source_identity":{"edition":"2024/2025年合格目標","publication_date":"2023-01-23","pdf_sha256":"c09d9d91ce39de787cab04e146719d95b638134399d57112802ffacfa67243f3","content_authority":"designated existing JPGs"}
+}
