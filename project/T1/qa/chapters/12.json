@@ -1,0 +1,21 @@
+{
+  "chapter":"12","status":"pass","unresolved_count":0,
+  "chunks":[
+    {"task":"JPG-T1-C016-S01","chunk_sha256":"a78d971f2e531bb190a3b73c30e650bd101eb7f0e60a3398275ff42c58ad7214"},
+    {"task":"JPG-T1-C016-S02","chunk_sha256":"a78cad65c8e605a1de28d01913332dc31add046b37bbbcb840c8c1b7e8d3a2d0"},
+    {"task":"JPG-T1-C016-S03","chunk_sha256":"4151e283bddfea65f271241f6b2489b6cbb340e5486cdc0e7573d8457e11328a"},
+    {"task":"JPG-T1-C017-S01","chunk_sha256":"cde6a3c72dea7008dd27ba7d949b0c027ee320f760942c49ac4fafc133af06e7"},
+    {"task":"JPG-T1-C018-S01","chunk_sha256":"c71c984323f4d48f5dee2f4fcc48ebf4338e289da89e2352e11c5d9f1dfbd1c0"},
+    {"task":"JPG-T1-C019-S01","chunk_sha256":"a81ecd4a978113c0cfb1baf486eadf3574642bc390e72d113457a30785689e5c"}
+  ],
+  "title":"財務会計の概念フレームワーク","qa_issue":167,"source_id":"T1","reviewed_on":"2026-09-08","reviewer_model":"GPT-5.6 Sol",
+  "scope":{"physical_range":"T1:219-T1:276","included_range":"T1:219-T1:276","excluded_pages":[]},
+  "review_basis":[
+    {"batch":"JPG-T1-C016","fragment":"project/T1/fragments/JPG-T1-C016.json","fragment_blob_sha":"4a4970aef2ba66ffccaae521fa8ac8a514a26440","review":"project/T1/reviews/JPG-T1-C016.json"},
+    {"batch":"JPG-T1-C017","fragment":"project/T1/fragments/JPG-T1-C017.json","fragment_blob_sha":"2c13b82b618dd075f85c98bc24eb8a14c03958d2","review":"project/T1/reviews/JPG-T1-C017.json"},
+    {"batch":"JPG-T1-C018","fragment":"project/T1/fragments/JPG-T1-C018.json","fragment_blob_sha":"70b018dcacebdf94b0b504afd00b55732b92cafc","review":"project/T1/reviews/JPG-T1-C018.json"},
+    {"batch":"JPG-T1-C019","fragment":"project/T1/fragments/JPG-T1-C019.json","fragment_blob_sha":"069eb23db6ccb000dea04423ee21ee9b2ed0cd41","review":"project/T1/reviews/JPG-T1-C019.json"}
+  ],
+  "chapter_review":{"page_coverage":"pass: all T1:219-T1:276 pages are included and represented in current PASS batch evidence","section_order":"pass: 12.1 -> 12.2 -> 12.3 -> 12.4 -> 12.5 -> 12.5 continuation","continuations":"pass: C018-S01 section 12.5 covers T1:252-T1:271 and the immediately adjacent C019-S01 validly continues the same section on T1:272-T1:276; no intervening section or return occurs","boundary_review":"pass: C016/C017 and C017/C018 are clean new-section boundaries; C018/C019 is the sole adjacent continuation and preserves the identical section ID/title","findings":["The four-batch chapter union is contiguous and complete across 58 physical pages.","The continuation of section 12.5 is structurally valid under the helper contract and preserves source order.","No unresolved marker, stale reviewed hash, duplicate physical-page owner or out-of-order section return is recorded."],"corrections_required":false,"corrections":[],"method":"Revalidated current exact-JPG batch review evidence and all six task hashes, then audited the full page union and each cross-batch section boundary, including the valid 12.5 continuation."},
+  "source_identity":{"edition":"2024/2025年合格目標","publication_date":"2023-01-23","pdf_sha256":"c09d9d91ce39de787cab04e146719d95b638134399d57112802ffacfa67243f3","content_authority":"designated existing JPGs"}
+}
