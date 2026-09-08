@@ -1,0 +1,29 @@
+{
+  "chapter": "01",
+  "status": "pass",
+  "unresolved_count": 0,
+  "chunks": [
+    {"task": "JPG-T1-C002-S01", "chunk_sha256": "83bd16ea7d7f79a0591959aa8890637aa01a039acab09f521ee05ed440d2675e"},
+    {"task": "JPG-T1-C002-S02", "chunk_sha256": "9d0ca5aee347629e98f4074ac31dcc0020506054a676eb449d6aba3a397c9d18"},
+    {"task": "JPG-T1-C002-S03", "chunk_sha256": "4c8054d7b8e3839c8d879f7664a0a3f087135c615a6f3ba7f282fe2bc81fc3cc"},
+    {"task": "JPG-T1-C002-S04", "chunk_sha256": "dc4be1d650f7680792ada8cadbb8dcf63a09392c88699f604e397403d301602b"}
+  ],
+  "title": "財務会計における基礎概念",
+  "qa_issue": 161,
+  "source_id": "T1",
+  "reviewed_on": "2026-09-08",
+  "reviewer_model": "GPT-5.6 Sol",
+  "scope": {"physical_range": "T1:023-T1:040", "included_range": "T1:023-T1:039", "excluded_pages": [{"page":"T1:040","reason":"Blank chapter-end MEMO page with no learner content."}]},
+  "review_basis": [{"batch":"JPG-T1-C002","fragment":"project/T1/fragments/JPG-T1-C002.json","fragment_blob_sha":"3191ad94dfded238c20bdc88c0289902b1c8b9aa","review":"project/T1/reviews/JPG-T1-C002.json"}],
+  "chapter_review": {
+    "page_coverage": "pass: current pilot/full-page review covers every included page T1:023-T1:039 and explicitly excludes T1:040",
+    "section_order": "pass: 01.1 -> 01.2 -> 01.3 -> 01.4",
+    "continuations": "not_applicable",
+    "boundary_review": "pass: section 01.4 completes on T1:039 before excluded MEMO page T1:040",
+    "findings": ["Current fragment hashes exactly match the pilot-approved chunk hashes.", "All chapter pages and the single exclusion are accounted for; no stale hash, unresolved marker, orphan page or section-order conflict is present."],
+    "corrections_required": false,
+    "corrections": [],
+    "method": "Revalidated current exact-JPG review evidence and hashes, then audited the chapter-wide page/section union and terminal boundary."
+  },
+  "source_identity": {"edition":"2024/2025年合格目標","publication_date":"2023-01-23","pdf_sha256":"c09d9d91ce39de787cab04e146719d95b638134399d57112802ffacfa67243f3","content_authority":"designated existing JPGs"}
+}
