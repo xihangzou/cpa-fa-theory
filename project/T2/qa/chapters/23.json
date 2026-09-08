@@ -1,0 +1,39 @@
+{
+  "chapter": "23",
+  "status": "pass",
+  "unresolved_count": 0,
+  "chunks": [
+    {"task":"JPG-T2-C004-S01","chunk_sha256":"ad98a14ba353d646cf8109ca9418aceec41f210fb8e9342de7bf9530c9a45198"},
+    {"task":"JPG-T2-C004-S02","chunk_sha256":"1be754c8b01d3e8ec6004203fe0ca0a07f7ed908ca08922463c23d1edd991cd9"},
+    {"task":"JPG-T2-C004-S03","chunk_sha256":"2f39f569c62658df0281fcc7f4487ed9522e5d98fffa78c3787f8a95b85df0da"},
+    {"task":"JPG-T2-C004-S04","chunk_sha256":"71e12aaa4332e43032f9a3d05ad2a6182b8585d44a32c79395db4bc243f1d2ef"},
+    {"task":"JPG-T2-C004-S05","chunk_sha256":"eb53719d0b4b3ab2b3170d0f294924cb7f6b177138e6bb58594593f75859eadf"},
+    {"task":"JPG-T2-C004-S06","chunk_sha256":"15b42bb0470b47c175a68b15a3596085cb450cb36ce2c5e50328096f32314683"},
+    {"task":"JPG-T2-C004-S07","chunk_sha256":"975dc56c3b1c475d2e1f5cf379e89c47e1eb51eaba2d70811779e417ad2712fc"},
+    {"task":"JPG-T2-C005-S01","chunk_sha256":"f5b769151c571d2f9b8a371067656b3762f9c503770d1a9a412834ba188bf3d9"},
+    {"task":"JPG-T2-C005-S02","chunk_sha256":"817f49f65f291fa30436e5c22cae3a4a26d9db3913f39b59309c96debc1353f9"},
+    {"task":"JPG-T2-C005-S03","chunk_sha256":"b0b88c326e7193aa674a0907ffd86ea748384fb437b8de2fff85bfbeb144162b"},
+    {"task":"JPG-T2-C005-S04","chunk_sha256":"5dd94ac3b9799d5c7627a97f532ec9dceb1bca5f393fe0ad41ddab2ce8be5a5b"}
+  ],
+  "title": "固定資産の減損に係る会計基準",
+  "qa_issue": 172,
+  "source_id": "T2",
+  "reviewed_on": "2026-09-08",
+  "reviewer_model": "GPT-5.6 Sol",
+  "scope": {"physical_range":"T2:063-T2:100","included_range":"T2:063-T2:100","excluded_pages":[]},
+  "review_basis": [
+    {"batch":"JPG-T2-C004","fragment":"project/T2/fragments/JPG-T2-C004.json","fragment_blob_sha":"eaf7616b989d0f7e30a0437386f221001d2357fd","review":"project/T2/reviews/JPG-T2-C004.json"},
+    {"batch":"JPG-T2-C005","fragment":"project/T2/fragments/JPG-T2-C005.json","fragment_blob_sha":"b213bb5c19f3621685a1edbf8ab8aa386bba4010","review":"project/T2/reviews/JPG-T2-C005.json"}
+  ],
+  "chapter_review": {
+    "page_coverage": "pass: all T2:063-T2:100 pages are included and represented in current PASS exact-JPG batch evidence",
+    "section_order": "pass: 23.1 -> 23.2 -> 23.3 -> 23.4 -> 23.5 -> 23.6 -> 23.7 -> 23.8 -> 23.9 -> 23.10 -> 23.11",
+    "continuations": "pass: no same-section continuation crosses the C004/C005 boundary",
+    "boundary_review": "pass: C004 ends section 23.7 on T2:085 and C005 begins section 23.8 on T2:086; the chapter remains contiguous",
+    "findings": ["The two-batch chapter union is contiguous and complete across 38 physical pages.","Recognition tests, cash-flow estimation rules, grouping, goodwill/common-asset cases, numerical examples, journal entries and disclosure content are all represented in saved page-level review evidence.","No unresolved marker, stale task hash or out-of-order section return was found."],
+    "corrections_required": false,
+    "corrections": [],
+    "method": "Revalidated current exact-JPG C004/C005 review evidence and all eleven task hashes, then audited the full page union and the clean 23.7/23.8 batch boundary."
+  },
+  "source_identity": {"edition":"2024/2025年合格目標","publication_date":"2023-05-04","pdf_sha256":"ba4b33c8881021044b6360bfd10899f1b1f882bda3ccc7df3f1f895e9cc55ba5","content_authority":"designated existing JPGs"}
+}
