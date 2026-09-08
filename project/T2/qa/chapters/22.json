@@ -1,0 +1,31 @@
+{
+  "chapter": "22",
+  "status": "pass",
+  "unresolved_count": 0,
+  "chunks": [
+    {"task":"JPG-T2-C003-S01","chunk_sha256":"70990290a934240f83b29f667029b2b75cd9ef44aacd90615ff62917fd078390"},
+    {"task":"JPG-T2-C003-S02","chunk_sha256":"137f22e19a873407004c9ad437229733c0e7eb4b73b4bf0df5ecce50cf47f3a7"},
+    {"task":"JPG-T2-C003-S03","chunk_sha256":"0191489ca42108909b3181b71da8d49554549f1c6a2d85f3dee12a097ef35f21"},
+    {"task":"JPG-T2-C003-S04","chunk_sha256":"9e20d5beb7224a6f9c63c0b166526f6c74c712121017f53965ae308e6f8e6f1b"}
+  ],
+  "title": "研究開発費等に係る会計基準",
+  "qa_issue": 171,
+  "source_id": "T2",
+  "reviewed_on": "2026-09-08",
+  "reviewer_model": "GPT-5.6 Sol",
+  "scope": {"physical_range":"T2:041-T2:062","included_range":"T2:041-T2:061","excluded_pages":[{"page":"T2:062","reason":"【MEMO】の空白ページで、章本文・表・図・学習内容がない。"}]},
+  "review_basis": [
+    {"batch":"JPG-T2-C003","fragment":"project/T2/fragments/JPG-T2-C003.json","fragment_blob_sha":"4843f9ac9a032d2e0c1e04f84fc52b79746be431","review":"project/T2/reviews/JPG-T2-C003.json"}
+  ],
+  "chapter_review": {
+    "page_coverage": "pass: all substantive pages T2:041-T2:061 are represented in current PASS exact-JPG evidence; T2:062 is the recorded blank MEMO exclusion",
+    "section_order": "pass: 22.1 -> 22.2 -> 22.3 -> 22.4",
+    "continuations": "pass: the chapter is wholly contained in C003 and all section transitions are in source order",
+    "boundary_review": "pass: no cross-batch chapter boundary exists; the final substantive section ends on T2:061 before the excluded T2:062 MEMO page",
+    "findings": ["The processing-page union is contiguous across 21 substantive pages.","Definitions, scope conditions, exceptions, software classification tables, numerical examples and diagram-only meaning are covered by the saved page review evidence.","No unresolved marker, stale task hash or section-order defect was found."],
+    "corrections_required": false,
+    "corrections": [],
+    "method": "Revalidated current exact-JPG C003 review evidence and all four task hashes, then audited the full chapter page union, exclusion ledger and section sequence."
+  },
+  "source_identity": {"edition":"2024/2025年合格目標","publication_date":"2023-05-04","pdf_sha256":"ba4b33c8881021044b6360bfd10899f1b1f882bda3ccc7df3f1f895e9cc55ba5","content_authority":"designated existing JPGs"}
+}
