@@ -1,0 +1,13 @@
+{
+  "chapter":"06","status":"pass","unresolved_count":0,
+  "chunks":[
+    {"task":"JPG-T1-C009-S01","chunk_sha256":"fb61f20ef4daad2fc362da1ee5c769b0567b07587af13bb6ee0609f095729cd4"},
+    {"task":"JPG-T1-C009-S02","chunk_sha256":"d6ac784f759fd94aa7be3886ff63503393feb3b58b54baf3618bae43caf8c161"},
+    {"task":"JPG-T1-C009-S03","chunk_sha256":"f5b34288deeca58ef5888502ff48579319d25266fe65acd1e5009ea281b592dc"}
+  ],
+  "title":"資産会計総論","qa_issue":163,"source_id":"T1","reviewed_on":"2026-09-08","reviewer_model":"GPT-5.6 Sol",
+  "scope":{"physical_range":"T1:113-T1:126","included_range":"T1:113-T1:126","excluded_pages":[]},
+  "review_basis":[{"batch":"JPG-T1-C009","fragment":"project/T1/fragments/JPG-T1-C009.json","fragment_blob_sha":"160e548da850077b6e47d848ddc6d02378ab7b31","review":"project/T1/reviews/JPG-T1-C009.json"}],
+  "chapter_review":{"page_coverage":"pass","section_order":"pass: 06.1 -> 06.2 -> 06.3","continuations":"not_applicable","boundary_review":"pass: all T1:113-T1:126 pages are assigned in order and the final valuation section completes on T1:126","findings":["Current exact-JPG review evidence covers the full chapter, including numerical valuation examples and diagrams.","No unresolved marker, stale reviewed hash, duplicate owner or section-order conflict is recorded."],"corrections_required":false,"corrections":[],"method":"Revalidated current exact-JPG page-review evidence, task hashes, page union, section order and terminal boundary."},
+  "source_identity":{"edition":"2024/2025年合格目標","publication_date":"2023-01-23","pdf_sha256":"c09d9d91ce39de787cab04e146719d95b638134399d57112802ffacfa67243f3","content_authority":"designated existing JPGs"}
+}
