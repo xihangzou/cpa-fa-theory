@@ -1,0 +1,36 @@
+{
+  "chapter": "21",
+  "status": "pass",
+  "unresolved_count": 0,
+  "chunks": [
+    {"task":"JPG-T2-C001-S01","chunk_sha256":"4368f606d053e217f378cf7df7843a0ba3746d9293d5d0321e869b91e5447ba4"},
+    {"task":"JPG-T2-C001-S02","chunk_sha256":"4b54e3a9a556e8b56a6a706f7a88334ca7d4702887b019919db6ec7e44eb6bf5"},
+    {"task":"JPG-T2-C001-S03","chunk_sha256":"612fdc0d3510c5740b0452c4f30f06d9b2d528f440839e37829d827e7fdbb51f"},
+    {"task":"JPG-T2-C001-S04","chunk_sha256":"8220e30f1b246f714c7e5eab62fc70c4aefea2ba2ada05517c480669f6a6eee0"},
+    {"task":"JPG-T2-C001-S05","chunk_sha256":"785282c94dc62390906d672a21de1f900ac9c6e523a78a789c01b5e8c9ca1ac3"},
+    {"task":"JPG-T2-C001-S06","chunk_sha256":"6ea739c9cff5e9ba0a8f1d4478ee98aa551c27f198b819b88f71ade4af2f15ec"},
+    {"task":"JPG-T2-C002-S01","chunk_sha256":"e3b8e3a6637035ec3aa4a7eebafdf411e7fd270b134dc35da108fd4ec1588bd9"},
+    {"task":"JPG-T2-C002-S02","chunk_sha256":"f1649e120afa33dec3f824b82e10a20e2ba0e524ab25d89f36a00026a1209ef7"}
+  ],
+  "title": "棚卸資産の評価に関する会計基準",
+  "qa_issue": 170,
+  "source_id": "T2",
+  "reviewed_on": "2026-09-08",
+  "reviewer_model": "GPT-5.6 Sol",
+  "scope": {"physical_range":"T2:007-T2:040","included_range":"T2:007-T2:039","excluded_pages":[{"page":"T2:040","reason":"【MEMO】の白紙ページ。既存の画像レビュー及びinventory ledgerで本文・図表なしを確認。"}]},
+  "review_basis": [
+    {"batch":"JPG-T2-C001","fragment":"project/T2/fragments/JPG-T2-C001.json","fragment_blob_sha":"d7afe5844e15c5fcb176f310852429ffb19e8f82","review":"project/T2/reviews/JPG-T2-C001.json"},
+    {"batch":"JPG-T2-C002","fragment":"project/T2/fragments/JPG-T2-C002.json","fragment_blob_sha":"99101b11d265dad1b27e125dab156ab326516002","review":"project/T2/reviews/JPG-T2-C002.json"}
+  ],
+  "chapter_review": {
+    "page_coverage": "pass: T2:007-T2:039 are represented in current PASS exact-JPG batch evidence; T2:040 is the image-confirmed blank MEMO exclusion",
+    "section_order": "pass: 21.1 -> 21.2 -> 21.3 -> 21.4 -> 21.5 -> 21.6 -> 21.7 -> 21.8",
+    "continuations": "pass: no same-section continuation crosses the C001/C002 batch boundary",
+    "boundary_review": "pass: C001 ends with section 21.6 on T2:030 and C002 begins section 21.7 on T2:031; source order is preserved",
+    "findings": ["The two-batch chapter union covers every substantive physical page in order.","Tables, formulas, journal-entry relationships, numerical examples, exceptions and diagram-only meaning are covered by the saved page-by-page image review evidence.","No unresolved marker, stale task hash or out-of-order section return was found."],
+    "corrections_required": false,
+    "corrections": [],
+    "method": "Revalidated current exact-JPG batch review evidence and all eight task hashes, then audited the full chapter page union, exclusion ledger, section order and C001/C002 boundary."
+  },
+  "source_identity": {"edition":"2024/2025年合格目標","publication_date":"2023-05-04","pdf_sha256":"ba4b33c8881021044b6360bfd10899f1b1f882bda3ccc7df3f1f895e9cc55ba5","content_authority":"designated existing JPGs"}
+}
