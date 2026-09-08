@@ -1,0 +1,14 @@
+{
+  "chapter":"03","status":"pass","unresolved_count":0,
+  "chunks":[
+    {"task":"JPG-T1-C005-S01","chunk_sha256":"d37099e68b14a9cdaee95e883a9717a36d3ca81897b3145a0fe3467f160f7fb7"},
+    {"task":"JPG-T1-C005-S02","chunk_sha256":"0c795fb825296190052105caa88d620e856b9f677a52fbcf4a18dd703e150747"},
+    {"task":"JPG-T1-C005-S03","chunk_sha256":"e99ffbda3e5dfa1960a3517909495cc9efe6b40b56d40a22a24ffa2113811801"},
+    {"task":"JPG-T1-C005-S04","chunk_sha256":"ccd21d11db3b90ad68d031b80535c685dd88b51a820df4f7790591ce9b7e60e2"}
+  ],
+  "title":"貸借対照表・損益計算書総論","qa_issue":162,"source_id":"T1","reviewed_on":"2026-09-08","reviewer_model":"GPT-5.6 Sol",
+  "scope":{"physical_range":"T1:067-T1:076","included_range":"T1:067-T1:076","excluded_pages":[]},
+  "review_basis":[{"batch":"JPG-T1-C005","fragment":"project/T1/fragments/JPG-T1-C005.json","fragment_blob_sha":"bbffe407a442cc675fca693ba18c39ab9fda6a35","review":"project/T1/reviews/JPG-T1-C005.json"}],
+  "chapter_review":{"page_coverage":"pass","section_order":"pass: 03.1 -> 03.2 -> 03.3 -> 03.4","continuations":"not_applicable","boundary_review":"pass: shared source page T1:071 is explicitly covered by sections 03.2 and 03.3 within the same owning batch; chapter ends cleanly on T1:076","findings":["All T1:067-T1:076 pages are represented in the current PASS review evidence.","The shared-page section boundary at T1:071 preserves both source regions without duplicate physical-page ownership."],"corrections_required":false,"corrections":[],"method":"Revalidated current exact-JPG page-review evidence, task hashes, shared-page locators, section order and chapter boundary."},
+  "source_identity":{"edition":"2024/2025年合格目標","publication_date":"2023-01-23","pdf_sha256":"c09d9d91ce39de787cab04e146719d95b638134399d57112802ffacfa67243f3","content_authority":"designated existing JPGs"}
+}
