@@ -1,0 +1,13 @@
+{
+  "chapter":"10","status":"pass","unresolved_count":0,
+  "chunks":[
+    {"task":"JPG-T1-C014-S01","chunk_sha256":"ea5e6e0d9a65c2db22ef52ea474866c9815cea5b1e035240a185b938ba2bbc50"},
+    {"task":"JPG-T1-C014-S02","chunk_sha256":"5f2651c78ad5410ba9bef8375c1b9abe14bdc3e5f1b1df928b244037ba8c6610"},
+    {"task":"JPG-T1-C014-S03","chunk_sha256":"c69641834fe704f9704cdee9147d60341e9e7eab970d00f930fec5c1170db7aa"}
+  ],
+  "title":"負債会計","qa_issue":165,"source_id":"T1","reviewed_on":"2026-09-08","reviewer_model":"GPT-5.6 Sol",
+  "scope":{"physical_range":"T1:181-T1:200","included_range":"T1:181-T1:200","excluded_pages":[]},
+  "review_basis":[{"batch":"JPG-T1-C014","fragment":"project/T1/fragments/JPG-T1-C014.json","fragment_blob_sha":"0604085abe5cff80bc2d356465033bf90c0e8c53","review":"project/T1/reviews/JPG-T1-C014.json"}],
+  "chapter_review":{"page_coverage":"pass","section_order":"pass: 10.1 -> 10.2 -> 10.3","continuations":"not_applicable","boundary_review":"pass: three sections cover the contiguous T1:181-T1:200 range and the final section completes on T1:200","findings":["Current review evidence covers the chapter's definitions, tables, journal entries, numerical examples, contingent-liability diagrams and exceptions.","No unresolved marker, stale reviewed hash, duplicate owner or section-order conflict is recorded."],"corrections_required":false,"corrections":[],"method":"Revalidated current exact-JPG review evidence, task hashes, chapter page union, section order and terminal boundary."},
+  "source_identity":{"edition":"2024/2025年合格目標","publication_date":"2023-01-23","pdf_sha256":"c09d9d91ce39de787cab04e146719d95b638134399d57112802ffacfa67243f3","content_authority":"designated existing JPGs"}
+}
