@@ -1,0 +1,16 @@
+{
+  "chapter":"08","status":"pass","unresolved_count":0,
+  "chunks":[
+    {"task":"JPG-T1-C011-S01","chunk_sha256":"7166fd3fcb5b64265fba832b85e54a87f9c427be977e6fcca0eefee8bb0b18f9"},
+    {"task":"JPG-T1-C011-S02","chunk_sha256":"a44cf6500e1519f11904ce9901788146e3c9689980d3e7b1d71b794e4b4336d3"},
+    {"task":"JPG-T1-C012-S01","chunk_sha256":"8ecae003b7d560726c37ead54f4dffbcf10baa1d4f84e6a0da257209c994afad"},
+    {"task":"JPG-T1-C012-S02","chunk_sha256":"649e520c1f867c7852323da2c37cac4952c6ddf5d2cf62facdfdfca57ecb6df3"},
+    {"task":"JPG-T1-C012-S03","chunk_sha256":"0a9783f52dab9895b9472417a39f31d7eb4f24c5f6e4042b5bdd49967559d247"},
+    {"task":"JPG-T1-C012-S04","chunk_sha256":"bb61cb1ca0a92fbb11915eed5751fb7e62d6461f95b560a17c10b28cd509d7cf"}
+  ],
+  "title":"固定資産","qa_issue":164,"source_id":"T1","reviewed_on":"2026-09-08","reviewer_model":"GPT-5.6 Sol",
+  "scope":{"physical_range":"T1:131-T1:164","included_range":"T1:131-T1:163","excluded_pages":[{"page":"T1:164","reason":"Blank chapter-end MEMO page with no learner content."}]},
+  "review_basis":[{"batch":"JPG-T1-C011","fragment":"project/T1/fragments/JPG-T1-C011.json","fragment_blob_sha":"0904199ececb833bf036e8ce1a310b6376da82ac","review":"project/T1/reviews/JPG-T1-C011.json"},{"batch":"JPG-T1-C012","fragment":"project/T1/fragments/JPG-T1-C012.json","fragment_blob_sha":"ca08a0b96d94ff309906a7b06e4f5b25383d9d54","review":"project/T1/reviews/JPG-T1-C012.json"}],
+  "chapter_review":{"page_coverage":"pass: all included pages T1:131-T1:163 are represented in current PASS review evidence; T1:164 is explicitly excluded","section_order":"pass: 08.1 -> 08.2 -> 08.3 -> 08.4 -> 08.5 -> 08.6","continuations":"not_applicable","boundary_review":"pass: C011 section 08.2 completes on T1:140; C012 starts the new section 08.3 on T1:141. No source object or section continuation crosses the batch boundary.","findings":["The chapter-wide union across C011/C012 is complete and monotonic.","Current review evidence covers numerical, journal-entry, table, diagram and exception content; T1:164 remains an explicit blank MEMO exclusion."],"corrections_required":false,"corrections":[],"method":"Revalidated current exact-JPG batch evidence and task hashes, then audited the chapter-wide union, C011/C012 boundary and exclusion ledger."},
+  "source_identity":{"edition":"2024/2025年合格目標","publication_date":"2023-01-23","pdf_sha256":"c09d9d91ce39de787cab04e146719d95b638134399d57112802ffacfa67243f3","content_authority":"designated existing JPGs"}
+}
