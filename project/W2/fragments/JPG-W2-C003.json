@@ -1,0 +1,98 @@
+{
+  "batch_id": "JPG-W2-C003",
+  "source_id": "W2",
+  "status": "pass",
+  "tasks": [
+    {
+      "id": "JPG-W2-C003-S01", "batch_id": "JPG-W2-C003", "chapter": "23", "section": "23.1", "title": "1. 減損会計総論",
+      "expected_pages": ["W2:036", "W2:037"], "processing_pages": ["W2:036", "W2:037"],
+      "output": "chunks/JPG-W2-C003/JPG-W2-C003-S01.md", "status": "pass",
+      "locators": [
+        {"page":"W2:036","printed_page":"23-1","source_region":"第23章見出し、1.減損会計総論、問題1-4の問題文","destination_heading":"## 1. 減損会計総論"},
+        {"page":"W2:037","printed_page":"23-2","source_region":"問題1-4の判定、出典、解説及び追加でチェック","destination_heading":"## 1. 減損会計総論"}
+      ], "chunk_sha256": "d2be46c8f7b28132fd35604853a344e0faa90043c63a43c3bba3240e36e1bf59"
+    },
+    {
+      "id": "JPG-W2-C003-S02", "batch_id": "JPG-W2-C003", "chapter": "23", "section": "23.2", "title": "2. 減損会計の対象資産、減損の兆候の把握",
+      "expected_pages": ["W2:038", "W2:039", "W2:040", "W2:041"], "processing_pages": ["W2:038", "W2:039", "W2:040", "W2:041"],
+      "output": "chunks/JPG-W2-C003/JPG-W2-C003-S02.md", "status": "pass",
+      "locators": [
+        {"page":"W2:038","printed_page":"23-3","source_region":"2.対象資産・兆候、問題5-11の問題文","destination_heading":"## 2. 減損会計の対象資産、減損の兆候の把握"},
+        {"page":"W2:039","printed_page":"23-4","source_region":"問題5-11の判定、出典、解説及び追加でチェック","destination_heading":"## 2. 減損会計の対象資産、減損の兆候の把握"},
+        {"page":"W2:040","printed_page":"23-5","source_region":"問題12-15の問題文及び問題16との境界","destination_heading":"## 2. 減損会計の対象資産、減損の兆候の把握"},
+        {"page":"W2:041","printed_page":"23-6","source_region":"問題12-15の判定、出典、解説及び兆候4例","destination_heading":"## 2. 減損会計の対象資産、減損の兆候の把握"}
+      ], "chunk_sha256": "c6772074e2ce08f17f9feae29e27c2c8e089a738a838a05a76fc170fa874ed82"
+    },
+    {
+      "id": "JPG-W2-C003-S03", "batch_id": "JPG-W2-C003", "chapter": "23", "section": "23.3", "title": "3. 減損損失の認識と測定",
+      "expected_pages": ["W2:040", "W2:041", "W2:042", "W2:043"], "processing_pages": ["W2:040", "W2:041", "W2:042", "W2:043"],
+      "output": "chunks/JPG-W2-C003/JPG-W2-C003-S03.md", "status": "pass",
+      "locators": [
+        {"page":"W2:040","printed_page":"23-5","source_region":"3.認識と測定、問題16の問題文","destination_heading":"## 3. 減損損失の認識と測定"},
+        {"page":"W2:041","printed_page":"23-6","source_region":"問題16の判定、出典、解説及び追加でチェック","destination_heading":"## 3. 減損損失の認識と測定"},
+        {"page":"W2:042","printed_page":"23-7","source_region":"問題17-21の問題文及び問題22との境界","destination_heading":"## 3. 減損損失の認識と測定"},
+        {"page":"W2:043","printed_page":"23-8","source_region":"問題17-21の判定、出典、解説及び追加でチェック","destination_heading":"## 3. 減損損失の認識と測定"}
+      ], "chunk_sha256": "245e6eaf3d41f33934bf5fd08b8b5264c624ea0d59bf87a3837658075402f596"
+    },
+    {
+      "id": "JPG-W2-C003-S04", "batch_id": "JPG-W2-C003", "chapter": "23", "section": "23.4", "title": "4. 将来キャッシュ・フロー及び割引率の算定",
+      "expected_pages": ["W2:042", "W2:043", "W2:044", "W2:045", "W2:046", "W2:047"], "processing_pages": ["W2:042", "W2:043", "W2:044", "W2:045", "W2:046", "W2:047"],
+      "output": "chunks/JPG-W2-C003/JPG-W2-C003-S04.md", "status": "pass",
+      "locators": [
+        {"page":"W2:042","printed_page":"23-7","source_region":"4.将来キャッシュ・フロー及び割引率、問題22の問題文","destination_heading":"## 4. 将来キャッシュ・フロー及び割引率の算定"},
+        {"page":"W2:043","printed_page":"23-8","source_region":"問題22の判定、出典及び解説","destination_heading":"## 4. 将来キャッシュ・フロー及び割引率の算定"},
+        {"page":"W2:044","printed_page":"23-9","source_region":"問題23-29の問題文","destination_heading":"## 4. 将来キャッシュ・フロー及び割引率の算定"},
+        {"page":"W2:045","printed_page":"23-10","source_region":"問題23-29の判定、出典、解説及び追加でチェック","destination_heading":"## 4. 将来キャッシュ・フロー及び割引率の算定"},
+        {"page":"W2:046","printed_page":"23-11","source_region":"問題30-35の問題文及び問題36との境界","destination_heading":"## 4. 将来キャッシュ・フロー及び割引率の算定"},
+        {"page":"W2:047","printed_page":"23-12","source_region":"問題30-35の判定、出典、解説及び追加でチェック","destination_heading":"## 4. 将来キャッシュ・フロー及び割引率の算定"}
+      ], "chunk_sha256": "755e7661b1db121ed9e8a9adc4a5e7d574bab80d36e254bc238396f9765d3368"
+    },
+    {
+      "id": "JPG-W2-C003-S05", "batch_id": "JPG-W2-C003", "chapter": "23", "section": "23.5", "title": "5. 共用資産",
+      "expected_pages": ["W2:046", "W2:047", "W2:048", "W2:049", "W2:050", "W2:051"], "processing_pages": ["W2:046", "W2:047", "W2:048", "W2:049", "W2:050", "W2:051"],
+      "output": "chunks/JPG-W2-C003/JPG-W2-C003-S05.md", "status": "pass",
+      "locators": [
+        {"page":"W2:046","printed_page":"23-11","source_region":"5.共用資産、問題36の問題文","destination_heading":"## 5. 共用資産"},
+        {"page":"W2:047","printed_page":"23-12","source_region":"問題36の判定、出典及び解説","destination_heading":"## 5. 共用資産"},
+        {"page":"W2:048","printed_page":"23-13","source_region":"問題37-44の問題文","destination_heading":"## 5. 共用資産"},
+        {"page":"W2:049","printed_page":"23-14","source_region":"問題37-44の判定、出典、解説及び追加でチェック","destination_heading":"## 5. 共用資産"},
+        {"page":"W2:050","printed_page":"23-15","source_region":"問題45の問題文及び問題46-51との境界","destination_heading":"## 5. 共用資産"},
+        {"page":"W2:051","printed_page":"23-16","source_region":"問題45の判定、出典、解説及び追加でチェック","destination_heading":"## 5. 共用資産"}
+      ], "chunk_sha256": "678deace262e61e53c0ad744372f55ff972685d741c087cb139a18afb5cec476"
+    },
+    {
+      "id": "JPG-W2-C003-S06", "batch_id": "JPG-W2-C003", "chapter": "23", "section": "23.6", "title": "6. のれん",
+      "expected_pages": ["W2:050", "W2:051", "W2:052", "W2:053"], "processing_pages": ["W2:050", "W2:051", "W2:052", "W2:053"],
+      "output": "chunks/JPG-W2-C003/JPG-W2-C003-S06.md", "status": "pass",
+      "locators": [
+        {"page":"W2:050","printed_page":"23-15","source_region":"6.のれん、問題46-51の問題文","destination_heading":"## 6. のれん"},
+        {"page":"W2:051","printed_page":"23-16","source_region":"問題46-51の判定、出典、解説及び追加でチェック","destination_heading":"## 6. のれん"},
+        {"page":"W2:052","printed_page":"23-17","source_region":"問題52の問題文及び問題53との境界","destination_heading":"## 6. のれん"},
+        {"page":"W2:053","printed_page":"23-18","source_region":"問題52の判定、出典及び解説","destination_heading":"## 6. のれん"}
+      ], "chunk_sha256": "b169e46f4f7b4e3276d1cfa00129c602a46f916693e7b08829b9902552ea9ec2"
+    },
+    {
+      "id": "JPG-W2-C003-S07", "batch_id": "JPG-W2-C003", "chapter": "23", "section": "23.7", "title": "7. 表示",
+      "expected_pages": ["W2:052", "W2:053"], "processing_pages": ["W2:052", "W2:053"],
+      "output": "chunks/JPG-W2-C003/JPG-W2-C003-S07.md", "status": "pass",
+      "locators": [
+        {"page":"W2:052","printed_page":"23-17","source_region":"7.表示、問題53-58の問題文","destination_heading":"## 7. 表示"},
+        {"page":"W2:053","printed_page":"23-18","source_region":"問題53-58の判定、出典、解説及び追加でチェック","destination_heading":"## 7. 表示"}
+      ], "chunk_sha256": "d99230823c7241a29589ba841f1f0a175cf9ea93d984f1305dada7a68c30dbbb"
+    },
+    {
+      "id": "JPG-W2-C003-S08", "batch_id": "JPG-W2-C003", "chapter": "23", "section": "23.8", "title": "8. 適用指針の論点",
+      "expected_pages": ["W2:054", "W2:055", "W2:056", "W2:057"], "processing_pages": ["W2:054", "W2:055", "W2:056", "W2:057"],
+      "output": "chunks/JPG-W2-C003/JPG-W2-C003-S08.md", "status": "pass",
+      "locators": [
+        {"page":"W2:054","printed_page":"23-19","source_region":"8.適用指針の論点、問題59-64の問題文","destination_heading":"## 8. 適用指針の論点"},
+        {"page":"W2:055","printed_page":"23-20","source_region":"問題59-64の判定、出典、解説及び追加でチェック","destination_heading":"## 8. 適用指針の論点"},
+        {"page":"W2:056","printed_page":"23-21","source_region":"問題65-70の問題文","destination_heading":"## 8. 適用指針の論点"},
+        {"page":"W2:057","printed_page":"23-22","source_region":"問題65-70の判定、出典及び解説","destination_heading":"## 8. 適用指針の論点"}
+      ], "chunk_sha256": "5d4b78fed31e9f443a16b6e0e41553a638023ca26e705abaaa0c0ace4c5e0f89"
+    }
+  ],
+  "review": "reviews/JPG-W2-C003.json",
+  "excluded_pages": [],
+  "source_scope": {"source_id":"W2","physical_range":"W2:036-W2:057","processing_range":"W2:036-W2:057","chapter":"23","title":"固定資産の減損に係る会計基準","content_authority":"designated existing JPGs; PDF text layer used for transcription draft under current user instruction"}
+}
