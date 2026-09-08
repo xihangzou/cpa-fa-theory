@@ -328,7 +328,7 @@
     }
   },
   "assembly": {
-    "method": "workflow reproduction of workflow/scripts/source_md.py batch_assembled/assemble byte-preserving rules",
+    "method": "workflow/scripts/source_md.py actual helper execution, with prior GitHub one-shot reproduction providing independent corroboration",
     "allowed_structural_removals": [
       "chunk YAML envelope",
       "duplicated initial chapter heading for subsequent chunks in the same chapter",
@@ -422,7 +422,58 @@
     "assembly_body_transform": "pass",
     "assembly_rerun_stability": "pass",
     "git_diff_check": "pass",
-    "live_source_image_hashes": "pass"
+    "live_source_image_hashes": "pass",
+    "source_md_check": "pass",
+    "source_md_assemble_first": "pass",
+    "source_md_assemble_second": "pass",
+    "actual_helper_execution": "pass"
   },
-  "remaining_uncertainty": []
+  "remaining_uncertainty": [],
+  "helper_execution": {
+    "status": "pass",
+    "verified_on": "2026-09-08",
+    "repository_snapshot_commit": "420f82763e98b4eedf95d747fd095b25360cf87c",
+    "repository_snapshot_workflow_run_id": 34188448346,
+    "repository_snapshot_artifact_id": 10041329023,
+    "source_md_sha256": "ce974ae22b76044e56fde5b3bb4b57ad6d6e6ebe6ca7f10558f6f320dadad50e",
+    "source_cache": {
+      "physical_jpg_count": 344,
+      "pdf_sha256": "1d9f0124a0c8ef759526decc90a1a410f694e2b7fa992b430fc413e783df85bc",
+      "catalog_image_inventory_sha256": "af94a7c1f91d1eb56611afc242360566950d6f93d5a6ac7d5271c5e8d3f9d170",
+      "catalog_inventory_match": true
+    },
+    "commands": [
+      {
+        "command": "python3 workflow/scripts/source_md.py check project/T3",
+        "exit_code": 0,
+        "stdout": "Source/task structural checks pass; image-to-text meaning requires human source review."
+      },
+      {
+        "command": "python3 workflow/scripts/source_md.py assemble project/T3",
+        "run": "first",
+        "exit_code": 0,
+        "stdout": "Merged without rewriting body text. Source revision: sha256:dbf52450e8f5c5a1b91ce8a4801868a95e19633e3e7f0e4de936f415f0cc3bfc"
+      },
+      {
+        "command": "python3 workflow/scripts/source_md.py assemble project/T3",
+        "run": "second",
+        "exit_code": 0,
+        "stdout": "Merged without rewriting body text. Source revision: sha256:dbf52450e8f5c5a1b91ce8a4801868a95e19633e3e7f0e4de936f415f0cc3bfc"
+      },
+      {
+        "command": "git diff --check",
+        "exit_code": 0
+      }
+    ],
+    "hash_comparisons": {
+      "assembly_before_equals_first_run": true,
+      "first_run_equals_second_run": true,
+      "output_file_count": 10,
+      "textbook_sha256": "dbf52450e8f5c5a1b91ce8a4801868a95e19633e3e7f0e4de936f415f0cc3bfc",
+      "assembly_manifest_sha256": "40c37ec9bb637cfa87403c11b3e7bb17fbb2f585f333c1a3cc52f5ffdf9e1e1c",
+      "matches_saved_qa_hashes": true,
+      "tracked_owned_outputs_changed_by_helper": false
+    },
+    "note": "The repository snapshot was exported by GitHub Actions from main, downloaded as an artifact into the execution environment, populated with the byte-validated 344-page T3 JPG cache, and then checked/assembled using the repository helper itself."
+  }
 }
