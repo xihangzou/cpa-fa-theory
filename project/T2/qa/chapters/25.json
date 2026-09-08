@@ -1,0 +1,15 @@
+{
+  "chapter":"25","status":"pass","unresolved_count":0,
+  "chunks":[
+    {"task":"JPG-T2-C008-S01","chunk_sha256":"82e21d30838556636525504cc2e455e9f885e453a32aac7c27259b0b30a108f6"},
+    {"task":"JPG-T2-C008-S02","chunk_sha256":"209d4a211ebaaca00b5c4c72037fd2021668bc8e8e7bb72db1d9a9049a8bc48e"},
+    {"task":"JPG-T2-C008-S03","chunk_sha256":"a753338bbb726f4fa9fd9f65d3a3726590d322a4179d6bbef5eec5f1285c0787"},
+    {"task":"JPG-T2-C008-S04","chunk_sha256":"9dc65262e8c4000c9e2aa07d33010246c5b1110d9dbfec06bc585c988d81ed02"},
+    {"task":"JPG-T2-C008-S05","chunk_sha256":"529215f63fd6a7b4b4becc058ead0341b98390b937e8b6f92cc0b14f33aaf319"}
+  ],
+  "title":"資産除去債務に関する会計基準","qa_issue":174,"source_id":"T2","reviewed_on":"2026-09-08","reviewer_model":"GPT-5.6 Sol",
+  "scope":{"physical_range":"T2:143-T2:166","included_range":"T2:143-T2:165","excluded_pages":[{"page":"T2:166","reason":"【MEMO】の白紙ページ。画像レビュー及びinventory ledgerで本文・図表なしを確認。"}]},
+  "review_basis":[{"batch":"JPG-T2-C008","fragment":"project/T2/fragments/JPG-T2-C008.json","fragment_blob_sha":"252b96b300b24092b9d32ded6bde5b7504ecb530","review":"project/T2/reviews/JPG-T2-C008.json"}],
+  "chapter_review":{"page_coverage":"pass: T2:143-T2:165 are represented in current PASS exact-JPG evidence; T2:166 is the blank MEMO exclusion","section_order":"pass: 25.1 -> 25.2 -> 25.3 -> 25.4 -> 25.5","continuations":"pass: all five sections are wholly contained in C008","boundary_review":"pass: the chapter ends substantively on T2:165 before excluded T2:166","findings":["All 23 substantive images are covered in source order.","Recognition scope, discounted measurement, alternative views, estimate changes, journal entries and disclosures are represented in saved page-level evidence.","No unresolved marker or stale task hash was found."],"corrections_required":false,"corrections":[],"method":"Revalidated current exact-JPG C008 review evidence and all five task hashes, then audited page coverage, section order and the exclusion ledger."},
+  "source_identity":{"edition":"2024/2025年合格目標","publication_date":"2023-05-04","pdf_sha256":"ba4b33c8881021044b6360bfd10899f1b1f882bda3ccc7df3f1f895e9cc55ba5","content_authority":"designated existing JPGs"}
+}
