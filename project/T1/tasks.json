@@ -1,1 +1,4134 @@
-[]
+[
+  {
+    "id": "JPG-T1-C001-S01",
+    "batch_id": "JPG-T1-C001",
+    "chapter": "00",
+    "section": "00.1",
+    "title": "第1節 財務会計論・理論とは",
+    "expected_pages": [
+      "T1:004"
+    ],
+    "processing_pages": [
+      "T1:004"
+    ],
+    "output": "chunks/JPG-T1-C001/JPG-T1-C001-S01.md",
+    "status": "pass",
+    "chunk_sha256": "49cd42aaea71b20f1b2f9588477ef4d0f65845c78c395240e0604b8039b1c70d",
+    "locators": [
+      {
+        "page": "T1:004",
+        "printed_page": "1",
+        "source_region": "序章、第1節の扉、1.財務会計論・理論とはどんな科目、機械10,000・減価償却の例、仕訳、理論と計算の区別",
+        "destination_heading": "## 第1節 財務会計論・理論とは"
+      }
+    ]
+  },
+  {
+    "id": "JPG-T1-C001-S02",
+    "batch_id": "JPG-T1-C001",
+    "chapter": "00",
+    "section": "00.2",
+    "title": "第2節 試験概要と試験範囲",
+    "expected_pages": [
+      "T1:005",
+      "T1:006",
+      "T1:007",
+      "T1:008",
+      "T1:009"
+    ],
+    "processing_pages": [
+      "T1:005",
+      "T1:006",
+      "T1:007",
+      "T1:008",
+      "T1:009"
+    ],
+    "output": "chunks/JPG-T1-C001/JPG-T1-C001-S02.md",
+    "status": "pass",
+    "chunk_sha256": "100a26a99a181216a41c7b9344b568ddf51b3b1246a3ecc7abb8e11e8a350b76",
+    "locators": [
+      {
+        "page": "T1:005",
+        "printed_page": "2",
+        "source_region": "第2節の扉、1.公認会計士試験における財務会計論・理論の位置付け、試験科目・配点・時間表、短答式・論文式の配点説明",
+        "destination_heading": "## 第2節 試験概要と試験範囲"
+      },
+      {
+        "page": "T1:006",
+        "printed_page": "3",
+        "source_region": "2.出題のされ方、短答式の資産会計問題例、論文式の企業年金問題例、短答式・論文式の特徴表",
+        "destination_heading": "## 第2節 試験概要と試験範囲"
+      },
+      {
+        "page": "T1:007",
+        "printed_page": "4",
+        "source_region": "3.出題範囲、公認会計士・監査審査会の範囲説明、注意、出題項目の例1–7",
+        "destination_heading": "## 第2節 試験概要と試験範囲"
+      },
+      {
+        "page": "T1:008",
+        "printed_page": "5",
+        "source_region": "出題項目の例8–19の続き、会計基準・負債・純資産・財務諸表・金融商品・ストックオプション・リース・退職給付・収益認識・研究開発・減損",
+        "destination_heading": "## 第2節 試験概要と試験範囲"
+      },
+      {
+        "page": "T1:009",
+        "printed_page": "6",
+        "source_region": "出題項目の例19–23の続き、法人税等・連結財務諸表・企業結合と事業分離・外貨換算・四半期財務諸表",
+        "destination_heading": "## 第2節 試験概要と試験範囲"
+      }
+    ]
+  },
+  {
+    "id": "JPG-T1-C001-S03",
+    "batch_id": "JPG-T1-C001",
+    "chapter": "00",
+    "section": "00.3",
+    "title": "第3節 テキストの使用にあたって",
+    "expected_pages": [
+      "T1:010",
+      "T1:011",
+      "T1:012",
+      "T1:013",
+      "T1:014",
+      "T1:015",
+      "T1:016"
+    ],
+    "processing_pages": [
+      "T1:010",
+      "T1:011",
+      "T1:012",
+      "T1:013",
+      "T1:014",
+      "T1:015",
+      "T1:016"
+    ],
+    "output": "chunks/JPG-T1-C001/JPG-T1-C001-S03.md",
+    "status": "pass",
+    "chunk_sha256": "3c465f7cf270cd5521401d10c7b3e8366cd4cba2cc6ae4d7e5958c74a33134fc",
+    "locators": [
+      {
+        "page": "T1:010",
+        "printed_page": "7",
+        "source_region": "第3節の扉、1.基本的な方向性、内容の範囲、短答式の重要性A–D表",
+        "destination_heading": "## 第3節 テキストの使用にあたって"
+      },
+      {
+        "page": "T1:011",
+        "printed_page": "8",
+        "source_region": "論文式の重要性A–D表、補足・参考・具体例・設例、太字、補講・補講（論文）・△",
+        "destination_heading": "## 第3節 テキストの使用にあたって"
+      },
+      {
+        "page": "T1:012",
+        "printed_page": "9",
+        "source_region": "2.勉強の進め方、わからないことをなくす、講義後の復習、短答対策問題集と定期読書の導入",
+        "destination_heading": "## 第3節 テキストの使用にあたって"
+      },
+      {
+        "page": "T1:013",
+        "printed_page": "10",
+        "source_region": "定期的に読む理由2点、3.今後の講義の流れ、レギュラー期・補講の表",
+        "destination_heading": "## 第3節 テキストの使用にあたって"
+      },
+      {
+        "page": "T1:014",
+        "printed_page": "11",
+        "source_region": "4.短答対策問題集を解く際の注意点、指定問題、○×の理由、該当箇所へのメモ",
+        "destination_heading": "## 第3節 テキストの使用にあたって"
+      },
+      {
+        "page": "T1:015",
+        "printed_page": "12",
+        "source_region": "5.短答レギュラー答練、5回分の問題数・時間、出題形式、出題内容、答練の目的",
+        "destination_heading": "## 第3節 テキストの使用にあたって"
+      },
+      {
+        "page": "T1:016",
+        "printed_page": "13",
+        "source_region": "6.テキストの構成、会計基準・結論の背景・適用指針／実務指針の重要性表、ファイナンス・リースの例、点線の意味",
+        "destination_heading": "## 第3節 テキストの使用にあたって"
+      }
+    ]
+  },
+  {
+    "id": "JPG-T1-C002-S01",
+    "batch_id": "JPG-T1-C002",
+    "chapter": "01",
+    "section": "01.1",
+    "title": "第1節 財務会計総論",
+    "expected_pages": [
+      "T1:023",
+      "T1:024",
+      "T1:025",
+      "T1:026",
+      "T1:027",
+      "T1:028",
+      "T1:029"
+    ],
+    "processing_pages": [
+      "T1:023",
+      "T1:024",
+      "T1:025",
+      "T1:026",
+      "T1:027",
+      "T1:028",
+      "T1:029"
+    ],
+    "output": "chunks/JPG-T1-C002/JPG-T1-C002-S01.md",
+    "status": "pass",
+    "locators": [
+      {
+        "page": "T1:023",
+        "printed_page": null,
+        "source_region": "第1章の章扉、短答式・論文式本試験における出題実績表、章評価",
+        "destination_heading": "## 第1節 財務会計総論"
+      },
+      {
+        "page": "T1:024",
+        "printed_page": "①－1",
+        "source_region": "第1節の扉、1.企業会計の意義、2.会計行為とその構成要素、認識・測定・記録・報告の表、流れ図、フッター",
+        "destination_heading": "## 第1節 財務会計総論"
+      },
+      {
+        "page": "T1:025",
+        "printed_page": "①－2",
+        "source_region": "経営成績と財政状態の補足、3.企業会計の領域、財務会計・管理会計の比較表と例示図、フッター",
+        "destination_heading": "## 第1節 財務会計総論"
+      },
+      {
+        "page": "T1:026",
+        "printed_page": "①－3",
+        "source_region": "4.主な利害関係者と利害内容、株主・債権者の貸借対照表・仕訳・特徴、倒産例、利害内容表、投資者の範囲図、フッター",
+        "destination_heading": "## 第1節 財務会計総論"
+      },
+      {
+        "page": "T1:027",
+        "printed_page": "①－4",
+        "source_region": "5.財務会計の機能、(1)利害調整機能、所有と経営の分離の補足・図、①株主と経営者との間の利害調整機能、役割表、フッター",
+        "destination_heading": "## 第1節 財務会計総論"
+      },
+      {
+        "page": "T1:028",
+        "printed_page": "①－5",
+        "source_region": "受託責任の続き、株主と経営者の利害対立図、財務諸表による調整、会計責任、受託責任の流れ図、フッター",
+        "destination_heading": "## 第1節 財務会計総論"
+      },
+      {
+        "page": "T1:029",
+        "printed_page": "①－6",
+        "source_region": "②株主と債権者との間の利害調整機能、分配可能額の図・仕訳・100/80/20の数値例、(2)情報提供機能、フッター",
+        "destination_heading": "## 第1節 財務会計総論"
+      }
+    ],
+    "chunk_sha256": "83bd16ea7d7f79a0591959aa8890637aa01a039acab09f521ee05ed440d2675e"
+  },
+  {
+    "id": "JPG-T1-C002-S02",
+    "batch_id": "JPG-T1-C002",
+    "chapter": "01",
+    "section": "01.2",
+    "title": "第2節 制度会計",
+    "expected_pages": [
+      "T1:030",
+      "T1:031",
+      "T1:032",
+      "T1:033",
+      "T1:034"
+    ],
+    "processing_pages": [
+      "T1:030",
+      "T1:031",
+      "T1:032",
+      "T1:033",
+      "T1:034"
+    ],
+    "output": "chunks/JPG-T1-C002/JPG-T1-C002-S02.md",
+    "status": "pass",
+    "locators": [
+      {
+        "page": "T1:030",
+        "printed_page": "①－7",
+        "source_region": "第2節の扉、1.会計の分類の階層図、制度会計の定義と分類、2.制度会計とは、注記、フッター",
+        "destination_heading": "## 第2節 制度会計"
+      },
+      {
+        "page": "T1:031",
+        "printed_page": "①－8",
+        "source_region": "3.会社法会計、会社法の目的、計算書類、株主・債権者の保護内容表、フッター",
+        "destination_heading": "## 第2節 制度会計"
+      },
+      {
+        "page": "T1:032",
+        "printed_page": "①－9",
+        "source_region": "4.金融商品取引法会計、目的、会社法会計との関係の補足・図、財務諸表と基準・規則の説明、フッター",
+        "destination_heading": "## 第2節 制度会計"
+      },
+      {
+        "page": "T1:033",
+        "printed_page": "①－10",
+        "source_region": "5.会社法会計と金融商品取引法会計の比較、目的・対象・計算重点・作成開示書類・ルール・比較情報の全表、相違点と注1-3",
+        "destination_heading": "## 第2節 制度会計"
+      },
+      {
+        "page": "T1:034",
+        "printed_page": "①－11",
+        "source_region": "会社法会計におけるその他の規定、会社計算規則第3条・第120条・第120条の2・第120条の3、会社法第441条、臨時計算書類の目的、フッター",
+        "destination_heading": "## 第2節 制度会計"
+      }
+    ],
+    "chunk_sha256": "9d0ca5aee347629e98f4074ac31dcc0020506054a676eb449d6aba3a397c9d18"
+  },
+  {
+    "id": "JPG-T1-C002-S03",
+    "batch_id": "JPG-T1-C002",
+    "chapter": "01",
+    "section": "01.3",
+    "title": "第3節 企業会計原則",
+    "expected_pages": [
+      "T1:035",
+      "T1:036"
+    ],
+    "processing_pages": [
+      "T1:035",
+      "T1:036"
+    ],
+    "output": "chunks/JPG-T1-C002/JPG-T1-C002-S03.md",
+    "status": "pass",
+    "locators": [
+      {
+        "page": "T1:035",
+        "printed_page": "①－12",
+        "source_region": "第3節の扉、1.企業会計原則の意義と性格、原則の記述、ポイント、2.企業会計原則の必要性、GAAPの説明、フッター",
+        "destination_heading": "## 第3節 企業会計原則"
+      },
+      {
+        "page": "T1:036",
+        "printed_page": "①－13",
+        "source_region": "会計原則を設定するアプローチ、演繹的・帰納的アプローチの定義と長所の比較表、構築図、結論、フッター",
+        "destination_heading": "## 第3節 企業会計原則"
+      }
+    ],
+    "chunk_sha256": "4c8054d7b8e3839c8d879f7664a0a3f087135c615a6f3ba7f282fe2bc81fc3cc"
+  },
+  {
+    "id": "JPG-T1-C002-S04",
+    "batch_id": "JPG-T1-C002",
+    "chapter": "01",
+    "section": "01.4",
+    "title": "第4節 会計公準",
+    "expected_pages": [
+      "T1:037",
+      "T1:038",
+      "T1:039"
+    ],
+    "processing_pages": [
+      "T1:037",
+      "T1:038",
+      "T1:039"
+    ],
+    "output": "chunks/JPG-T1-C002/JPG-T1-C002-S04.md",
+    "status": "pass",
+    "locators": [
+      {
+        "page": "T1:037",
+        "printed_page": "①－14",
+        "source_region": "第4節の扉、1.会計公準とは、会計理論の構造図、減価償却・費用配分・継続企業の関係、フッター",
+        "destination_heading": "## 第4節 会計公準"
+      },
+      {
+        "page": "T1:038",
+        "printed_page": "①－15",
+        "source_region": "2.ギルマンの3公準、(1)企業実体の公準、企業と株主の区別の図・仕訳、(2)継続企業の公準、会計期間の図、フッター",
+        "destination_heading": "## 第4節 会計公準"
+      },
+      {
+        "page": "T1:039",
+        "printed_page": "①－16",
+        "source_region": "(3)貨幣的評価の公準、統一尺度・評価可能性・比較可能性・加法性、経営者の能力の例、フッター",
+        "destination_heading": "## 第4節 会計公準"
+      }
+    ],
+    "chunk_sha256": "dc4be1d650f7680792ada8cadbb8dcf63a09392c88699f604e397403d301602b"
+  },
+  {
+    "id": "JPG-T1-C003-S01",
+    "batch_id": "JPG-T1-C003",
+    "chapter": "02",
+    "section": "02.1",
+    "title": "第1節 一般原則の体系",
+    "expected_pages": [
+      "T1:041",
+      "T1:042"
+    ],
+    "processing_pages": [
+      "T1:041",
+      "T1:042"
+    ],
+    "output": "chunks/JPG-T1-C003/JPG-T1-C003-S01.md",
+    "status": "pass",
+    "chunk_sha256": "d95698bdc2c3e44471d29afca5aaeab4b6f172bb4ec6631d00bd0abf8b1c63fb",
+    "locators": [
+      {
+        "page": "T1:041",
+        "printed_page": null,
+        "source_region": "第2章の章扉、章タイトル・評価、短答式および論文式本試験の出題実績表",
+        "destination_heading": "## 第1節 一般原則の体系"
+      },
+      {
+        "page": "T1:042",
+        "printed_page": "②－1",
+        "source_region": "第1節の扉、1.一般原則の体系、一般原則と損益計算書原則・貸借対照表原則の上下関係、2.一般原則の全体像、原則間の関係図",
+        "destination_heading": "## 第1節 一般原則の体系"
+      }
+    ]
+  },
+  {
+    "id": "JPG-T1-C003-S02",
+    "batch_id": "JPG-T1-C003",
+    "chapter": "02",
+    "section": "02.2",
+    "title": "第2節 真実性の原則",
+    "expected_pages": [
+      "T1:043"
+    ],
+    "processing_pages": [
+      "T1:043"
+    ],
+    "output": "chunks/JPG-T1-C003/JPG-T1-C003-S02.md",
+    "status": "pass",
+    "chunk_sha256": "0ed4c37c9c264f37baa994c33ce46a3c668eb7545681f668e93c091866ba8dac",
+    "locators": [
+      {
+        "page": "T1:043",
+        "printed_page": "②－2",
+        "source_region": "第2節の扉、企業会計原則第一一の規定、1.真実性の原則の位置付け、2.真実性の意味内容の表、固定資産配分の脚注",
+        "destination_heading": "## 第2節 真実性の原則"
+      }
+    ]
+  },
+  {
+    "id": "JPG-T1-C003-S03",
+    "batch_id": "JPG-T1-C003",
+    "chapter": "02",
+    "section": "02.3",
+    "title": "第3節 正規の簿記の原則",
+    "expected_pages": [
+      "T1:044",
+      "T1:045",
+      "T1:046"
+    ],
+    "processing_pages": [
+      "T1:044",
+      "T1:045",
+      "T1:046"
+    ],
+    "output": "chunks/JPG-T1-C003/JPG-T1-C003-S03.md",
+    "status": "pass",
+    "chunk_sha256": "616bea4663832178bb5ce672c102e4023a8866554b32268d4031bc5dab49d2ae",
+    "locators": [
+      {
+        "page": "T1:044",
+        "printed_page": "②－3",
+        "source_region": "第3節の扉、規定、1.正規の簿記の原則の意味内容、記録の網羅性・検証可能性・秩序性の表、仕訳帳と総勘定元帳の関係図",
+        "destination_heading": "## 第3節 正規の簿記の原則"
+      },
+      {
+        "page": "T1:045",
+        "printed_page": "②－4",
+        "source_region": "(2)会計帳簿と財務諸表の有機的関連性、誘導作成と棚卸法の否定、発生取引から財務諸表までの流れ図、2.簿外資産・簿外負債との関係、重要性の乏しい貯蔵品の費用処理",
+        "destination_heading": "## 第3節 正規の簿記の原則"
+      },
+      {
+        "page": "T1:046",
+        "printed_page": "②－5",
+        "source_region": "補足・貸借対照表完全性の原則の規定と関係説明、3.複式簿記との関係、現金出納帳の4/1売上10,000・4/2水道光熱費2,300の例と単式簿記の説明",
+        "destination_heading": "## 第3節 正規の簿記の原則"
+      }
+    ]
+  },
+  {
+    "id": "JPG-T1-C003-S04",
+    "batch_id": "JPG-T1-C003",
+    "chapter": "02",
+    "section": "02.4",
+    "title": "第4節 資本取引・損益取引区分の原則",
+    "expected_pages": [
+      "T1:047",
+      "T1:048",
+      "T1:049"
+    ],
+    "processing_pages": [
+      "T1:047",
+      "T1:048",
+      "T1:049"
+    ],
+    "output": "chunks/JPG-T1-C003/JPG-T1-C003-S04.md",
+    "status": "pass",
+    "chunk_sha256": "1fc30136f411822bb6f4e5129db645c22cc5dcd222da5c7bcc7e3f94555b1c65",
+    "locators": [
+      {
+        "page": "T1:047",
+        "printed_page": "②－6",
+        "source_region": "第4節の扉、規定、1.原則の意味内容、2.(1)資本取引と損益取引の相違、増資・配当・仕入・販売の仕訳と貸借対照表・損益計算書の例",
+        "destination_heading": "## 第4節 資本取引・損益取引区分の原則"
+      },
+      {
+        "page": "T1:048",
+        "printed_page": "②－7",
+        "source_region": "2.(2)区分する理由、期間損益と情報提供機能、新株発行費用の扱い、3.(1)資本剰余金と利益剰余金の意義",
+        "destination_heading": "## 第4節 資本取引・損益取引区分の原則"
+      },
+      {
+        "page": "T1:049",
+        "printed_page": "②－8",
+        "source_region": "3.(2)区分する理由、利害調整・分配可能性の図、理論上と現行制度上の取扱い表、情報提供機能と健全運営の説明",
+        "destination_heading": "## 第4節 資本取引・損益取引区分の原則"
+      }
+    ]
+  },
+  {
+    "id": "JPG-T1-C003-S05",
+    "batch_id": "JPG-T1-C003",
+    "chapter": "02",
+    "section": "02.5",
+    "title": "第5節 明瞭性の原則",
+    "expected_pages": [
+      "T1:050",
+      "T1:051",
+      "T1:052",
+      "T1:053",
+      "T1:054",
+      "T1:055"
+    ],
+    "processing_pages": [
+      "T1:050",
+      "T1:051",
+      "T1:052",
+      "T1:053",
+      "T1:054",
+      "T1:055"
+    ],
+    "output": "chunks/JPG-T1-C003/JPG-T1-C003-S05.md",
+    "status": "pass",
+    "chunk_sha256": "3e1e77aeef2cc010f4ef2ceb0f50dac04a4c8c0c0d6983bebf85934a34705d63",
+    "locators": [
+      {
+        "page": "T1:050",
+        "printed_page": "②－9",
+        "source_region": "第5節の扉、規定、1.明瞭性の意味内容、詳細性・概観性、2.(1)損益計算書・貸借対照表の報告式と勘定式の図",
+        "destination_heading": "## 第5節 明瞭性の原則"
+      },
+      {
+        "page": "T1:051",
+        "printed_page": "②－10",
+        "source_region": "2.(2)附属明細表の定義、財務諸表等規則・連結財務諸表規則・会社計算規則の一覧、引当金明細表の数値例、注記の定義",
+        "destination_heading": "## 第5節 明瞭性の原則"
+      },
+      {
+        "page": "T1:052",
+        "printed_page": "②－11",
+        "source_region": "2.(3)会計方針の注記、7項目の例、重要性による省略、※1〜※5の評価・処理・換算・引当金・収益費用の説明、その他基本事項",
+        "destination_heading": "## 第5節 明瞭性の原則"
+      },
+      {
+        "page": "T1:053",
+        "printed_page": "②－12",
+        "source_region": "会計方針の記載場所、金融商品取引法会計・会社法会計の表、開示目的、基準が明らかでない場合、後発事象の定義と5例",
+        "destination_heading": "## 第5節 明瞭性の原則"
+      },
+      {
+        "page": "T1:054",
+        "printed_page": "②－13",
+        "source_region": "後発事象の時系列図、重要な後発事象の注記の必要性、修正後発事象・開示後発事象の比較表と例、その他重要事項の導入",
+        "destination_heading": "## 第5節 明瞭性の原則"
+      },
+      {
+        "page": "T1:055",
+        "printed_page": "②－14",
+        "source_region": "追加情報、継続企業の前提と4つの注記事項、重要な不確実性が解消した場合、注記の順序規定と3つの順序図",
+        "destination_heading": "## 第5節 明瞭性の原則"
+      }
+    ]
+  },
+  {
+    "id": "JPG-T1-C003-S06",
+    "batch_id": "JPG-T1-C003",
+    "chapter": "02",
+    "section": "02.6",
+    "title": "第6節 継続性の原則",
+    "expected_pages": [
+      "T1:056",
+      "T1:057"
+    ],
+    "processing_pages": [
+      "T1:056",
+      "T1:057"
+    ],
+    "output": "chunks/JPG-T1-C003/JPG-T1-C003-S06.md",
+    "status": "pass",
+    "chunk_sha256": "f180cdc3bbb62cc0a4151d16dc1ff0daad3a55963e6113f7edc2f48d7a39909c",
+    "locators": [
+      {
+        "page": "T1:056",
+        "printed_page": "②－15",
+        "source_region": "第6節の扉、規定、1.継続性の意味内容と必要性、総平均法・先入先出法の100円・120円・140円・240円・220円例、期間比較可能性の補足",
+        "destination_heading": "## 第6節 継続性の原則"
+      },
+      {
+        "page": "T1:057",
+        "printed_page": "②－16",
+        "source_region": "2.継続性の前提、複数の認められた会計方針、4種類の変更パターン図、3.正当な理由による会計方針変更",
+        "destination_heading": "## 第6節 継続性の原則"
+      }
+    ]
+  },
+  {
+    "id": "JPG-T1-C003-S07",
+    "batch_id": "JPG-T1-C003",
+    "chapter": "02",
+    "section": "02.7",
+    "title": "第7節 保守主義の原則",
+    "expected_pages": [
+      "T1:058",
+      "T1:059",
+      "T1:060"
+    ],
+    "processing_pages": [
+      "T1:058",
+      "T1:059",
+      "T1:060"
+    ],
+    "output": "chunks/JPG-T1-C003/JPG-T1-C003-S07.md",
+    "status": "pass",
+    "chunk_sha256": "e195b8b7c220115fea3dc312b5ca577f5736fd3bcc906c5594d81efb2e55c823",
+    "locators": [
+      {
+        "page": "T1:058",
+        "printed_page": "②－17",
+        "source_region": "第7節の扉、規定、1.保守主義の意味内容・必要性、2.定率法・収益的支出・部分純資産直入法の適用例",
+        "destination_heading": "## 第7節 保守主義の原則"
+      },
+      {
+        "page": "T1:059",
+        "printed_page": "②－18",
+        "source_region": "3.保守主義適用の留意点、複数処理からの選択、経済的実態の優先、貸倒実績率1〜2%から2%を選ぶ例、4.真実性との関係の規定",
+        "destination_heading": "## 第7節 保守主義の原則"
+      },
+      {
+        "page": "T1:060",
+        "printed_page": "②－19",
+        "source_region": "保守主義と真実性の関係、過度の保守主義の禁止、利益操作の注記、両原則のベン図、一般に公正妥当な減価償却方法から最も保守的な方法を選ぶ図",
+        "destination_heading": "## 第7節 保守主義の原則"
+      }
+    ]
+  },
+  {
+    "id": "JPG-T1-C003-S08",
+    "batch_id": "JPG-T1-C003",
+    "chapter": "02",
+    "section": "02.8",
+    "title": "第8節 単一性の原則",
+    "expected_pages": [
+      "T1:061"
+    ],
+    "processing_pages": [
+      "T1:061"
+    ],
+    "output": "chunks/JPG-T1-C003/JPG-T1-C003-S08.md",
+    "status": "pass",
+    "chunk_sha256": "eaf79920aec7cc0ebfa0aeaa54866c8efafbfccceefa0bfc73bd41b47c672234",
+    "locators": [
+      {
+        "page": "T1:061",
+        "printed_page": "②－20",
+        "source_region": "第8節の扉、規定、二重帳簿の禁止・実質一元形式多元の説明、株主総会・信用・税務申告・その他目的への流れ図",
+        "destination_heading": "## 第8節 単一性の原則"
+      }
+    ]
+  },
+  {
+    "id": "JPG-T1-C004-S01",
+    "batch_id": "JPG-T1-C004",
+    "chapter": "02",
+    "section": "02.9",
+    "title": "第9節 重要性の原則",
+    "expected_pages": [
+      "T1:062",
+      "T1:063",
+      "T1:064",
+      "T1:065"
+    ],
+    "processing_pages": [
+      "T1:062",
+      "T1:063",
+      "T1:064",
+      "T1:065"
+    ],
+    "output": "chunks/JPG-T1-C004/JPG-T1-C004-S01.md",
+    "status": "pass",
+    "chunk_sha256": "bf2f2fdd00a0dbc49f06df34b18800ccd09a361b0304219fd2483f581055be41",
+    "locators": [
+      {
+        "page": "T1:062",
+        "printed_page": "②－21",
+        "source_region": "第9節の扉、企業会計原則注解注1の規定、1.重要性の原則の意味内容と位置付け、会計処理と表示の参考表、2.重要性の原則における2つの側面",
+        "destination_heading": "## 第9節 重要性の原則"
+      },
+      {
+        "page": "T1:063",
+        "printed_page": "②－22",
+        "source_region": "情報提供機能とコスト・ベネフィットによる簡便処理の説明、コスト大・効用小の図、重要性の原則の適用例、重要性の乏しい場合の会計処理例・表示例、重要性の高い場合の表示例",
+        "destination_heading": "## 第9節 重要性の原則"
+      },
+      {
+        "page": "T1:064",
+        "printed_page": "②－23",
+        "source_region": "3.重要性の判断基準、意思決定への影響による基本基準、量的重要性・質的重要性の表、金額的重要性と質的重要性の表示例",
+        "destination_heading": "## 第9節 重要性の原則"
+      },
+      {
+        "page": "T1:065",
+        "printed_page": "②－24",
+        "source_region": "4.重要性の原則と他の一般原則との関係、正規の簿記の原則との関係、ペン10本・1本100円・7本使用の仕訳例、簿外資産300、明瞭性の原則との関係と注記",
+        "destination_heading": "## 第9節 重要性の原則"
+      }
+    ]
+  },
+  {
+    "id": "JPG-T1-C005-S01",
+    "batch_id": "JPG-T1-C005",
+    "chapter": "03",
+    "section": "03.1",
+    "title": "第1節 資本循環と財務諸表",
+    "expected_pages": [
+      "T1:067",
+      "T1:068",
+      "T1:069"
+    ],
+    "processing_pages": [
+      "T1:067",
+      "T1:068",
+      "T1:069"
+    ],
+    "output": "chunks/JPG-T1-C005/JPG-T1-C005-S01.md",
+    "status": "pass",
+    "chunk_sha256": "d37099e68b14a9cdaee95e883a9717a36d3ca81897b3145a0fe3467f160f7fb7",
+    "locators": [
+      {
+        "page": "T1:067",
+        "printed_page": null,
+        "source_region": "第3章の章扉、章タイトル・評価、短答式および論文式本試験の出題実績表",
+        "destination_heading": "## 第1節 資本循環と財務諸表"
+      },
+      {
+        "page": "T1:068",
+        "printed_page": "③－1",
+        "source_region": "第1節の扉、1.資本循環、資本の調達・投下・回収の定義と流れ図、資本の調達・投下の貸借対照表、フッター",
+        "destination_heading": "## 第1節 資本循環と財務諸表"
+      },
+      {
+        "page": "T1:069",
+        "printed_page": "③－2",
+        "source_region": "資金の運用形態と調達源泉、資本の回収、損益計算書・期末貸借対照表の数値例、資本循環と財務諸表の関係図、フッター",
+        "destination_heading": "## 第1節 資本循環と財務諸表"
+      }
+    ]
+  },
+  {
+    "id": "JPG-T1-C005-S02",
+    "batch_id": "JPG-T1-C005",
+    "chapter": "03",
+    "section": "03.2",
+    "title": "2. 期間利益の算定方法",
+    "expected_pages": [
+      "T1:070",
+      "T1:071"
+    ],
+    "processing_pages": [
+      "T1:070",
+      "T1:071"
+    ],
+    "output": "chunks/JPG-T1-C005/JPG-T1-C005-S02.md",
+    "status": "pass",
+    "chunk_sha256": "0c795fb825296190052105caa88d620e856b9f677a52fbcf4a18dd703e150747",
+    "locators": [
+      {
+        "page": "T1:070",
+        "printed_page": "③－3",
+        "source_region": "2.期間利益の算定方法、財産法の定義・長所・短所、期首期末純資産の数値例、実地調査（実地棚卸）の補足、損益法の定義・長所・短所",
+        "destination_heading": "## 2. 期間利益の算定方法"
+      },
+      {
+        "page": "T1:071",
+        "printed_page": "③－4",
+        "source_region": "損益法の期間収益・費用・利益の数値例、現行制度における損益法と実地調査の併用、商品滅失の具体例、財産法・損益法・現行制度の比較、3.貸借対照表の作成方法の導入",
+        "destination_heading": "## 2. 期間利益の算定方法"
+      }
+    ]
+  },
+  {
+    "id": "JPG-T1-C005-S03",
+    "batch_id": "JPG-T1-C005",
+    "chapter": "03",
+    "section": "03.3",
+    "title": "3. 貸借対照表の作成方法",
+    "expected_pages": [
+      "T1:071",
+      "T1:072"
+    ],
+    "processing_pages": [
+      "T1:071",
+      "T1:072"
+    ],
+    "output": "chunks/JPG-T1-C005/JPG-T1-C005-S03.md",
+    "status": "pass",
+    "chunk_sha256": "e99ffbda3e5dfa1960a3517909495cc9efe6b40b56d40a22a24ffa2113811801",
+    "locators": [
+      {
+        "page": "T1:071",
+        "printed_page": "③－4",
+        "source_region": "3.貸借対照表の作成方法の導入、棚卸法と誘導法の提示",
+        "destination_heading": "## 3. 貸借対照表の作成方法"
+      },
+      {
+        "page": "T1:072",
+        "printed_page": "③－5",
+        "source_region": "棚卸法（財産目録法）の定義・特徴・財産法との関係、誘導法の定義・特徴・損益法との関係、両方法の流れ図",
+        "destination_heading": "## 3. 貸借対照表の作成方法"
+      }
+    ]
+  },
+  {
+    "id": "JPG-T1-C005-S04",
+    "batch_id": "JPG-T1-C005",
+    "chapter": "03",
+    "section": "03.4",
+    "title": "4. 静態論会計と動態論会計",
+    "expected_pages": [
+      "T1:073",
+      "T1:074",
+      "T1:075",
+      "T1:076"
+    ],
+    "processing_pages": [
+      "T1:073",
+      "T1:074",
+      "T1:075",
+      "T1:076"
+    ],
+    "output": "chunks/JPG-T1-C005/JPG-T1-C005-S04.md",
+    "status": "pass",
+    "chunk_sha256": "ccd21d11db3b90ad68d031b80535c685dd88b51a820df4f7790591ce9b7e60e2",
+    "locators": [
+      {
+        "page": "T1:073",
+        "printed_page": "③－6",
+        "source_region": "4.静態論会計と動態論会計、静態論の背景・目的、静態論における貸借対照表の計上項目・評価・方法・重視点、静的貸借対照表の図",
+        "destination_heading": "## 4. 静態論会計と動態論会計"
+      },
+      {
+        "page": "T1:074",
+        "printed_page": "③－7",
+        "source_region": "動態論の背景・目的、動態論における貸借対照表の計上項目・方法・重視点・役割、設立時・期中・決算時の数値例と動的貸借対照表の図",
+        "destination_heading": "## 4. 静態論会計と動態論会計"
+      },
+      {
+        "page": "T1:075",
+        "printed_page": "③－8",
+        "source_region": "収支の未解決項目の定義・売掛金・前受金の例、連結環の当期・次期の費用配分、動的貸借対照表の構成要素の補足",
+        "destination_heading": "## 4. 静態論会計と動態論会計"
+      },
+      {
+        "page": "T1:076",
+        "printed_page": "③－9",
+        "source_region": "静態論会計と動態論会計の相違点のまとめ表（時代背景、目的、本質、利益算定、作成方法、資産性・負債性、評価基準）",
+        "destination_heading": "## 4. 静態論会計と動態論会計"
+      }
+    ]
+  },
+  {
+    "id": "JPG-T1-C006-S01",
+    "batch_id": "JPG-T1-C006",
+    "chapter": "04",
+    "section": "04.1",
+    "title": "第1節 収益と費用",
+    "expected_pages": [
+      "T1:077",
+      "T1:078"
+    ],
+    "processing_pages": [
+      "T1:077",
+      "T1:078"
+    ],
+    "output": "chunks/JPG-T1-C006/JPG-T1-C006-S01.md",
+    "status": "pass",
+    "chunk_sha256": "4a1d0e57f8d64160ab7c4516afc13f80948d4837bdad55782ddc3cfd2787a158",
+    "locators": [
+      {
+        "page": "T1:077",
+        "printed_page": null,
+        "source_region": "第4章章扉、短答式・論文式の出題実績表",
+        "destination_heading": "## 第1節 収益と費用"
+      },
+      {
+        "page": "T1:078",
+        "printed_page": "④－1",
+        "source_region": "第1節扉、収益・費用の分類図、企業会計原則の規定、認識と測定の導入",
+        "destination_heading": "## 第1節 収益と費用"
+      }
+    ]
+  },
+  {
+    "id": "JPG-T1-C006-S02",
+    "batch_id": "JPG-T1-C006",
+    "chapter": "04",
+    "section": "04.2",
+    "title": "第2節 現金主義会計と発生主義会計（収益・費用の認識基準）",
+    "expected_pages": [
+      "T1:079",
+      "T1:080",
+      "T1:081"
+    ],
+    "processing_pages": [
+      "T1:079",
+      "T1:080",
+      "T1:081"
+    ],
+    "output": "chunks/JPG-T1-C006/JPG-T1-C006-S02.md",
+    "status": "pass",
+    "chunk_sha256": "fc1bbc725a145b93fadf0d3b8c90255ce40965dff895254aa4e047136950a239",
+    "locators": [
+      {
+        "page": "T1:079",
+        "printed_page": "④－2",
+        "source_region": "第2節扉、現金主義会計の定義・具体例・長所、客観性と確実性の表",
+        "destination_heading": "## 第2節 現金主義会計と発生主義会計（収益・費用の認識基準）"
+      },
+      {
+        "page": "T1:080",
+        "printed_page": "④－3",
+        "source_region": "現金主義会計の短所、信用経済・固定資産の増加、発生主義会計の定義と発生の概念",
+        "destination_heading": "## 第2節 現金主義会計と発生主義会計（収益・費用の認識基準）"
+      },
+      {
+        "page": "T1:081",
+        "printed_page": "④－4",
+        "source_region": "現行制度における発生主義会計の適用、収益・費用の認識図、発生主義会計の構造",
+        "destination_heading": "## 第2節 現金主義会計と発生主義会計（収益・費用の認識基準）"
+      }
+    ]
+  },
+  {
+    "id": "JPG-T1-C006-S03",
+    "batch_id": "JPG-T1-C006",
+    "chapter": "04",
+    "section": "04.3",
+    "title": "第3節 収益・費用の測定基準",
+    "expected_pages": [
+      "T1:082",
+      "T1:083"
+    ],
+    "processing_pages": [
+      "T1:082",
+      "T1:083"
+    ],
+    "output": "chunks/JPG-T1-C006/JPG-T1-C006-S03.md",
+    "status": "pass",
+    "chunk_sha256": "08d8edb3c5f817c5e71c03636967c3cb406b5c6ca2c0ab8fbc74194817fa09aa",
+    "locators": [
+      {
+        "page": "T1:082",
+        "printed_page": "④－5",
+        "source_region": "第3節扉、収支額基準の定義、現在・過去・将来の収支額表、分配可能利益の説明",
+        "destination_heading": "## 第3節 収益・費用の測定基準"
+      },
+      {
+        "page": "T1:083",
+        "printed_page": "④－6",
+        "source_region": "投下資本1,000・商品500・販売700の図、収支額基準によらない場合、一致の原則の図と数値例",
+        "destination_heading": "## 第3節 収益・費用の測定基準"
+      }
+    ]
+  },
+  {
+    "id": "JPG-T1-C006-S04",
+    "batch_id": "JPG-T1-C006",
+    "chapter": "04",
+    "section": "04.4",
+    "title": "第4節 収益の認識基準",
+    "expected_pages": [
+      "T1:084",
+      "T1:085",
+      "T1:086",
+      "T1:087",
+      "T1:088",
+      "T1:089",
+      "T1:090"
+    ],
+    "processing_pages": [
+      "T1:084",
+      "T1:085",
+      "T1:086",
+      "T1:087",
+      "T1:088",
+      "T1:089",
+      "T1:090"
+    ],
+    "output": "chunks/JPG-T1-C006/JPG-T1-C006-S04.md",
+    "status": "pass",
+    "chunk_sha256": "bed1cd73dc07fc90a039f76728e1ebae1d1f829855e6f055764d6d3d49350db2",
+    "locators": [
+      {
+        "page": "T1:084",
+        "printed_page": "④－7",
+        "source_region": "第4節扉、実現主義の意義・2要件、長所短所、建物建設の形成過程図",
+        "destination_heading": "## 第4節 収益の認識基準"
+      },
+      {
+        "page": "T1:085",
+        "printed_page": "④－8",
+        "source_region": "資金的裏付けのある利益、投下資本1,000・商品500・販売700、予想債権200の配当・資本食いつぶし図",
+        "destination_heading": "## 第4節 収益の認識基準"
+      },
+      {
+        "page": "T1:086",
+        "printed_page": "④－9",
+        "source_region": "投下資本の回収余剰、実現主義と発生主義の比較、企業会計原則の規定と意味",
+        "destination_heading": "## 第4節 収益の認識基準"
+      },
+      {
+        "page": "T1:087",
+        "printed_page": "④－10",
+        "source_region": "発生主義の意義・長所短所、未収収益、現金主義の意義・長所短所",
+        "destination_heading": "## 第4節 収益の認識基準"
+      },
+      {
+        "page": "T1:088",
+        "printed_page": "④－11",
+        "source_region": "収益認識の考え方の変遷、継続的役務提供契約・未収収益の定義、家賃2,000の仕訳",
+        "destination_heading": "## 第4節 収益の認識基準"
+      },
+      {
+        "page": "T1:089",
+        "printed_page": "④－12",
+        "source_region": "経過勘定項目の企業会計原則規定、未収収益・前払費用・未払費用・前受収益の定義と表示区分",
+        "destination_heading": "## 第4節 収益の認識基準"
+      },
+      {
+        "page": "T1:090",
+        "printed_page": "④－13",
+        "source_region": "内部利益の定義・除去方法、内部利益と振替損益の相違、独立会計単位と同一会計単位の図",
+        "destination_heading": "## 第4節 収益の認識基準"
+      }
+    ]
+  },
+  {
+    "id": "JPG-T1-C006-S05",
+    "batch_id": "JPG-T1-C006",
+    "chapter": "04",
+    "section": "04.5",
+    "title": "第5節 費用の認識基準",
+    "expected_pages": [
+      "T1:091",
+      "T1:092",
+      "T1:093",
+      "T1:094"
+    ],
+    "processing_pages": [
+      "T1:091",
+      "T1:092",
+      "T1:093",
+      "T1:094"
+    ],
+    "output": "chunks/JPG-T1-C006/JPG-T1-C006-S05.md",
+    "status": "pass",
+    "chunk_sha256": "a17936372ae896b3c8846c16371ee10bb34ba2f5d5d0384b827b014ac1c6f087",
+    "locators": [
+      {
+        "page": "T1:091",
+        "printed_page": "④－14",
+        "source_region": "第5節扉、費用認識における発生の2つの意味、修繕引当金、発生費用と期間費用",
+        "destination_heading": "## 第5節 費用の認識基準"
+      },
+      {
+        "page": "T1:092",
+        "printed_page": "④－15",
+        "source_region": "材料100個・1個10円の発生費用1,000円、仕掛品・製品・売上原価700円の図、費用収益対応の実質的意義",
+        "destination_heading": "## 第5節 費用の認識基準"
+      },
+      {
+        "page": "T1:093",
+        "printed_page": "④－16",
+        "source_region": "費用収益対応の個別的対応・期間的対応、売上高・売上原価と広告宣伝費100万円の例",
+        "destination_heading": "## 第5節 費用の認識基準"
+      },
+      {
+        "page": "T1:094",
+        "printed_page": "④－17",
+        "source_region": "形式的意義、企業会計原則の規定、因果関係・同質性に基づく対応表示、損益計算書の対応表示図",
+        "destination_heading": "## 第5節 費用の認識基準"
+      }
+    ]
+  },
+  {
+    "id": "JPG-T1-C006-S06",
+    "batch_id": "JPG-T1-C006",
+    "chapter": "04",
+    "section": "04.6",
+    "title": "第6節 利益の特質及び当期業績主義／包括主義",
+    "expected_pages": [
+      "T1:095",
+      "T1:096",
+      "T1:097"
+    ],
+    "processing_pages": [
+      "T1:095",
+      "T1:096",
+      "T1:097"
+    ],
+    "output": "chunks/JPG-T1-C006/JPG-T1-C006-S06.md",
+    "status": "pass",
+    "chunk_sha256": "9f174169dfc305545636a68c90c380aa0f799366807a333d466b6ff8c34945c0",
+    "locators": [
+      {
+        "page": "T1:095",
+        "printed_page": "④－18",
+        "source_region": "第6節扉、分配可能性・尺度性の比較表、火災損失200と当期純利益800の例",
+        "destination_heading": "## 第6節 利益の特質及び当期業績主義／包括主義"
+      },
+      {
+        "page": "T1:096",
+        "printed_page": "④－19",
+        "source_region": "当期業績主義・包括主義の定義比較表、損益計算書の表示例",
+        "destination_heading": "## 第6節 利益の特質及び当期業績主義／包括主義"
+      },
+      {
+        "page": "T1:097",
+        "printed_page": "④－20",
+        "source_region": "短期的・長期的な収益力、一致の原則との関係、当期業績主義の利益操作例と包括主義の比較",
+        "destination_heading": "## 第6節 利益の特質及び当期業績主義／包括主義"
+      }
+    ]
+  },
+  {
+    "id": "JPG-T1-C007-S01",
+    "batch_id": "JPG-T1-C007",
+    "chapter": "04",
+    "section": "04.7",
+    "title": "第7節 損益計算書の各項目とその表示",
+    "expected_pages": [
+      "T1:098",
+      "T1:099",
+      "T1:100"
+    ],
+    "processing_pages": [
+      "T1:098",
+      "T1:099",
+      "T1:100"
+    ],
+    "output": "chunks/JPG-T1-C007/JPG-T1-C007-S01.md",
+    "status": "pass",
+    "chunk_sha256": "ce7b528d466f216277e8a4feea1780057b4ae302503d82e670547728b3591d8a",
+    "locators": [
+      {
+        "page": "T1:098",
+        "printed_page": "④－21",
+        "source_region": "第7節の扉、1.損益計算書に計上される項目、(1)売上高の表示規定、(2)売上原価の定義・商業と製造工業の表示表",
+        "destination_heading": "## 第7節 損益計算書の各項目とその表示"
+      },
+      {
+        "page": "T1:099",
+        "printed_page": "④－22",
+        "source_region": "(3)販売費及び一般管理費、(4)営業外収益・営業外費用、財務活動（金融活動）の補足、(5)特別利益・特別損失",
+        "destination_heading": "## 第7節 損益計算書の各項目とその表示"
+      },
+      {
+        "page": "T1:100",
+        "printed_page": "④－23",
+        "source_region": "(6)法人税等の表示規定、2.損益計算書の表示・作成、(1)総額主義、(2)費用収益の対応表示、(3)区分表示の原則と3区分表",
+        "destination_heading": "## 第7節 損益計算書の各項目とその表示"
+      }
+    ]
+  },
+  {
+    "id": "JPG-T1-C007-S02",
+    "batch_id": "JPG-T1-C007",
+    "chapter": "04",
+    "section": "04.8",
+    "title": "第8節 収益費用アプローチと資産負債アプローチ",
+    "expected_pages": [
+      "T1:101",
+      "T1:102",
+      "T1:103",
+      "T1:104",
+      "T1:105",
+      "T1:106"
+    ],
+    "processing_pages": [
+      "T1:101",
+      "T1:102",
+      "T1:103",
+      "T1:104",
+      "T1:105",
+      "T1:106"
+    ],
+    "output": "chunks/JPG-T1-C007/JPG-T1-C007-S02.md",
+    "status": "pass",
+    "chunk_sha256": "2998f07c189f842941afcd113361ff1081b7e18011b1d58f9471cfb130d03cba",
+    "locators": [
+      {
+        "page": "T1:101",
+        "printed_page": "④－24",
+        "source_region": "第8節の扉、1.収益費用アプローチ、2.資産負債アプローチ、各アプローチの相違点表",
+        "destination_heading": "## 第8節 収益費用アプローチと資産負債アプローチ"
+      },
+      {
+        "page": "T1:102",
+        "printed_page": "④－25",
+        "source_region": "3.貸借対照表と損益計算書の連携と各アプローチ、(1)連携の関係図、(2)非連携の説明とギャップの関係図",
+        "destination_heading": "## 第8節 収益費用アプローチと資産負債アプローチ"
+      },
+      {
+        "page": "T1:103",
+        "printed_page": "④－26",
+        "source_region": "(3)包括利益計算書上における包括利益の算定による連携の確保、その他の包括利益の関係図、時代の変遷と各アプローチの補足",
+        "destination_heading": "## 第8節 収益費用アプローチと資産負債アプローチ"
+      },
+      {
+        "page": "T1:104",
+        "printed_page": "④－27",
+        "source_region": "4.各アプローチの具体例、重視する点のまとめ、(1)製品保証引当金の収益費用・資産負債両面の説明と図",
+        "destination_heading": "## 第8節 収益費用アプローチと資産負債アプローチ"
+      },
+      {
+        "page": "T1:105",
+        "printed_page": "④－28",
+        "source_region": "(2)貸倒引当金の収益費用・資産負債両面の説明と図、(3)修繕引当金の導入と収益費用アプローチ側の説明",
+        "destination_heading": "## 第8節 収益費用アプローチと資産負債アプローチ"
+      },
+      {
+        "page": "T1:106",
+        "printed_page": "④－29",
+        "source_region": "(3)修繕引当金の資産負債アプローチ側の説明と結論",
+        "destination_heading": "## 第8節 収益費用アプローチと資産負債アプローチ"
+      }
+    ]
+  },
+  {
+    "id": "JPG-T1-C008-S01",
+    "batch_id": "JPG-T1-C008",
+    "chapter": "05",
+    "section": "05.1",
+    "title": "第1節 貸借対照表の表示・作成",
+    "expected_pages": [
+      "T1:107",
+      "T1:108",
+      "T1:109",
+      "T1:110",
+      "T1:111"
+    ],
+    "processing_pages": [
+      "T1:107",
+      "T1:108",
+      "T1:109",
+      "T1:110",
+      "T1:111"
+    ],
+    "output": "chunks/JPG-T1-C008/JPG-T1-C008-S01.md",
+    "status": "pass",
+    "chunk_sha256": "d035771a04be966848955b571460e9330a45ca6b692f45d64a86ac50b027c9ab",
+    "locators": [
+      {
+        "page": "T1:107",
+        "printed_page": null,
+        "source_region": "第5章の章扉、章タイトル・評価、短答式および論文式本試験における出題実績表",
+        "destination_heading": "## 第1節 貸借対照表の表示・作成"
+      },
+      {
+        "page": "T1:108",
+        "printed_page": "⑤－1",
+        "source_region": "第1節の扉、導入、1.総額主義の原則の規定・理由・相殺例、2.貸借対照表の区分表示の規定",
+        "destination_heading": "## 第1節 貸借対照表の表示・作成"
+      },
+      {
+        "page": "T1:109",
+        "printed_page": "⑤－2",
+        "source_region": "区分表示の投資家分析図（ケース1・ケース2）、3.科目の分類の規定、正常営業循環基準と一年基準の定義・表、破産更生債権等の例",
+        "destination_heading": "## 第1節 貸借対照表の表示・作成"
+      },
+      {
+        "page": "T1:110",
+        "printed_page": "⑤－3",
+        "source_region": "正常営業循環基準と一年基準の適用順序図・説明、適用されない経過勘定項目と繰延資産の表、棚卸資産と固定資産の表示区分の補足",
+        "destination_heading": "## 第1節 貸借対照表の表示・作成"
+      },
+      {
+        "page": "T1:111",
+        "printed_page": "⑤－4",
+        "source_region": "4.貸借対照表の配列の規定、流動性配列法・固定性配列法の定義・現行取扱い表、両配列の図と財務流動性の説明",
+        "destination_heading": "## 第1節 貸借対照表の表示・作成"
+      }
+    ]
+  },
+  {
+    "id": "JPG-T1-C009-S01",
+    "batch_id": "JPG-T1-C009",
+    "chapter": "06",
+    "section": "06.1",
+    "title": "第1節 資産の概念",
+    "expected_pages": [
+      "T1:113",
+      "T1:114",
+      "T1:115"
+    ],
+    "processing_pages": [
+      "T1:113",
+      "T1:114",
+      "T1:115"
+    ],
+    "output": "chunks/JPG-T1-C009/JPG-T1-C009-S01.md",
+    "status": "pass",
+    "locators": [
+      {
+        "page": "T1:113",
+        "printed_page": null,
+        "source_region": "第6章章扉、短答式・論文式本試験における出題実績表、章評価",
+        "destination_heading": "## 第1節 資産の概念"
+      },
+      {
+        "page": "T1:114",
+        "printed_page": "⑥－1",
+        "source_region": "第1節の扉、1.資産の概念、過去の取引または事象・支配・経済的資源の定義と各説明、フッター",
+        "destination_heading": "## 第1節 資産の概念"
+      },
+      {
+        "page": "T1:115",
+        "printed_page": "⑥－2",
+        "source_region": "2.資産の概念の変遷、静態論・動態論・現行制度の定義、評価基準、注記、フッター",
+        "destination_heading": "## 第1節 資産の概念"
+      }
+    ],
+    "chunk_sha256": "fb61f20ef4daad2fc362da1ee5c769b0567b07587af13bb6ee0609f095729cd4"
+  },
+  {
+    "id": "JPG-T1-C009-S02",
+    "batch_id": "JPG-T1-C009",
+    "chapter": "06",
+    "section": "06.2",
+    "title": "第2節 資産の分類",
+    "expected_pages": [
+      "T1:116",
+      "T1:117",
+      "T1:118"
+    ],
+    "processing_pages": [
+      "T1:116",
+      "T1:117",
+      "T1:118"
+    ],
+    "output": "chunks/JPG-T1-C009/JPG-T1-C009-S02.md",
+    "status": "pass",
+    "locators": [
+      {
+        "page": "T1:116",
+        "printed_page": "⑥－3",
+        "source_region": "第2節の扉、1.貨幣・費用分類、貨幣性資産・費用性資産の定義・例・評価、資本循環過程図、重視する観点表、フッター",
+        "destination_heading": "## 第2節 資産の分類"
+      },
+      {
+        "page": "T1:117",
+        "printed_page": "⑥－4",
+        "source_region": "2.流動・固定分類、3.金融・事業分類、金融投資・事業投資の比較、金融資産・事業資産の補足表・注記、フッター",
+        "destination_heading": "## 第2節 資産の分類"
+      },
+      {
+        "page": "T1:118",
+        "printed_page": "⑥－5",
+        "source_region": "金融投資・事業投資の評価、B/S・P/Lの視点、時価と取得原価の理由、1,000・1,800・1,400・900・700千円の図、フッター",
+        "destination_heading": "## 第2節 資産の分類"
+      }
+    ],
+    "chunk_sha256": "d6ac784f759fd94aa7be3886ff63503393feb3b58b54baf3618bae43caf8c161"
+  },
+  {
+    "id": "JPG-T1-C009-S03",
+    "batch_id": "JPG-T1-C009",
+    "chapter": "06",
+    "section": "06.3",
+    "title": "第3節 資産の評価",
+    "expected_pages": [
+      "T1:119",
+      "T1:120",
+      "T1:121",
+      "T1:122",
+      "T1:123",
+      "T1:124",
+      "T1:125",
+      "T1:126"
+    ],
+    "processing_pages": [
+      "T1:119",
+      "T1:120",
+      "T1:121",
+      "T1:122",
+      "T1:123",
+      "T1:124",
+      "T1:125",
+      "T1:126"
+    ],
+    "output": "chunks/JPG-T1-C009/JPG-T1-C009-S03.md",
+    "status": "pass",
+    "locators": [
+      {
+        "page": "T1:119",
+        "printed_page": "⑥－6",
+        "source_region": "第3節の扉、購買市場・売却市場の関係図、過去・現在・将来と評価基準の表、1.(1)取得原価の意味内容、フッター",
+        "destination_heading": "## 第3節 資産の評価"
+      },
+      {
+        "page": "T1:120",
+        "printed_page": "⑥－7",
+        "source_region": "取得原価主義の定義、長所・短所、客観性・検証可能性の注記、フッター",
+        "destination_heading": "## 第3節 資産の評価"
+      },
+      {
+        "page": "T1:121",
+        "printed_page": "⑥－8",
+        "source_region": "操業利益・保有利得の定義、100・130・180・210円の例、仕訳、費用配分の原則の規定と定義、フッター",
+        "destination_heading": "## 第3節 資産の評価"
+      },
+      {
+        "page": "T1:122",
+        "printed_page": "⑥－9",
+        "source_region": "費用配分の原則・取得原価主義・発生主義・費用収益対応の原則の関係表、機械減価償却の図、1,000・500・400・100の数値、フッター",
+        "destination_heading": "## 第3節 資産の評価"
+      },
+      {
+        "page": "T1:123",
+        "printed_page": "⑥－10",
+        "source_region": "2.再調達原価・正味実現可能価額、時価主義の関係図、時価主義の長所・短所、原価－実現と時価－発生の補足、フッター",
+        "destination_heading": "## 第3節 資産の評価"
+      },
+      {
+        "page": "T1:124",
+        "printed_page": "⑥－11",
+        "source_region": "再調達原価の定義・継続企業前提・長所短所、正味実現可能価額の定義・長所短所、フッター",
+        "destination_heading": "## 第3節 資産の評価"
+      },
+      {
+        "page": "T1:125",
+        "printed_page": "⑥－12",
+        "source_region": "設例、第一期・第二期の購入価格・販売価格、再調達原価・正味実現可能価額の仕訳と利益、確認事項、フッター",
+        "destination_heading": "## 第3節 資産の評価"
+      },
+      {
+        "page": "T1:126",
+        "printed_page": "⑥－13",
+        "source_region": "3.割引現価主義、200/(1+0.2)^n=421の図、長所短所、備品・機械・土地・建物の有機的一体利用の注記、フッター",
+        "destination_heading": "## 第3節 資産の評価"
+      }
+    ],
+    "chunk_sha256": "f5b34288deeca58ef5888502ff48579319d25266fe65acd1e5009ea281b592dc"
+  },
+  {
+    "id": "JPG-T1-C010-S01",
+    "batch_id": "JPG-T1-C010",
+    "chapter": "07",
+    "section": "07.1",
+    "title": "第1節 流動資産総論",
+    "expected_pages": [
+      "T1:127",
+      "T1:128",
+      "T1:129"
+    ],
+    "processing_pages": [
+      "T1:127",
+      "T1:128",
+      "T1:129"
+    ],
+    "output": "chunks/JPG-T1-C010/JPG-T1-C010-S01.md",
+    "status": "pass",
+    "chunk_sha256": "7bac49cb6a71d0c07f9ebe34f5b45d470e39fe850f22f9e83e5514912a5045f0",
+    "locators": [
+      {
+        "page": "T1:127",
+        "printed_page": null,
+        "source_region": "第7章の章扉、章タイトル・評価、短答式および論文式本試験の出題実績表",
+        "destination_heading": "## 第1節 流動資産総論"
+      },
+      {
+        "page": "T1:128",
+        "printed_page": "⑦－1",
+        "source_region": "第1節の扉、1.流動資産の区分に計上される項目、財務諸表等規則の流動資産項目一覧、破産更生債権等の注記、2.流動資産の表示に関する諸論点、(1)現金",
+        "destination_heading": "## 第1節 流動資産総論"
+      },
+      {
+        "page": "T1:129",
+        "printed_page": "⑦－2",
+        "source_region": "(2)預金、(3)受取手形・売掛金等の債権、(4)その他の項目、100分の5基準、関係会社債権の注記、親会社株式の流動・固定区分",
+        "destination_heading": "## 第1節 流動資産総論"
+      }
+    ]
+  },
+  {
+    "id": "JPG-T1-C010-S02",
+    "batch_id": "JPG-T1-C010",
+    "chapter": "07",
+    "section": "07.2",
+    "title": "第2節 棚卸資産",
+    "expected_pages": [
+      "T1:130"
+    ],
+    "processing_pages": [
+      "T1:130"
+    ],
+    "output": "chunks/JPG-T1-C010/JPG-T1-C010-S02.md",
+    "status": "pass",
+    "chunk_sha256": "24fd2e535aba64c3eab8fd2862df9f86ab7e75296b63b70ff502a92288065998",
+    "locators": [
+      {
+        "page": "T1:130",
+        "printed_page": "⑦－3",
+        "source_region": "第2節の扉、1.棚卸資産の定義、連続意見書の4分類、販売目的・使用目的の例、購買・製造・販売過程の図、棚卸資産評価基準への参照",
+        "destination_heading": "## 第2節 棚卸資産"
+      }
+    ]
+  },
+  {
+    "id": "JPG-T1-C011-S01",
+    "batch_id": "JPG-T1-C011",
+    "chapter": "08",
+    "section": "08.1",
+    "title": "第1節 固定資産の意義と分類",
+    "expected_pages": [
+      "T1:131",
+      "T1:132"
+    ],
+    "processing_pages": [
+      "T1:131",
+      "T1:132"
+    ],
+    "output": "chunks/JPG-T1-C011/JPG-T1-C011-S01.md",
+    "status": "pass",
+    "chunk_sha256": "7166fd3fcb5b64265fba832b85e54a87f9c427be977e6fcca0eefee8bb0b18f9",
+    "locators": [
+      {
+        "page": "T1:131",
+        "printed_page": null,
+        "source_region": "第8章の章扉、固定資産の関連テキスト、短答式および論文式本試験における出題実績表",
+        "destination_heading": "## 第1節 固定資産の意義と分類"
+      },
+      {
+        "page": "T1:132",
+        "printed_page": "⑧－1",
+        "source_region": "第1節の扉、1.固定資産の意義と分類の定義・例・繰延資産の扱い・表示分類表、2.有形固定資産の意義と4分類",
+        "destination_heading": "## 第1節 固定資産の意義と分類"
+      }
+    ]
+  },
+  {
+    "id": "JPG-T1-C011-S02",
+    "batch_id": "JPG-T1-C011",
+    "chapter": "08",
+    "section": "08.2",
+    "title": "第2節 有形固定資産各論",
+    "expected_pages": [
+      "T1:133",
+      "T1:134",
+      "T1:135",
+      "T1:136",
+      "T1:137",
+      "T1:138",
+      "T1:139",
+      "T1:140"
+    ],
+    "processing_pages": [
+      "T1:133",
+      "T1:134",
+      "T1:135",
+      "T1:136",
+      "T1:137",
+      "T1:138",
+      "T1:139",
+      "T1:140"
+    ],
+    "output": "chunks/JPG-T1-C011/JPG-T1-C011-S02.md",
+    "status": "pass",
+    "chunk_sha256": "a44cf6500e1519f11904ce9901788146e3c9689980d3e7b1d71b794e4b4336d3",
+    "locators": [
+      {
+        "page": "T1:133",
+        "printed_page": "⑧－2",
+        "source_region": "第2節の扉、購入取得原価の算定式・値引割戻の扱い、付随費用を算入する2つの根拠",
+        "destination_heading": "## 第2節 有形固定資産各論"
+      },
+      {
+        "page": "T1:134",
+        "printed_page": "⑧－3",
+        "source_region": "自家建設の製造原価、稼働前借入利子の例外・仕訳、算入説の論拠",
+        "destination_heading": "## 第2節 有形固定資産各論"
+      },
+      {
+        "page": "T1:135",
+        "printed_page": "⑧－4",
+        "source_region": "不算入説の比較可能性・恣意性排除・営業外費用の3論拠、自己資金と借入資金の数値例",
+        "destination_heading": "## 第2節 有形固定資産各論"
+      },
+      {
+        "page": "T1:136",
+        "printed_page": "⑧－5",
+        "source_region": "現物出資の公正評価額と仕訳、同種固定資産交換の現行評価と別見解、建物A・建物Bの数値例",
+        "destination_heading": "## 第2節 有形固定資産各論"
+      },
+      {
+        "page": "T1:137",
+        "printed_page": "⑧－6",
+        "source_region": "同種固定資産交換で帳簿価額を採用する4つの論拠と、各論拠の図示関係",
+        "destination_heading": "## 第2節 有形固定資産各論"
+      },
+      {
+        "page": "T1:138",
+        "printed_page": "⑧－7",
+        "source_region": "異種資産交換の時価評価・投資継続性の不存在・仕訳、贈与固定資産の公正評価と理由",
+        "destination_heading": "## 第2節 有形固定資産各論"
+      },
+      {
+        "page": "T1:139",
+        "printed_page": "⑧－8",
+        "source_region": "原価即事実説と原価即価値説の定義・比較表、無償・廉価・高価取得と同種交換の数値例",
+        "destination_heading": "## 第2節 有形固定資産各論"
+      },
+      {
+        "page": "T1:140",
+        "printed_page": "⑧－9",
+        "source_region": "資本的支出と収益的支出の定義・会計処理、収益費用対応の説明、取得形態別取得原価のまとめ表",
+        "destination_heading": "## 第2節 有形固定資産各論"
+      }
+    ]
+  },
+  {
+    "id": "JPG-T1-C012-S01",
+    "batch_id": "JPG-T1-C012",
+    "chapter": "08",
+    "section": "08.3",
+    "title": "第3節 減価償却",
+    "expected_pages": [
+      "T1:141",
+      "T1:142",
+      "T1:143",
+      "T1:144",
+      "T1:145",
+      "T1:146",
+      "T1:147",
+      "T1:148",
+      "T1:149",
+      "T1:150",
+      "T1:151",
+      "T1:152",
+      "T1:153",
+      "T1:154",
+      "T1:155",
+      "T1:156",
+      "T1:157"
+    ],
+    "processing_pages": [
+      "T1:141",
+      "T1:142",
+      "T1:143",
+      "T1:144",
+      "T1:145",
+      "T1:146",
+      "T1:147",
+      "T1:148",
+      "T1:149",
+      "T1:150",
+      "T1:151",
+      "T1:152",
+      "T1:153",
+      "T1:154",
+      "T1:155",
+      "T1:156",
+      "T1:157"
+    ],
+    "output": "chunks/JPG-T1-C012/JPG-T1-C012-S01.md",
+    "status": "pass",
+    "chunk_sha256": "8ecae003b7d560726c37ead54f4dffbcf10baa1d4f84e6a0da257209c994afad",
+    "locators": [
+      {
+        "page": "T1:141",
+        "printed_page": "⑧－10",
+        "source_region": "第3節扉、1.正規の減価償却、2.減価償却の目的",
+        "destination_heading": "## 第3節 減価償却"
+      },
+      {
+        "page": "T1:142",
+        "printed_page": "⑧－11",
+        "source_region": "期間損益適正化の数値例、3.減価償却の効果の導入と効果表",
+        "destination_heading": "## 第3節 減価償却"
+      },
+      {
+        "page": "T1:143",
+        "printed_page": "⑧－12",
+        "source_region": "固定資産の流動化・自己金融効果の数値例、4.減価の種類、物質的減価",
+        "destination_heading": "## 第3節 減価償却"
+      },
+      {
+        "page": "T1:144",
+        "printed_page": "⑧－13",
+        "source_region": "機能的減価（陳腐化・不適応化）、通常減価と偶発減価、分類と会計処理の関係表",
+        "destination_heading": "## 第3節 減価償却"
+      },
+      {
+        "page": "T1:145",
+        "printed_page": "⑧－14",
+        "source_region": "5.計算要素、償却基礎価額、残存価額、償却基準の定義・図・表",
+        "destination_heading": "## 第3節 減価償却"
+      },
+      {
+        "page": "T1:146",
+        "printed_page": "⑧－15",
+        "source_region": "耐用年数の分類・決定、6.計算方法、耐用年数・利用度と各方法、定額法",
+        "destination_heading": "## 第3節 減価償却"
+      },
+      {
+        "page": "T1:147",
+        "printed_page": "⑧－16",
+        "source_region": "定率法、級数法、生産高比例法の意義・適用条件",
+        "destination_heading": "## 第3節 減価償却"
+      },
+      {
+        "page": "T1:148",
+        "printed_page": "⑧－17",
+        "source_region": "7.個別償却と総合償却の定義、除却・耐用年数経過後の相違",
+        "destination_heading": "## 第3節 減価償却"
+      },
+      {
+        "page": "T1:149",
+        "printed_page": "⑧－18",
+        "source_region": "個別償却と総合償却の数値例、計算・仕訳・取替更新図",
+        "destination_heading": "## 第3節 減価償却"
+      },
+      {
+        "page": "T1:150",
+        "printed_page": "⑧－19",
+        "source_region": "8.プロスペクティブ方式と臨時損失、プロスペクティブ方式と現行見解",
+        "destination_heading": "## 第3節 減価償却"
+      },
+      {
+        "page": "T1:151",
+        "printed_page": "⑧－20",
+        "source_region": "従来の臨時償却の論拠、プロスペクティブ方式と臨時償却の数値比較例",
+        "destination_heading": "## 第3節 減価償却"
+      },
+      {
+        "page": "T1:152",
+        "printed_page": "⑧－21",
+        "source_region": "臨時損失（評価減）の定義・処理例、9.減耗償却の意義と会計処理",
+        "destination_heading": "## 第3節 減価償却"
+      },
+      {
+        "page": "T1:153",
+        "printed_page": "⑧－22",
+        "source_region": "減耗償却と減価償却の相違、油田の取得・減耗・販売仕訳例",
+        "destination_heading": "## 第3節 減価償却"
+      },
+      {
+        "page": "T1:154",
+        "printed_page": "⑧－23",
+        "source_region": "10.取替法の意義、取替資産、会計処理、特徴",
+        "destination_heading": "## 第3節 減価償却"
+      },
+      {
+        "page": "T1:155",
+        "printed_page": "⑧－24",
+        "source_region": "取替法の一連の会計処理の取得・年度別仕訳例と結論",
+        "destination_heading": "## 第3節 減価償却"
+      },
+      {
+        "page": "T1:156",
+        "printed_page": "⑧－25",
+        "source_region": "11.減価償却累計額の表示方法、原則・例外・表示例・理由",
+        "destination_heading": "## 第3節 減価償却"
+      },
+      {
+        "page": "T1:157",
+        "printed_page": "⑧－26",
+        "source_region": "12.表示区分、13.償却後の処理、14.有形固定資産と棚卸資産の費用配分の相違",
+        "destination_heading": "## 第3節 減価償却"
+      }
+    ]
+  },
+  {
+    "id": "JPG-T1-C012-S02",
+    "batch_id": "JPG-T1-C012",
+    "chapter": "08",
+    "section": "08.4",
+    "title": "第4節 有形固定資産の表示",
+    "expected_pages": [
+      "T1:158",
+      "T1:159"
+    ],
+    "processing_pages": [
+      "T1:158",
+      "T1:159"
+    ],
+    "output": "chunks/JPG-T1-C012/JPG-T1-C012-S02.md",
+    "status": "pass",
+    "chunk_sha256": "649e520c1f867c7852323da2c37cac4952c6ddf5d2cf62facdfdfca57ecb6df3",
+    "locators": [
+      {
+        "page": "T1:158",
+        "printed_page": "⑧－27",
+        "source_region": "第4節扉、1.有形固定資産の区分と計上項目の一覧・注記",
+        "destination_heading": "## 第4節 有形固定資産の表示"
+      },
+      {
+        "page": "T1:159",
+        "printed_page": "⑧－28",
+        "source_region": "2.営業用資産、工具器具備品、建設仮勘定・担保注記の諸論点",
+        "destination_heading": "## 第4節 有形固定資産の表示"
+      }
+    ]
+  },
+  {
+    "id": "JPG-T1-C012-S03",
+    "batch_id": "JPG-T1-C012",
+    "chapter": "08",
+    "section": "08.5",
+    "title": "第5節 無形固定資産",
+    "expected_pages": [
+      "T1:160",
+      "T1:161",
+      "T1:162"
+    ],
+    "processing_pages": [
+      "T1:160",
+      "T1:161",
+      "T1:162"
+    ],
+    "output": "chunks/JPG-T1-C012/JPG-T1-C012-S03.md",
+    "status": "pass",
+    "chunk_sha256": "0a9783f52dab9895b9472417a39f31d7eb4f24c5f6e4042b5bdd49967559d247",
+    "locators": [
+      {
+        "page": "T1:160",
+        "printed_page": "⑧－29",
+        "source_region": "第5節扉、1.無形固定資産の意義・分類、2.償却の特徴・理由・税法上の方法表",
+        "destination_heading": "## 第5節 無形固定資産"
+      },
+      {
+        "page": "T1:161",
+        "printed_page": "⑧－30",
+        "source_region": "3.営業権（のれん）の意義・買入と自己創設の比較図・現行制度上の取扱い",
+        "destination_heading": "## 第5節 無形固定資産"
+      },
+      {
+        "page": "T1:162",
+        "printed_page": "⑧－31",
+        "source_region": "4.無形固定資産の表示、計上項目一覧、減価償却累計額・減損損失累計額の直接控除",
+        "destination_heading": "## 第5節 無形固定資産"
+      }
+    ]
+  },
+  {
+    "id": "JPG-T1-C012-S04",
+    "batch_id": "JPG-T1-C012",
+    "chapter": "08",
+    "section": "08.6",
+    "title": "第6節 投資その他の資産",
+    "expected_pages": [
+      "T1:163"
+    ],
+    "processing_pages": [
+      "T1:163"
+    ],
+    "output": "chunks/JPG-T1-C012/JPG-T1-C012-S04.md",
+    "status": "pass",
+    "chunk_sha256": "bb61cb1ca0a92fbb11915eed5751fb7e62d6461f95b560a17c10b28cd509d7cf",
+    "locators": [
+      {
+        "page": "T1:163",
+        "printed_page": "⑧－32",
+        "source_region": "第6節扉、投資その他の資産の定義、計上項目一覧、再評価に係る繰延税金資産の別掲規定",
+        "destination_heading": "## 第6節 投資その他の資産"
+      }
+    ]
+  },
+  {
+    "id": "JPG-T1-C013-S01",
+    "batch_id": "JPG-T1-C013",
+    "chapter": "09",
+    "section": "09.1",
+    "title": "第1節 繰延資産総論",
+    "expected_pages": [
+      "T1:165",
+      "T1:166",
+      "T1:167",
+      "T1:168"
+    ],
+    "processing_pages": [
+      "T1:165",
+      "T1:166",
+      "T1:167",
+      "T1:168"
+    ],
+    "output": "chunks/JPG-T1-C013/JPG-T1-C013-S01.md",
+    "status": "pass",
+    "chunk_sha256": "7feaf0246a56ef5472dc4406c73d679d29c72b7dadf338489b1ba0bdac1ff47e",
+    "locators": [
+      {
+        "page": "T1:165",
+        "printed_page": null,
+        "source_region": "第9章 繰延資産の章扉、関連する財務計算テキスト、短答式・論文式本試験の出題実績表",
+        "destination_heading": "## 第1節 繰延資産総論"
+      },
+      {
+        "page": "T1:166",
+        "printed_page": "⑨－1",
+        "source_region": "第1節扉、繰延資産の定義、株式交付費による3要件、通常の資産との違い、企業会計原則の規定、資産計上の根拠",
+        "destination_heading": "## 第1節 繰延資産総論"
+      },
+      {
+        "page": "T1:167",
+        "printed_page": "⑨－2",
+        "source_region": "繰延資産の特徴、長期前払費用との共通点・相違点、貸借対照表表示の分類・償却累計額控除",
+        "destination_heading": "## 第1節 繰延資産総論"
+      },
+      {
+        "page": "T1:168",
+        "printed_page": "⑨－3",
+        "source_region": "繰延資産の取扱いの沿革、会社法改正前後の関係図、当面の取扱いの限定列挙5項目",
+        "destination_heading": "## 第1節 繰延資産総論"
+      }
+    ]
+  },
+  {
+    "id": "JPG-T1-C013-S02",
+    "batch_id": "JPG-T1-C013",
+    "chapter": "09",
+    "section": "09.2",
+    "title": "第2節 繰延資産各論",
+    "expected_pages": [
+      "T1:169",
+      "T1:170",
+      "T1:171",
+      "T1:172",
+      "T1:173",
+      "T1:174",
+      "T1:175",
+      "T1:176"
+    ],
+    "processing_pages": [
+      "T1:169",
+      "T1:170",
+      "T1:171",
+      "T1:172",
+      "T1:173",
+      "T1:174",
+      "T1:175",
+      "T1:176"
+    ],
+    "output": "chunks/JPG-T1-C013/JPG-T1-C013-S02.md",
+    "status": "pass",
+    "chunk_sha256": "b8a71a0b12cc86c4a7b915ce7fcba1b8959be80ab0f8bbd1266f7f0e3f33d48b",
+    "locators": [
+      {
+        "page": "T1:169",
+        "printed_page": "⑨－4",
+        "source_region": "第2節扉、株式交付費の意義・会計処理、資産計上できる財務活動費用と3年以内定額法、株式分割等の除外",
+        "destination_heading": "## 第2節 繰延資産各論"
+      },
+      {
+        "page": "T1:170",
+        "printed_page": "⑨－5",
+        "source_region": "株式交付費の国際基準と日本基準の仕訳比較、資本から直接控除すべき見解と資本取引の図",
+        "destination_heading": "## 第2節 繰延資産各論"
+      },
+      {
+        "page": "T1:171",
+        "printed_page": "⑨－6",
+        "source_region": "費用として処理する現行見解の3論拠、資金調達費用10・100の比較と投資家への情報提供の図",
+        "destination_heading": "## 第2節 繰延資産各論"
+      },
+      {
+        "page": "T1:172",
+        "printed_page": "⑨－7",
+        "source_region": "社債発行費等の意義、社債発行費と新株予約権発行費の原則・容認処理、一括法・区分法",
+        "destination_heading": "## 第2節 繰延資産各論"
+      },
+      {
+        "page": "T1:173",
+        "printed_page": "⑨－8",
+        "source_region": "創立費の意義、列挙された設立費用、原則費用処理・5年以内定額法、会社法上の資本金等からの減額規定",
+        "destination_heading": "## 第2節 繰延資産各論"
+      },
+      {
+        "page": "T1:174",
+        "printed_page": "⑨－9",
+        "source_region": "開業費の範囲・必要不可欠性、原則・容認処理、5年以内定額法、部分開業時の償却開始、創立費との時系列図",
+        "destination_heading": "## 第2節 繰延資産各論"
+      },
+      {
+        "page": "T1:175",
+        "printed_page": "⑨－10",
+        "source_region": "開発費の意義と研究開発費・経常費の除外、会計処理、6項目の償却開始時期・期間・方法・表示区分のまとめ表と注記",
+        "destination_heading": "## 第2節 繰延資産各論"
+      },
+      {
+        "page": "T1:176",
+        "printed_page": "⑨－11",
+        "source_region": "一時償却、月数基準の償却計算、同一項目の会計処理方法の継続性、会計方針変更の原則・例外・注記",
+        "destination_heading": "## 第2節 繰延資産各論"
+      }
+    ]
+  },
+  {
+    "id": "JPG-T1-C013-S03",
+    "batch_id": "JPG-T1-C013",
+    "chapter": "09",
+    "section": "09.3",
+    "title": "第3節 会社法における従来からの繰延資産に対する見方",
+    "expected_pages": [
+      "T1:177"
+    ],
+    "processing_pages": [
+      "T1:177"
+    ],
+    "output": "chunks/JPG-T1-C013/JPG-T1-C013-S03.md",
+    "status": "pass",
+    "chunk_sha256": "e8ffa9c05a3577ceb89af12cee936171fcaeb6fea64bf6217b30f441a21faa46",
+    "locators": [
+      {
+        "page": "T1:177",
+        "printed_page": "⑨－12",
+        "source_region": "第3節扉、会計と旧商法の立場の比較、会計と会社法の調整における3つの制約、注記、当面の取扱いへの継承",
+        "destination_heading": "## 第3節 会社法における従来からの繰延資産に対する見方"
+      }
+    ]
+  },
+  {
+    "id": "JPG-T1-C013-S04",
+    "batch_id": "JPG-T1-C013",
+    "chapter": "09",
+    "section": "09.4",
+    "title": "第4節 臨時巨額の損失",
+    "expected_pages": [
+      "T1:178",
+      "T1:179"
+    ],
+    "processing_pages": [
+      "T1:178",
+      "T1:179"
+    ],
+    "output": "chunks/JPG-T1-C013/JPG-T1-C013-S04.md",
+    "status": "pass",
+    "chunk_sha256": "053ae5e8967dd1d7f71e2d61566e2fd8b06bd0849d990db3b5cfd7d0a9093944",
+    "locators": [
+      {
+        "page": "T1:178",
+        "printed_page": "⑨－13",
+        "source_region": "第4節扉、臨時巨額の損失の定義・3要件、会計理論上の否定、損失と費用の繰延比較、財務政策上の根拠",
+        "destination_heading": "## 第4節 臨時巨額の損失"
+      },
+      {
+        "page": "T1:179",
+        "printed_page": "⑨－14",
+        "source_region": "大地震による賃貸用ビル喪失の設例、6,000・1,000・5,000・500百万円の繰延・償却仕訳、速やかな償却と特別損失処理",
+        "destination_heading": "## 第4節 臨時巨額の損失"
+      }
+    ]
+  },
+  {
+    "id": "JPG-T1-C014-S01",
+    "batch_id": "JPG-T1-C014",
+    "chapter": "10",
+    "section": "10.1",
+    "title": "第1節 負債会計総論",
+    "expected_pages": [
+      "T1:181",
+      "T1:182",
+      "T1:183",
+      "T1:184"
+    ],
+    "processing_pages": [
+      "T1:181",
+      "T1:182",
+      "T1:183",
+      "T1:184"
+    ],
+    "output": "chunks/JPG-T1-C014/JPG-T1-C014-S01.md",
+    "status": "pass",
+    "chunk_sha256": "ea5e6e0d9a65c2db22ef52ea474866c9815cea5b1e035240a185b938ba2bbc50",
+    "locators": [
+      {
+        "page": "T1:181",
+        "printed_page": null,
+        "source_region": "第10章の章扉、章タイトル、財務計算テキスト1第4章引当金への関連、短答式・論文式本試験の出題実績表",
+        "destination_heading": "## 第1節 負債会計総論"
+      },
+      {
+        "page": "T1:182",
+        "printed_page": "⑩－1",
+        "source_region": "第1節の扉、1.負債の意義、2.負債の分類、法律上の債務（確定債務・条件付債務）の定義と例、会計的負債の定義・修繕引当金の例、分類図",
+        "destination_heading": "## 第1節 負債会計総論"
+      },
+      {
+        "page": "T1:183",
+        "printed_page": "⑩－2",
+        "source_region": "修繕引当金と負債の定義の補足、3.流動負債と固定負債、4.流動負債の表示に関する諸論点、6項目の列挙と100分の5の表示規定",
+        "destination_heading": "## 第1節 負債会計総論"
+      },
+      {
+        "page": "T1:184",
+        "printed_page": "⑩－3",
+        "source_region": "5.固定負債の表示に関する諸論点、固定負債5項目、引当金の一年内使用額・100分の5の規定、負債の時価評価の式・信用リスク・負債のパラドックス",
+        "destination_heading": "## 第1節 負債会計総論"
+      }
+    ]
+  },
+  {
+    "id": "JPG-T1-C014-S02",
+    "batch_id": "JPG-T1-C014",
+    "chapter": "10",
+    "section": "10.2",
+    "title": "第2節 引当金",
+    "expected_pages": [
+      "T1:185",
+      "T1:186",
+      "T1:187",
+      "T1:188",
+      "T1:189",
+      "T1:190",
+      "T1:191",
+      "T1:192",
+      "T1:193",
+      "T1:194",
+      "T1:195",
+      "T1:196"
+    ],
+    "processing_pages": [
+      "T1:185",
+      "T1:186",
+      "T1:187",
+      "T1:188",
+      "T1:189",
+      "T1:190",
+      "T1:191",
+      "T1:192",
+      "T1:193",
+      "T1:194",
+      "T1:195",
+      "T1:196"
+    ],
+    "output": "chunks/JPG-T1-C014/JPG-T1-C014-S02.md",
+    "status": "pass",
+    "chunk_sha256": "5f2651c78ad5410ba9bef8375c1b9abe14bdc3e5f1b1df928b244037ba8c6610",
+    "locators": [
+      {
+        "page": "T1:185",
+        "printed_page": "⑩－4",
+        "source_region": "第2節の扉、1.引当金の意義と設定要件、4要件、修繕引当金の適用例、地震損失引当金の反例と利益留保の説明",
+        "destination_heading": "## 第2節 引当金"
+      },
+      {
+        "page": "T1:186",
+        "printed_page": "⑩－5",
+        "source_region": "2.引当金の設定目的、3.引当金の計上論拠、原因発生主義・費用収益対応の原則の定義表と修繕・製品保証の図解",
+        "destination_heading": "## 第2節 引当金"
+      },
+      {
+        "page": "T1:187",
+        "printed_page": "⑩－6",
+        "source_region": "貸借対照表の観点からの設定目的、4.損益計算の観点からの3分類表、損失性引当金の設定論拠",
+        "destination_heading": "## 第2節 引当金"
+      },
+      {
+        "page": "T1:188",
+        "printed_page": "⑩－7",
+        "source_region": "5.貸借対照表の観点からの分類、評価性・負債性（債務性あり・なし）、6.資金留保効果、7.企業会計原則注解18の11項目と現行制度上の注意",
+        "destination_heading": "## 第2節 引当金"
+      },
+      {
+        "page": "T1:189",
+        "printed_page": "⑩－8",
+        "source_region": "貸倒引当金の定義、原則法・例外法①・例外法②の表示規定、受取手形5,000・売掛金2,400・引当金2,600の表示例と注記",
+        "destination_heading": "## 第2節 引当金"
+      },
+      {
+        "page": "T1:190",
+        "printed_page": "⑩－9",
+        "source_region": "製品保証引当金、有償保証契約、賞与引当金、役員賞与と引当金、修繕引当金の定義",
+        "destination_heading": "## 第2節 引当金"
+      },
+      {
+        "page": "T1:191",
+        "printed_page": "⑩－10",
+        "source_region": "国際財務報告基準における将来の修繕費の処理、航空機のエンジン3億円・機体24億円の図、IFRS処理と日本処理の仕訳",
+        "destination_heading": "## 第2節 引当金"
+      },
+      {
+        "page": "T1:192",
+        "printed_page": "⑩－11",
+        "source_region": "会社計算規則の引当金規定、株主優待引当金、5.各種引当金の計上区分、6.各種引当金の分類と損益計算書表示区分の表",
+        "destination_heading": "## 第2節 引当金"
+      },
+      {
+        "page": "T1:193",
+        "printed_page": "⑩－12",
+        "source_region": "8.引当金の認識、1%×100の期待値例、9.引当金の測定、期待値方式・最頻値方式の表",
+        "destination_heading": "## 第2節 引当金"
+      },
+      {
+        "page": "T1:194",
+        "printed_page": "⑩－13",
+        "source_region": "10.引当金と各項目の異同点、貸倒引当金と減価償却累計額、引当金と積立金、負債性引当金と未払費用の3比較表",
+        "destination_heading": "## 第2節 引当金"
+      },
+      {
+        "page": "T1:195",
+        "printed_page": "⑩－14",
+        "source_region": "11.租税特別措置法上の準備金、意義、海外投資等損失準備金・輸入製品国内市場開拓準備金の例、会計処理",
+        "destination_heading": "## 第2節 引当金"
+      },
+      {
+        "page": "T1:196",
+        "printed_page": "⑩－15",
+        "source_region": "12.特別法上の準備金、渇水準備引当金の例、会計上の性格、固定負債の次の区分表示、租税特別措置法上・特別法上の準備金のまとめ表",
+        "destination_heading": "## 第2節 引当金"
+      }
+    ]
+  },
+  {
+    "id": "JPG-T1-C014-S03",
+    "batch_id": "JPG-T1-C014",
+    "chapter": "10",
+    "section": "10.3",
+    "title": "第3節 偶発債務と偶発損失",
+    "expected_pages": [
+      "T1:197",
+      "T1:198",
+      "T1:199",
+      "T1:200"
+    ],
+    "processing_pages": [
+      "T1:197",
+      "T1:198",
+      "T1:199",
+      "T1:200"
+    ],
+    "output": "chunks/JPG-T1-C014/JPG-T1-C014-S03.md",
+    "status": "pass",
+    "chunk_sha256": "c69641834fe704f9704cdee9147d60341e9e7eab970d00f930fec5c1170db7aa",
+    "locators": [
+      {
+        "page": "T1:197",
+        "printed_page": "⑩－16",
+        "source_region": "第3節の扉、1.偶発事象と偶発利益・偶発損失、偶発事象と後発事象の時系列図、偶発利益・偶発損失の処理",
+        "destination_heading": "## 第3節 偶発債務と偶発損失"
+      },
+      {
+        "page": "T1:198",
+        "printed_page": "⑩－17",
+        "source_region": "2.偶発債務、意義、債務保証の保証人・債務者・債権者の関係図、求償権、仕訳、注記規定",
+        "destination_heading": "## 第3節 偶発債務と偶発損失"
+      },
+      {
+        "page": "T1:199",
+        "printed_page": "⑩－18",
+        "source_region": "債務保証の会計処理と表示、引当金要件を満たさない場合・満たす場合、総額から引当金を控除する注記、偶発損失の2分類と関係図",
+        "destination_heading": "## 第3節 偶発債務と偶発損失"
+      },
+      {
+        "page": "T1:200",
+        "printed_page": "⑩－19",
+        "source_region": "債務保証1,000万円の一連の会計処理、X1・X2・X3年度の仕訳と注記、損失可能性・見積可能性別の取扱い表",
+        "destination_heading": "## 第3節 偶発債務と偶発損失"
+      }
+    ]
+  },
+  {
+    "id": "JPG-T1-C015-S01",
+    "batch_id": "JPG-T1-C015",
+    "chapter": "11",
+    "section": "11.1",
+    "title": "第1節 会計主体論",
+    "expected_pages": [
+      "T1:201",
+      "T1:202",
+      "T1:203"
+    ],
+    "processing_pages": [
+      "T1:201",
+      "T1:202",
+      "T1:203"
+    ],
+    "output": "chunks/JPG-T1-C015/JPG-T1-C015-S01.md",
+    "status": "pass",
+    "chunk_sha256": "e89e65e0ea02d18f4c8dccd568ffa9581c11eefd515b45ccf0192e72b7e85017",
+    "locators": [
+      {
+        "page": "T1:201",
+        "printed_page": null,
+        "source_region": "第11章の章扉、短答式・論文式本試験における出題実績表",
+        "destination_heading": "## 第1節 会計主体論"
+      },
+      {
+        "page": "T1:202",
+        "printed_page": "⑪－1",
+        "source_region": "第1節の扉、会計主体論の定義、資本主理論・企業主体理論の定義と基本原理、企業目線の図解",
+        "destination_heading": "## 第1節 会計主体論"
+      },
+      {
+        "page": "T1:203",
+        "printed_page": "⑪－2",
+        "source_region": "支払利息・支払配当金、利益の帰属、企業実体の公準との関係、資本主理論と企業主体理論のまとめ表",
+        "destination_heading": "## 第1節 会計主体論"
+      }
+    ]
+  },
+  {
+    "id": "JPG-T1-C015-S02",
+    "batch_id": "JPG-T1-C015",
+    "chapter": "11",
+    "section": "11.2",
+    "title": "第2節 贈与剰余金",
+    "expected_pages": [
+      "T1:204",
+      "T1:205",
+      "T1:206",
+      "T1:207",
+      "T1:208"
+    ],
+    "processing_pages": [
+      "T1:204",
+      "T1:205",
+      "T1:206",
+      "T1:207",
+      "T1:208"
+    ],
+    "output": "chunks/JPG-T1-C015/JPG-T1-C015-S02.md",
+    "status": "pass",
+    "chunk_sha256": "719304ac8c6e296ae3dc0ff97f0d02203dea37e8cae455bb6ce21f8f3d82e045",
+    "locators": [
+      {
+        "page": "T1:204",
+        "printed_page": "⑪－3",
+        "source_region": "第2節の扉、贈与剰余金の定義と具体例、国庫補助金の資本説・利益説",
+        "destination_heading": "## 第2節 贈与剰余金"
+      },
+      {
+        "page": "T1:205",
+        "printed_page": "⑪－4",
+        "source_region": "国庫補助金の会計処理の概要、資本剰余金処理、直接減額方式の定義・例・長短所",
+        "destination_heading": "## 第2節 贈与剰余金"
+      },
+      {
+        "page": "T1:206",
+        "printed_page": "⑪－5",
+        "source_region": "直接減額方式の設例、企業会計原則の表示方法（ア）（イ）、間接控除・直接控除の表示例",
+        "destination_heading": "## 第2節 贈与剰余金"
+      },
+      {
+        "page": "T1:207",
+        "printed_page": "⑪－6",
+        "source_region": "積立金方式の定義・長所・設例、受入れ・決算・翌期決算の仕訳",
+        "destination_heading": "## 第2節 贈与剰余金"
+      },
+      {
+        "page": "T1:208",
+        "printed_page": "⑪－7",
+        "source_region": "繰延収益処理の定義・長短所・設例と各仕訳、5年均等取崩し",
+        "destination_heading": "## 第2節 贈与剰余金"
+      }
+    ]
+  },
+  {
+    "id": "JPG-T1-C015-S03",
+    "batch_id": "JPG-T1-C015",
+    "chapter": "11",
+    "section": "11.3",
+    "title": "第3節 評価替剰余金",
+    "expected_pages": [
+      "T1:209",
+      "T1:210"
+    ],
+    "processing_pages": [
+      "T1:209",
+      "T1:210"
+    ],
+    "output": "chunks/JPG-T1-C015/JPG-T1-C015-S03.md",
+    "status": "pass",
+    "chunk_sha256": "1a8602cf993812e4fe1137e51c31d7664d83a6afa457b92a1c1eee705e774e8b",
+    "locators": [
+      {
+        "page": "T1:209",
+        "printed_page": "⑪－8",
+        "source_region": "第3節の扉、評価替剰余金と保険差益の定義・具体例、資本説・利益説の論拠",
+        "destination_heading": "## 第3節 評価替剰余金"
+      },
+      {
+        "page": "T1:210",
+        "printed_page": "⑪－9",
+        "source_region": "資本説・利益説の比較図、保険差益と資本維持の補足、実体・実質・名目資本維持の数値例と仕訳",
+        "destination_heading": "## 第3節 評価替剰余金"
+      }
+    ]
+  },
+  {
+    "id": "JPG-T1-C015-S04",
+    "batch_id": "JPG-T1-C015",
+    "chapter": "11",
+    "section": "11.4",
+    "title": "第4節 物価変動会計",
+    "expected_pages": [
+      "T1:211",
+      "T1:212",
+      "T1:213"
+    ],
+    "processing_pages": [
+      "T1:211",
+      "T1:212",
+      "T1:213"
+    ],
+    "output": "chunks/JPG-T1-C015/JPG-T1-C015-S04.md",
+    "status": "pass",
+    "chunk_sha256": "8ff92fb3dc252f2dc2321512ed72202f4464407e5717dbf39201e582920e8cf7",
+    "locators": [
+      {
+        "page": "T1:211",
+        "printed_page": "⑪－10",
+        "source_region": "第4節の扉、物価変動会計の定義・目的・分類",
+        "destination_heading": "## 第4節 物価変動会計"
+      },
+      {
+        "page": "T1:212",
+        "printed_page": "⑪－11",
+        "source_region": "一般物価変動会計の概要・購買力変動図・特徴表",
+        "destination_heading": "## 第4節 物価変動会計"
+      },
+      {
+        "page": "T1:213",
+        "printed_page": "⑪－12",
+        "source_region": "個別価格変動会計の概要・個別価格変動図・特徴表",
+        "destination_heading": "## 第4節 物価変動会計"
+      }
+    ]
+  },
+  {
+    "id": "JPG-T1-C015-S05",
+    "batch_id": "JPG-T1-C015",
+    "chapter": "11",
+    "section": "11.5",
+    "title": "第5節 資本維持論",
+    "expected_pages": [
+      "T1:214",
+      "T1:215",
+      "T1:216",
+      "T1:217",
+      "T1:218"
+    ],
+    "processing_pages": [
+      "T1:214",
+      "T1:215",
+      "T1:216",
+      "T1:217",
+      "T1:218"
+    ],
+    "output": "chunks/JPG-T1-C015/JPG-T1-C015-S05.md",
+    "status": "pass",
+    "chunk_sha256": "a3d8baa0fb3418a44f52900d2e4a4c8ac8d35acf5561cd0988bed55528fe814d",
+    "locators": [
+      {
+        "page": "T1:214",
+        "printed_page": "⑪－13",
+        "source_region": "第5節の扉、維持すべき資本の定義・3分類・物価変動会計との関係図",
+        "destination_heading": "## 第5節 資本維持論"
+      },
+      {
+        "page": "T1:215",
+        "printed_page": "⑪－14",
+        "source_region": "取得原価主義会計と名目資本維持の設例、仕訳、T勘定・資本維持の流れ",
+        "destination_heading": "## 第5節 資本維持論"
+      },
+      {
+        "page": "T1:216",
+        "printed_page": "⑪－15",
+        "source_region": "一般物価変動会計と実質資本維持の設例、仕訳、指数1.05による再測定図",
+        "destination_heading": "## 第5節 資本維持論"
+      },
+      {
+        "page": "T1:217",
+        "printed_page": "⑪－16",
+        "source_region": "個別価格変動会計と実体資本維持の設例、仕訳、商品・建物の再評価図",
+        "destination_heading": "## 第5節 資本維持論"
+      },
+      {
+        "page": "T1:218",
+        "printed_page": "⑪－17",
+        "source_region": "物価変動会計のまとめ表と注1から注3",
+        "destination_heading": "## 第5節 資本維持論"
+      }
+    ]
+  },
+  {
+    "id": "JPG-T1-C016-S01",
+    "batch_id": "JPG-T1-C016",
+    "chapter": "12",
+    "section": "12.1",
+    "title": "第1節 財務会計の概念フレームワークの公表にあたって",
+    "expected_pages": [
+      "T1:219",
+      "T1:220",
+      "T1:221"
+    ],
+    "processing_pages": [
+      "T1:219",
+      "T1:220",
+      "T1:221"
+    ],
+    "output": "chunks/JPG-T1-C016/JPG-T1-C016-S01.md",
+    "status": "pass",
+    "chunk_sha256": "a78d971f2e531bb190a3b73c30e650bd101eb7f0e60a3398275ff42c58ad7214",
+    "locators": [
+      {
+        "page": "T1:219",
+        "printed_page": null,
+        "source_region": "第12章章扉、章タイトル、短答式・論文式本試験における出題実績表",
+        "destination_heading": "## 第1節 財務会計の概念フレームワークの公表にあたって"
+      },
+      {
+        "page": "T1:220",
+        "printed_page": "⑫－1",
+        "source_region": "第1節の扉、1.概念フレームワーク公表の経緯、2.役割、将来の会計基準の指針、海外の基準設定主体とのコミュニケーション、制約要因の補足",
+        "destination_heading": "## 第1節 財務会計の概念フレームワークの公表にあたって"
+      },
+      {
+        "page": "T1:221",
+        "printed_page": "⑫－2",
+        "source_region": "概念フレームワークと会計基準、念頭においている点、3.構成、諸外国の概念フレームワークとの関係",
+        "destination_heading": "## 第1節 財務会計の概念フレームワークの公表にあたって"
+      }
+    ]
+  },
+  {
+    "id": "JPG-T1-C016-S02",
+    "batch_id": "JPG-T1-C016",
+    "chapter": "12",
+    "section": "12.2",
+    "title": "第2節 財務報告の目的",
+    "expected_pages": [
+      "T1:222",
+      "T1:223",
+      "T1:224",
+      "T1:225",
+      "T1:226",
+      "T1:227"
+    ],
+    "processing_pages": [
+      "T1:222",
+      "T1:223",
+      "T1:224",
+      "T1:225",
+      "T1:226",
+      "T1:227"
+    ],
+    "output": "chunks/JPG-T1-C016/JPG-T1-C016-S02.md",
+    "status": "pass",
+    "chunk_sha256": "a78cad65c8e605a1de28d01913332dc31add046b37bbbcb840c8c1b7e8d3a2d0",
+    "locators": [
+      {
+        "page": "T1:222",
+        "printed_page": "⑫－3",
+        "source_region": "第2節の扉、1.ディスクロージャー制度の存在意義、財務報告の目的、投資のポジションの補足",
+        "destination_heading": "## 第2節 財務報告の目的"
+      },
+      {
+        "page": "T1:223",
+        "printed_page": "⑫－4",
+        "source_region": "財務報告において提供される情報、利益情報と投資ストックの関係、資本10億円・1,000億円と利益1億円の比較図",
+        "destination_heading": "## 第2節 財務報告の目的"
+      },
+      {
+        "page": "T1:224",
+        "printed_page": "⑫－5",
+        "source_region": "2.会計基準の役割、役割設定の背景、標準的契約としての会計基準、最小限ルールとして機能する条件",
+        "destination_heading": "## 第2節 財務報告の目的"
+      },
+      {
+        "page": "T1:225",
+        "printed_page": "⑫－6",
+        "source_region": "市場の効率性と会計基準の必要性、会計情報の性質、補足説明",
+        "destination_heading": "## 第2節 財務報告の目的"
+      },
+      {
+        "page": "T1:226",
+        "printed_page": "⑫－7",
+        "source_region": "3.ディスクロージャー制度の当事者、投資家・経営者・監査人の役割、経営者の事実開示限定の理由",
+        "destination_heading": "## 第2節 財務報告の目的"
+      },
+      {
+        "page": "T1:227",
+        "printed_page": "⑫－8",
+        "source_region": "想定投資家、各当事者の会計基準遵守の便益、資本コストと企業価値、4.会計情報の副次的利用",
+        "destination_heading": "## 第2節 財務報告の目的"
+      }
+    ]
+  },
+  {
+    "id": "JPG-T1-C016-S03",
+    "batch_id": "JPG-T1-C016",
+    "chapter": "12",
+    "section": "12.3",
+    "title": "第3節 会計情報の質的特性",
+    "expected_pages": [
+      "T1:228",
+      "T1:229",
+      "T1:230",
+      "T1:231",
+      "T1:232",
+      "T1:233",
+      "T1:234",
+      "T1:235"
+    ],
+    "processing_pages": [
+      "T1:228",
+      "T1:229",
+      "T1:230",
+      "T1:231",
+      "T1:232",
+      "T1:233",
+      "T1:234",
+      "T1:235"
+    ],
+    "output": "chunks/JPG-T1-C016/JPG-T1-C016-S03.md",
+    "status": "pass",
+    "chunk_sha256": "4151e283bddfea65f271241f6b2489b6cbb340e5486cdc0e7573d8457e11328a",
+    "locators": [
+      {
+        "page": "T1:228",
+        "printed_page": "⑫－9",
+        "source_region": "第3節の扉、1.質的特性と意思決定有用性、2.意思決定有用性を支える2特性、階層図",
+        "destination_heading": "## 第3節 会計情報の質的特性"
+      },
+      {
+        "page": "T1:229",
+        "printed_page": "⑫－10",
+        "source_region": "3.意思決定との関連性、定義、情報価値の存在、情報ニーズの充足",
+        "destination_heading": "## 第3節 会計情報の質的特性"
+      },
+      {
+        "page": "T1:230",
+        "printed_page": "⑫－11",
+        "source_region": "情報ニーズの関係図と限界、4.信頼性、中立性・検証可能性・表現の忠実性と具体例",
+        "destination_heading": "## 第3節 会計情報の質的特性"
+      },
+      {
+        "page": "T1:231",
+        "printed_page": "⑫－12",
+        "source_region": "信頼性と意思決定との関連性、トレード・オフ、5.内的整合性の定義と例外",
+        "destination_heading": "## 第3節 会計情報の質的特性"
+      },
+      {
+        "page": "T1:232",
+        "printed_page": "⑫－13",
+        "source_region": "内的整合性と基礎概念・体系、会計情報との関係①、推定図",
+        "destination_heading": "## 第3節 会計情報の質的特性"
+      },
+      {
+        "page": "T1:233",
+        "printed_page": "⑫－14",
+        "source_region": "内的整合性と新たな会計情報との関係②、概念フレームワーク改訂、硬直化の補足",
+        "destination_heading": "## 第3節 会計情報の質的特性"
+      },
+      {
+        "page": "T1:234",
+        "printed_page": "⑫－15",
+        "source_region": "内的整合性と概念フレームワーク、首尾一貫性との相違、6.比較可能性の定義",
+        "destination_heading": "## 第3節 会計情報の質的特性"
+      },
+      {
+        "page": "T1:235",
+        "printed_page": "⑫－16",
+        "source_region": "形式と実質が分離する場合のケース1・2、比較可能性の確保、意思決定有用性とその他の特性の関係",
+        "destination_heading": "## 第3節 会計情報の質的特性"
+      }
+    ]
+  },
+  {
+    "id": "JPG-T1-C017-S01",
+    "batch_id": "JPG-T1-C017",
+    "chapter": "12",
+    "section": "12.4",
+    "title": "第4節 財務諸表の構成要素",
+    "expected_pages": [
+      "T1:236",
+      "T1:237",
+      "T1:238",
+      "T1:239",
+      "T1:240",
+      "T1:241",
+      "T1:242",
+      "T1:243",
+      "T1:244",
+      "T1:245",
+      "T1:246",
+      "T1:247",
+      "T1:248",
+      "T1:249",
+      "T1:250",
+      "T1:251"
+    ],
+    "processing_pages": [
+      "T1:236",
+      "T1:237",
+      "T1:238",
+      "T1:239",
+      "T1:240",
+      "T1:241",
+      "T1:242",
+      "T1:243",
+      "T1:244",
+      "T1:245",
+      "T1:246",
+      "T1:247",
+      "T1:248",
+      "T1:249",
+      "T1:250",
+      "T1:251"
+    ],
+    "output": "chunks/JPG-T1-C017/JPG-T1-C017-S01.md",
+    "status": "pass",
+    "locators": [
+      {
+        "page": "T1:236",
+        "printed_page": "⑫－17",
+        "source_region": "第4節の扉、1.節の基本内容、2.(1)貸借対照表と損益計算書、2.(2)構成要素、2.(3)一般的制約",
+        "destination_heading": "## 第4節 財務諸表の構成要素"
+      },
+      {
+        "page": "T1:237",
+        "printed_page": "⑫－18",
+        "source_region": "補足 各構成要素相互の関連の説明と関係図",
+        "destination_heading": "## 第4節 財務諸表の構成要素"
+      },
+      {
+        "page": "T1:238",
+        "printed_page": "⑫－19",
+        "source_region": "3.構成要素の定義、資産の定義と3要件",
+        "destination_heading": "## 第4節 財務諸表の構成要素"
+      },
+      {
+        "page": "T1:239",
+        "printed_page": "⑫－20",
+        "source_region": "自己創設のれん、繰延資産の補足と図",
+        "destination_heading": "## 第4節 財務諸表の構成要素"
+      },
+      {
+        "page": "T1:240",
+        "printed_page": "⑫－21",
+        "source_region": "負債の定義、義務、製品保証引当金・修繕引当金の補足",
+        "destination_heading": "## 第4節 財務諸表の構成要素"
+      },
+      {
+        "page": "T1:241",
+        "printed_page": "⑫－22",
+        "source_region": "純資産・株主資本の定義と区分表、収益の定義と新株予約権失効例",
+        "destination_heading": "## 第4節 財務諸表の構成要素"
+      },
+      {
+        "page": "T1:242",
+        "printed_page": "⑫－23",
+        "source_region": "収益の投資リスクからの解放、建物を対価とする取引、事業拘束資産と非拘束資産の補足",
+        "destination_heading": "## 第4節 財務諸表の構成要素"
+      },
+      {
+        "page": "T1:243",
+        "printed_page": "⑫－24",
+        "source_region": "費用の定義、その他有価証券評価差額のリサイクル例、費用のリスク解放と期間帰属",
+        "destination_heading": "## 第4節 財務諸表の構成要素"
+      },
+      {
+        "page": "T1:244",
+        "printed_page": "⑫－25",
+        "source_region": "収益と利得・費用と損失の補足、純利益の定義、現行制度との相違表と連結損益計算書図",
+        "destination_heading": "## 第4節 財務諸表の構成要素"
+      },
+      {
+        "page": "T1:245",
+        "printed_page": "⑫－26",
+        "source_region": "包括利益の定義、純資産変動図、直接的取引の典型例",
+        "destination_heading": "## 第4節 財務諸表の構成要素"
+      },
+      {
+        "page": "T1:246",
+        "printed_page": "⑫－27",
+        "source_region": "4.(1)包括利益、期首期末純資産差額の数値例と仕訳、直接取引の数値例",
+        "destination_heading": "## 第4節 財務諸表の構成要素"
+      },
+      {
+        "page": "T1:247",
+        "printed_page": "⑫－28",
+        "source_region": "4.(2)貸借対照表と損益計算書の連携（クリーン・サープラス関係）と数値例",
+        "destination_heading": "## 第4節 財務諸表の構成要素"
+      },
+      {
+        "page": "T1:248",
+        "printed_page": "⑫－29",
+        "source_region": "4.(3)非連携、その他有価証券評価差額の数値例、4.(4)包括利益による連携確保",
+        "destination_heading": "## 第4節 財務諸表の構成要素"
+      },
+      {
+        "page": "T1:249",
+        "printed_page": "⑫－30",
+        "source_region": "その他の包括利益による連携確保の説明、5.包括利益と純利益の定義表",
+        "destination_heading": "## 第4節 財務諸表の構成要素"
+      },
+      {
+        "page": "T1:250",
+        "printed_page": "⑫－31",
+        "source_region": "包括利益と純利益の相違点、番号①～⑤の関係図・計算式・具体例",
+        "destination_heading": "## 第4節 財務諸表の構成要素"
+      },
+      {
+        "page": "T1:251",
+        "printed_page": "⑫－32",
+        "source_region": "純利益130・包括利益220の具体例、純利益と包括利益の並立、測定制約",
+        "destination_heading": "## 第4節 財務諸表の構成要素"
+      }
+    ],
+    "chunk_sha256": "cde6a3c72dea7008dd27ba7d949b0c027ee320f760942c49ac4fafc133af06e7"
+  },
+  {
+    "id": "JPG-T1-C018-S01",
+    "batch_id": "JPG-T1-C018",
+    "chapter": "12",
+    "section": "12.5",
+    "title": "第5節 財務諸表における認識と測定",
+    "expected_pages": [
+      "T1:252",
+      "T1:253",
+      "T1:254",
+      "T1:255",
+      "T1:256",
+      "T1:257",
+      "T1:258",
+      "T1:259",
+      "T1:260",
+      "T1:261",
+      "T1:262",
+      "T1:263",
+      "T1:264",
+      "T1:265",
+      "T1:266",
+      "T1:267",
+      "T1:268",
+      "T1:269",
+      "T1:270",
+      "T1:271"
+    ],
+    "processing_pages": [
+      "T1:252",
+      "T1:253",
+      "T1:254",
+      "T1:255",
+      "T1:256",
+      "T1:257",
+      "T1:258",
+      "T1:259",
+      "T1:260",
+      "T1:261",
+      "T1:262",
+      "T1:263",
+      "T1:264",
+      "T1:265",
+      "T1:266",
+      "T1:267",
+      "T1:268",
+      "T1:269",
+      "T1:270",
+      "T1:271"
+    ],
+    "output": "chunks/JPG-T1-C018/JPG-T1-C018-S01.md",
+    "status": "pass",
+    "chunk_sha256": "c71c984323f4d48f5dee2f4fcc48ebf4338e289da89e2352e11c5d9f1dfbd1c0",
+    "locators": [
+      {
+        "page": "T1:252",
+        "printed_page": "⑫－33",
+        "source_region": "第5節の導入、1.認識および測定の定義、2.(1)認識の実態、契約履行の現金決済・継続的役務提供の図",
+        "destination_heading": "## 第5節 財務諸表における認識と測定"
+      },
+      {
+        "page": "T1:253",
+        "printed_page": "⑫－34",
+        "source_region": "双方未履行の原則、3年間建物賃貸の例、2.(2)認識に関する価値変動、債券先物の時価変動例、製品保証引当金の補足",
+        "destination_heading": "## 第5節 財務諸表における認識と測定"
+      },
+      {
+        "page": "T1:254",
+        "printed_page": "⑫－35",
+        "source_region": "認識に求められる蓋然性、蓋然性の定義・例外、製品保証引当金の高低確率例、保守性の補足",
+        "destination_heading": "## 第5節 財務諸表における認識と測定"
+      },
+      {
+        "page": "T1:255",
+        "printed_page": "⑫－36",
+        "source_region": "3.資産の測定、5分類9分類の体系図、(1)取得原価、取得原価の定義、現金・財サービス対価の例、原始取得原価と未償却原価",
+        "destination_heading": "## 第5節 財務諸表における認識と測定"
+      },
+      {
+        "page": "T1:256",
+        "printed_page": "⑫－37",
+        "source_region": "取得原価関連用語、継続的投資行動の前提、未償却原価の意味、見積り修正、(2)市場価格の定義、市場価格と時価の補足",
+        "destination_heading": "## 第5節 財務諸表における認識と測定"
+      },
+      {
+        "page": "T1:257",
+        "printed_page": "⑫－38",
+        "source_region": "購買市場と売却市場が区別されない場合の測定意味・変動額、再測定の条件、支出額と市場価格の乖離、両市場が区別される場合の導入",
+        "destination_heading": "## 第5節 財務諸表における認識と測定"
+      },
+      {
+        "page": "T1:258",
+        "printed_page": "⑫－39",
+        "source_region": "再調達原価の定義・意味・@100から@130の例、保有中の再測定の限界、正味実現可能価額の定義・意味・@120/@130の例、(3)割引価値の導入",
+        "destination_heading": "## 第5節 財務諸表における認識と測定"
+      },
+      {
+        "page": "T1:259",
+        "printed_page": "⑫－40",
+        "source_region": "利用価値の定義・用途・意味、自己創設のれん、変動額、例外的用途、取得原価800・のれん200・CF1,331・割引率10%の図と2パターン",
+        "destination_heading": "## 第5節 財務諸表における認識と測定"
+      },
+      {
+        "page": "T1:260",
+        "printed_page": "⑫－41",
+        "source_region": "市場価値推定の割引価値の定義・用途・変動額、将来CFのみ再見積りの定義・意味、回収可能額4,000と現在価値3,455の例、10,000債権の図",
+        "destination_heading": "## 第5節 財務諸表における認識と測定"
+      },
+      {
+        "page": "T1:261",
+        "printed_page": "⑫－42",
+        "source_region": "将来CFのみ再見積りの例の変動額3,044、利息411と期待CF変化3,455の仕訳、入金予定額、被投資企業純資産額に基づく額",
+        "destination_heading": "## 第5節 財務諸表における認識と測定"
+      },
+      {
+        "page": "T1:262",
+        "printed_page": "⑫－43",
+        "source_region": "4.負債の測定、7分類の体系図、(1)支払予定額の定義・意味・固定契約と見積り変更、1,000から1,200の評価例",
+        "destination_heading": "## 第5節 財務諸表における認識と測定"
+      },
+      {
+        "page": "T1:263",
+        "printed_page": "⑫－44",
+        "source_region": "(2)現金受入額の定義・期間配分・未決済残高、金融負債と非金融負債、額面1,000発行価額900の社債例、前受収益3,600の例",
+        "destination_heading": "## 第5節 財務諸表における認識と測定"
+      },
+      {
+        "page": "T1:264",
+        "printed_page": "⑫－45",
+        "source_region": "(3)割引価値、リスクフリー・レートによる割引価値の定義・用途・変動額、COF10,404・RF2%・不履行リスク3%の例と4変化",
+        "destination_heading": "## 第5節 財務諸表における認識と測定"
+      },
+      {
+        "page": "T1:265",
+        "printed_page": "⑫－46",
+        "source_region": "リスク調整割引率による割引価値の定義・現行制度での扱い・変動額、COF10,404・割引率5%の例と4変化、将来CFのみ再見積りの負債測定",
+        "destination_heading": "## 第5節 財務諸表における認識と測定"
+      },
+      {
+        "page": "T1:266",
+        "printed_page": "⑫－47",
+        "source_region": "将来CFを再見積りせず割引率も改訂しない場合、社債・リース債務、リース料100と利息10の分解例、負債の市場価格",
+        "destination_heading": "## 第5節 財務諸表における認識と測定"
+      },
+      {
+        "page": "T1:267",
+        "printed_page": "⑫－48",
+        "source_region": "測定値の選択の補足、原価・時価の並列、多重測定の例、測定値として独立の意味を持たない退職給付引当金の補足",
+        "destination_heading": "## 第5節 財務諸表における認識と測定"
+      },
+      {
+        "page": "T1:268",
+        "printed_page": "⑫－49",
+        "source_region": "5.収益の認識、(1)投資のリスクからの解放の概念、期待の事実転化の図、(2)支持理由、実現主義・実現可能概念との対比",
+        "destination_heading": "## 第5節 財務諸表における認識と測定"
+      },
+      {
+        "page": "T1:269",
+        "printed_page": "⑫－50",
+        "source_region": "(3)投資のリスクからの解放の具体例、判断ポイント、通常の商品売買、長期請負工事、売買目的有価証券",
+        "destination_heading": "## 第5節 財務諸表における認識と測定"
+      },
+      {
+        "page": "T1:270",
+        "printed_page": "⑫－51",
+        "source_region": "その他有価証券、投資リスク解放・実現・実現可能の相違、包含関係の図、評価差額の位置付け",
+        "destination_heading": "## 第5節 財務諸表における認識と測定"
+      },
+      {
+        "page": "T1:271",
+        "printed_page": "⑫－52",
+        "source_region": "投資に関する期待の内容の補足、6.収益の測定、(1)交換に着目した収益測定、収益計上の判断基準と計上額",
+        "destination_heading": "## 第5節 財務諸表における認識と測定"
+      }
+    ]
+  },
+  {
+    "id": "JPG-T1-C019-S01",
+    "batch_id": "JPG-T1-C019",
+    "chapter": "12",
+    "section": "12.5",
+    "title": "第5節 財務諸表における認識と測定",
+    "expected_pages": [
+      "T1:272",
+      "T1:273",
+      "T1:274",
+      "T1:275",
+      "T1:276"
+    ],
+    "processing_pages": [
+      "T1:272",
+      "T1:273",
+      "T1:274",
+      "T1:275",
+      "T1:276"
+    ],
+    "output": "chunks/JPG-T1-C019/JPG-T1-C019-S01.md",
+    "status": "pass",
+    "chunk_sha256": "a81ecd4a978113c0cfb1baf486eadf3574642bc390e72d113457a30785689e5c",
+    "locators": [
+      {
+        "page": "T1:272",
+        "printed_page": "⑫－53",
+        "source_region": "交換に着目した収益の認識時点の補足、別事業リスクの有価証券との交換例、同一事業リスクの工場交換例、仕訳と評価額",
+        "destination_heading": "## 第5節 財務諸表における認識と測定"
+      },
+      {
+        "page": "T1:273",
+        "printed_page": "⑫－54",
+        "source_region": "市場価格の変動に着目した収益の測定、100円から110円・115円への再投資図、部分的履行の定義、720×5か月／12か月＝300の貸付利息例",
+        "destination_heading": "## 第5節 財務諸表における認識と測定"
+      },
+      {
+        "page": "T1:274",
+        "printed_page": "⑫－55",
+        "source_region": "契約の部分的履行に伴う投資リスク解放の補足、前受収益の定義・貸付例、600×2か月／12か月＝100、被投資企業成果に着目した収益の測定",
+        "destination_heading": "## 第5節 財務諸表における認識と測定"
+      },
+      {
+        "page": "T1:275",
+        "printed_page": "⑫－56",
+        "source_region": "関連会社株式への持分法適用例、関連会社と投資企業の一体性、収益認識時点の図、現行制度上の同時認識注記",
+        "destination_heading": "## 第5節 財務諸表における認識と測定"
+      },
+      {
+        "page": "T1:276",
+        "printed_page": "⑫－57",
+        "source_region": "7.費用の測定の4分類表、利用の事実に着目した測定、通常資産・繰延資産の処理図、費用配分と見積り改訂",
+        "destination_heading": "## 第5節 財務諸表における認識と測定"
+      }
+    ]
+  },
+  {
+    "id": "JPG-T1-C020-S01",
+    "batch_id": "JPG-T1-C020",
+    "chapter": "13",
+    "section": "13.1",
+    "title": "第1節 我が国における基準設定主体",
+    "expected_pages": [
+      "T1:277",
+      "T1:278"
+    ],
+    "processing_pages": [
+      "T1:277",
+      "T1:278"
+    ],
+    "output": "chunks/JPG-T1-C020/JPG-T1-C020-S01.md",
+    "status": "pass",
+    "chunk_sha256": "1ef9483bae6a7b7b2fab1092649f7fe929d8c32755a693cb2b2127b42761ec3e",
+    "locators": [
+      {
+        "page": "T1:277",
+        "printed_page": null,
+        "source_region": "第13章章扉、章タイトル、短答式・論文式本試験における出題実績表",
+        "destination_heading": "## 第1節 我が国における基準設定主体"
+      },
+      {
+        "page": "T1:278",
+        "printed_page": "⑬－1",
+        "source_region": "第1節の扉、設定主体の概説、企業会計審議会の定義・代表的基準、ASBJの設立経緯・代表的基準・優先適用と未公表基準の取扱い",
+        "destination_heading": "## 第1節 我が国における基準設定主体"
+      }
+    ]
+  },
+  {
+    "id": "JPG-T1-C020-S02",
+    "batch_id": "JPG-T1-C020",
+    "chapter": "13",
+    "section": "13.2",
+    "title": "第2節 国際財務報告基準（IFRS）の特徴等",
+    "expected_pages": [
+      "T1:279",
+      "T1:280",
+      "T1:281"
+    ],
+    "processing_pages": [
+      "T1:279",
+      "T1:280",
+      "T1:281"
+    ],
+    "output": "chunks/JPG-T1-C020/JPG-T1-C020-S02.md",
+    "status": "pass",
+    "chunk_sha256": "c16d4a8f0f8c36ae20abd413e078eec2970e1d778e1223df208bc93fa1392355",
+    "locators": [
+      {
+        "page": "T1:279",
+        "printed_page": "⑬－2",
+        "source_region": "第2節の扉、IFRS・IASB・FASB・ASBJ・コンバージェンス・アドプション・エンドースメントの用語定義、原則主義と規則主義の定義・子会社判定例",
+        "destination_heading": "## 第2節 国際財務報告基準（IFRS）の特徴等"
+      },
+      {
+        "page": "T1:280",
+        "printed_page": "⑬－3",
+        "source_region": "原則主義と規則主義の長所・短所・リース操作例、わが国のIFRS任意適用の時期・要件・対象財務諸表・指定国際会計基準の注記",
+        "destination_heading": "## 第2節 国際財務報告基準（IFRS）の特徴等"
+      },
+      {
+        "page": "T1:281",
+        "printed_page": "⑬－4",
+        "source_region": "IFRSへのコンバージェンス／アドプション、連結先行・連単分離の定義と理由、包括利益会計基準、連単分離への批判点",
+        "destination_heading": "## 第2節 国際財務報告基準（IFRS）の特徴等"
+      }
+    ]
+  },
+  {
+    "id": "JPG-T1-C020-S03",
+    "batch_id": "JPG-T1-C020",
+    "chapter": "13",
+    "section": "13.3",
+    "title": "第3節 修正国際基準",
+    "expected_pages": [
+      "T1:282"
+    ],
+    "processing_pages": [
+      "T1:282"
+    ],
+    "output": "chunks/JPG-T1-C020/JPG-T1-C020-S03.md",
+    "status": "pass",
+    "chunk_sha256": "2d93e1c391a2e8e0862b2f425372b8c83cc9929a9a87d2b784e357a8cb6bbc09",
+    "locators": [
+      {
+        "page": "T1:282",
+        "printed_page": "⑬－5",
+        "source_region": "第3節の扉、修正国際基準の導入経緯・定義、のれんの償却、その他の包括利益のリサイクリング、適用時期等",
+        "destination_heading": "## 第3節 修正国際基準"
+      }
+    ]
+  },
+  {
+    "id": "JPG-T1-C020-S04",
+    "batch_id": "JPG-T1-C020",
+    "chapter": "13",
+    "section": "13.4",
+    "title": "第4節 単体開示の簡素化",
+    "expected_pages": [
+      "T1:283"
+    ],
+    "processing_pages": [
+      "T1:283"
+    ],
+    "output": "chunks/JPG-T1-C020/JPG-T1-C020-S04.md",
+    "status": "pass",
+    "chunk_sha256": "550c15f0e745af6f4feb3722e407b6c2c2543eef16be3e3bb202f7511b8c879d",
+    "locators": [
+      {
+        "page": "T1:283",
+        "printed_page": "⑬－6",
+        "source_region": "第4節の扉、単体開示簡素化の根拠、特例財務諸表提出会社、注記免除、区分掲記重要性基準の従来・現行比較表、製造原価明細書免除",
+        "destination_heading": "## 第4節 単体開示の簡素化"
+      }
+    ]
+  },
+  {
+    "id": "JPG-T1-C021-S01",
+    "batch_id": "JPG-T1-C021",
+    "chapter": "14",
+    "section": "14.1",
+    "title": "第1節 セグメント情報等に関する基本事項",
+    "expected_pages": [
+      "T1:285",
+      "T1:286"
+    ],
+    "processing_pages": [
+      "T1:285",
+      "T1:286"
+    ],
+    "output": "chunks/JPG-T1-C021/JPG-T1-C021-S01.md",
+    "status": "pass",
+    "chunk_sha256": "3ae5da2017aa050ae83738a69726e147d9bf41f96f7a9992b3b72997adb30ca2",
+    "locators": [
+      {
+        "page": "T1:285",
+        "printed_page": null,
+        "source_region": "第14章章扉、章タイトル、短答式・論文式本試験における出題実績表",
+        "destination_heading": "## 第1節 セグメント情報等に関する基本事項"
+      },
+      {
+        "page": "T1:286",
+        "printed_page": "⑭－1",
+        "source_region": "第1節の扉、セグメント情報の定義・必要性、合算情報と事業別情報の図解、本会計基準の定める4種類の開示情報",
+        "destination_heading": "## 第1節 セグメント情報等に関する基本事項"
+      }
+    ]
+  },
+  {
+    "id": "JPG-T1-C021-S02",
+    "batch_id": "JPG-T1-C021",
+    "chapter": "14",
+    "section": "14.2",
+    "title": "第2節 マネジメント・アプローチ",
+    "expected_pages": [
+      "T1:287",
+      "T1:288",
+      "T1:289",
+      "T1:290",
+      "T1:291",
+      "T1:292"
+    ],
+    "processing_pages": [
+      "T1:287",
+      "T1:288",
+      "T1:289",
+      "T1:290",
+      "T1:291",
+      "T1:292"
+    ],
+    "output": "chunks/JPG-T1-C021/JPG-T1-C021-S02.md",
+    "status": "pass",
+    "chunk_sha256": "2cf969ab4de943b6b8e11fd1d657e9ebec71df3ef906771405c746d452d63e64",
+    "locators": [
+      {
+        "page": "T1:287",
+        "printed_page": "⑭－2",
+        "source_region": "第2節の扉、マネジメント・アプローチの意義、事業本部別の内部情報とセグメント情報の図解",
+        "destination_heading": "## 第2節 マネジメント・アプローチ"
+      },
+      {
+        "page": "T1:288",
+        "printed_page": "⑭－3",
+        "source_region": "マネジメント・アプローチの3特徴、組織構造・内部配分・内部報告会計方針の図解",
+        "destination_heading": "## 第2節 マネジメント・アプローチ"
+      },
+      {
+        "page": "T1:289",
+        "printed_page": "⑭－4",
+        "source_region": "従来のセグメント情報の画一性・財務諸表基礎、マネジメント・アプローチとの差異",
+        "destination_heading": "## 第2節 マネジメント・アプローチ"
+      },
+      {
+        "page": "T1:290",
+        "printed_page": "⑭－5",
+        "source_region": "マネジメント・アプローチの長所3点と短所2点",
+        "destination_heading": "## 第2節 マネジメント・アプローチ"
+      },
+      {
+        "page": "T1:291",
+        "printed_page": "⑭－6",
+        "source_region": "概念フレームワークの質的特性の階層図、関連性・比較可能性とマネジメント・アプローチの関係",
+        "destination_heading": "## 第2節 マネジメント・アプローチ"
+      },
+      {
+        "page": "T1:292",
+        "printed_page": "⑭－7",
+        "source_region": "事業活動上の障害の補足、開示免除を認める見解と認めない見解、その論拠",
+        "destination_heading": "## 第2節 マネジメント・アプローチ"
+      }
+    ]
+  },
+  {
+    "id": "JPG-T1-C021-S03",
+    "batch_id": "JPG-T1-C021",
+    "chapter": "14",
+    "section": "14.3",
+    "title": "第3節 本会計基準の適用範囲と基本原則",
+    "expected_pages": [
+      "T1:293"
+    ],
+    "processing_pages": [
+      "T1:293"
+    ],
+    "output": "chunks/JPG-T1-C021/JPG-T1-C021-S03.md",
+    "status": "pass",
+    "chunk_sha256": "f8f08c98a8c0b886c34502980c01651110ca9c240d68ee98a0690870c479fcaa",
+    "locators": [
+      {
+        "page": "T1:293",
+        "printed_page": "⑭－8",
+        "source_region": "第3節の扉、適用範囲、連結開示時の個別開示不要、基本原則2点、重要性による適用不要の注記",
+        "destination_heading": "## 第3節 本会計基準の適用範囲と基本原則"
+      }
+    ]
+  },
+  {
+    "id": "JPG-T1-C021-S04",
+    "batch_id": "JPG-T1-C021",
+    "chapter": "14",
+    "section": "14.4",
+    "title": "第4節 事業セグメントの識別",
+    "expected_pages": [
+      "T1:294",
+      "T1:295"
+    ],
+    "processing_pages": [
+      "T1:294",
+      "T1:295"
+    ],
+    "output": "chunks/JPG-T1-C021/JPG-T1-C021-S04.md",
+    "status": "pass",
+    "chunk_sha256": "feb3b907a34d4f3864585033758e1f4e7e71c865ffbffa2f2f155dca5cca4d1c",
+    "locators": [
+      {
+        "page": "T1:294",
+        "printed_page": "⑭－9",
+        "source_region": "第4節の扉、開示までの3段階の流れ、事業セグメントの定義と3要件、最高経営意思決定機関の注記",
+        "destination_heading": "## 第4節 事業セグメントの識別"
+      },
+      {
+        "page": "T1:295",
+        "printed_page": "⑭－10",
+        "source_region": "3要件の図解、未収益事業の扱い、事業セグメントにならない構成単位、複数の区分方法の選択要素",
+        "destination_heading": "## 第4節 事業セグメントの識別"
+      }
+    ]
+  },
+  {
+    "id": "JPG-T1-C021-S05",
+    "batch_id": "JPG-T1-C021",
+    "chapter": "14",
+    "section": "14.5",
+    "title": "第5節 報告セグメントの決定",
+    "expected_pages": [
+      "T1:296",
+      "T1:297",
+      "T1:298",
+      "T1:299",
+      "T1:300",
+      "T1:301",
+      "T1:302"
+    ],
+    "processing_pages": [
+      "T1:296",
+      "T1:297",
+      "T1:298",
+      "T1:299",
+      "T1:300",
+      "T1:301",
+      "T1:302"
+    ],
+    "output": "chunks/JPG-T1-C021/JPG-T1-C021-S05.md",
+    "status": "pass",
+    "chunk_sha256": "f0bd60e85c4159898f78ea697f69757634031825846f6b0e3fb02f2ea156bdf7",
+    "locators": [
+      {
+        "page": "T1:296",
+        "printed_page": "⑭－11",
+        "source_region": "第5節の扉、集約基準・量的基準の考え方と適用順序のフロー",
+        "destination_heading": "## 第5節 報告セグメントの決定"
+      },
+      {
+        "page": "T1:297",
+        "printed_page": "⑭－12",
+        "source_region": "集約基準3要件、長期的業績の類似性、α・β部品事業部の集約例",
+        "destination_heading": "## 第5節 報告セグメントの決定"
+      },
+      {
+        "page": "T1:298",
+        "printed_page": "⑭－13",
+        "source_region": "量的基準3要件、A〜E事業部の売上高・利益・資産表、売上高基準",
+        "destination_heading": "## 第5節 報告セグメントの決定"
+      },
+      {
+        "page": "T1:299",
+        "printed_page": "⑭－14",
+        "source_region": "A〜E事業部の損益基準・資産基準の計算、最終判定、量的基準例外①",
+        "destination_heading": "## 第5節 報告セグメントの決定"
+      },
+      {
+        "page": "T1:300",
+        "printed_page": "⑭－15",
+        "source_region": "量的基準例外②、75%ルールの具体例、報告セグメント数に上限を設けない補足",
+        "destination_heading": "## 第5節 報告セグメントの決定"
+      },
+      {
+        "page": "T1:301",
+        "printed_page": "⑭－16",
+        "source_region": "その他区分への一括開示、記載例、量的重要性が変化した場合の前年度情報",
+        "destination_heading": "## 第5節 報告セグメントの決定"
+      },
+      {
+        "page": "T1:302",
+        "printed_page": "⑭－17",
+        "source_region": "報告セグメントを決定するまでの一連の流れのフロー図",
+        "destination_heading": "## 第5節 報告セグメントの決定"
+      }
+    ]
+  },
+  {
+    "id": "JPG-T1-C021-S06",
+    "batch_id": "JPG-T1-C021",
+    "chapter": "14",
+    "section": "14.6",
+    "title": "第6節 セグメント情報の開示項目と測定方法",
+    "expected_pages": [
+      "T1:303",
+      "T1:304",
+      "T1:305",
+      "T1:306",
+      "T1:307"
+    ],
+    "processing_pages": [
+      "T1:303",
+      "T1:304",
+      "T1:305",
+      "T1:306",
+      "T1:307"
+    ],
+    "output": "chunks/JPG-T1-C021/JPG-T1-C021-S06.md",
+    "status": "pass",
+    "chunk_sha256": "9cf5cf577660f017436f1bdb6498f150d3fe4c7bcb73dfadeb5ecffee438fe6b",
+    "locators": [
+      {
+        "page": "T1:303",
+        "printed_page": "⑭－18",
+        "source_region": "第6節の扉、開示項目3点、報告セグメント概要、利益・資産・その他重要項目の導入",
+        "destination_heading": "## 第6節 セグメント情報の開示項目と測定方法"
+      },
+      {
+        "page": "T1:304",
+        "printed_page": "⑭－19",
+        "source_region": "利益・資産に関連するその他重要項目9点、資産関連項目2点、開示例、負債の開示",
+        "destination_heading": "## 第6節 セグメント情報の開示項目と測定方法"
+      },
+      {
+        "page": "T1:305",
+        "printed_page": "⑭－20",
+        "source_region": "測定方法の基本事項、内部報告金額の優先、出荷基準・定額法の例、内部利益・共通営業費の配分例",
+        "destination_heading": "## 第6節 セグメント情報の開示項目と測定方法"
+      },
+      {
+        "page": "T1:306",
+        "printed_page": "⑭－21",
+        "source_region": "測定方法の開示6項目、差異調整の開示5項目、利益情報の選択科目",
+        "destination_heading": "## 第6節 セグメント情報の開示項目と測定方法"
+      },
+      {
+        "page": "T1:307",
+        "printed_page": "⑭－22",
+        "source_region": "組織変更等による区分方法変更、前年度情報の作り直し、実務上困難な場合、遡及処理の補足",
+        "destination_heading": "## 第6節 セグメント情報の開示項目と測定方法"
+      }
+    ]
+  },
+  {
+    "id": "JPG-T1-C022-S01",
+    "batch_id": "JPG-T1-C022",
+    "chapter": "14",
+    "section": "14.7",
+    "title": "第7節 その他の開示内容",
+    "expected_pages": [
+      "T1:308",
+      "T1:309",
+      "T1:310"
+    ],
+    "processing_pages": [
+      "T1:308",
+      "T1:309",
+      "T1:310"
+    ],
+    "output": "chunks/JPG-T1-C022/JPG-T1-C022-S01.md",
+    "status": "pass",
+    "chunk_sha256": "f0f0c116d86123c0b92f61658362ebdc2030753a1b15cca929424ba195009a4a",
+    "locators": [
+      {
+        "page": "T1:308",
+        "printed_page": "⑭－23",
+        "source_region": "第7節の導入、関連情報の開示対象3項目、セグメント情報を開示しない企業にも関連情報の開示が必要な旨、製品及びサービスに関する情報の定義と記載例",
+        "destination_heading": "## 第7節 その他の開示内容"
+      },
+      {
+        "page": "T1:309",
+        "printed_page": "⑭－24",
+        "source_region": "地域に関する情報の開示事項と売上高・有形固定資産の記載例、主要な顧客に関する情報の開示事項と記載例",
+        "destination_heading": "## 第7節 その他の開示内容"
+      },
+      {
+        "page": "T1:310",
+        "printed_page": "⑭－25",
+        "source_region": "固定資産の減損損失に関する報告セグメント別情報、未配分損失の取扱いと記載例、のれんの償却額・未償却残高・重要な負ののれんに関する開示と記載例",
+        "destination_heading": "## 第7節 その他の開示内容"
+      }
+    ]
+  },
+  {
+    "id": "JPG-T1-C023-S01",
+    "batch_id": "JPG-T1-C023",
+    "chapter": "15",
+    "section": "15.1",
+    "title": "第1節 関連当事者の開示に関する基本事項",
+    "expected_pages": [
+      "T1:311",
+      "T1:312",
+      "T1:313"
+    ],
+    "processing_pages": [
+      "T1:311",
+      "T1:312",
+      "T1:313"
+    ],
+    "output": "chunks/JPG-T1-C023/JPG-T1-C023-S01.md",
+    "status": "pass",
+    "locators": [
+      {
+        "page": "T1:311",
+        "printed_page": null,
+        "source_region": "chapter title and short-answer/essay exam-history tables",
+        "destination_heading": "## 第1節 関連当事者の開示に関する基本事項"
+      },
+      {
+        "page": "T1:312",
+        "printed_page": "⑮－1",
+        "source_region": "section banner and items (1) through (4), including necessity note",
+        "destination_heading": "## 第1節 関連当事者の開示に関する基本事項"
+      },
+      {
+        "page": "T1:313",
+        "printed_page": "⑮－2",
+        "source_region": "item (5), cases 1 and 2, and company-concept diagram",
+        "destination_heading": "## 第1節 関連当事者の開示に関する基本事項"
+      }
+    ],
+    "chunk_sha256": "571139363695cfb71d082b64cac48fa217896d5ff82e3d8da4153becc39048ac"
+  },
+  {
+    "id": "JPG-T1-C023-S02",
+    "batch_id": "JPG-T1-C023",
+    "chapter": "15",
+    "section": "15.2",
+    "title": "第2節 関連当事者に該当する者",
+    "expected_pages": [
+      "T1:314",
+      "T1:315",
+      "T1:316"
+    ],
+    "processing_pages": [
+      "T1:314",
+      "T1:315",
+      "T1:316"
+    ],
+    "output": "chunks/JPG-T1-C023/JPG-T1-C023-S02.md",
+    "status": "pass",
+    "locators": [
+      {
+        "page": "T1:314",
+        "printed_page": "⑮－3",
+        "source_region": "section banner, related-party list, and relationship diagram",
+        "destination_heading": "## 第2節 関連当事者に該当する者"
+      },
+      {
+        "page": "T1:315",
+        "printed_page": "⑮－4",
+        "source_region": "notes 1 through 6 and joint-control diagrams",
+        "destination_heading": "## 第2節 関連当事者に該当する者"
+      },
+      {
+        "page": "T1:316",
+        "printed_page": "⑮－5",
+        "source_region": "note 7, consolidated-versus-individual diagram, and summary table",
+        "destination_heading": "## 第2節 関連当事者に該当する者"
+      }
+    ],
+    "chunk_sha256": "19a2dbf24e46bfb5876bb91eb9d9d0291430c6a5d395d9e57255236d427d219c"
+  },
+  {
+    "id": "JPG-T1-C023-S03",
+    "batch_id": "JPG-T1-C023",
+    "chapter": "15",
+    "section": "15.3",
+    "title": "第3節 関連当事者との取引に関する開示",
+    "expected_pages": [
+      "T1:317",
+      "T1:318",
+      "T1:319",
+      "T1:320",
+      "T1:321"
+    ],
+    "processing_pages": [
+      "T1:317",
+      "T1:318",
+      "T1:319",
+      "T1:320",
+      "T1:321"
+    ],
+    "output": "chunks/JPG-T1-C023/JPG-T1-C023-S03.md",
+    "status": "pass",
+    "locators": [
+      {
+        "page": "T1:317",
+        "printed_page": "⑮－6",
+        "source_region": "section banner, materiality thresholds, and free/low-price transaction rule",
+        "destination_heading": "## 第3節 関連当事者との取引に関する開示"
+      },
+      {
+        "page": "T1:318",
+        "printed_page": "⑮－7",
+        "source_region": "consolidated-company rule and non-disclosure cases (1) through (3)",
+        "destination_heading": "## 第3節 関連当事者との取引に関する開示"
+      },
+      {
+        "page": "T1:319",
+        "printed_page": "⑮－8",
+        "source_region": "non-disclosure case (4), capital-transaction supplement, summary, and diagram",
+        "destination_heading": "## 第3節 関連当事者との取引に関する開示"
+      },
+      {
+        "page": "T1:320",
+        "printed_page": "⑮－9",
+        "source_region": "eight disclosure items and reference rationale",
+        "destination_heading": "## 第3節 関連当事者との取引に関する開示"
+      },
+      {
+        "page": "T1:321",
+        "printed_page": "⑮－10",
+        "source_region": "disclosure-example table and notes 1 through 11",
+        "destination_heading": "## 第3節 関連当事者との取引に関する開示"
+      }
+    ],
+    "chunk_sha256": "a3e92db7d0108c78b0d0bbbf80775902ba9c1a11a6a044eed96d57893590d653"
+  },
+  {
+    "id": "JPG-T1-C023-S04",
+    "batch_id": "JPG-T1-C023",
+    "chapter": "15",
+    "section": "15.4",
+    "title": "第4節 関連当事者の存在に関する開示",
+    "expected_pages": [
+      "T1:322"
+    ],
+    "processing_pages": [
+      "T1:322"
+    ],
+    "output": "chunks/JPG-T1-C023/JPG-T1-C023-S04.md",
+    "status": "pass",
+    "locators": [
+      {
+        "page": "T1:322",
+        "printed_page": "⑮－11",
+        "source_region": "section banner, concrete disclosure items, and individual/aggregate summary-financial-information examples",
+        "destination_heading": "## 第4節 関連当事者の存在に関する開示"
+      }
+    ],
+    "chunk_sha256": "af70932fb90178c30625c04b952accf054f6f170f7f06cde5f90cfc93742fed6"
+  },
+  {
+    "id": "JPG-T1-C024-S01",
+    "batch_id": "JPG-T1-C024",
+    "chapter": "16",
+    "section": "16.1",
+    "title": "第1節 本会計基準の具体的な内容",
+    "expected_pages": [
+      "T1:323",
+      "T1:324",
+      "T1:325",
+      "T1:326"
+    ],
+    "processing_pages": [
+      "T1:323",
+      "T1:324",
+      "T1:325",
+      "T1:326"
+    ],
+    "output": "chunks/JPG-T1-C024/JPG-T1-C024-S01.md",
+    "status": "pass",
+    "chunk_sha256": "f8aeaf4df375bc88a8464c73358120f2ee9a4f258b7cdd6c7fcba0fdbc075e36",
+    "locators": [
+      {
+        "page": "T1:323",
+        "printed_page": null,
+        "source_region": "第16章章扉、章タイトル、短答式・論文式本試験における出題実績表",
+        "destination_heading": "## 第1節 本会計基準の具体的な内容"
+      },
+      {
+        "page": "T1:324",
+        "printed_page": "⑯－1",
+        "source_region": "第1節の扉、適用範囲、時価及び賃貸等不動産の定義、賃貸収益目的とキャピタル・ゲイン目的の例、対象不動産と対象外不動産の区分",
+        "destination_heading": "## 第1節 本会計基準の具体的な内容"
+      },
+      {
+        "page": "T1:325",
+        "printed_page": "⑯－2",
+        "source_region": "適用対象資産4項目の範囲と理由、適用対象外資産3項目の範囲と理由、棚卸資産のトレーディング目的に関する注記",
+        "destination_heading": "## 第1節 本会計基準の具体的な内容"
+      },
+      {
+        "page": "T1:326",
+        "printed_page": "⑯－3",
+        "source_region": "部分使用不動産の取扱い、通常の場合と賃貸部分が小さい場合の2ケース、注記事項4項目、120百万円及び貸借対照表計上額・時価の注記例と注記1・2",
+        "destination_heading": "## 第1節 本会計基準の具体的な内容"
+      }
+    ]
+  },
+  {
+    "id": "JPG-T1-C025-S01",
+    "batch_id": "JPG-T1-C025",
+    "chapter": "17",
+    "section": "17.1",
+    "title": "第1節 役員賞与の会計処理",
+    "expected_pages": [
+      "T1:327",
+      "T1:328",
+      "T1:329",
+      "T1:330"
+    ],
+    "processing_pages": [
+      "T1:327",
+      "T1:328",
+      "T1:329",
+      "T1:330"
+    ],
+    "output": "chunks/JPG-T1-C025/JPG-T1-C025-S01.md",
+    "status": "pass",
+    "chunk_sha256": "bd593441ab3d9c72e015f99e3360d9360c8e57105a92daf6ec9ad26bce43c7da",
+    "locators": [
+      {
+        "page": "T1:327",
+        "printed_page": null,
+        "source_region": "第17章章扉、章タイトル、短答式・論文式本試験における出題実績表",
+        "destination_heading": "## 第1節 役員賞与の会計処理"
+      },
+      {
+        "page": "T1:328",
+        "printed_page": "⑰－1",
+        "source_region": "第1節の扉、役員賞与と役員報酬の従来の会計処理の比較、現行制度における役員賞与の費用処理",
+        "destination_heading": "## 第1節 役員賞与の会計処理"
+      },
+      {
+        "page": "T1:329",
+        "printed_page": "⑰－2",
+        "source_region": "役員賞与の費用処理の論拠、役員賞与と役員報酬の類似性、職務執行・利益獲得・賞与支給の関連図、役員賞与と役員報酬の支給手続",
+        "destination_heading": "## 第1節 役員賞与の会計処理"
+      },
+      {
+        "page": "T1:330",
+        "printed_page": "⑰－3",
+        "source_region": "株主総会の決議事項とする場合の引当金処理、期末・支払時の仕訳、子会社の実質的確定債務の処理と200万の例、未払金処理の仕訳",
+        "destination_heading": "## 第1節 役員賞与の会計処理"
+      }
+    ]
+  },
+  {
+    "id": "JPG-T1-C026-S01",
+    "batch_id": "JPG-T1-C026",
+    "chapter": "18",
+    "section": "18.1",
+    "title": "第1節 本会計基準の概要",
+    "expected_pages": [
+      "T1:331",
+      "T1:332",
+      "T1:333",
+      "T1:334"
+    ],
+    "processing_pages": [
+      "T1:331",
+      "T1:332",
+      "T1:333",
+      "T1:334"
+    ],
+    "output": "chunks/JPG-T1-C026/JPG-T1-C026-S01.md",
+    "status": "pass",
+    "chunk_sha256": "e1ed03e0b7850ca9b9ffe9744f4085c1e7ce2fca6d109a357742c10ea7054242",
+    "locators": [
+      {
+        "page": "T1:331",
+        "printed_page": null,
+        "source_region": "第18章章扉、章タイトル、短答式・論文式本試験における出題実績表",
+        "destination_heading": "## 第1節 本会計基準の概要"
+      },
+      {
+        "page": "T1:332",
+        "printed_page": "⑱－1",
+        "source_region": "第1節扉、会計基準公表の背景、開発にあたっての基本的な方針",
+        "destination_heading": "## 第1節 本会計基準の概要"
+      },
+      {
+        "page": "T1:333",
+        "printed_page": "⑱－2",
+        "source_region": "適用範囲、適用対象・適用対象外の表、2つの脚注、適用範囲に関する限定",
+        "destination_heading": "## 第1節 本会計基準の概要"
+      },
+      {
+        "page": "T1:334",
+        "printed_page": "⑱－3",
+        "source_region": "用語の定義表、市場参加者の4要件、観察可能・観察できないインプット、主要市場の仮定脚注",
+        "destination_heading": "## 第1節 本会計基準の概要"
+      }
+    ]
+  },
+  {
+    "id": "JPG-T1-C026-S02",
+    "batch_id": "JPG-T1-C026",
+    "chapter": "18",
+    "section": "18.2",
+    "title": "第2節 時価の算定",
+    "expected_pages": [
+      "T1:335",
+      "T1:336",
+      "T1:337",
+      "T1:338",
+      "T1:339",
+      "T1:340"
+    ],
+    "processing_pages": [
+      "T1:335",
+      "T1:336",
+      "T1:337",
+      "T1:338",
+      "T1:339"
+    ],
+    "output": "chunks/JPG-T1-C026/JPG-T1-C026-S02.md",
+    "status": "pass",
+    "chunk_sha256": "8598769b031e824afbebff31f66962abca51ef9919f1dc4652bf6c5de30fa5f6",
+    "locators": [
+      {
+        "page": "T1:335",
+        "printed_page": "⑱－4",
+        "source_region": "第2節扉、時価の定義、強制された清算取引・投売りの脚注、時価に関する基本的な考え方",
+        "destination_heading": "## 第2節 時価の算定"
+      },
+      {
+        "page": "T1:336",
+        "printed_page": "⑱－5",
+        "source_region": "入口価格・出口価格の補足、時価の算定における4つのポイント",
+        "destination_heading": "## 第2節 時価の算定"
+      },
+      {
+        "page": "T1:337",
+        "printed_page": "⑱－6",
+        "source_region": "時価の算定単位、評価技法の決定、複数の評価技法、評価技法の継続性",
+        "destination_heading": "## 第2節 時価の算定"
+      },
+      {
+        "page": "T1:338",
+        "printed_page": "⑱－7",
+        "source_region": "3レベルのインプット表、3つの脚注、時価のレベル分類ルール、インプット選択・分類・時価分類の図",
+        "destination_heading": "## 第2節 時価の算定"
+      },
+      {
+        "page": "T1:339",
+        "printed_page": "⑱－8",
+        "source_region": "時価の分類と開示、レベル別注記事項、取引数量・頻度低下時の評価とリスク・プレミアム、負債・払込資本を増加させる金融商品の時価と不履行リスク",
+        "destination_heading": "## 第2節 時価の算定"
+      }
+    ],
+    "excluded_pages": [
+      "T1:340"
+    ]
+  },
+  {
+    "id": "JPG-T1-C027-S01",
+    "batch_id": "JPG-T1-C027",
+    "chapter": "19",
+    "section": "19.1",
+    "title": "第1節 用語の定義",
+    "expected_pages": [
+      "T1:341",
+      "T1:342"
+    ],
+    "processing_pages": [
+      "T1:341",
+      "T1:342"
+    ],
+    "output": "chunks/JPG-T1-C027/JPG-T1-C027-S01.md",
+    "status": "pass",
+    "locators": [
+      {
+        "page": "T1:341",
+        "printed_page": null,
+        "source_region": "第19章章扉、章タイトル、短答式・論文式本試験における出題実績表",
+        "destination_heading": "## 第1節 用語の定義"
+      },
+      {
+        "page": "T1:342",
+        "printed_page": "⑲－1",
+        "source_region": "第1節の扉、用語の定義表、更正・修正申告の注記、付加価値割・資本割・所得割の参考表",
+        "destination_heading": "## 第1節 用語の定義"
+      }
+    ],
+    "chunk_sha256": "8f3f33297419c785a22c1e5b4413a77c3e23d8dfe5ffac99517c69cb3b90a5dd"
+  },
+  {
+    "id": "JPG-T1-C027-S02",
+    "batch_id": "JPG-T1-C027",
+    "chapter": "19",
+    "section": "19.2",
+    "title": "第2節 当事業年度の所得等に対する法人税、住民税及び事業税等",
+    "expected_pages": [
+      "T1:343",
+      "T1:344"
+    ],
+    "processing_pages": [
+      "T1:343",
+      "T1:344"
+    ],
+    "output": "chunks/JPG-T1-C027/JPG-T1-C027-S02.md",
+    "status": "pass",
+    "locators": [
+      {
+        "page": "T1:343",
+        "printed_page": "⑲－2",
+        "source_region": "第2節の扉、当事業年度の所得等に対する税の会計処理、損益計算書上の表示及び注記",
+        "destination_heading": "## 第2節 当事業年度の所得等に対する法人税、住民税及び事業税等"
+      },
+      {
+        "page": "T1:344",
+        "printed_page": "⑲－3",
+        "source_region": "住民税均等割の補足、貸借対照表上の表示、未払・未収還付の表示例",
+        "destination_heading": "## 第2節 当事業年度の所得等に対する法人税、住民税及び事業税等"
+      }
+    ],
+    "chunk_sha256": "daa7375358be347b590d26d931954053cc1bfa792228aceb80925ca2d0360736"
+  },
+  {
+    "id": "JPG-T1-C027-S03",
+    "batch_id": "JPG-T1-C027",
+    "chapter": "19",
+    "section": "19.3",
+    "title": "第3節 更正等による追徴及び還付",
+    "expected_pages": [
+      "T1:345",
+      "T1:346"
+    ],
+    "processing_pages": [
+      "T1:345",
+      "T1:346"
+    ],
+    "output": "chunks/JPG-T1-C027/JPG-T1-C027-S03.md",
+    "status": "pass",
+    "locators": [
+      {
+        "page": "T1:345",
+        "printed_page": "⑲－4",
+        "source_region": "第3節の扉、追徴・還付の認識要件、認識要件の相違、追徴を原則損益計上とする理由",
+        "destination_heading": "## 第3節 更正等による追徴及び還付"
+      },
+      {
+        "page": "T1:346",
+        "printed_page": "⑲－5",
+        "source_region": "損益計算書上の表示、還付・追徴の原則と重要性が乏しい場合の数値例、貸借対照表上の表示とまとめ表",
+        "destination_heading": "## 第3節 更正等による追徴及び還付"
+      }
+    ],
+    "chunk_sha256": "f5420d3cd0049e79e1259fff8aec77efb47726ac430a722e6de2989a25bd4c09"
+  },
+  {
+    "id": "JPG-T1-C027-S04",
+    "batch_id": "JPG-T1-C027",
+    "chapter": "19",
+    "section": "19.4",
+    "title": "第4節 その他の規定",
+    "expected_pages": [
+      "T1:347"
+    ],
+    "processing_pages": [
+      "T1:347"
+    ],
+    "output": "chunks/JPG-T1-C027/JPG-T1-C027-S04.md",
+    "status": "pass",
+    "locators": [
+      {
+        "page": "T1:347",
+        "printed_page": "⑲－6",
+        "source_region": "第4節の扉、受取利息・受取配当金等に課される源泉所得税、外国法人税の定義及び表示",
+        "destination_heading": "## 第4節 その他の規定"
+      }
+    ],
+    "chunk_sha256": "b80205b09bc4ef5e13c518f9107a16f849c1caada62025f581e815bf42df3b00"
+  },
+  {
+    "id": "JPG-T1-C028-S01",
+    "batch_id": "JPG-T1-C028",
+    "chapter": "20",
+    "section": "20.1",
+    "title": "第1節 一株当たり情報に関する基本事項",
+    "expected_pages": [
+      "T1:349",
+      "T1:350"
+    ],
+    "processing_pages": [
+      "T1:349",
+      "T1:350"
+    ],
+    "output": "chunks/JPG-T1-C028/JPG-T1-C028-S01.md",
+    "status": "pass",
+    "chunk_sha256": "f1bcc2adb92a1fb7f2541e2fc595d3f4cab3e15a8b401df30959b5761fe1a003",
+    "locators": [
+      {
+        "page": "T1:349",
+        "printed_page": null,
+        "source_region": "第20章章扉、章タイトル、短答式・論文式本試験における出題実績表",
+        "destination_heading": "## 第1節 一株当たり情報に関する基本事項"
+      },
+      {
+        "page": "T1:350",
+        "printed_page": "⑳－1",
+        "source_region": "第1節の扉、目的、本会計基準と会計処理との関係、開示方法、普通株式・普通株主・配当優先株式・優先配当・潜在株式・ワラント・転換証券の用語定義表",
+        "destination_heading": "## 第1節 一株当たり情報に関する基本事項"
+      }
+    ]
+  },
+  {
+    "id": "JPG-T1-C028-S02",
+    "batch_id": "JPG-T1-C028",
+    "chapter": "20",
+    "section": "20.2",
+    "title": "第2節 一株当たり当期純利益の算定",
+    "expected_pages": [
+      "T1:351"
+    ],
+    "processing_pages": [
+      "T1:351"
+    ],
+    "output": "chunks/JPG-T1-C028/JPG-T1-C028-S02.md",
+    "status": "pass",
+    "chunk_sha256": "fbfaa3afb1ce280f168cf1d3a2e3525e7ec08592ffaec677556020803265a3d0",
+    "locators": [
+      {
+        "page": "T1:351",
+        "printed_page": "⑳－2",
+        "source_region": "第2節の扉、基本算定式、当期純損失の取扱い、分子の算定、期中平均株式数の算定、潜在株式の取扱い",
+        "destination_heading": "## 第2節 一株当たり当期純利益の算定"
+      }
+    ]
+  },
+  {
+    "id": "JPG-T1-C028-S03",
+    "batch_id": "JPG-T1-C028",
+    "chapter": "20",
+    "section": "20.3",
+    "title": "第3節 潜在株式調整後一株当たり当期純利益の基本的な考え方",
+    "expected_pages": [
+      "T1:352",
+      "T1:353"
+    ],
+    "processing_pages": [
+      "T1:352",
+      "T1:353"
+    ],
+    "output": "chunks/JPG-T1-C028/JPG-T1-C028-S03.md",
+    "status": "pass",
+    "chunk_sha256": "4c20b55bef12b4c4686c8505d82633222c5c530f65b708c8cb69e0d14867bd27",
+    "locators": [
+      {
+        "page": "T1:352",
+        "printed_page": "⑳－3",
+        "source_region": "第3節の扉、希薄化効果の定義、100円のケース比較、当期純損失の60,000円・100株・20株の数値例、算定式",
+        "destination_heading": "## 第3節 潜在株式調整後一株当たり当期純利益の基本的な考え方"
+      },
+      {
+        "page": "T1:353",
+        "printed_page": "⑳－4",
+        "source_region": "潜在株式が複数存在する場合の最大希薄化効果、A・B・Cの図解、開示しない3場合、当期純損失の開示表",
+        "destination_heading": "## 第3節 潜在株式調整後一株当たり当期純利益の基本的な考え方"
+      }
+    ]
+  },
+  {
+    "id": "JPG-T1-C028-S04",
+    "batch_id": "JPG-T1-C028",
+    "chapter": "20",
+    "section": "20.4",
+    "title": "第4節 ワラントが存在する場合",
+    "expected_pages": [
+      "T1:354"
+    ],
+    "processing_pages": [
+      "T1:354"
+    ],
+    "output": "chunks/JPG-T1-C028/JPG-T1-C028-S04.md",
+    "status": "pass",
+    "chunk_sha256": "c2a05e7727e3abea96fb9efab83b32cd2693fa20779682f2789b8f65fd0fb08f",
+    "locators": [
+      {
+        "page": "T1:354",
+        "printed_page": "⑳－5",
+        "source_region": "第4節の扉、ワラントの希薄化効果の条件表、普通株式増加数の①−②、自己株式方式、期中消滅・消却・行使時の期間対応",
+        "destination_heading": "## 第4節 ワラントが存在する場合"
+      }
+    ]
+  },
+  {
+    "id": "JPG-T1-C028-S05",
+    "batch_id": "JPG-T1-C028",
+    "chapter": "20",
+    "section": "20.5",
+    "title": "第5節 転換証券が存在する場合",
+    "expected_pages": [
+      "T1:355",
+      "T1:356"
+    ],
+    "processing_pages": [
+      "T1:355",
+      "T1:356"
+    ],
+    "output": "chunks/JPG-T1-C028/JPG-T1-C028-S05.md",
+    "status": "pass",
+    "chunk_sha256": "c22dafb93144411d7a56d53c1cdbd3fdf2ee3c2cfaaabc59e4a1052b2bc1f10f",
+    "locators": [
+      {
+        "page": "T1:355",
+        "printed_page": "⑳－6",
+        "source_region": "第5節の扉、転換証券の希薄化効果、5,000円・1,000株の基準、500円調整額と400株又は50株のケース、判定表",
+        "destination_heading": "## 第5節 転換証券が存在する場合"
+      },
+      {
+        "page": "T1:356",
+        "printed_page": "⑳－7",
+        "source_region": "当期純利益調整額の2項目、6,000円・1,000株・100株・税率40％のケース、新株予約権付社債と転換株式の調整、普通株式増加数の①・②",
+        "destination_heading": "## 第5節 転換証券が存在する場合"
+      }
+    ]
+  },
+  {
+    "id": "JPG-T1-C028-S06",
+    "batch_id": "JPG-T1-C028",
+    "chapter": "20",
+    "section": "20.6",
+    "title": "第6節 その他の論点",
+    "expected_pages": [
+      "T1:357",
+      "T1:358"
+    ],
+    "processing_pages": [
+      "T1:357",
+      "T1:358"
+    ],
+    "output": "chunks/JPG-T1-C028/JPG-T1-C028-S06.md",
+    "status": "pass",
+    "chunk_sha256": "3bce2ea892b3ef299f58230543922298e38cf158892148fb4a65779c1acc564d",
+    "locators": [
+      {
+        "page": "T1:357",
+        "printed_page": "⑳－8",
+        "source_region": "第6節の扉、株式併合・株式分割の当期処理と貸借対照表日後処理、100株を50株とする表示期間図、会計方針変更・過去の誤謬訂正",
+        "destination_heading": "## 第6節 その他の論点"
+      },
+      {
+        "page": "T1:358",
+        "printed_page": "⑳－9",
+        "source_region": "潜在株式調整後情報の遡及処理、行使価格1,000円・前期平均株価1,100円・当期平均株価900円の例、暫定的会計処理の確定、1株当たり情報の注記2項目",
+        "destination_heading": "## 第6節 その他の論点"
+      }
+    ]
+  }
+]

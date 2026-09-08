@@ -1,0 +1,2200 @@
+{
+  "issue": 210,
+  "book": "T1",
+  "status": "pass",
+  "unresolved_count": 0,
+  "reviewed_on": "2026-09-08",
+  "delivery_branch": "main",
+  "base_main_commit": "ecaa8299437c66dcad9b1f640a4842ffc6256b92",
+  "source_identity": {
+    "title": "財務会計論テキスト　理論1",
+    "edition": "2024/2025年合格目標",
+    "publication_date": "2023-01-23",
+    "pdf_sha256": "c09d9d91ce39de787cab04e146719d95b638134399d57112802ffacfa67243f3",
+    "physical_page_count": 362,
+    "designated_jpg_inventory_sha256": "331ad1ea2ca04d0636c2185b6ab1a8fe5240ebdd3f0c7c546c8703371d497929",
+    "content_authority": "designated existing JPGs; pinned PDF used only to reproduce byte-identical JPG cache for live hash verification"
+  },
+  "input_manifest_hashes": {
+    "project/T1/sources.json": "760f946d08e1eebf2d79c189103ac2e627f0bb2569dcd80055885fb8b97324cd",
+    "project/T1/source-map.json": "3ff42e94bd9f8751f8100c6ff251740a46f67182c468af620438c9768f14b961",
+    "project/T1/inventory-review.json": "83e2c59f059ffdec53fcb8fb83a5f1300d5cca0722dcf031db0b459bd7ab8c19",
+    "project/T1/batches.json": "125ff5fee8f8271b82c3258ced501ed4411b4071b930f08f1ed682e72c2628c4",
+    "contracts/page-plan.json": "3a9fa084b35e9b7c9a49980aeae9f51402f518dd3e6d002781ae0df7e5147430",
+    "contracts/source-catalog.json": "2f7b8da13afac17b3200d2becb138c41657baf85513f05dfba7f37c77c893598",
+    "contracts/HELPER_COMPATIBILITY.md": "7a1bf65bb264a964be1afdeb583d3c6c268919d44f69a410fd3a3f866ba7c00e",
+    "workflow/scripts/source_md.py": "ce974ae22b76044e56fde5b3bb4b57ad6d6e6ebe6ca7f10558f6f320dadad50e"
+  },
+  "counts": {
+    "physical_pages": 362,
+    "included_pages": 341,
+    "excluded_pages": 21,
+    "batches": 28,
+    "batch_expected_page_entries": 349,
+    "batch_processing_page_entries": 341,
+    "canonical_tasks": 87,
+    "chapters": 21,
+    "chunks": 87
+  },
+  "excluded_pages": [
+    {
+      "page": "T1:001",
+      "printed_page": null,
+      "reason": "Front cover; source identity evidence only, not learner content."
+    },
+    {
+      "page": "T1:002",
+      "printed_page": null,
+      "reason": "Intentionally blank page with no learner content."
+    },
+    {
+      "page": "T1:003",
+      "printed_page": null,
+      "reason": "Blank preface MEMO divider with no learner content."
+    },
+    {
+      "page": "T1:017",
+      "printed_page": "14",
+      "reason": "Table of contents; navigation metadata only."
+    },
+    {
+      "page": "T1:018",
+      "printed_page": "15",
+      "reason": "Table of contents; navigation metadata only."
+    },
+    {
+      "page": "T1:019",
+      "printed_page": "16",
+      "reason": "Table of contents; navigation metadata only."
+    },
+    {
+      "page": "T1:020",
+      "printed_page": "17",
+      "reason": "Table of contents; navigation metadata only."
+    },
+    {
+      "page": "T1:021",
+      "printed_page": "18",
+      "reason": "Chapter priority matrix; study-navigation metadata only, not accounting theory content."
+    },
+    {
+      "page": "T1:022",
+      "printed_page": "19",
+      "reason": "Blank preface MEMO page with no learner content."
+    },
+    {
+      "page": "T1:040",
+      "printed_page": "①－17",
+      "reason": "Blank chapter-end MEMO page with no learner content."
+    },
+    {
+      "page": "T1:066",
+      "printed_page": "②－25",
+      "reason": "Blank chapter-end MEMO page with no learner content."
+    },
+    {
+      "page": "T1:112",
+      "printed_page": "⑤－5",
+      "reason": "Blank chapter-end MEMO page with no learner content."
+    },
+    {
+      "page": "T1:164",
+      "printed_page": "⑧－33",
+      "reason": "Blank chapter-end MEMO page with no learner content."
+    },
+    {
+      "page": "T1:180",
+      "printed_page": "⑨－15",
+      "reason": "Blank chapter-end MEMO page with no learner content."
+    },
+    {
+      "page": "T1:284",
+      "printed_page": "⑬－7",
+      "reason": "Blank chapter-end MEMO page with no learner content."
+    },
+    {
+      "page": "T1:340",
+      "printed_page": "⑱－9",
+      "reason": "Blank chapter-end MEMO page with no learner content."
+    },
+    {
+      "page": "T1:348",
+      "printed_page": "⑲－7",
+      "reason": "Blank chapter-end MEMO page with no learner content."
+    },
+    {
+      "page": "T1:359",
+      "printed_page": null,
+      "reason": "Intentionally blank page with no learner content."
+    },
+    {
+      "page": "T1:360",
+      "printed_page": null,
+      "reason": "Edition colophon; bibliographic identity evidence only, not learner content."
+    },
+    {
+      "page": "T1:361",
+      "printed_page": null,
+      "reason": "Back cover; publication packaging only, not learner content."
+    },
+    {
+      "page": "T1:362",
+      "printed_page": null,
+      "reason": "Intentionally blank page with no learner content."
+    }
+  ],
+  "canonical_tasks": {
+    "path": "project/T1/tasks.json",
+    "sha256": "bcfbd4969916d1ff5d8e220e09c1d65d4c9a148087a9ff94414bd8d5b4d874e8",
+    "exact_ordered_fragment_concatenation": true,
+    "first_task": "JPG-T1-C001-S01",
+    "last_task": "JPG-T1-C028-S06"
+  },
+  "fragment_evidence": [
+    {
+      "batch": "JPG-T1-C001",
+      "path": "project/T1/fragments/JPG-T1-C001.json",
+      "sha256": "9881d3a3bfbab39a2950c58a22f7e04fa967cee40e896b9211d1397d60792d6b",
+      "status": "pass",
+      "task_count": 3
+    },
+    {
+      "batch": "JPG-T1-C002",
+      "path": "project/T1/fragments/JPG-T1-C002.json",
+      "sha256": "6d8b9ac87b4ffa04565c76e33dee2b81eed3455a7fe0a29143b0d49aef703bf1",
+      "status": "pass",
+      "task_count": 4
+    },
+    {
+      "batch": "JPG-T1-C003",
+      "path": "project/T1/fragments/JPG-T1-C003.json",
+      "sha256": "1075706f1b69603bef195aab7a97b81e8ff9b03bf6ff542edaf15e97bbfb9c55",
+      "status": "pass",
+      "task_count": 8
+    },
+    {
+      "batch": "JPG-T1-C004",
+      "path": "project/T1/fragments/JPG-T1-C004.json",
+      "sha256": "806688409167b454b5552b6b7def30e6d8b68e3d80c023bf6e4b61c519550216",
+      "status": "pass",
+      "task_count": 1
+    },
+    {
+      "batch": "JPG-T1-C005",
+      "path": "project/T1/fragments/JPG-T1-C005.json",
+      "sha256": "3c057066f121a1008c34ee3176c8dd47ce5e1b66aa7716c67ab7a1f0736e4012",
+      "status": "pass",
+      "task_count": 4
+    },
+    {
+      "batch": "JPG-T1-C006",
+      "path": "project/T1/fragments/JPG-T1-C006.json",
+      "sha256": "fa8e9668a96293ab66b3315e1e79ac75658aca0129ec878e3576172cc994b67e",
+      "status": "pass",
+      "task_count": 6
+    },
+    {
+      "batch": "JPG-T1-C007",
+      "path": "project/T1/fragments/JPG-T1-C007.json",
+      "sha256": "126718cb4143c3c79f08a26bb1262dbed4267ad0dcda60d06b4945d796179565",
+      "status": "pass",
+      "task_count": 2
+    },
+    {
+      "batch": "JPG-T1-C008",
+      "path": "project/T1/fragments/JPG-T1-C008.json",
+      "sha256": "d64f9fe79f2929039d45562d4d82f42cb08a1dc4b7277e22704e752e09afefd4",
+      "status": "pass",
+      "task_count": 1
+    },
+    {
+      "batch": "JPG-T1-C009",
+      "path": "project/T1/fragments/JPG-T1-C009.json",
+      "sha256": "2d506dd94261580344ff7a8046a1dff40edbb5fe5577c969ff4bbb5f5d60713b",
+      "status": "pass",
+      "task_count": 3
+    },
+    {
+      "batch": "JPG-T1-C010",
+      "path": "project/T1/fragments/JPG-T1-C010.json",
+      "sha256": "12d4ef8b214a79d393231436bb67e8fda8986fcda0d51ba9847cf16073d6fdf8",
+      "status": "pass",
+      "task_count": 2
+    },
+    {
+      "batch": "JPG-T1-C011",
+      "path": "project/T1/fragments/JPG-T1-C011.json",
+      "sha256": "bfd1a1042cbc3fd4c1617d59603435509c76b0d7e4fa40d5451f83ce3cc5f68b",
+      "status": "pass",
+      "task_count": 2
+    },
+    {
+      "batch": "JPG-T1-C012",
+      "path": "project/T1/fragments/JPG-T1-C012.json",
+      "sha256": "8f559dc1204823d2bffb69912166865d48afb9861a0e16ef451131c51356c4cc",
+      "status": "pass",
+      "task_count": 4
+    },
+    {
+      "batch": "JPG-T1-C013",
+      "path": "project/T1/fragments/JPG-T1-C013.json",
+      "sha256": "84a82e60819eb4983940c1dafc256bd85e584d7fe3f92bf49d34b8a43027b3e7",
+      "status": "pass",
+      "task_count": 4
+    },
+    {
+      "batch": "JPG-T1-C014",
+      "path": "project/T1/fragments/JPG-T1-C014.json",
+      "sha256": "1eacb0ac9268ab19acc9783fce8b1b2cd3f00da03e61474f4ce0d1a6ae74839f",
+      "status": "pass",
+      "task_count": 3
+    },
+    {
+      "batch": "JPG-T1-C015",
+      "path": "project/T1/fragments/JPG-T1-C015.json",
+      "sha256": "4b18d5c9b30ebd9a4a507250d0b78bdefdf0bad655d17c54e01ede6f48d8d310",
+      "status": "pass",
+      "task_count": 5
+    },
+    {
+      "batch": "JPG-T1-C016",
+      "path": "project/T1/fragments/JPG-T1-C016.json",
+      "sha256": "95eaba8e982f763bfbf35849fcda4b00313276f8d4c89909291c77e86b9ce753",
+      "status": "pass",
+      "task_count": 3
+    },
+    {
+      "batch": "JPG-T1-C017",
+      "path": "project/T1/fragments/JPG-T1-C017.json",
+      "sha256": "a440d3c42e5e172b79bd7ce5c3812b9edf473123bd1a4d3b24cbe4942468d8e9",
+      "status": "pass",
+      "task_count": 1
+    },
+    {
+      "batch": "JPG-T1-C018",
+      "path": "project/T1/fragments/JPG-T1-C018.json",
+      "sha256": "68d3cbfef6fd611dfa7e307d4219283a58f8ba9d52003080e681478a860adb33",
+      "status": "pass",
+      "task_count": 1
+    },
+    {
+      "batch": "JPG-T1-C019",
+      "path": "project/T1/fragments/JPG-T1-C019.json",
+      "sha256": "93e838965eadf3c5a3b532249ae175fcad64785e97ee4533bf1e0b2d99c8e331",
+      "status": "pass",
+      "task_count": 1
+    },
+    {
+      "batch": "JPG-T1-C020",
+      "path": "project/T1/fragments/JPG-T1-C020.json",
+      "sha256": "0420285804652fa1135e95807b405dbc32214a99d0eeab8d1cc97fdab0bccb1f",
+      "status": "pass",
+      "task_count": 4
+    },
+    {
+      "batch": "JPG-T1-C021",
+      "path": "project/T1/fragments/JPG-T1-C021.json",
+      "sha256": "b0d71caaca9d23b0ff122e93c961b29087250e44f95ebb33c14fe382d243ff09",
+      "status": "pass",
+      "task_count": 6
+    },
+    {
+      "batch": "JPG-T1-C022",
+      "path": "project/T1/fragments/JPG-T1-C022.json",
+      "sha256": "a50be84904050bbb5b215d727a303f14d0bc5b0de9b6e6e98f8ebcc3946efb97",
+      "status": "pass",
+      "task_count": 1
+    },
+    {
+      "batch": "JPG-T1-C023",
+      "path": "project/T1/fragments/JPG-T1-C023.json",
+      "sha256": "9ed1467a9f1846d0efb6ef0bf290a9e0bce6a3562d64fefed6530d138ddc224c",
+      "status": "pass",
+      "task_count": 4
+    },
+    {
+      "batch": "JPG-T1-C024",
+      "path": "project/T1/fragments/JPG-T1-C024.json",
+      "sha256": "9bfe509712202c7c53413c52672d3dbe2a0d07c5d40afe0a4dd64969023e1437",
+      "status": "pass",
+      "task_count": 1
+    },
+    {
+      "batch": "JPG-T1-C025",
+      "path": "project/T1/fragments/JPG-T1-C025.json",
+      "sha256": "e66247c6d57b2106faa4a3ea66f98c74c3377a08dabfa5fc15af7ff1c1b75ed2",
+      "status": "pass",
+      "task_count": 1
+    },
+    {
+      "batch": "JPG-T1-C026",
+      "path": "project/T1/fragments/JPG-T1-C026.json",
+      "sha256": "1d770366f054674875b8803b8130e330b7305110627126c56cba5cdbc05b6e53",
+      "status": "pass",
+      "task_count": 2
+    },
+    {
+      "batch": "JPG-T1-C027",
+      "path": "project/T1/fragments/JPG-T1-C027.json",
+      "sha256": "d4085264f531200ba5e1f98ac82a077551929c8e91c05cf3057ce28481904e28",
+      "status": "pass",
+      "task_count": 4
+    },
+    {
+      "batch": "JPG-T1-C028",
+      "path": "project/T1/fragments/JPG-T1-C028.json",
+      "sha256": "0dbc3ff1ac3538bff6212c8da8b75afcaf5a06b68fceae6cc7e1b50584e6afa9",
+      "status": "pass",
+      "task_count": 6
+    }
+  ],
+  "review_evidence": [
+    {
+      "batch": "JPG-T1-C001",
+      "path": "project/T1/reviews/JPG-T1-C001.json",
+      "sha256": "3b4afc2a37f46172dcb390d7227690e475754b4caecb6eab521dc0ca1a836f2c",
+      "status": "pass",
+      "unresolved_count": 0
+    },
+    {
+      "batch": "JPG-T1-C002",
+      "path": "project/T1/reviews/JPG-T1-C002.json",
+      "sha256": "258317a51b12b236bac907098a2409d5afe78ee9176ae016b5da4a7be7fbe456",
+      "status": "pass",
+      "unresolved_count": 0
+    },
+    {
+      "batch": "JPG-T1-C003",
+      "path": "project/T1/reviews/JPG-T1-C003.json",
+      "sha256": "cbe09efe8a9512989d66526906950ada47aea6480b6853c59bdaae9518acdd0c",
+      "status": "pass",
+      "unresolved_count": 0
+    },
+    {
+      "batch": "JPG-T1-C004",
+      "path": "project/T1/reviews/JPG-T1-C004.json",
+      "sha256": "f93acc71b1229008850dc4298bdac89ceace56a5d45723bc66094b8fb5f375c2",
+      "status": "pass",
+      "unresolved_count": 0
+    },
+    {
+      "batch": "JPG-T1-C005",
+      "path": "project/T1/reviews/JPG-T1-C005.json",
+      "sha256": "304a54fe863c6477a182b431c7e8f5d013da32e7e7085e5dee9758022e28c28b",
+      "status": "pass",
+      "unresolved_count": 0
+    },
+    {
+      "batch": "JPG-T1-C006",
+      "path": "project/T1/reviews/JPG-T1-C006.json",
+      "sha256": "984b80741129334644c47ecbb57f5f8b36fdf20379fc9214b69b232377354712",
+      "status": "pass",
+      "unresolved_count": 0
+    },
+    {
+      "batch": "JPG-T1-C007",
+      "path": "project/T1/reviews/JPG-T1-C007.json",
+      "sha256": "29ba41f2d707ff9308f68234f942269eec03a85e4209639db62decf3868ce700",
+      "status": "pass",
+      "unresolved_count": 0
+    },
+    {
+      "batch": "JPG-T1-C008",
+      "path": "project/T1/reviews/JPG-T1-C008.json",
+      "sha256": "c8631dc64c7f34267dfefb49b83bca13b586e32664f2f31f62221164313ca93e",
+      "status": "pass",
+      "unresolved_count": 0
+    },
+    {
+      "batch": "JPG-T1-C009",
+      "path": "project/T1/reviews/JPG-T1-C009.json",
+      "sha256": "81e869ac9a9f01ff57573b14137c32b659d006330001a9a43dd3b390cedae8d3",
+      "status": "pass",
+      "unresolved_count": 0
+    },
+    {
+      "batch": "JPG-T1-C010",
+      "path": "project/T1/reviews/JPG-T1-C010.json",
+      "sha256": "89a1c696026c3e4b80c31dbd4166d4a59450d22be14a20065a15d32da8601694",
+      "status": "pass",
+      "unresolved_count": 0
+    },
+    {
+      "batch": "JPG-T1-C011",
+      "path": "project/T1/reviews/JPG-T1-C011.json",
+      "sha256": "191947d5d1b5ac226b6749dfc6b3be3dd79f238c1a7d916eda9c0f74e550b2b2",
+      "status": "pass",
+      "unresolved_count": 0
+    },
+    {
+      "batch": "JPG-T1-C012",
+      "path": "project/T1/reviews/JPG-T1-C012.json",
+      "sha256": "21d47d3c25d4c597b31d1afa3ea4924f7e0570b18ceae8009dddc94e8cbdcb90",
+      "status": "pass",
+      "unresolved_count": 0
+    },
+    {
+      "batch": "JPG-T1-C013",
+      "path": "project/T1/reviews/JPG-T1-C013.json",
+      "sha256": "dc9e63a7a2f6127cd2df54fdfc0d45ffe37c5ad614fb5eece6b053c3cda9f149",
+      "status": "pass",
+      "unresolved_count": 0
+    },
+    {
+      "batch": "JPG-T1-C014",
+      "path": "project/T1/reviews/JPG-T1-C014.json",
+      "sha256": "6ad2e597684c345386939b8398c837f84c7816eb6a393de6c20bd8c4c418a40e",
+      "status": "pass",
+      "unresolved_count": 0
+    },
+    {
+      "batch": "JPG-T1-C015",
+      "path": "project/T1/reviews/JPG-T1-C015.json",
+      "sha256": "e245725f32893bb49a7dc3146cc83ede056e8c385dd6ff34a69e2f8a3e28c4b2",
+      "status": "pass",
+      "unresolved_count": 0
+    },
+    {
+      "batch": "JPG-T1-C016",
+      "path": "project/T1/reviews/JPG-T1-C016.json",
+      "sha256": "1926e81f7f4da3be72e5bf11dc9f85264feaa238bc9b633a658a8d9446672aee",
+      "status": "pass",
+      "unresolved_count": 0
+    },
+    {
+      "batch": "JPG-T1-C017",
+      "path": "project/T1/reviews/JPG-T1-C017.json",
+      "sha256": "2909eb84ca9948a1043521001e738ea10b77c9c70a1ce54b846dad10e77cdb9a",
+      "status": "pass",
+      "unresolved_count": 0
+    },
+    {
+      "batch": "JPG-T1-C018",
+      "path": "project/T1/reviews/JPG-T1-C018.json",
+      "sha256": "c9cb3a89f89e4868cbd78a53910579d0e29b8bf78b76d33aaccbdc5d2b62e896",
+      "status": "pass",
+      "unresolved_count": 0
+    },
+    {
+      "batch": "JPG-T1-C019",
+      "path": "project/T1/reviews/JPG-T1-C019.json",
+      "sha256": "5088eeade3bfaafcf93d20cfff09dd3c2d0565f5c1521ff43cd2f9c315da10d3",
+      "status": "pass",
+      "unresolved_count": 0
+    },
+    {
+      "batch": "JPG-T1-C020",
+      "path": "project/T1/reviews/JPG-T1-C020.json",
+      "sha256": "4be0d2f3f64b4bcdcbba8e6a958ae0ddeda302e1f6552617ae629a295a6d97b5",
+      "status": "pass",
+      "unresolved_count": 0
+    },
+    {
+      "batch": "JPG-T1-C021",
+      "path": "project/T1/reviews/JPG-T1-C021.json",
+      "sha256": "ca59b2cbc045903e006ec6ab48d91f4bc8066d02911e0e4650f6f5756072cb6b",
+      "status": "pass",
+      "unresolved_count": 0
+    },
+    {
+      "batch": "JPG-T1-C022",
+      "path": "project/T1/reviews/JPG-T1-C022.json",
+      "sha256": "a79a0f31f6f218e04eb653f04f85262943eeda9c8415fb4d084b2d413870ebfa",
+      "status": "pass",
+      "unresolved_count": 0
+    },
+    {
+      "batch": "JPG-T1-C023",
+      "path": "project/T1/reviews/JPG-T1-C023.json",
+      "sha256": "0b3bea62e65fa4c685ba3811e880ea3aa7833335a0b6cd74c99f511b9df35c79",
+      "status": "pass",
+      "unresolved_count": 0
+    },
+    {
+      "batch": "JPG-T1-C024",
+      "path": "project/T1/reviews/JPG-T1-C024.json",
+      "sha256": "43e4c9ac61ff6b46cb24bb0a1a38d5f4611dcb461b0a0db44e4ffa25e6036159",
+      "status": "pass",
+      "unresolved_count": 0
+    },
+    {
+      "batch": "JPG-T1-C025",
+      "path": "project/T1/reviews/JPG-T1-C025.json",
+      "sha256": "d18dcac597cde067ad399f97bd0430c33a73683d122fa590e646d47d65a266b7",
+      "status": "pass",
+      "unresolved_count": 0
+    },
+    {
+      "batch": "JPG-T1-C026",
+      "path": "project/T1/reviews/JPG-T1-C026.json",
+      "sha256": "cb24d8bef5355a3cf3d84e1b026cf4747e70ad680058c218524759700a7d0aae",
+      "status": "pass",
+      "unresolved_count": 0
+    },
+    {
+      "batch": "JPG-T1-C027",
+      "path": "project/T1/reviews/JPG-T1-C027.json",
+      "sha256": "272483fe9b42d597f8408cd8b0935c17330f6450501929bc01b924d5a64f069e",
+      "status": "pass",
+      "unresolved_count": 0
+    },
+    {
+      "batch": "JPG-T1-C028",
+      "path": "project/T1/reviews/JPG-T1-C028.json",
+      "sha256": "c11132ed220a91051e3911483edc58d946e4b595164dd592d12abf451010f9c2",
+      "status": "pass",
+      "unresolved_count": 0
+    }
+  ],
+  "chapter_gate_evidence": [
+    {
+      "chapter": "00",
+      "path": "project/T1/qa/chapters/00.json",
+      "sha256": "b919fc7d4b33e707a2f4cba0d903bb595502b11ef7bd45cc8c9837240b70fb30",
+      "status": "pass",
+      "unresolved_count": 0,
+      "chunk_count": 3
+    },
+    {
+      "chapter": "01",
+      "path": "project/T1/qa/chapters/01.json",
+      "sha256": "222808a23900bf7ff6012f544ccfd283d4dccaf7c68b550d1842dbf104c524e4",
+      "status": "pass",
+      "unresolved_count": 0,
+      "chunk_count": 4
+    },
+    {
+      "chapter": "02",
+      "path": "project/T1/qa/chapters/02.json",
+      "sha256": "4d6fc14f4b5afb145ad264ccf00490cee95e38a88d7a00a29dbd96ae377a7e0d",
+      "status": "pass",
+      "unresolved_count": 0,
+      "chunk_count": 9
+    },
+    {
+      "chapter": "03",
+      "path": "project/T1/qa/chapters/03.json",
+      "sha256": "e93272304eddad6cf4b6e3f24ba28fd933f471470a0e99a1a3ea11701e04a253",
+      "status": "pass",
+      "unresolved_count": 0,
+      "chunk_count": 4
+    },
+    {
+      "chapter": "04",
+      "path": "project/T1/qa/chapters/04.json",
+      "sha256": "dd213578ccdc98bb39e31c56a41ec89c00f5766b5ecfe2af49c14431495b7103",
+      "status": "pass",
+      "unresolved_count": 0,
+      "chunk_count": 8
+    },
+    {
+      "chapter": "05",
+      "path": "project/T1/qa/chapters/05.json",
+      "sha256": "60e310a5310691c2717809e97e671258fad91872a5ef6e7d399d774320d0ff4f",
+      "status": "pass",
+      "unresolved_count": 0,
+      "chunk_count": 1
+    },
+    {
+      "chapter": "06",
+      "path": "project/T1/qa/chapters/06.json",
+      "sha256": "a715886061bb01a57f3d83fa77fcea9c89f7bde9ed09aaa21006e44010539747",
+      "status": "pass",
+      "unresolved_count": 0,
+      "chunk_count": 3
+    },
+    {
+      "chapter": "07",
+      "path": "project/T1/qa/chapters/07.json",
+      "sha256": "0320967345e8b0d2c4463350188bec0c97f9f378a90a97669d52063a767f0ab8",
+      "status": "pass",
+      "unresolved_count": 0,
+      "chunk_count": 2
+    },
+    {
+      "chapter": "08",
+      "path": "project/T1/qa/chapters/08.json",
+      "sha256": "7d76640bde5beea5ba25d22b60800dd6252b3af54f00343beafdc5132bc72df8",
+      "status": "pass",
+      "unresolved_count": 0,
+      "chunk_count": 6
+    },
+    {
+      "chapter": "09",
+      "path": "project/T1/qa/chapters/09.json",
+      "sha256": "54394aa60fd9f53e847623e250cff093b3951eccd3755fe4336012f8d82b8c0a",
+      "status": "pass",
+      "unresolved_count": 0,
+      "chunk_count": 4
+    },
+    {
+      "chapter": "10",
+      "path": "project/T1/qa/chapters/10.json",
+      "sha256": "833a19b480e702e5b5a249e132e0b3cdc82f6fbeacd0d423753ac2611a5e51a6",
+      "status": "pass",
+      "unresolved_count": 0,
+      "chunk_count": 3
+    },
+    {
+      "chapter": "11",
+      "path": "project/T1/qa/chapters/11.json",
+      "sha256": "5109c225340240dd46fbd5ac42531de05b48d8e1a9dad913beee2286e0776035",
+      "status": "pass",
+      "unresolved_count": 0,
+      "chunk_count": 5
+    },
+    {
+      "chapter": "12",
+      "path": "project/T1/qa/chapters/12.json",
+      "sha256": "4d4e77a13c67a0b394c480505a78381c7055dfd43334d5ba7844f061f031d151",
+      "status": "pass",
+      "unresolved_count": 0,
+      "chunk_count": 6
+    },
+    {
+      "chapter": "13",
+      "path": "project/T1/qa/chapters/13.json",
+      "sha256": "221e8908f3529a3da8fababfd8ad4638cf6b2db2bd5d9fa80e243e4966841f90",
+      "status": "pass",
+      "unresolved_count": 0,
+      "chunk_count": 4
+    },
+    {
+      "chapter": "14",
+      "path": "project/T1/qa/chapters/14.json",
+      "sha256": "affa3647439207230dc289e5c947cba47fdba6e3a95d477be6d61e4170ce0077",
+      "status": "pass",
+      "unresolved_count": 0,
+      "chunk_count": 7
+    },
+    {
+      "chapter": "15",
+      "path": "project/T1/qa/chapters/15.json",
+      "sha256": "619151e3cd1c7495f8567f19baea8ffa01ed84e0405e7f77b6f1d2d16e59af80",
+      "status": "pass",
+      "unresolved_count": 0,
+      "chunk_count": 4
+    },
+    {
+      "chapter": "16",
+      "path": "project/T1/qa/chapters/16.json",
+      "sha256": "ec4a9ec1427b5dbe87be821899de9f763c0741d6b31597b69808b45f6f28bf46",
+      "status": "pass",
+      "unresolved_count": 0,
+      "chunk_count": 1
+    },
+    {
+      "chapter": "17",
+      "path": "project/T1/qa/chapters/17.json",
+      "sha256": "fc29c39327042aa882ecfd40d890d8d711cf521917d36b84fb042a1e410fcfd6",
+      "status": "pass",
+      "unresolved_count": 0,
+      "chunk_count": 1
+    },
+    {
+      "chapter": "18",
+      "path": "project/T1/qa/chapters/18.json",
+      "sha256": "496a65e3d6de4467949a1c1644fe8eb4742f000312ab4bde6a97c024eb4d3184",
+      "status": "pass",
+      "unresolved_count": 0,
+      "chunk_count": 2
+    },
+    {
+      "chapter": "19",
+      "path": "project/T1/qa/chapters/19.json",
+      "sha256": "a39f052cc95fbc3e0dba0b77ae83ffd24298b5abc64fa8d0e19f38ab4bcc5e3a",
+      "status": "pass",
+      "unresolved_count": 0,
+      "chunk_count": 4
+    },
+    {
+      "chapter": "20",
+      "path": "project/T1/qa/chapters/20.json",
+      "sha256": "aa9bfd2e18e2ccc95324bf83776f60f61c06102b14bc47ad1e55980d041a1198",
+      "status": "pass",
+      "unresolved_count": 0,
+      "chunk_count": 6
+    }
+  ],
+  "chunk_evidence": [
+    {
+      "task": "JPG-T1-C001-S01",
+      "batch": "JPG-T1-C001",
+      "chapter": "00",
+      "section": "00.1",
+      "path": "project/T1/chunks/JPG-T1-C001/JPG-T1-C001-S01.md",
+      "sha256": "49cd42aaea71b20f1b2f9588477ef4d0f65845c78c395240e0604b8039b1c70d",
+      "processing_pages": [
+        "T1:004"
+      ]
+    },
+    {
+      "task": "JPG-T1-C001-S02",
+      "batch": "JPG-T1-C001",
+      "chapter": "00",
+      "section": "00.2",
+      "path": "project/T1/chunks/JPG-T1-C001/JPG-T1-C001-S02.md",
+      "sha256": "100a26a99a181216a41c7b9344b568ddf51b3b1246a3ecc7abb8e11e8a350b76",
+      "processing_pages": [
+        "T1:005",
+        "T1:006",
+        "T1:007",
+        "T1:008",
+        "T1:009"
+      ]
+    },
+    {
+      "task": "JPG-T1-C001-S03",
+      "batch": "JPG-T1-C001",
+      "chapter": "00",
+      "section": "00.3",
+      "path": "project/T1/chunks/JPG-T1-C001/JPG-T1-C001-S03.md",
+      "sha256": "3c465f7cf270cd5521401d10c7b3e8366cd4cba2cc6ae4d7e5958c74a33134fc",
+      "processing_pages": [
+        "T1:010",
+        "T1:011",
+        "T1:012",
+        "T1:013",
+        "T1:014",
+        "T1:015",
+        "T1:016"
+      ]
+    },
+    {
+      "task": "JPG-T1-C002-S01",
+      "batch": "JPG-T1-C002",
+      "chapter": "01",
+      "section": "01.1",
+      "path": "project/T1/chunks/JPG-T1-C002/JPG-T1-C002-S01.md",
+      "sha256": "83bd16ea7d7f79a0591959aa8890637aa01a039acab09f521ee05ed440d2675e",
+      "processing_pages": [
+        "T1:023",
+        "T1:024",
+        "T1:025",
+        "T1:026",
+        "T1:027",
+        "T1:028",
+        "T1:029"
+      ]
+    },
+    {
+      "task": "JPG-T1-C002-S02",
+      "batch": "JPG-T1-C002",
+      "chapter": "01",
+      "section": "01.2",
+      "path": "project/T1/chunks/JPG-T1-C002/JPG-T1-C002-S02.md",
+      "sha256": "9d0ca5aee347629e98f4074ac31dcc0020506054a676eb449d6aba3a397c9d18",
+      "processing_pages": [
+        "T1:030",
+        "T1:031",
+        "T1:032",
+        "T1:033",
+        "T1:034"
+      ]
+    },
+    {
+      "task": "JPG-T1-C002-S03",
+      "batch": "JPG-T1-C002",
+      "chapter": "01",
+      "section": "01.3",
+      "path": "project/T1/chunks/JPG-T1-C002/JPG-T1-C002-S03.md",
+      "sha256": "4c8054d7b8e3839c8d879f7664a0a3f087135c615a6f3ba7f282fe2bc81fc3cc",
+      "processing_pages": [
+        "T1:035",
+        "T1:036"
+      ]
+    },
+    {
+      "task": "JPG-T1-C002-S04",
+      "batch": "JPG-T1-C002",
+      "chapter": "01",
+      "section": "01.4",
+      "path": "project/T1/chunks/JPG-T1-C002/JPG-T1-C002-S04.md",
+      "sha256": "dc4be1d650f7680792ada8cadbb8dcf63a09392c88699f604e397403d301602b",
+      "processing_pages": [
+        "T1:037",
+        "T1:038",
+        "T1:039"
+      ]
+    },
+    {
+      "task": "JPG-T1-C003-S01",
+      "batch": "JPG-T1-C003",
+      "chapter": "02",
+      "section": "02.1",
+      "path": "project/T1/chunks/JPG-T1-C003/JPG-T1-C003-S01.md",
+      "sha256": "d95698bdc2c3e44471d29afca5aaeab4b6f172bb4ec6631d00bd0abf8b1c63fb",
+      "processing_pages": [
+        "T1:041",
+        "T1:042"
+      ]
+    },
+    {
+      "task": "JPG-T1-C003-S02",
+      "batch": "JPG-T1-C003",
+      "chapter": "02",
+      "section": "02.2",
+      "path": "project/T1/chunks/JPG-T1-C003/JPG-T1-C003-S02.md",
+      "sha256": "0ed4c37c9c264f37baa994c33ce46a3c668eb7545681f668e93c091866ba8dac",
+      "processing_pages": [
+        "T1:043"
+      ]
+    },
+    {
+      "task": "JPG-T1-C003-S03",
+      "batch": "JPG-T1-C003",
+      "chapter": "02",
+      "section": "02.3",
+      "path": "project/T1/chunks/JPG-T1-C003/JPG-T1-C003-S03.md",
+      "sha256": "616bea4663832178bb5ce672c102e4023a8866554b32268d4031bc5dab49d2ae",
+      "processing_pages": [
+        "T1:044",
+        "T1:045",
+        "T1:046"
+      ]
+    },
+    {
+      "task": "JPG-T1-C003-S04",
+      "batch": "JPG-T1-C003",
+      "chapter": "02",
+      "section": "02.4",
+      "path": "project/T1/chunks/JPG-T1-C003/JPG-T1-C003-S04.md",
+      "sha256": "1fc30136f411822bb6f4e5129db645c22cc5dcd222da5c7bcc7e3f94555b1c65",
+      "processing_pages": [
+        "T1:047",
+        "T1:048",
+        "T1:049"
+      ]
+    },
+    {
+      "task": "JPG-T1-C003-S05",
+      "batch": "JPG-T1-C003",
+      "chapter": "02",
+      "section": "02.5",
+      "path": "project/T1/chunks/JPG-T1-C003/JPG-T1-C003-S05.md",
+      "sha256": "3e1e77aeef2cc010f4ef2ceb0f50dac04a4c8c0c0d6983bebf85934a34705d63",
+      "processing_pages": [
+        "T1:050",
+        "T1:051",
+        "T1:052",
+        "T1:053",
+        "T1:054",
+        "T1:055"
+      ]
+    },
+    {
+      "task": "JPG-T1-C003-S06",
+      "batch": "JPG-T1-C003",
+      "chapter": "02",
+      "section": "02.6",
+      "path": "project/T1/chunks/JPG-T1-C003/JPG-T1-C003-S06.md",
+      "sha256": "f180cdc3bbb62cc0a4151d16dc1ff0daad3a55963e6113f7edc2f48d7a39909c",
+      "processing_pages": [
+        "T1:056",
+        "T1:057"
+      ]
+    },
+    {
+      "task": "JPG-T1-C003-S07",
+      "batch": "JPG-T1-C003",
+      "chapter": "02",
+      "section": "02.7",
+      "path": "project/T1/chunks/JPG-T1-C003/JPG-T1-C003-S07.md",
+      "sha256": "e195b8b7c220115fea3dc312b5ca577f5736fd3bcc906c5594d81efb2e55c823",
+      "processing_pages": [
+        "T1:058",
+        "T1:059",
+        "T1:060"
+      ]
+    },
+    {
+      "task": "JPG-T1-C003-S08",
+      "batch": "JPG-T1-C003",
+      "chapter": "02",
+      "section": "02.8",
+      "path": "project/T1/chunks/JPG-T1-C003/JPG-T1-C003-S08.md",
+      "sha256": "eaf79920aec7cc0ebfa0aeaa54866c8efafbfccceefa0bfc73bd41b47c672234",
+      "processing_pages": [
+        "T1:061"
+      ]
+    },
+    {
+      "task": "JPG-T1-C004-S01",
+      "batch": "JPG-T1-C004",
+      "chapter": "02",
+      "section": "02.9",
+      "path": "project/T1/chunks/JPG-T1-C004/JPG-T1-C004-S01.md",
+      "sha256": "bf2f2fdd00a0dbc49f06df34b18800ccd09a361b0304219fd2483f581055be41",
+      "processing_pages": [
+        "T1:062",
+        "T1:063",
+        "T1:064",
+        "T1:065"
+      ]
+    },
+    {
+      "task": "JPG-T1-C005-S01",
+      "batch": "JPG-T1-C005",
+      "chapter": "03",
+      "section": "03.1",
+      "path": "project/T1/chunks/JPG-T1-C005/JPG-T1-C005-S01.md",
+      "sha256": "d37099e68b14a9cdaee95e883a9717a36d3ca81897b3145a0fe3467f160f7fb7",
+      "processing_pages": [
+        "T1:067",
+        "T1:068",
+        "T1:069"
+      ]
+    },
+    {
+      "task": "JPG-T1-C005-S02",
+      "batch": "JPG-T1-C005",
+      "chapter": "03",
+      "section": "03.2",
+      "path": "project/T1/chunks/JPG-T1-C005/JPG-T1-C005-S02.md",
+      "sha256": "0c795fb825296190052105caa88d620e856b9f677a52fbcf4a18dd703e150747",
+      "processing_pages": [
+        "T1:070",
+        "T1:071"
+      ]
+    },
+    {
+      "task": "JPG-T1-C005-S03",
+      "batch": "JPG-T1-C005",
+      "chapter": "03",
+      "section": "03.3",
+      "path": "project/T1/chunks/JPG-T1-C005/JPG-T1-C005-S03.md",
+      "sha256": "e99ffbda3e5dfa1960a3517909495cc9efe6b40b56d40a22a24ffa2113811801",
+      "processing_pages": [
+        "T1:071",
+        "T1:072"
+      ]
+    },
+    {
+      "task": "JPG-T1-C005-S04",
+      "batch": "JPG-T1-C005",
+      "chapter": "03",
+      "section": "03.4",
+      "path": "project/T1/chunks/JPG-T1-C005/JPG-T1-C005-S04.md",
+      "sha256": "ccd21d11db3b90ad68d031b80535c685dd88b51a820df4f7790591ce9b7e60e2",
+      "processing_pages": [
+        "T1:073",
+        "T1:074",
+        "T1:075",
+        "T1:076"
+      ]
+    },
+    {
+      "task": "JPG-T1-C006-S01",
+      "batch": "JPG-T1-C006",
+      "chapter": "04",
+      "section": "04.1",
+      "path": "project/T1/chunks/JPG-T1-C006/JPG-T1-C006-S01.md",
+      "sha256": "4a1d0e57f8d64160ab7c4516afc13f80948d4837bdad55782ddc3cfd2787a158",
+      "processing_pages": [
+        "T1:077",
+        "T1:078"
+      ]
+    },
+    {
+      "task": "JPG-T1-C006-S02",
+      "batch": "JPG-T1-C006",
+      "chapter": "04",
+      "section": "04.2",
+      "path": "project/T1/chunks/JPG-T1-C006/JPG-T1-C006-S02.md",
+      "sha256": "fc1bbc725a145b93fadf0d3b8c90255ce40965dff895254aa4e047136950a239",
+      "processing_pages": [
+        "T1:079",
+        "T1:080",
+        "T1:081"
+      ]
+    },
+    {
+      "task": "JPG-T1-C006-S03",
+      "batch": "JPG-T1-C006",
+      "chapter": "04",
+      "section": "04.3",
+      "path": "project/T1/chunks/JPG-T1-C006/JPG-T1-C006-S03.md",
+      "sha256": "08d8edb3c5f817c5e71c03636967c3cb406b5c6ca2c0ab8fbc74194817fa09aa",
+      "processing_pages": [
+        "T1:082",
+        "T1:083"
+      ]
+    },
+    {
+      "task": "JPG-T1-C006-S04",
+      "batch": "JPG-T1-C006",
+      "chapter": "04",
+      "section": "04.4",
+      "path": "project/T1/chunks/JPG-T1-C006/JPG-T1-C006-S04.md",
+      "sha256": "bed1cd73dc07fc90a039f76728e1ebae1d1f829855e6f055764d6d3d49350db2",
+      "processing_pages": [
+        "T1:084",
+        "T1:085",
+        "T1:086",
+        "T1:087",
+        "T1:088",
+        "T1:089",
+        "T1:090"
+      ]
+    },
+    {
+      "task": "JPG-T1-C006-S05",
+      "batch": "JPG-T1-C006",
+      "chapter": "04",
+      "section": "04.5",
+      "path": "project/T1/chunks/JPG-T1-C006/JPG-T1-C006-S05.md",
+      "sha256": "a17936372ae896b3c8846c16371ee10bb34ba2f5d5d0384b827b014ac1c6f087",
+      "processing_pages": [
+        "T1:091",
+        "T1:092",
+        "T1:093",
+        "T1:094"
+      ]
+    },
+    {
+      "task": "JPG-T1-C006-S06",
+      "batch": "JPG-T1-C006",
+      "chapter": "04",
+      "section": "04.6",
+      "path": "project/T1/chunks/JPG-T1-C006/JPG-T1-C006-S06.md",
+      "sha256": "9f174169dfc305545636a68c90c380aa0f799366807a333d466b6ff8c34945c0",
+      "processing_pages": [
+        "T1:095",
+        "T1:096",
+        "T1:097"
+      ]
+    },
+    {
+      "task": "JPG-T1-C007-S01",
+      "batch": "JPG-T1-C007",
+      "chapter": "04",
+      "section": "04.7",
+      "path": "project/T1/chunks/JPG-T1-C007/JPG-T1-C007-S01.md",
+      "sha256": "ce7b528d466f216277e8a4feea1780057b4ae302503d82e670547728b3591d8a",
+      "processing_pages": [
+        "T1:098",
+        "T1:099",
+        "T1:100"
+      ]
+    },
+    {
+      "task": "JPG-T1-C007-S02",
+      "batch": "JPG-T1-C007",
+      "chapter": "04",
+      "section": "04.8",
+      "path": "project/T1/chunks/JPG-T1-C007/JPG-T1-C007-S02.md",
+      "sha256": "2998f07c189f842941afcd113361ff1081b7e18011b1d58f9471cfb130d03cba",
+      "processing_pages": [
+        "T1:101",
+        "T1:102",
+        "T1:103",
+        "T1:104",
+        "T1:105",
+        "T1:106"
+      ]
+    },
+    {
+      "task": "JPG-T1-C008-S01",
+      "batch": "JPG-T1-C008",
+      "chapter": "05",
+      "section": "05.1",
+      "path": "project/T1/chunks/JPG-T1-C008/JPG-T1-C008-S01.md",
+      "sha256": "d035771a04be966848955b571460e9330a45ca6b692f45d64a86ac50b027c9ab",
+      "processing_pages": [
+        "T1:107",
+        "T1:108",
+        "T1:109",
+        "T1:110",
+        "T1:111"
+      ]
+    },
+    {
+      "task": "JPG-T1-C009-S01",
+      "batch": "JPG-T1-C009",
+      "chapter": "06",
+      "section": "06.1",
+      "path": "project/T1/chunks/JPG-T1-C009/JPG-T1-C009-S01.md",
+      "sha256": "fb61f20ef4daad2fc362da1ee5c769b0567b07587af13bb6ee0609f095729cd4",
+      "processing_pages": [
+        "T1:113",
+        "T1:114",
+        "T1:115"
+      ]
+    },
+    {
+      "task": "JPG-T1-C009-S02",
+      "batch": "JPG-T1-C009",
+      "chapter": "06",
+      "section": "06.2",
+      "path": "project/T1/chunks/JPG-T1-C009/JPG-T1-C009-S02.md",
+      "sha256": "d6ac784f759fd94aa7be3886ff63503393feb3b58b54baf3618bae43caf8c161",
+      "processing_pages": [
+        "T1:116",
+        "T1:117",
+        "T1:118"
+      ]
+    },
+    {
+      "task": "JPG-T1-C009-S03",
+      "batch": "JPG-T1-C009",
+      "chapter": "06",
+      "section": "06.3",
+      "path": "project/T1/chunks/JPG-T1-C009/JPG-T1-C009-S03.md",
+      "sha256": "f5b34288deeca58ef5888502ff48579319d25266fe65acd1e5009ea281b592dc",
+      "processing_pages": [
+        "T1:119",
+        "T1:120",
+        "T1:121",
+        "T1:122",
+        "T1:123",
+        "T1:124",
+        "T1:125",
+        "T1:126"
+      ]
+    },
+    {
+      "task": "JPG-T1-C010-S01",
+      "batch": "JPG-T1-C010",
+      "chapter": "07",
+      "section": "07.1",
+      "path": "project/T1/chunks/JPG-T1-C010/JPG-T1-C010-S01.md",
+      "sha256": "7bac49cb6a71d0c07f9ebe34f5b45d470e39fe850f22f9e83e5514912a5045f0",
+      "processing_pages": [
+        "T1:127",
+        "T1:128",
+        "T1:129"
+      ]
+    },
+    {
+      "task": "JPG-T1-C010-S02",
+      "batch": "JPG-T1-C010",
+      "chapter": "07",
+      "section": "07.2",
+      "path": "project/T1/chunks/JPG-T1-C010/JPG-T1-C010-S02.md",
+      "sha256": "24fd2e535aba64c3eab8fd2862df9f86ab7e75296b63b70ff502a92288065998",
+      "processing_pages": [
+        "T1:130"
+      ]
+    },
+    {
+      "task": "JPG-T1-C011-S01",
+      "batch": "JPG-T1-C011",
+      "chapter": "08",
+      "section": "08.1",
+      "path": "project/T1/chunks/JPG-T1-C011/JPG-T1-C011-S01.md",
+      "sha256": "7166fd3fcb5b64265fba832b85e54a87f9c427be977e6fcca0eefee8bb0b18f9",
+      "processing_pages": [
+        "T1:131",
+        "T1:132"
+      ]
+    },
+    {
+      "task": "JPG-T1-C011-S02",
+      "batch": "JPG-T1-C011",
+      "chapter": "08",
+      "section": "08.2",
+      "path": "project/T1/chunks/JPG-T1-C011/JPG-T1-C011-S02.md",
+      "sha256": "a44cf6500e1519f11904ce9901788146e3c9689980d3e7b1d71b794e4b4336d3",
+      "processing_pages": [
+        "T1:133",
+        "T1:134",
+        "T1:135",
+        "T1:136",
+        "T1:137",
+        "T1:138",
+        "T1:139",
+        "T1:140"
+      ]
+    },
+    {
+      "task": "JPG-T1-C012-S01",
+      "batch": "JPG-T1-C012",
+      "chapter": "08",
+      "section": "08.3",
+      "path": "project/T1/chunks/JPG-T1-C012/JPG-T1-C012-S01.md",
+      "sha256": "8ecae003b7d560726c37ead54f4dffbcf10baa1d4f84e6a0da257209c994afad",
+      "processing_pages": [
+        "T1:141",
+        "T1:142",
+        "T1:143",
+        "T1:144",
+        "T1:145",
+        "T1:146",
+        "T1:147",
+        "T1:148",
+        "T1:149",
+        "T1:150",
+        "T1:151",
+        "T1:152",
+        "T1:153",
+        "T1:154",
+        "T1:155",
+        "T1:156",
+        "T1:157"
+      ]
+    },
+    {
+      "task": "JPG-T1-C012-S02",
+      "batch": "JPG-T1-C012",
+      "chapter": "08",
+      "section": "08.4",
+      "path": "project/T1/chunks/JPG-T1-C012/JPG-T1-C012-S02.md",
+      "sha256": "649e520c1f867c7852323da2c37cac4952c6ddf5d2cf62facdfdfca57ecb6df3",
+      "processing_pages": [
+        "T1:158",
+        "T1:159"
+      ]
+    },
+    {
+      "task": "JPG-T1-C012-S03",
+      "batch": "JPG-T1-C012",
+      "chapter": "08",
+      "section": "08.5",
+      "path": "project/T1/chunks/JPG-T1-C012/JPG-T1-C012-S03.md",
+      "sha256": "0a9783f52dab9895b9472417a39f31d7eb4f24c5f6e4042b5bdd49967559d247",
+      "processing_pages": [
+        "T1:160",
+        "T1:161",
+        "T1:162"
+      ]
+    },
+    {
+      "task": "JPG-T1-C012-S04",
+      "batch": "JPG-T1-C012",
+      "chapter": "08",
+      "section": "08.6",
+      "path": "project/T1/chunks/JPG-T1-C012/JPG-T1-C012-S04.md",
+      "sha256": "bb61cb1ca0a92fbb11915eed5751fb7e62d6461f95b560a17c10b28cd509d7cf",
+      "processing_pages": [
+        "T1:163"
+      ]
+    },
+    {
+      "task": "JPG-T1-C013-S01",
+      "batch": "JPG-T1-C013",
+      "chapter": "09",
+      "section": "09.1",
+      "path": "project/T1/chunks/JPG-T1-C013/JPG-T1-C013-S01.md",
+      "sha256": "7feaf0246a56ef5472dc4406c73d679d29c72b7dadf338489b1ba0bdac1ff47e",
+      "processing_pages": [
+        "T1:165",
+        "T1:166",
+        "T1:167",
+        "T1:168"
+      ]
+    },
+    {
+      "task": "JPG-T1-C013-S02",
+      "batch": "JPG-T1-C013",
+      "chapter": "09",
+      "section": "09.2",
+      "path": "project/T1/chunks/JPG-T1-C013/JPG-T1-C013-S02.md",
+      "sha256": "b8a71a0b12cc86c4a7b915ce7fcba1b8959be80ab0f8bbd1266f7f0e3f33d48b",
+      "processing_pages": [
+        "T1:169",
+        "T1:170",
+        "T1:171",
+        "T1:172",
+        "T1:173",
+        "T1:174",
+        "T1:175",
+        "T1:176"
+      ]
+    },
+    {
+      "task": "JPG-T1-C013-S03",
+      "batch": "JPG-T1-C013",
+      "chapter": "09",
+      "section": "09.3",
+      "path": "project/T1/chunks/JPG-T1-C013/JPG-T1-C013-S03.md",
+      "sha256": "e8ffa9c05a3577ceb89af12cee936171fcaeb6fea64bf6217b30f441a21faa46",
+      "processing_pages": [
+        "T1:177"
+      ]
+    },
+    {
+      "task": "JPG-T1-C013-S04",
+      "batch": "JPG-T1-C013",
+      "chapter": "09",
+      "section": "09.4",
+      "path": "project/T1/chunks/JPG-T1-C013/JPG-T1-C013-S04.md",
+      "sha256": "053ae5e8967dd1d7f71e2d61566e2fd8b06bd0849d990db3b5cfd7d0a9093944",
+      "processing_pages": [
+        "T1:178",
+        "T1:179"
+      ]
+    },
+    {
+      "task": "JPG-T1-C014-S01",
+      "batch": "JPG-T1-C014",
+      "chapter": "10",
+      "section": "10.1",
+      "path": "project/T1/chunks/JPG-T1-C014/JPG-T1-C014-S01.md",
+      "sha256": "ea5e6e0d9a65c2db22ef52ea474866c9815cea5b1e035240a185b938ba2bbc50",
+      "processing_pages": [
+        "T1:181",
+        "T1:182",
+        "T1:183",
+        "T1:184"
+      ]
+    },
+    {
+      "task": "JPG-T1-C014-S02",
+      "batch": "JPG-T1-C014",
+      "chapter": "10",
+      "section": "10.2",
+      "path": "project/T1/chunks/JPG-T1-C014/JPG-T1-C014-S02.md",
+      "sha256": "5f2651c78ad5410ba9bef8375c1b9abe14bdc3e5f1b1df928b244037ba8c6610",
+      "processing_pages": [
+        "T1:185",
+        "T1:186",
+        "T1:187",
+        "T1:188",
+        "T1:189",
+        "T1:190",
+        "T1:191",
+        "T1:192",
+        "T1:193",
+        "T1:194",
+        "T1:195",
+        "T1:196"
+      ]
+    },
+    {
+      "task": "JPG-T1-C014-S03",
+      "batch": "JPG-T1-C014",
+      "chapter": "10",
+      "section": "10.3",
+      "path": "project/T1/chunks/JPG-T1-C014/JPG-T1-C014-S03.md",
+      "sha256": "c69641834fe704f9704cdee9147d60341e9e7eab970d00f930fec5c1170db7aa",
+      "processing_pages": [
+        "T1:197",
+        "T1:198",
+        "T1:199",
+        "T1:200"
+      ]
+    },
+    {
+      "task": "JPG-T1-C015-S01",
+      "batch": "JPG-T1-C015",
+      "chapter": "11",
+      "section": "11.1",
+      "path": "project/T1/chunks/JPG-T1-C015/JPG-T1-C015-S01.md",
+      "sha256": "e89e65e0ea02d18f4c8dccd568ffa9581c11eefd515b45ccf0192e72b7e85017",
+      "processing_pages": [
+        "T1:201",
+        "T1:202",
+        "T1:203"
+      ]
+    },
+    {
+      "task": "JPG-T1-C015-S02",
+      "batch": "JPG-T1-C015",
+      "chapter": "11",
+      "section": "11.2",
+      "path": "project/T1/chunks/JPG-T1-C015/JPG-T1-C015-S02.md",
+      "sha256": "719304ac8c6e296ae3dc0ff97f0d02203dea37e8cae455bb6ce21f8f3d82e045",
+      "processing_pages": [
+        "T1:204",
+        "T1:205",
+        "T1:206",
+        "T1:207",
+        "T1:208"
+      ]
+    },
+    {
+      "task": "JPG-T1-C015-S03",
+      "batch": "JPG-T1-C015",
+      "chapter": "11",
+      "section": "11.3",
+      "path": "project/T1/chunks/JPG-T1-C015/JPG-T1-C015-S03.md",
+      "sha256": "1a8602cf993812e4fe1137e51c31d7664d83a6afa457b92a1c1eee705e774e8b",
+      "processing_pages": [
+        "T1:209",
+        "T1:210"
+      ]
+    },
+    {
+      "task": "JPG-T1-C015-S04",
+      "batch": "JPG-T1-C015",
+      "chapter": "11",
+      "section": "11.4",
+      "path": "project/T1/chunks/JPG-T1-C015/JPG-T1-C015-S04.md",
+      "sha256": "8ff92fb3dc252f2dc2321512ed72202f4464407e5717dbf39201e582920e8cf7",
+      "processing_pages": [
+        "T1:211",
+        "T1:212",
+        "T1:213"
+      ]
+    },
+    {
+      "task": "JPG-T1-C015-S05",
+      "batch": "JPG-T1-C015",
+      "chapter": "11",
+      "section": "11.5",
+      "path": "project/T1/chunks/JPG-T1-C015/JPG-T1-C015-S05.md",
+      "sha256": "a3d8baa0fb3418a44f52900d2e4a4c8ac8d35acf5561cd0988bed55528fe814d",
+      "processing_pages": [
+        "T1:214",
+        "T1:215",
+        "T1:216",
+        "T1:217",
+        "T1:218"
+      ]
+    },
+    {
+      "task": "JPG-T1-C016-S01",
+      "batch": "JPG-T1-C016",
+      "chapter": "12",
+      "section": "12.1",
+      "path": "project/T1/chunks/JPG-T1-C016/JPG-T1-C016-S01.md",
+      "sha256": "a78d971f2e531bb190a3b73c30e650bd101eb7f0e60a3398275ff42c58ad7214",
+      "processing_pages": [
+        "T1:219",
+        "T1:220",
+        "T1:221"
+      ]
+    },
+    {
+      "task": "JPG-T1-C016-S02",
+      "batch": "JPG-T1-C016",
+      "chapter": "12",
+      "section": "12.2",
+      "path": "project/T1/chunks/JPG-T1-C016/JPG-T1-C016-S02.md",
+      "sha256": "a78cad65c8e605a1de28d01913332dc31add046b37bbbcb840c8c1b7e8d3a2d0",
+      "processing_pages": [
+        "T1:222",
+        "T1:223",
+        "T1:224",
+        "T1:225",
+        "T1:226",
+        "T1:227"
+      ]
+    },
+    {
+      "task": "JPG-T1-C016-S03",
+      "batch": "JPG-T1-C016",
+      "chapter": "12",
+      "section": "12.3",
+      "path": "project/T1/chunks/JPG-T1-C016/JPG-T1-C016-S03.md",
+      "sha256": "4151e283bddfea65f271241f6b2489b6cbb340e5486cdc0e7573d8457e11328a",
+      "processing_pages": [
+        "T1:228",
+        "T1:229",
+        "T1:230",
+        "T1:231",
+        "T1:232",
+        "T1:233",
+        "T1:234",
+        "T1:235"
+      ]
+    },
+    {
+      "task": "JPG-T1-C017-S01",
+      "batch": "JPG-T1-C017",
+      "chapter": "12",
+      "section": "12.4",
+      "path": "project/T1/chunks/JPG-T1-C017/JPG-T1-C017-S01.md",
+      "sha256": "cde6a3c72dea7008dd27ba7d949b0c027ee320f760942c49ac4fafc133af06e7",
+      "processing_pages": [
+        "T1:236",
+        "T1:237",
+        "T1:238",
+        "T1:239",
+        "T1:240",
+        "T1:241",
+        "T1:242",
+        "T1:243",
+        "T1:244",
+        "T1:245",
+        "T1:246",
+        "T1:247",
+        "T1:248",
+        "T1:249",
+        "T1:250",
+        "T1:251"
+      ]
+    },
+    {
+      "task": "JPG-T1-C018-S01",
+      "batch": "JPG-T1-C018",
+      "chapter": "12",
+      "section": "12.5",
+      "path": "project/T1/chunks/JPG-T1-C018/JPG-T1-C018-S01.md",
+      "sha256": "c71c984323f4d48f5dee2f4fcc48ebf4338e289da89e2352e11c5d9f1dfbd1c0",
+      "processing_pages": [
+        "T1:252",
+        "T1:253",
+        "T1:254",
+        "T1:255",
+        "T1:256",
+        "T1:257",
+        "T1:258",
+        "T1:259",
+        "T1:260",
+        "T1:261",
+        "T1:262",
+        "T1:263",
+        "T1:264",
+        "T1:265",
+        "T1:266",
+        "T1:267",
+        "T1:268",
+        "T1:269",
+        "T1:270",
+        "T1:271"
+      ]
+    },
+    {
+      "task": "JPG-T1-C019-S01",
+      "batch": "JPG-T1-C019",
+      "chapter": "12",
+      "section": "12.5",
+      "path": "project/T1/chunks/JPG-T1-C019/JPG-T1-C019-S01.md",
+      "sha256": "a81ecd4a978113c0cfb1baf486eadf3574642bc390e72d113457a30785689e5c",
+      "processing_pages": [
+        "T1:272",
+        "T1:273",
+        "T1:274",
+        "T1:275",
+        "T1:276"
+      ]
+    },
+    {
+      "task": "JPG-T1-C020-S01",
+      "batch": "JPG-T1-C020",
+      "chapter": "13",
+      "section": "13.1",
+      "path": "project/T1/chunks/JPG-T1-C020/JPG-T1-C020-S01.md",
+      "sha256": "1ef9483bae6a7b7b2fab1092649f7fe929d8c32755a693cb2b2127b42761ec3e",
+      "processing_pages": [
+        "T1:277",
+        "T1:278"
+      ]
+    },
+    {
+      "task": "JPG-T1-C020-S02",
+      "batch": "JPG-T1-C020",
+      "chapter": "13",
+      "section": "13.2",
+      "path": "project/T1/chunks/JPG-T1-C020/JPG-T1-C020-S02.md",
+      "sha256": "c16d4a8f0f8c36ae20abd413e078eec2970e1d778e1223df208bc93fa1392355",
+      "processing_pages": [
+        "T1:279",
+        "T1:280",
+        "T1:281"
+      ]
+    },
+    {
+      "task": "JPG-T1-C020-S03",
+      "batch": "JPG-T1-C020",
+      "chapter": "13",
+      "section": "13.3",
+      "path": "project/T1/chunks/JPG-T1-C020/JPG-T1-C020-S03.md",
+      "sha256": "2d93e1c391a2e8e0862b2f425372b8c83cc9929a9a87d2b784e357a8cb6bbc09",
+      "processing_pages": [
+        "T1:282"
+      ]
+    },
+    {
+      "task": "JPG-T1-C020-S04",
+      "batch": "JPG-T1-C020",
+      "chapter": "13",
+      "section": "13.4",
+      "path": "project/T1/chunks/JPG-T1-C020/JPG-T1-C020-S04.md",
+      "sha256": "550c15f0e745af6f4feb3722e407b6c2c2543eef16be3e3bb202f7511b8c879d",
+      "processing_pages": [
+        "T1:283"
+      ]
+    },
+    {
+      "task": "JPG-T1-C021-S01",
+      "batch": "JPG-T1-C021",
+      "chapter": "14",
+      "section": "14.1",
+      "path": "project/T1/chunks/JPG-T1-C021/JPG-T1-C021-S01.md",
+      "sha256": "3ae5da2017aa050ae83738a69726e147d9bf41f96f7a9992b3b72997adb30ca2",
+      "processing_pages": [
+        "T1:285",
+        "T1:286"
+      ]
+    },
+    {
+      "task": "JPG-T1-C021-S02",
+      "batch": "JPG-T1-C021",
+      "chapter": "14",
+      "section": "14.2",
+      "path": "project/T1/chunks/JPG-T1-C021/JPG-T1-C021-S02.md",
+      "sha256": "2cf969ab4de943b6b8e11fd1d657e9ebec71df3ef906771405c746d452d63e64",
+      "processing_pages": [
+        "T1:287",
+        "T1:288",
+        "T1:289",
+        "T1:290",
+        "T1:291",
+        "T1:292"
+      ]
+    },
+    {
+      "task": "JPG-T1-C021-S03",
+      "batch": "JPG-T1-C021",
+      "chapter": "14",
+      "section": "14.3",
+      "path": "project/T1/chunks/JPG-T1-C021/JPG-T1-C021-S03.md",
+      "sha256": "f8f08c98a8c0b886c34502980c01651110ca9c240d68ee98a0690870c479fcaa",
+      "processing_pages": [
+        "T1:293"
+      ]
+    },
+    {
+      "task": "JPG-T1-C021-S04",
+      "batch": "JPG-T1-C021",
+      "chapter": "14",
+      "section": "14.4",
+      "path": "project/T1/chunks/JPG-T1-C021/JPG-T1-C021-S04.md",
+      "sha256": "feb3b907a34d4f3864585033758e1f4e7e71c865ffbffa2f2f155dca5cca4d1c",
+      "processing_pages": [
+        "T1:294",
+        "T1:295"
+      ]
+    },
+    {
+      "task": "JPG-T1-C021-S05",
+      "batch": "JPG-T1-C021",
+      "chapter": "14",
+      "section": "14.5",
+      "path": "project/T1/chunks/JPG-T1-C021/JPG-T1-C021-S05.md",
+      "sha256": "f0bd60e85c4159898f78ea697f69757634031825846f6b0e3fb02f2ea156bdf7",
+      "processing_pages": [
+        "T1:296",
+        "T1:297",
+        "T1:298",
+        "T1:299",
+        "T1:300",
+        "T1:301",
+        "T1:302"
+      ]
+    },
+    {
+      "task": "JPG-T1-C021-S06",
+      "batch": "JPG-T1-C021",
+      "chapter": "14",
+      "section": "14.6",
+      "path": "project/T1/chunks/JPG-T1-C021/JPG-T1-C021-S06.md",
+      "sha256": "9cf5cf577660f017436f1bdb6498f150d3fe4c7bcb73dfadeb5ecffee438fe6b",
+      "processing_pages": [
+        "T1:303",
+        "T1:304",
+        "T1:305",
+        "T1:306",
+        "T1:307"
+      ]
+    },
+    {
+      "task": "JPG-T1-C022-S01",
+      "batch": "JPG-T1-C022",
+      "chapter": "14",
+      "section": "14.7",
+      "path": "project/T1/chunks/JPG-T1-C022/JPG-T1-C022-S01.md",
+      "sha256": "f0f0c116d86123c0b92f61658362ebdc2030753a1b15cca929424ba195009a4a",
+      "processing_pages": [
+        "T1:308",
+        "T1:309",
+        "T1:310"
+      ]
+    },
+    {
+      "task": "JPG-T1-C023-S01",
+      "batch": "JPG-T1-C023",
+      "chapter": "15",
+      "section": "15.1",
+      "path": "project/T1/chunks/JPG-T1-C023/JPG-T1-C023-S01.md",
+      "sha256": "571139363695cfb71d082b64cac48fa217896d5ff82e3d8da4153becc39048ac",
+      "processing_pages": [
+        "T1:311",
+        "T1:312",
+        "T1:313"
+      ]
+    },
+    {
+      "task": "JPG-T1-C023-S02",
+      "batch": "JPG-T1-C023",
+      "chapter": "15",
+      "section": "15.2",
+      "path": "project/T1/chunks/JPG-T1-C023/JPG-T1-C023-S02.md",
+      "sha256": "19a2dbf24e46bfb5876bb91eb9d9d0291430c6a5d395d9e57255236d427d219c",
+      "processing_pages": [
+        "T1:314",
+        "T1:315",
+        "T1:316"
+      ]
+    },
+    {
+      "task": "JPG-T1-C023-S03",
+      "batch": "JPG-T1-C023",
+      "chapter": "15",
+      "section": "15.3",
+      "path": "project/T1/chunks/JPG-T1-C023/JPG-T1-C023-S03.md",
+      "sha256": "a3e92db7d0108c78b0d0bbbf80775902ba9c1a11a6a044eed96d57893590d653",
+      "processing_pages": [
+        "T1:317",
+        "T1:318",
+        "T1:319",
+        "T1:320",
+        "T1:321"
+      ]
+    },
+    {
+      "task": "JPG-T1-C023-S04",
+      "batch": "JPG-T1-C023",
+      "chapter": "15",
+      "section": "15.4",
+      "path": "project/T1/chunks/JPG-T1-C023/JPG-T1-C023-S04.md",
+      "sha256": "af70932fb90178c30625c04b952accf054f6f170f7f06cde5f90cfc93742fed6",
+      "processing_pages": [
+        "T1:322"
+      ]
+    },
+    {
+      "task": "JPG-T1-C024-S01",
+      "batch": "JPG-T1-C024",
+      "chapter": "16",
+      "section": "16.1",
+      "path": "project/T1/chunks/JPG-T1-C024/JPG-T1-C024-S01.md",
+      "sha256": "f8aeaf4df375bc88a8464c73358120f2ee9a4f258b7cdd6c7fcba0fdbc075e36",
+      "processing_pages": [
+        "T1:323",
+        "T1:324",
+        "T1:325",
+        "T1:326"
+      ]
+    },
+    {
+      "task": "JPG-T1-C025-S01",
+      "batch": "JPG-T1-C025",
+      "chapter": "17",
+      "section": "17.1",
+      "path": "project/T1/chunks/JPG-T1-C025/JPG-T1-C025-S01.md",
+      "sha256": "bd593441ab3d9c72e015f99e3360d9360c8e57105a92daf6ec9ad26bce43c7da",
+      "processing_pages": [
+        "T1:327",
+        "T1:328",
+        "T1:329",
+        "T1:330"
+      ]
+    },
+    {
+      "task": "JPG-T1-C026-S01",
+      "batch": "JPG-T1-C026",
+      "chapter": "18",
+      "section": "18.1",
+      "path": "project/T1/chunks/JPG-T1-C026/JPG-T1-C026-S01.md",
+      "sha256": "e1ed03e0b7850ca9b9ffe9744f4085c1e7ce2fca6d109a357742c10ea7054242",
+      "processing_pages": [
+        "T1:331",
+        "T1:332",
+        "T1:333",
+        "T1:334"
+      ]
+    },
+    {
+      "task": "JPG-T1-C026-S02",
+      "batch": "JPG-T1-C026",
+      "chapter": "18",
+      "section": "18.2",
+      "path": "project/T1/chunks/JPG-T1-C026/JPG-T1-C026-S02.md",
+      "sha256": "8598769b031e824afbebff31f66962abca51ef9919f1dc4652bf6c5de30fa5f6",
+      "processing_pages": [
+        "T1:335",
+        "T1:336",
+        "T1:337",
+        "T1:338",
+        "T1:339"
+      ]
+    },
+    {
+      "task": "JPG-T1-C027-S01",
+      "batch": "JPG-T1-C027",
+      "chapter": "19",
+      "section": "19.1",
+      "path": "project/T1/chunks/JPG-T1-C027/JPG-T1-C027-S01.md",
+      "sha256": "8f3f33297419c785a22c1e5b4413a77c3e23d8dfe5ffac99517c69cb3b90a5dd",
+      "processing_pages": [
+        "T1:341",
+        "T1:342"
+      ]
+    },
+    {
+      "task": "JPG-T1-C027-S02",
+      "batch": "JPG-T1-C027",
+      "chapter": "19",
+      "section": "19.2",
+      "path": "project/T1/chunks/JPG-T1-C027/JPG-T1-C027-S02.md",
+      "sha256": "daa7375358be347b590d26d931954053cc1bfa792228aceb80925ca2d0360736",
+      "processing_pages": [
+        "T1:343",
+        "T1:344"
+      ]
+    },
+    {
+      "task": "JPG-T1-C027-S03",
+      "batch": "JPG-T1-C027",
+      "chapter": "19",
+      "section": "19.3",
+      "path": "project/T1/chunks/JPG-T1-C027/JPG-T1-C027-S03.md",
+      "sha256": "f5420d3cd0049e79e1259fff8aec77efb47726ac430a722e6de2989a25bd4c09",
+      "processing_pages": [
+        "T1:345",
+        "T1:346"
+      ]
+    },
+    {
+      "task": "JPG-T1-C027-S04",
+      "batch": "JPG-T1-C027",
+      "chapter": "19",
+      "section": "19.4",
+      "path": "project/T1/chunks/JPG-T1-C027/JPG-T1-C027-S04.md",
+      "sha256": "b80205b09bc4ef5e13c518f9107a16f849c1caada62025f581e815bf42df3b00",
+      "processing_pages": [
+        "T1:347"
+      ]
+    },
+    {
+      "task": "JPG-T1-C028-S01",
+      "batch": "JPG-T1-C028",
+      "chapter": "20",
+      "section": "20.1",
+      "path": "project/T1/chunks/JPG-T1-C028/JPG-T1-C028-S01.md",
+      "sha256": "f1bcc2adb92a1fb7f2541e2fc595d3f4cab3e15a8b401df30959b5761fe1a003",
+      "processing_pages": [
+        "T1:349",
+        "T1:350"
+      ]
+    },
+    {
+      "task": "JPG-T1-C028-S02",
+      "batch": "JPG-T1-C028",
+      "chapter": "20",
+      "section": "20.2",
+      "path": "project/T1/chunks/JPG-T1-C028/JPG-T1-C028-S02.md",
+      "sha256": "fbfaa3afb1ce280f168cf1d3a2e3525e7ec08592ffaec677556020803265a3d0",
+      "processing_pages": [
+        "T1:351"
+      ]
+    },
+    {
+      "task": "JPG-T1-C028-S03",
+      "batch": "JPG-T1-C028",
+      "chapter": "20",
+      "section": "20.3",
+      "path": "project/T1/chunks/JPG-T1-C028/JPG-T1-C028-S03.md",
+      "sha256": "4c20b55bef12b4c4686c8505d82633222c5c530f65b708c8cb69e0d14867bd27",
+      "processing_pages": [
+        "T1:352",
+        "T1:353"
+      ]
+    },
+    {
+      "task": "JPG-T1-C028-S04",
+      "batch": "JPG-T1-C028",
+      "chapter": "20",
+      "section": "20.4",
+      "path": "project/T1/chunks/JPG-T1-C028/JPG-T1-C028-S04.md",
+      "sha256": "c2a05e7727e3abea96fb9efab83b32cd2693fa20779682f2789b8f65fd0fb08f",
+      "processing_pages": [
+        "T1:354"
+      ]
+    },
+    {
+      "task": "JPG-T1-C028-S05",
+      "batch": "JPG-T1-C028",
+      "chapter": "20",
+      "section": "20.5",
+      "path": "project/T1/chunks/JPG-T1-C028/JPG-T1-C028-S05.md",
+      "sha256": "c22dafb93144411d7a56d53c1cdbd3fdf2ee3c2cfaaabc59e4a1052b2bc1f10f",
+      "processing_pages": [
+        "T1:355",
+        "T1:356"
+      ]
+    },
+    {
+      "task": "JPG-T1-C028-S06",
+      "batch": "JPG-T1-C028",
+      "chapter": "20",
+      "section": "20.6",
+      "path": "project/T1/chunks/JPG-T1-C028/JPG-T1-C028-S06.md",
+      "sha256": "3bce2ea892b3ef299f58230543922298e38cf158892148fb4a65779c1acc564d",
+      "processing_pages": [
+        "T1:357",
+        "T1:358"
+      ]
+    }
+  ],
+  "validation": {
+    "source_image_hashes": "pass: 362/362 current page-image SHA-256 values match sources.json",
+    "image_inventory_baseline": "pass",
+    "unique_included_page_ownership": "pass: 341/341 included pages have exactly one processing batch owner",
+    "chapter_gates": "pass: 21/21 gates are current PASS with exact canonical task hashes",
+    "helper_check": {
+      "command": "PYTHONPATH=/opt/pyvenv/lib/python3.13/site-packages /tmp/t1venv/bin/python workflow/scripts/source_md.py check project/T1",
+      "exit_code": 0,
+      "stdout": "Source/task structural checks pass; image-to-text meaning requires human source review."
+    }
+  },
+  "assembly": {
+    "helper_command": "PYTHONPATH=/opt/pyvenv/lib/python3.13/site-packages /tmp/t1venv/bin/python workflow/scripts/source_md.py assemble project/T1",
+    "first_run_exit_code": 0,
+    "second_run_exit_code": 0,
+    "allowed_structural_removals": "chunk YAML envelopes; duplicated initial chapter headings; and duplicated initial section heading only for an immediately adjacent continuation of the same section ID",
+    "removed_boundary_heading_count": 67,
+    "adjacent_same_section_continuations": 1,
+    "independent_exact_body_comparison": "pass: all ordered chunk body bytes equal merged textbook and chapter outputs after only the recorded allowed initial-boundary removals",
+    "rerun_byte_identical": true,
+    "merged_textbook_sha256": "e850348e650acf654acaddae922ab606785ac23c858a01251041fdec4e17b027",
+    "merged_assembly_sha256": "aa86279b14282f3d1576037fe0057792dd926870b163858d6a1c1704ea394902",
+    "chapter_outputs": [
+      {
+        "chapter": "00",
+        "path": "project/T1/merged/chapter-000.md",
+        "sha256": "e2349568329295ef9a3574a5adf7bcdef1f239bc645f8834c02b2454db6d5e8a"
+      },
+      {
+        "chapter": "01",
+        "path": "project/T1/merged/chapter-001.md",
+        "sha256": "4340ad28e451b166778293e466a8fbbf64a6b32599ba8816ff01a34e44eddb04"
+      },
+      {
+        "chapter": "02",
+        "path": "project/T1/merged/chapter-002.md",
+        "sha256": "beea35e5a676234bded316aba72443e3c5489d370fc05845f066a99d84625aa0"
+      },
+      {
+        "chapter": "03",
+        "path": "project/T1/merged/chapter-003.md",
+        "sha256": "87dc54e332f348f464f7b05ad9cf9df92a6129e80fa9c98207b6844f09a26c3e"
+      },
+      {
+        "chapter": "04",
+        "path": "project/T1/merged/chapter-004.md",
+        "sha256": "ae723b2c3285d4b50026608c5f62620857829b7dde9db05627f46d6d1e9aa7c2"
+      },
+      {
+        "chapter": "05",
+        "path": "project/T1/merged/chapter-005.md",
+        "sha256": "13dcacb55b9d79bf84a8b1a1aae827c90ef4f482f3d81a58d5173bed9ceb291b"
+      },
+      {
+        "chapter": "06",
+        "path": "project/T1/merged/chapter-006.md",
+        "sha256": "05296063eb9fc8e4b3eb131383968d83278d7cf69fb72f6ac75ccb48d508cfc9"
+      },
+      {
+        "chapter": "07",
+        "path": "project/T1/merged/chapter-007.md",
+        "sha256": "29a805d2ddd3b12662f30951b1fefec3ba91387bce9f461daa64c9172d32f18e"
+      },
+      {
+        "chapter": "08",
+        "path": "project/T1/merged/chapter-008.md",
+        "sha256": "23c7015bbb0c659bef13ea19a4b09e9d8a3e3eda0359779c8e6cd724c772c9fd"
+      },
+      {
+        "chapter": "09",
+        "path": "project/T1/merged/chapter-009.md",
+        "sha256": "8a8ad44f918237d457e5816ba373e5b9853e06956d049217deaf753bd4c98a7d"
+      },
+      {
+        "chapter": "10",
+        "path": "project/T1/merged/chapter-010.md",
+        "sha256": "70da354f59293932af410d47cb691e3d55d0191f7ba8fddb96c59163e879d338"
+      },
+      {
+        "chapter": "11",
+        "path": "project/T1/merged/chapter-011.md",
+        "sha256": "6d48907d16d7640cdd3df442f45114088711444f8e3bf347cfe3fd281899f1f7"
+      },
+      {
+        "chapter": "12",
+        "path": "project/T1/merged/chapter-012.md",
+        "sha256": "f87591e9b7f37948a06a094ba2ad7f51d863b22d5a23cec667c6780ea347a8d7"
+      },
+      {
+        "chapter": "13",
+        "path": "project/T1/merged/chapter-013.md",
+        "sha256": "1b4ff6909df9940cae6cd32109d338884ea5726d802b486e27a0b3b282fba68a"
+      },
+      {
+        "chapter": "14",
+        "path": "project/T1/merged/chapter-014.md",
+        "sha256": "906b53d358a14357307c08d1401f08559df38a30074dfdb48795658b9f739e90"
+      },
+      {
+        "chapter": "15",
+        "path": "project/T1/merged/chapter-015.md",
+        "sha256": "20773b8b3c74cd3dfeb0308a6e4525ef7421eb38760adcb21ecef51dbd23c7b1"
+      },
+      {
+        "chapter": "16",
+        "path": "project/T1/merged/chapter-016.md",
+        "sha256": "015d8e58fb4012c3cca82246dce7deefc7f4552bf8c829e1c5b2cc6e5ca27610"
+      },
+      {
+        "chapter": "17",
+        "path": "project/T1/merged/chapter-017.md",
+        "sha256": "e723c95c4d31cf0b55560b6bd837d6f5837f46321cf6125e3f7b86974b1dc151"
+      },
+      {
+        "chapter": "18",
+        "path": "project/T1/merged/chapter-018.md",
+        "sha256": "8c0f7bbe7d81f0ebf93caaf76ce1d95a3034c0bd7b6e4582de32d565e7b870ef"
+      },
+      {
+        "chapter": "19",
+        "path": "project/T1/merged/chapter-019.md",
+        "sha256": "6b89552373e994d079c2790d87053b8a4934e3585315464837500eeaf0cc196d"
+      },
+      {
+        "chapter": "20",
+        "path": "project/T1/merged/chapter-020.md",
+        "sha256": "e512fc2126d60d4faa2849879716c02ebcd93eae1272de11b39fa1668443f273"
+      }
+    ]
+  },
+  "execution_environment": {
+    "python": "3.13.5",
+    "pyyaml": "6.0.3",
+    "pillow_available_version": "12.3.0",
+    "poppler": "pdftoppm reproduced the designated JPG bytes at 150 dpi, JPEG quality 90; all 362 hashes matched the accepted manifest",
+    "note": "An isolated venv was used for helper execution. Installing pinned requirements from the network was unavailable in this runtime; preinstalled PyYAML 6.0.3 was used, and Pillow is not exercised by check/assemble."
+  },
+  "outputs": {
+    "tasks": {
+      "path": "project/T1/tasks.json",
+      "sha256": "bcfbd4969916d1ff5d8e220e09c1d65d4c9a148087a9ff94414bd8d5b4d874e8"
+    },
+    "textbook": {
+      "path": "project/T1/merged/textbook.md",
+      "sha256": "e850348e650acf654acaddae922ab606785ac23c858a01251041fdec4e17b027"
+    },
+    "assembly_manifest": {
+      "path": "project/T1/merged/assembly.json",
+      "sha256": "aa86279b14282f3d1576037fe0057792dd926870b163858d6a1c1704ea394902"
+    },
+    "chapters": [
+      {
+        "chapter": "00",
+        "path": "project/T1/merged/chapter-000.md",
+        "sha256": "e2349568329295ef9a3574a5adf7bcdef1f239bc645f8834c02b2454db6d5e8a"
+      },
+      {
+        "chapter": "01",
+        "path": "project/T1/merged/chapter-001.md",
+        "sha256": "4340ad28e451b166778293e466a8fbbf64a6b32599ba8816ff01a34e44eddb04"
+      },
+      {
+        "chapter": "02",
+        "path": "project/T1/merged/chapter-002.md",
+        "sha256": "beea35e5a676234bded316aba72443e3c5489d370fc05845f066a99d84625aa0"
+      },
+      {
+        "chapter": "03",
+        "path": "project/T1/merged/chapter-003.md",
+        "sha256": "87dc54e332f348f464f7b05ad9cf9df92a6129e80fa9c98207b6844f09a26c3e"
+      },
+      {
+        "chapter": "04",
+        "path": "project/T1/merged/chapter-004.md",
+        "sha256": "ae723b2c3285d4b50026608c5f62620857829b7dde9db05627f46d6d1e9aa7c2"
+      },
+      {
+        "chapter": "05",
+        "path": "project/T1/merged/chapter-005.md",
+        "sha256": "13dcacb55b9d79bf84a8b1a1aae827c90ef4f482f3d81a58d5173bed9ceb291b"
+      },
+      {
+        "chapter": "06",
+        "path": "project/T1/merged/chapter-006.md",
+        "sha256": "05296063eb9fc8e4b3eb131383968d83278d7cf69fb72f6ac75ccb48d508cfc9"
+      },
+      {
+        "chapter": "07",
+        "path": "project/T1/merged/chapter-007.md",
+        "sha256": "29a805d2ddd3b12662f30951b1fefec3ba91387bce9f461daa64c9172d32f18e"
+      },
+      {
+        "chapter": "08",
+        "path": "project/T1/merged/chapter-008.md",
+        "sha256": "23c7015bbb0c659bef13ea19a4b09e9d8a3e3eda0359779c8e6cd724c772c9fd"
+      },
+      {
+        "chapter": "09",
+        "path": "project/T1/merged/chapter-009.md",
+        "sha256": "8a8ad44f918237d457e5816ba373e5b9853e06956d049217deaf753bd4c98a7d"
+      },
+      {
+        "chapter": "10",
+        "path": "project/T1/merged/chapter-010.md",
+        "sha256": "70da354f59293932af410d47cb691e3d55d0191f7ba8fddb96c59163e879d338"
+      },
+      {
+        "chapter": "11",
+        "path": "project/T1/merged/chapter-011.md",
+        "sha256": "6d48907d16d7640cdd3df442f45114088711444f8e3bf347cfe3fd281899f1f7"
+      },
+      {
+        "chapter": "12",
+        "path": "project/T1/merged/chapter-012.md",
+        "sha256": "f87591e9b7f37948a06a094ba2ad7f51d863b22d5a23cec667c6780ea347a8d7"
+      },
+      {
+        "chapter": "13",
+        "path": "project/T1/merged/chapter-013.md",
+        "sha256": "1b4ff6909df9940cae6cd32109d338884ea5726d802b486e27a0b3b282fba68a"
+      },
+      {
+        "chapter": "14",
+        "path": "project/T1/merged/chapter-014.md",
+        "sha256": "906b53d358a14357307c08d1401f08559df38a30074dfdb48795658b9f739e90"
+      },
+      {
+        "chapter": "15",
+        "path": "project/T1/merged/chapter-015.md",
+        "sha256": "20773b8b3c74cd3dfeb0308a6e4525ef7421eb38760adcb21ecef51dbd23c7b1"
+      },
+      {
+        "chapter": "16",
+        "path": "project/T1/merged/chapter-016.md",
+        "sha256": "015d8e58fb4012c3cca82246dce7deefc7f4552bf8c829e1c5b2cc6e5ca27610"
+      },
+      {
+        "chapter": "17",
+        "path": "project/T1/merged/chapter-017.md",
+        "sha256": "e723c95c4d31cf0b55560b6bd837d6f5837f46321cf6125e3f7b86974b1dc151"
+      },
+      {
+        "chapter": "18",
+        "path": "project/T1/merged/chapter-018.md",
+        "sha256": "8c0f7bbe7d81f0ebf93caaf76ce1d95a3034c0bd7b6e4582de32d565e7b870ef"
+      },
+      {
+        "chapter": "19",
+        "path": "project/T1/merged/chapter-019.md",
+        "sha256": "6b89552373e994d079c2790d87053b8a4934e3585315464837500eeaf0cc196d"
+      },
+      {
+        "chapter": "20",
+        "path": "project/T1/merged/chapter-020.md",
+        "sha256": "e512fc2126d60d4faa2849879716c02ebcd93eae1272de11b39fa1668443f273"
+      }
+    ]
+  },
+  "remaining_uncertainty": [],
+  "delivery_validation": {
+    "git_diff_check": {
+      "command": "git diff --check",
+      "exit_code": 0,
+      "working_tree_state": "project/T1/tasks.json tracked modification; project/T1/merged/ and project/T1/qa/assembly.json new untracked outputs, matching pre-save delivery state"
+    },
+    "byte_preservation_note": "An intent-to-add diagnostic reports the source-preserved terminal blank line in merged/chapter-019.md as blank-at-eof. It was not removed because helper assembly and the accepted contract require exact reviewed body-byte preservation; the independent body comparison passes."
+  }
+}
