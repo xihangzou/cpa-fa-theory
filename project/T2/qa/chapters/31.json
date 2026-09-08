@@ -1,0 +1,20 @@
+{
+  "chapter":"31","status":"pass","unresolved_count":0,
+  "chunks":[
+    {"task":"JPG-T2-C021-S01","chunk_sha256":"dd0c19aaa1a5b6cc20dc2fa3d65e3f35bf4ab42451e0d291170a8b9ea6464d64"},
+    {"task":"JPG-T2-C021-S02","chunk_sha256":"ab47d2056209ce35df69663dc1bb9cbd81ae54f3496a97549781c3a0750e32e4"},
+    {"task":"JPG-T2-C021-S03","chunk_sha256":"b781952549cd377204e3cd6af1f8bbe4c4339dd312be62f36e920d7edd0ad4ec"},
+    {"task":"JPG-T2-C021-S04","chunk_sha256":"b56fae4f0759941fcb0c55456ee7fcdf9cd12e9e23009be52ab21916e383aaf0"},
+    {"task":"JPG-T2-C022-S01","chunk_sha256":"35f230c3bdcfbf7007f173b1fa8b936e632df9b4b2bf91dfcab97129cb76c497"},
+    {"task":"JPG-T2-C022-S02","chunk_sha256":"2af8718a31d11884f649fdeff343fa6256a2c381edd4d358cf49826d30bcbcc2"},
+    {"task":"JPG-T2-C022-S03","chunk_sha256":"77561efd307b6e47bae453b159d2be3b74e59cf2f516700cba9a7a2133517a31"}
+  ],
+  "title":"会計上の変更及び誤謬の訂正に関する会計基準","qa_issue":180,"source_id":"T2","reviewed_on":"2026-09-08","reviewer_model":"GPT-5.6 Sol",
+  "scope":{"physical_range":"T2:381-T2:410","included_range":"T2:381-T2:409","excluded_pages":[{"page":"T2:410","reason":"【MEMO】の白紙ページ。画像確認により実質的な本文・図表なし。"}]},
+  "review_basis":[
+    {"batch":"JPG-T2-C021","fragment":"project/T2/fragments/JPG-T2-C021.json","fragment_blob_sha":"2d89bb9986d1de5719f7c7db0fa236e56e336247","review":"project/T2/reviews/JPG-T2-C021.json"},
+    {"batch":"JPG-T2-C022","fragment":"project/T2/fragments/JPG-T2-C022.json","fragment_blob_sha":"ef6a3b2be16c2ff1462180025189d02affa1c792","review":"project/T2/reviews/JPG-T2-C022.json"}
+  ],
+  "chapter_review":{"page_coverage":"pass: T2:381-T2:409 are represented in current PASS evidence; T2:410 is the image-confirmed blank MEMO exclusion","section_order":"pass: 31.1 -> 31.2 -> 31.3 -> 31.4 -> 31.5 -> 31.6 -> 31.7","continuations":"pass: no same-section continuation crosses C021/C022","boundary_review":"pass: C021 ends 31.4 on T2:400 and C022 begins 31.5 on T2:401","findings":["The two-batch substantive page union is contiguous across T2:381-T2:409.","Retrospective application, reclassification, estimate changes, error restatement, impracticability cases and disclosure requirements are all represented in saved page-level evidence.","No unresolved marker, stale task hash or section-order defect was found."],"corrections_required":false,"corrections":[],"method":"Revalidated current exact-JPG C021/C022 review evidence and all seven task hashes, then audited page coverage, section order, the clean 31.4/31.5 boundary and blank-page ledger."},
+  "source_identity":{"edition":"2024/2025年合格目標","publication_date":"2023-05-04","pdf_sha256":"ba4b33c8881021044b6360bfd10899f1b1f882bda3ccc7df3f1f895e9cc55ba5","content_authority":"designated existing JPGs"}
+}
