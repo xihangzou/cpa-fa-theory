@@ -1,0 +1,51 @@
+{
+  "chapter": "00",
+  "status": "pass",
+  "unresolved_count": 0,
+  "chunks": [
+    {"task": "JPG-T1-C001-S01", "chunk_sha256": "49cd42aaea71b20f1b2f9588477ef4d0f65845c78c395240e0604b8039b1c70d"},
+    {"task": "JPG-T1-C001-S02", "chunk_sha256": "100a26a99a181216a41c7b9344b568ddf51b3b1246a3ecc7abb8e11e8a350b76"},
+    {"task": "JPG-T1-C001-S03", "chunk_sha256": "3c465f7cf270cd5521401d10c7b3e8366cd4cba2cc6ae4d7e5958c74a33134fc"}
+  ],
+  "title": "序章（科目・試験概要・教材の使用）",
+  "qa_issue": 160,
+  "source_id": "T1",
+  "reviewed_on": "2026-09-08",
+  "reviewer_model": "GPT-5.6 Sol",
+  "scope": {
+    "physical_range": "T1:004-T1:016",
+    "included_pages": ["T1:004", "T1:005", "T1:006", "T1:007", "T1:008", "T1:009", "T1:010", "T1:011", "T1:012", "T1:013", "T1:014", "T1:015", "T1:016"],
+    "excluded_pages": []
+  },
+  "review_basis": [
+    {
+      "batch": "JPG-T1-C001",
+      "fragment": "project/T1/fragments/JPG-T1-C001.json",
+      "fragment_blob_sha": "f12975dd5b916e90c122f441a947e41bb2e47526",
+      "review": "project/T1/reviews/JPG-T1-C001.json",
+      "review_blob_sha": "3feb99b89de7d5c686c0dd7e5a17cc8d5261de11"
+    }
+  ],
+  "chapter_review": {
+    "page_coverage": "pass",
+    "section_order": "pass: 00.1 -> 00.2 -> 00.3",
+    "continuations": "not_applicable",
+    "boundary_review": "pass: the recorded full-page review confirms no source object crosses T1:016; all included pages T1:004-T1:016 have PASS region coverage in the current batch review",
+    "tables_examples_and_diagrams": "pass: current batch evidence records numerical, table/list, sample-question and diagram checks across the chapter",
+    "findings": [
+      "Every included physical page is covered by the current PASS batch review and by at least one current section task; no page is orphaned.",
+      "Current fragment task hashes match the current reviewed section-output hashes for all three chapter chunks.",
+      "The chapter has three ordered source sections and no cross-batch continuation or return to an earlier section.",
+      "No unresolved marker, missing page, stale reviewed hash, or chapter-boundary conflict is recorded."
+    ],
+    "corrections_required": false,
+    "corrections": [],
+    "method": "Chapter-level completeness audit revalidated the immutable exact-JPG page-review evidence, current source/chunk hashes, page-to-section union, section ordering and chapter boundary. The designated Drive JPG folder was independently identified in this execution; the pinned PDF SHA-256 was also confirmed and used only for identity/planning support, not as content authority."
+  },
+  "source_identity": {
+    "edition": "2024/2025年合格目標",
+    "publication_date": "2023-01-23",
+    "pdf_sha256": "c09d9d91ce39de787cab04e146719d95b638134399d57112802ffacfa67243f3",
+    "content_authority": "designated existing JPGs"
+  }
+}
