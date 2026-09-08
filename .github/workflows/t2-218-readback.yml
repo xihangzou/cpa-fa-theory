@@ -1,0 +1,46 @@
+name: T2 #218 exact remote readback
+
+on:
+  push:
+    branches: [tmp-test]
+    paths:
+      - '.github/workflows/t2-218-readback.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  readback:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: 1acc7560a3dc44e0c5682885b5e63e21c5e90354
+          fetch-depth: 1
+      - name: Verify accepted T2 handoff and final evidence
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import hashlib, json
+          sha=lambda p: hashlib.sha256(Path(p).read_bytes()).hexdigest()
+          expected={
+            'project/T2/qa/final.json':'1d7b476ad785651a39549a70283be8832cd4fb8b7840a25a36ef688b32bb8e4d',
+            'project/T2/tasks.json':'fa37e4efcb62d383a7a86fb8430ae3f02322ca9cd63851bca1e29508c45b5360',
+            'project/T2/merged/textbook.md':'16c3f9ff0c07a35d4556a087b47009ff72b711fba34de82e8d5b7ffc1fe3f892',
+            'project/T2/merged/assembly.json':'407e71786acd0556827461df03bf0720e021dc2159a843d097d6fac9b804e066',
+            'project/T2/qa/assembly.json':'3da8bcedb27717df4319717706afbcee78f475d8c538b5c77486af1b6950e51a'
+          }
+          for p,want in expected.items():
+            got=sha(p); print(p,got)
+            if got!=want: raise SystemExit(f'hash mismatch {p}: {got} != {want}')
+          d=json.loads(Path('project/T2/qa/final.json').read_text(encoding='utf-8'))
+          if d['status']!='pass' or d['unresolved_count']!=0: raise SystemExit('final verdict mismatch')
+          if d['reviewed_handoff_revision']!='497d24bd45f02507e30d7d91eb774650d0869394': raise SystemExit('reviewed handoff revision mismatch')
+          if d['approved_hashes']['merged_textbook_sha256']!=expected['project/T2/merged/textbook.md']: raise SystemExit('recorded textbook hash mismatch')
+          if d['final_visual_sample']['sample_count']!=225 or d['counts']['included_pages']!=431: raise SystemExit('sample/count mismatch')
+          if d['remaining_uncertainty']!=[]: raise SystemExit('remaining uncertainty not empty')
+          print('REMOTE_READBACK=PASS')
+          print('ACCEPTANCE_COMMIT=1acc7560a3dc44e0c5682885b5e63e21c5e90354')
+          print('REVIEWED_HANDOFF=497d24bd45f02507e30d7d91eb774650d0869394')
+          PY
