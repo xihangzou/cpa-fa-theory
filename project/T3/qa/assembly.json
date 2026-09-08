@@ -1,0 +1,93 @@
+{
+  "issue": 212,
+  "book": "T3",
+  "status": "blocked",
+  "unresolved_count": 1,
+  "reviewed_on": "2026-09-08",
+  "reviewer_model": "GPT-5.6 Sol",
+  "delivery_branch": "main",
+  "observed_main_commit_before_evidence": "33c5765473c2369d5c4c30220c031d454d5e7647",
+  "prerequisites": {
+    "chapter_qa_status": "pass",
+    "chapter_qa_files": [
+      {"chapter": "33", "path": "project/T3/qa/chapters/33.json", "blob_sha": "0b6d734620d8159f45cce72ea4e4dacaba6fee7c"},
+      {"chapter": "34", "path": "project/T3/qa/chapters/34.json", "blob_sha": "979a114f4506ea839e637cc036d20a5e52b9772a"},
+      {"chapter": "35", "path": "project/T3/qa/chapters/35.json", "blob_sha": "239e2766f998493fd047946a2fe2e3a173004b5a"},
+      {"chapter": "36", "path": "project/T3/qa/chapters/36.json", "blob_sha": "6e2e5c25125bef7f3992defc30aea32d9694e6a5"},
+      {"chapter": "37", "path": "project/T3/qa/chapters/37.json", "blob_sha": "2d0319f75a29e9e46cfb20f31d425ea129bc9ec1"},
+      {"chapter": "38", "path": "project/T3/qa/chapters/38.json", "blob_sha": "2a205deb7ed32e579afe97d834a089c1c6aae6c2"},
+      {"chapter": "39", "path": "project/T3/qa/chapters/39.json", "blob_sha": "b96dcb52106a311db2e667b902a5300319c0af68"},
+      {"chapter": "40", "path": "project/T3/qa/chapters/40.json", "blob_sha": "af08fad388b7db6674b89c8faf3fa0bf4c5a5a4a"}
+    ],
+    "fragment_status": "pass",
+    "fragment_count": 18,
+    "ordered_fragments": [
+      "JPG-T3-C001", "JPG-T3-C002", "JPG-T3-C003", "JPG-T3-C004", "JPG-T3-C005", "JPG-T3-C006",
+      "JPG-T3-C007", "JPG-T3-C008", "JPG-T3-C009", "JPG-T3-C010", "JPG-T3-C011", "JPG-T3-C012",
+      "JPG-T3-C013", "JPG-T3-C014", "JPG-T3-C015", "JPG-T3-C016", "JPG-T3-C017", "JPG-T3-C018"
+    ],
+    "expected_canonical_task_count": 71,
+    "chapter_order": ["33", "34", "35", "36", "37", "38", "39", "40"],
+    "tasks_before": {
+      "path": "project/T3/tasks.json",
+      "blob_sha": "fe51488c7066f6687ef680d6bfaa4f7768ef205c",
+      "state": "empty_array"
+    },
+    "merged_before": "absent"
+  },
+  "assembly_contract": {
+    "helper": "workflow/scripts/source_md.py",
+    "canonical_tasks_rule": "tasks.json must equal the exact ordered concatenation of fragment task arrays",
+    "byte_preserving_rule": "remove YAML envelopes; remove only duplicated initial chapter headings and duplicated initial section headings for adjacent same-section continuations; preserve every other body byte",
+    "required_commands": [
+      "python3 workflow/scripts/source_md.py check project/T3",
+      "python3 workflow/scripts/source_md.py assemble project/T3",
+      "python3 workflow/scripts/source_md.py assemble project/T3"
+    ]
+  },
+  "checks": [
+    {
+      "command": "git ls-remote https://github.com/xihangzou/cpa-fa-theory.git HEAD",
+      "exit_code": 128,
+      "result": "blocked",
+      "detail": "fatal: unable to access repository: Could not resolve host: github.com"
+    },
+    {
+      "command": "curl -I --max-time 10 --resolve github.com:443:140.82.112.3 https://github.com",
+      "exit_code": 7,
+      "result": "blocked",
+      "detail": "Direct-IP HTTPS fallback could not connect; the execution container has no usable outbound GitHub network path."
+    },
+    {
+      "command": "python3 workflow/scripts/source_md.py check project/T3",
+      "exit_code": null,
+      "result": "not_run",
+      "detail": "No executable repository checkout with the complete designated T3 JPG cache is available in this execution container."
+    },
+    {
+      "command": "python3 workflow/scripts/source_md.py assemble project/T3",
+      "exit_code": null,
+      "result": "not_run",
+      "detail": "Assembly was deliberately not substituted with an unverified manual merge because issue #212 requires helper execution and byte-identical second-run evidence."
+    }
+  ],
+  "connector_validation": {
+    "github_repository_visibility": "public",
+    "github_connector_read_write": true,
+    "all_18_fragments_read": true,
+    "all_fragment_statuses_pass": true,
+    "ordered_task_count_from_fragments": 71,
+    "chapter_gates_33_through_40_present": true,
+    "tasks_json_still_empty": true,
+    "merged_directory_absent": true,
+    "note": "The GitHub connector can validate and mutate repository files but does not execute repository commands."
+  },
+  "preservation": {
+    "tasks_json_modified": false,
+    "merged_outputs_modified": false,
+    "partial_assembly_published": false,
+    "reason": "Publishing canonical tasks or merged outputs without the required helper checks would weaken the assembly gate and could expose downstream tasks to unverified output."
+  },
+  "blocker": "Issue #212 requires successful local helper check/assemble commands, live source-image/hash validation, and a byte-identical second assembly run. This session has GitHub connector access but no executable checkout or outbound GitHub network path in the command container, so those required checks cannot be truthfully recorded as exit 0.",
+  "required_next_step": "Re-run #212 in an execution environment that has a repository checkout plus the designated T3 JPG cache (or can obtain both), run check, assemble twice, verify hashes and body equivalence, then replace this BLOCKED evidence with PASS and publish project/T3/tasks.json and project/T3/merged/."
+}
