@@ -1,0 +1,14 @@
+{
+  "chapter":"15","status":"pass","unresolved_count":0,
+  "chunks":[
+    {"task":"JPG-T1-C023-S01","chunk_sha256":"571139363695cfb71d082b64cac48fa217896d5ff82e3d8da4153becc39048ac"},
+    {"task":"JPG-T1-C023-S02","chunk_sha256":"19a2dbf24e46bfb5876bb91eb9d9d0291430c6a5d395d9e57255236d427d219c"},
+    {"task":"JPG-T1-C023-S03","chunk_sha256":"a3e92db7d0108c78b0d0bbbf80775902ba9c1a11a6a044eed96d57893590d653"},
+    {"task":"JPG-T1-C023-S04","chunk_sha256":"af70932fb90178c30625c04b952accf054f6f170f7f06cde5f90cfc93742fed6"}
+  ],
+  "title":"関連当事者の開示に関する会計基準","qa_issue":168,"source_id":"T1","reviewed_on":"2026-09-08","reviewer_model":"GPT-5.6 Sol",
+  "scope":{"physical_range":"T1:311-T1:322","included_range":"T1:311-T1:322","excluded_pages":[]},
+  "review_basis":[{"batch":"JPG-T1-C023","fragment":"project/T1/fragments/JPG-T1-C023.json","fragment_blob_sha":"673e429453da088015a1c36e9c175dd168243b66","review":"project/T1/reviews/JPG-T1-C023.json"}],
+  "chapter_review":{"page_coverage":"pass","section_order":"pass: 15.1 -> 15.2 -> 15.3 -> 15.4","continuations":"not_applicable","boundary_review":"pass: four sections cover contiguous T1:311-T1:322 and section 15.4 completes on T1:322","findings":["Current review evidence retains relationship diagrams, disclosure thresholds, non-disclosure cases, example tables and notes through the final page.","No unresolved marker, stale reviewed hash, duplicate owner or section-order conflict is recorded."],"corrections_required":false,"corrections":[],"method":"Revalidated current exact-JPG review evidence, task hashes, page union, section order and terminal boundary."},
+  "source_identity":{"edition":"2024/2025年合格目標","publication_date":"2023-01-23","pdf_sha256":"c09d9d91ce39de787cab04e146719d95b638134399d57112802ffacfa67243f3","content_authority":"designated existing JPGs"}
+}
