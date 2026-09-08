@@ -1,0 +1,27 @@
+{
+  "chapter":"30","status":"pass","unresolved_count":0,
+  "chunks":[
+    {"task":"JPG-T2-C019-S01","chunk_sha256":"d3d7f0b96fbea92cb4149d87ce5a0769fc2c3e63a41780a6522d5e41586928f2"},
+    {"task":"JPG-T2-C019-S02","chunk_sha256":"c2afa36e8a9bb81db29c25d431cc3737602b579cb7f3cc8e82ee200a44f6d3aa"},
+    {"task":"JPG-T2-C019-S03","chunk_sha256":"ed3ccdeda4bef47b6ca046a60844c1bd626b3012ba28428cb1795d9f3715e1d2"},
+    {"task":"JPG-T2-C020-S01","chunk_sha256":"3805725d2da74d21de8146e30e0a266ba0b44e91a1944456b6bc50b0635aae1b"},
+    {"task":"JPG-T2-C020-S02","chunk_sha256":"f1bed3d25fa2ef657425600760582d234602bcfc272ff6dd320c5895f9ad6ff3"},
+    {"task":"JPG-T2-C020-S03","chunk_sha256":"e929590649a764a6accbafec67b19d7b06c42036ad797a36d9d3b37f65dc2c0a"},
+    {"task":"JPG-T2-C020-S04","chunk_sha256":"7dfc603a9e198bab65d101489235c7ad007c59b178e8855e03457eace5ca7786"},
+    {"task":"JPG-T2-C020-S05","chunk_sha256":"bfb9a56d79a2c20677cdfae6dade2c1bae3b86cd3631c135187bc28bfa1823f7"},
+    {"task":"JPG-T2-C020-S06","chunk_sha256":"632a6a462908d5542c6f3ce49baf0c1604dc3a404bbb472fc96908f773051ae3"},
+    {"task":"JPG-T2-C020-S07","chunk_sha256":"1f00bcb77829d4d9ebc6aa79fbb51e63aad5c5eb6219f01d23fd78a0cafbdb9c"},
+    {"task":"JPG-T2-C020-S08","chunk_sha256":"efbd3339a00b7d835cdc6b4fd31ff80948aece8f58e3de84bcd5b6a31508da08"},
+    {"task":"JPG-T2-C020-S09","chunk_sha256":"877226a0379a35706af26f8a50a3b3836fc511e241be32bcea639bb8e76438c8"},
+    {"task":"JPG-T2-C020-S10","chunk_sha256":"7ac29be3faf19756a7abb5f68d6474aa314672d1f8fa41fb71fe04fee72516ec"},
+    {"task":"JPG-T2-C020-S11","chunk_sha256":"bb166718352bd06f64ca8dd2710ce8ff2d10d82ee970aca06c644f4f2191818c"}
+  ],
+  "title":"リース取引に関する会計基準","qa_issue":179,"source_id":"T2","reviewed_on":"2026-09-08","reviewer_model":"GPT-5.6 Sol",
+  "scope":{"physical_range":"T2:347-T2:380","included_range":"T2:347-T2:379","excluded_pages":[{"page":"T2:380","reason":"【MEMO】の白紙ページ。画像確認により実質的な本文・図表なし。"}]},
+  "review_basis":[
+    {"batch":"JPG-T2-C019","fragment":"project/T2/fragments/JPG-T2-C019.json","fragment_blob_sha":"be8ffe819c8fd4184052e519b48bf838e68f286e","review":"project/T2/reviews/JPG-T2-C019.json"},
+    {"batch":"JPG-T2-C020","fragment":"project/T2/fragments/JPG-T2-C020.json","fragment_blob_sha":"3c40ca164dc08beb353f436e90dc1dd63a01c66c","review":"project/T2/reviews/JPG-T2-C020.json"}
+  ],
+  "chapter_review":{"page_coverage":"pass: T2:347-T2:379 are represented in current PASS evidence; T2:380 is the image-confirmed blank MEMO exclusion","section_order":"pass: 30.1 -> 30.2 -> 30.3 -> 30.4 -> 30.5 -> 30.6 -> 30.7 -> 30.8","continuations":"pass: section 30.4 is intentionally split across C020-S01/S02/S03/S04; section 30.7 across S07/S08/S09; section 30.8 across S10/S11. Same-page handoffs on T2:370, T2:376 and T2:377 use distinct source regions and preserve source order","boundary_review":"pass: C019 ends 30.3 on T2:367 and C020 begins 30.4 on T2:368; internal C020 regional splits are locator-bounded rather than duplicate transcription","findings":["The two-batch substantive page union covers T2:347-T2:379 without a missing physical page.","Lease classification, lessee/lessor treatment, sale-and-leaseback, sublease, disclosure and recent-model comparisons are all represented in saved page-level evidence.","Shared physical pages are intentional regional splits with adjacent meaning preserved; no unresolved marker or stale task hash was found."],"corrections_required":false,"corrections":[],"method":"Revalidated current exact-JPG C019/C020 review evidence and all fourteen task hashes, then audited the full chapter page union, blank-page ledger, cross-batch boundary and same-page regional continuation points."},
+  "source_identity":{"edition":"2024/2025年合格目標","publication_date":"2023-05-04","pdf_sha256":"ba4b33c8881021044b6360bfd10899f1b1f882bda3ccc7df3f1f895e9cc55ba5","content_authority":"designated existing JPGs"}
+}
