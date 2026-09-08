@@ -1,0 +1,14 @@
+{
+  "chapter":"19","status":"pass","unresolved_count":0,
+  "chunks":[
+    {"task":"JPG-T1-C027-S01","chunk_sha256":"8f3f33297419c785a22c1e5b4413a77c3e23d8dfe5ffac99517c69cb3b90a5dd"},
+    {"task":"JPG-T1-C027-S02","chunk_sha256":"daa7375358be347b590d26d931954053cc1bfa792228aceb80925ca2d0360736"},
+    {"task":"JPG-T1-C027-S03","chunk_sha256":"f5420d3cd0049e79e1259fff8aec77efb47726ac430a722e6de2989a25bd4c09"},
+    {"task":"JPG-T1-C027-S04","chunk_sha256":"b80205b09bc4ef5e13c518f9107a16f849c1caada62025f581e815bf42df3b00"}
+  ],
+  "title":"法人税、住民税及び事業税等に関する会計基準","qa_issue":169,"source_id":"T1","reviewed_on":"2026-09-08","reviewer_model":"GPT-5.6 Sol",
+  "scope":{"physical_range":"T1:341-T1:348","included_range":"T1:341-T1:347","excluded_pages":[{"page":"T1:348","reason":"Blank chapter-end MEMO page with no learner content."}]},
+  "review_basis":[{"batch":"JPG-T1-C027","fragment":"project/T1/fragments/JPG-T1-C027.json","fragment_blob_sha":"84b5d520f2294b67574659c7e143fcb30471d186","review":"project/T1/reviews/JPG-T1-C027.json"}],
+  "chapter_review":{"page_coverage":"pass","section_order":"pass: 19.1 -> 19.2 -> 19.3 -> 19.4","continuations":"not_applicable","boundary_review":"pass: section 19.4 completes on T1:347 and T1:348 is explicitly excluded as blank MEMO","findings":["All substantive pages and the terminal exclusion are accounted for by current reviewed evidence.","No unresolved marker, stale reviewed hash, duplicate owner or section-order conflict is recorded."],"corrections_required":false,"corrections":[],"method":"Revalidated current exact-JPG review evidence, all four task hashes, section order and chapter-end exclusion."},
+  "source_identity":{"edition":"2024/2025年合格目標","publication_date":"2023-01-23","pdf_sha256":"c09d9d91ce39de787cab04e146719d95b638134399d57112802ffacfa67243f3","content_authority":"designated existing JPGs"}
+}
