@@ -1,0 +1,14 @@
+{
+  "chapter":"13","status":"pass","unresolved_count":0,
+  "chunks":[
+    {"task":"JPG-T1-C020-S01","chunk_sha256":"1ef9483bae6a7b7b2fab1092649f7fe929d8c32755a693cb2b2127b42761ec3e"},
+    {"task":"JPG-T1-C020-S02","chunk_sha256":"c16d4a8f0f8c36ae20abd413e078eec2970e1d778e1223df208bc93fa1392355"},
+    {"task":"JPG-T1-C020-S03","chunk_sha256":"2d93e1c391a2e8e0862b2f425372b8c83cc9929a9a87d2b784e357a8cb6bbc09"},
+    {"task":"JPG-T1-C020-S04","chunk_sha256":"550c15f0e745af6f4feb3722e407b6c2c2543eef16be3e3bb202f7511b8c879d"}
+  ],
+  "title":"会計基準等","qa_issue":168,"source_id":"T1","reviewed_on":"2026-09-08","reviewer_model":"GPT-5.6 Sol",
+  "scope":{"physical_range":"T1:277-T1:284","included_range":"T1:277-T1:283","excluded_pages":[{"page":"T1:284","reason":"Blank chapter-end MEMO page with no learner content."}]},
+  "review_basis":[{"batch":"JPG-T1-C020","fragment":"project/T1/fragments/JPG-T1-C020.json","fragment_blob_sha":"2ae9f957b5033e6a6ac66f395bfad6ab0859b213","review":"project/T1/reviews/JPG-T1-C020.json"}],
+  "chapter_review":{"page_coverage":"pass","section_order":"pass: 13.1 -> 13.2 -> 13.3 -> 13.4","continuations":"not_applicable","boundary_review":"pass: substantive content ends on T1:283; T1:284 is explicitly excluded as blank MEMO","findings":["All substantive pages and the terminal exclusion are accounted for by current reviewed evidence.","No unresolved marker, stale reviewed hash, duplicate owner or section-order conflict is recorded."],"corrections_required":false,"corrections":[],"method":"Revalidated current exact-JPG review evidence, task hashes, section order and exclusion ledger."},
+  "source_identity":{"edition":"2024/2025年合格目標","publication_date":"2023-01-23","pdf_sha256":"c09d9d91ce39de787cab04e146719d95b638134399d57112802ffacfa67243f3","content_authority":"designated existing JPGs"}
+}
