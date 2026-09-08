@@ -1,0 +1,22 @@
+{
+  "chapter":"28","status":"pass","unresolved_count":0,
+  "chunks":[
+    {"task":"JPG-T2-C014-S01","chunk_sha256":"3e6f9d8f98db0c2e665faa08345f476f98e2e899241e729045c82b95180e346c"},
+    {"task":"JPG-T2-C014-S02","chunk_sha256":"883a6a98de12db1911665e97d2f7a2798c8c018335a0708d5884b717cbc3ea97"},
+    {"task":"JPG-T2-C014-S03","chunk_sha256":"ec11af700acd50bfe9d948fc4e6004209a4164f7f597e91cbc170893f6e3c1c2"},
+    {"task":"JPG-T2-C014-S04","chunk_sha256":"66916f571b66993d1500e4b4de0815b8f7db2692224dff96e1303c7db9be8b21"},
+    {"task":"JPG-T2-C014-S05","chunk_sha256":"2d33d63b1f000b356ba1c09dbdc23829dd156d050bb1335e455035c861fa2c09"},
+    {"task":"JPG-T2-C014-S06","chunk_sha256":"8167723f6137d9bff4747927d812f20ab58fd2812c106a9b52baeec1849790fe"},
+    {"task":"JPG-T2-C015-S01","chunk_sha256":"d8601ddb55fdcfbb0ed1e5c8cb0b8c29658567fb327076b500555bf0dccc7063"},
+    {"task":"JPG-T2-C015-S02","chunk_sha256":"ef288cc7a9b206fb7edc48d5e4a371adbdfc7fa2cdfda1aa53154f750649bf81"},
+    {"task":"JPG-T2-C015-S03","chunk_sha256":"9946e52d5bc2a6875f4b6a35af4591d701c2840b8f927c789e4e9ee83d918ca6"}
+  ],
+  "title":"外貨換算会計","qa_issue":177,"source_id":"T2","reviewed_on":"2026-09-08","reviewer_model":"GPT-5.6 Sol",
+  "scope":{"physical_range":"T2:253-T2:296","included_range":"T2:253-T2:295","excluded_pages":[{"page":"T2:296","reason":"【MEMO】の白紙ページ。画像レビュー及びinventory ledgerで実質的な本文・図表なしを確認。"}]},
+  "review_basis":[
+    {"batch":"JPG-T2-C014","fragment":"project/T2/fragments/JPG-T2-C014.json","fragment_blob_sha":"59a7600f580e7d4d44dd65060a911989f88c6f2e","review":"project/T2/reviews/JPG-T2-C014.json"},
+    {"batch":"JPG-T2-C015","fragment":"project/T2/fragments/JPG-T2-C015.json","fragment_blob_sha":"c1538d890996632cb72b7a06ea6fa8e10867b2ae","review":"project/T2/reviews/JPG-T2-C015.json"}
+  ],
+  "chapter_review":{"page_coverage":"pass: T2:253-T2:295 are represented in current PASS evidence; T2:296 is the image-confirmed blank MEMO exclusion","section_order":"pass: 28.1 -> 28.2 -> 28.3 -> 28.4 -> 28.5 -> 28.6 -> 28.7 -> 28.8 -> 28.9","continuations":"pass: no same-section continuation crosses C014/C015","boundary_review":"pass: C014 ends 28.6 on T2:276 and C015 begins 28.7 on T2:277","findings":["The two-batch substantive page union is contiguous across T2:253-T2:295.","Translation methods, foreign-currency transaction entries, forwards, branches/subsidiaries, translation-adjustment diagrams and numerical examples are covered by saved page-level evidence.","No unresolved marker, stale task hash or section return was found."],"corrections_required":false,"corrections":[],"method":"Revalidated current exact-JPG C014/C015 review evidence and all nine task hashes, then audited the chapter union, section order, batch boundary and blank-page ledger."},
+  "source_identity":{"edition":"2024/2025年合格目標","publication_date":"2023-05-04","pdf_sha256":"ba4b33c8881021044b6360bfd10899f1b1f882bda3ccc7df3f1f895e9cc55ba5","content_authority":"designated existing JPGs"}
+}
