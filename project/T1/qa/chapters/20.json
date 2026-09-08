@@ -1,0 +1,16 @@
+{
+  "chapter":"20","status":"pass","unresolved_count":0,
+  "chunks":[
+    {"task":"JPG-T1-C028-S01","chunk_sha256":"f1bcc2adb92a1fb7f2541e2fc595d3f4cab3e15a8b401df30959b5761fe1a003"},
+    {"task":"JPG-T1-C028-S02","chunk_sha256":"fbfaa3afb1ce280f168cf1d3a2e3525e7ec08592ffaec677556020803265a3d0"},
+    {"task":"JPG-T1-C028-S03","chunk_sha256":"4c20b55bef12b4c4686c8505d82633222c5c530f65b708c8cb69e0d14867bd27"},
+    {"task":"JPG-T1-C028-S04","chunk_sha256":"c2a05e7727e3abea96fb9efab83b32cd2693fa20779682f2789b8f65fd0fb08f"},
+    {"task":"JPG-T1-C028-S05","chunk_sha256":"c22dafb93144411d7a56d53c1cdbd3fdf2ee3c2cfaaabc59e4a1052b2bc1f10f"},
+    {"task":"JPG-T1-C028-S06","chunk_sha256":"3bce2ea892b3ef299f58230543922298e38cf158892148fb4a65779c1acc564d"}
+  ],
+  "title":"一株当たり当期純利益に関する会計基準","qa_issue":169,"source_id":"T1","reviewed_on":"2026-09-08","reviewer_model":"GPT-5.6 Sol",
+  "scope":{"physical_range":"T1:349-T1:358","included_range":"T1:349-T1:358","excluded_pages":[]},
+  "review_basis":[{"batch":"JPG-T1-C028","fragment":"project/T1/fragments/JPG-T1-C028.json","fragment_blob_sha":"a89ff4ba88fbe38118a07b2e806eff54d50fd06f","review":"project/T1/reviews/JPG-T1-C028.json"}],
+  "chapter_review":{"page_coverage":"pass","section_order":"pass: 20.1 -> 20.2 -> 20.3 -> 20.4 -> 20.5 -> 20.6","continuations":"not_applicable","boundary_review":"pass: six ordered sections cover all T1:349-T1:358 content and the final section completes on T1:358","findings":["Current reviewed evidence preserves EPS definitions, formulas, dilution cases, numerical examples and disclosure requirements through the final page.","No unresolved marker, stale reviewed hash, duplicate owner or section-order conflict is recorded."],"corrections_required":false,"corrections":[],"method":"Revalidated current exact-JPG review evidence, all six task hashes, page union, section order and terminal boundary."},
+  "source_identity":{"edition":"2024/2025年合格目標","publication_date":"2023-01-23","pdf_sha256":"c09d9d91ce39de787cab04e146719d95b638134399d57112802ffacfa67243f3","content_authority":"designated existing JPGs"}
+}
