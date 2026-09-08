@@ -1,0 +1,20 @@
+{
+  "chapter":"29","status":"pass","unresolved_count":0,
+  "chunks":[
+    {"task":"JPG-T2-C016-S01","chunk_sha256":"496a957722c902a6baf46bc25103cddc571425f0c4f2f85250596b011eaca809"},
+    {"task":"JPG-T2-C016-S02","chunk_sha256":"b198852b5be0de55c5c3dc31803ba4538a2fc4590db7d744fd14105777ce0c83"},
+    {"task":"JPG-T2-C016-S03","chunk_sha256":"c84551d65822d2ec65b1564aa39de66f36a2f9ae7dfca1f7f13ea343b0a4a4b4"},
+    {"task":"JPG-T2-C017-S01","chunk_sha256":"5e72e89b4b926aa7663d9021a8b115cb4673588743d26b9c087d0905e067d4a6"},
+    {"task":"JPG-T2-C017-S02","chunk_sha256":"499045df94bf4b33b582c3d42452099413d465204f6903bcfeaf320732ed1585"},
+    {"task":"JPG-T2-C018-S01","chunk_sha256":"00dc0ebf6d76b521b644fce1e6e23c698c3f45b651149d41c9ede6e53bce69c8"}
+  ],
+  "title":"税効果会計","qa_issue":178,"source_id":"T2","reviewed_on":"2026-09-08","reviewer_model":"GPT-5.6 Sol",
+  "scope":{"physical_range":"T2:297-T2:346","included_range":"T2:297-T2:346","excluded_pages":[]},
+  "review_basis":[
+    {"batch":"JPG-T2-C016","fragment":"project/T2/fragments/JPG-T2-C016.json","fragment_blob_sha":"5c9db78735417475bdbeb6559fe50af84f54bb6b","review":"project/T2/reviews/JPG-T2-C016.json"},
+    {"batch":"JPG-T2-C017","fragment":"project/T2/fragments/JPG-T2-C017.json","fragment_blob_sha":"81efa6bf6e39caeef6af2fe89b9dce6e092ead59","review":"project/T2/reviews/JPG-T2-C017.json"},
+    {"batch":"JPG-T2-C018","fragment":"project/T2/fragments/JPG-T2-C018.json","fragment_blob_sha":"7bba154bfd210085ccc33531a4a86c70970e4890","review":"project/T2/reviews/JPG-T2-C018.json"}
+  ],
+  "chapter_review":{"page_coverage":"pass: all T2:297-T2:346 pages are included and represented in current PASS exact-JPG evidence","section_order":"pass: 29.1 -> 29.2 -> 29.3 -> 29.4 -> 29.5 -> 29.6","continuations":"pass: no same-section continuation crosses C016/C017 or C017/C018","boundary_review":"pass: boundaries are 29.3->29.4 at T2:314/315 and 29.5->29.6 at T2:332/333","findings":["The three-batch union is contiguous across 50 physical pages.","Temporary-difference classifications, recoverability, rate changes, disclosures, consolidated tax effects and all numerical/journal-entry examples are represented in saved page-level evidence.","No unresolved marker, stale task hash or out-of-order section return was found."],"corrections_required":false,"corrections":[],"method":"Revalidated current exact-JPG C016-C018 review evidence and all six task hashes, then audited the full page union, section sequence and both batch boundaries."},
+  "source_identity":{"edition":"2024/2025年合格目標","publication_date":"2023-05-04","pdf_sha256":"ba4b33c8881021044b6360bfd10899f1b1f882bda3ccc7df3f1f895e9cc55ba5","content_authority":"designated existing JPGs"}
+}
