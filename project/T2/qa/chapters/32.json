@@ -1,0 +1,28 @@
+{
+  "chapter":"32","status":"pass","unresolved_count":0,
+  "chunks":[
+    {"task":"JPG-T2-C023-S01","chunk_sha256":"b8f8c4f31a218824be53bd1354ba65f217b3034abf74f4896db1f0609d5a752c"},
+    {"task":"JPG-T2-C023-S02","chunk_sha256":"58426334509e925e5bb590f3f685673dc8efb185e4de643d924ff0dbc9dfc03a"},
+    {"task":"JPG-T2-C023-S03","chunk_sha256":"ac1c40a247467cb19d5b2a5cf453e92251e5cdf6721ea40e3fbbec8b202d08c3"},
+    {"task":"JPG-T2-C023-S04","chunk_sha256":"92884e91e97fe4ef390d124a680929e0d8b4e52468a3967d46067170a72bbbdc"},
+    {"task":"JPG-T2-C023-S05","chunk_sha256":"9abc55dbec65aabec44d8ec1329d4da7109c9d06eefabd8431a10b0984c0649d"},
+    {"task":"JPG-T2-C024-S01","chunk_sha256":"5c85cd90908345b69fd2ae5f1fc62c17554e0505976a4cff3dba0492f2c07fb0"},
+    {"task":"JPG-T2-C024-S02","chunk_sha256":"42f0d729749b703b7ca85544290e123c991962e2add9e8d36f2a3dea03545b3e"},
+    {"task":"JPG-T2-C024-S03","chunk_sha256":"4848a12d3e374ce1132947393f421736157334018e171bc53f88f9eff8b5a670"},
+    {"task":"JPG-T2-C024-S04","chunk_sha256":"1e6d9e6e7724feb84c9d4c16b37188e625ff5b230896cf36415238a0ca4fbb26"},
+    {"task":"JPG-T2-C024-S05","chunk_sha256":"369a352f32bc0836c1f7d647f3c691bef07d387806a2a9ad9e4e22a196dd3707"},
+    {"task":"JPG-T2-C024-S06","chunk_sha256":"8a5d070175280876aeacebeb7242b021b5a1b3faf0cb7b5d1b14d7e1928e6689"},
+    {"task":"JPG-T2-C024-S07","chunk_sha256":"f73f89fa0afb401f8d995050326b92e14c0c39eb26570eed483f2b86d8cd0f94"},
+    {"task":"JPG-T2-C024-S08","chunk_sha256":"6a34775188dcbadc423fb7a0ee6cce55168ccbad4963f5bf18e97b703542bd61"},
+    {"task":"JPG-T2-C025-S01","chunk_sha256":"217f9a32550622e9474255e485fb093f2a031a4f29d2156c88dab986abf62528"}
+  ],
+  "title":"四半期財務諸表に関する会計基準","qa_issue":181,"source_id":"T2","reviewed_on":"2026-09-08","reviewer_model":"GPT-5.6 Sol",
+  "scope":{"physical_range":"T2:411-T2:446","included_range":"T2:411-T2:445","excluded_pages":[{"page":"T2:446","reason":"【MEMO】の白紙ページ。画像確認により実質的な本文・表・図なし。"}]},
+  "review_basis":[
+    {"batch":"JPG-T2-C023","fragment":"project/T2/fragments/JPG-T2-C023.json","fragment_blob_sha":"cb78844f0a640e296fc8be6b8cab4f161b7657e5","review":"project/T2/reviews/JPG-T2-C023.json"},
+    {"batch":"JPG-T2-C024","fragment":"project/T2/fragments/JPG-T2-C024.json","fragment_blob_sha":"85e81dca3b8955f186f0010b1f90f19159229552","review":"project/T2/reviews/JPG-T2-C024.json"},
+    {"batch":"JPG-T2-C025","fragment":"project/T2/fragments/JPG-T2-C025.json","fragment_blob_sha":"86065e28ae9d2268881e0e7e6124398d0b2d2a28","review":"project/T2/reviews/JPG-T2-C025.json"}
+  ],
+  "chapter_review":{"page_coverage":"pass: T2:411-T2:445 are represented in current PASS exact-JPG evidence; T2:446 is the image-confirmed blank MEMO exclusion","section_order":"pass: 32.1 -> 32.2 -> 32.3 -> 32.4 -> 32.5","continuations":"pass: section 32.1 is intentionally split across C023-S01-S05, including a distinct lower-page handoff on T2:415; section 32.2 across C024-S01-S05 and section 32.4 across C024-S07/S08. These are locator-bounded continuations in source order","boundary_review":"pass: C023 ends section 32.1 on T2:421; C024 begins 32.2 on T2:422 and ends 32.4 on T2:442; C025 begins 32.5 on T2:443","findings":["The three-batch substantive page union covers T2:411-T2:445 without a missing physical page.","Quarterly-statement scope, simplified accounting, tax/cost-variance examples, presentation, policy changes and disclosure lists are all represented in saved page-level evidence.","The shared T2:415 page is an intentional regional continuation rather than duplicate meaning; no unresolved marker or stale task hash was found."],"corrections_required":false,"corrections":[],"method":"Revalidated current exact-JPG C023-C025 review evidence and all fourteen task hashes, then audited the full chapter union, same-page continuation, cross-batch boundaries and blank-page ledger."},
+  "source_identity":{"edition":"2024/2025年合格目標","publication_date":"2023-05-04","pdf_sha256":"ba4b33c8881021044b6360bfd10899f1b1f882bda3ccc7df3f1f895e9cc55ba5","content_authority":"designated existing JPGs"}
+}
