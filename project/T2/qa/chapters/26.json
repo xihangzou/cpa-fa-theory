@@ -1,0 +1,22 @@
+{
+  "chapter":"26","status":"pass","unresolved_count":0,
+  "chunks":[
+    {"task":"JPG-T2-C009-S01","chunk_sha256":"93fead16634bc47ec8d0908b125137d6aa4dcb153ccf4032b8c7dd404bc18063"},
+    {"task":"JPG-T2-C009-S02","chunk_sha256":"e4d1dd154617a57da06dde36433c359f5d956541e0d7b574c2c525fab3786dc9"},
+    {"task":"JPG-T2-C009-S03","chunk_sha256":"fe8fcefa4b2142a0dac61019543d801926eb32729e28022ed462ec0b46ccc5a1"},
+    {"task":"JPG-T2-C009-S04","chunk_sha256":"7aaaca3b5d89a454b7e48635c369cae0771c1f1481222f03d6630bc12c5b4137"},
+    {"task":"JPG-T2-C009-S05","chunk_sha256":"abfeb4fb3f48b3782386436b85dd2d9260253172bc38a9cdfea69e9c90def822"},
+    {"task":"JPG-T2-C010-S01","chunk_sha256":"15a954632c0880166d2a4628441e276023a6e0921fdeb353d8bdb81490bb4697"},
+    {"task":"JPG-T2-C010-S02","chunk_sha256":"9c165baf0c4365d2e54c43dd9c9e2c52ad905b9f56335d59453687ae8f755aab"},
+    {"task":"JPG-T2-C011-S01","chunk_sha256":"eed4d696f14eb20785d3fd4b6b6a7c67455c21da91363820aa2189fe3243aa41"}
+  ],
+  "title":"資本会計（会計基準論点）","qa_issue":175,"source_id":"T2","reviewed_on":"2026-09-08","reviewer_model":"GPT-5.6 Sol",
+  "scope":{"physical_range":"T2:167-T2:214","included_range":"T2:167-T2:213","excluded_pages":[{"page":"T2:214","reason":"【MEMO】の白紙ページ。画像確認により実質的な本文・図表なし。"}]},
+  "review_basis":[
+    {"batch":"JPG-T2-C009","fragment":"project/T2/fragments/JPG-T2-C009.json","fragment_blob_sha":"0d464b3f6ee5d2e320cfa4b8126043734c119b57","review":"project/T2/reviews/JPG-T2-C009.json"},
+    {"batch":"JPG-T2-C010","fragment":"project/T2/fragments/JPG-T2-C010.json","fragment_blob_sha":"313df58a141256c4b1aa32a977242944f0c289be","review":"project/T2/reviews/JPG-T2-C010.json"},
+    {"batch":"JPG-T2-C011","fragment":"project/T2/fragments/JPG-T2-C011.json","fragment_blob_sha":"7b676f5188b413ab2a6ca292fc5a3b19e5a6050b","review":"project/T2/reviews/JPG-T2-C011.json"}
+  ],
+  "chapter_review":{"page_coverage":"pass: T2:167-T2:213 are represented in current PASS evidence; T2:214 is the image-confirmed blank MEMO exclusion","section_order":"pass: 26.1 -> 26.2 -> 26.3 -> 26.4 -> 26.5 -> 26.6 -> 26.7 -> 26.8","continuations":"pass: no same-section continuation crosses C009/C010 or C010/C011","boundary_review":"pass: boundaries are 26.5->26.6 at T2:185/186 and 26.7->26.8 at T2:208/209","findings":["The three-batch chapter union covers every substantive page in order.","Capital classifications, treasury shares, net-assets presentation, equity-change statement examples and all relevant tables/entries are represented by page-level review evidence.","No unresolved marker, stale task hash or section return was found."],"corrections_required":false,"corrections":[],"method":"Revalidated current exact-JPG C009-C011 review evidence and all eight task hashes, then audited the full page union, section sequence, two batch boundaries and blank-page ledger."},
+  "source_identity":{"edition":"2024/2025年合格目標","publication_date":"2023-05-04","pdf_sha256":"ba4b33c8881021044b6360bfd10899f1b1f882bda3ccc7df3f1f895e9cc55ba5","content_authority":"designated existing JPGs"}
+}
