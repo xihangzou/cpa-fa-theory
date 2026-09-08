@@ -1,0 +1,22 @@
+{
+  "chapter":"27","status":"pass","unresolved_count":0,
+  "chunks":[
+    {"task":"JPG-T2-C012-S01","chunk_sha256":"ff409bd29a254123567a224296acca55b66ce1ae66f9f6f84a5073f009a00910"},
+    {"task":"JPG-T2-C012-S02","chunk_sha256":"92978ed63f53731f9d435b2153fe066ea50458e135e9ec7084ed35ac9ddeefc2"},
+    {"task":"JPG-T2-C012-S03","chunk_sha256":"2bab97c709b7001cb89fdc0a4884f4e416edd01102d0cb329bcc9bfd8b63b7e6"},
+    {"task":"JPG-T2-C012-S04","chunk_sha256":"bbf2c7fce891efc25ba8d6145ae193f90a591ef4349f7f49dc05a369f00d1011"},
+    {"task":"JPG-T2-C013-S01","chunk_sha256":"902dc355b24c093eee569ebd499f946146c2ba6236c6b07519338a9c0bec23aa"},
+    {"task":"JPG-T2-C013-S02","chunk_sha256":"5f76856bd1275bc2a41043dff6bcb1f0572195b65ddf43cac69c15ec5d7a4257"},
+    {"task":"JPG-T2-C013-S03","chunk_sha256":"c37d9b380300c9efdfe429b1a69cd757ee2f5a663c61ac02419ffc2cb29439d3"},
+    {"task":"JPG-T2-C013-S04","chunk_sha256":"ab1ba3d1eab6cb421a8a8463c914d5e0607b930d71c7947cd11bbf9970f7a1c8"},
+    {"task":"JPG-T2-C013-S05","chunk_sha256":"677f5b3986a1c5c9c469cc320a45d3999dd4b99d325deacef4b49becb7c12d22"}
+  ],
+  "title":"ストック・オプション等に関する会計基準","qa_issue":176,"source_id":"T2","reviewed_on":"2026-09-08","reviewer_model":"GPT-5.6 Sol",
+  "scope":{"physical_range":"T2:215-T2:252","included_range":"T2:215-T2:252","excluded_pages":[]},
+  "review_basis":[
+    {"batch":"JPG-T2-C012","fragment":"project/T2/fragments/JPG-T2-C012.json","fragment_blob_sha":"fc53d92c42f52fb0e95ace5a25d16e0a09fd93cc","review":"project/T2/reviews/JPG-T2-C012.json"},
+    {"batch":"JPG-T2-C013","fragment":"project/T2/fragments/JPG-T2-C013.json","fragment_blob_sha":"33136c0d00f47d7b8d3ee3ded6b14df75a4401a8","review":"project/T2/reviews/JPG-T2-C013.json"}
+  ],
+  "chapter_review":{"page_coverage":"pass: all T2:215-T2:252 pages are included and represented in current PASS exact-JPG evidence","section_order":"pass: 27.1 -> 27.2 -> 27.3 -> 27.4 -> 27.5 -> 27.6 -> 27.7 -> 27.8 -> 27.9","continuations":"pass: no same-section continuation crosses C012/C013","boundary_review":"pass: C012 ends 27.4 on T2:238 and C013 begins 27.5 on T2:239","findings":["The two-batch union is contiguous across 38 physical pages.","Scope rules, vesting conditions, fair-value examples, condition changes, unlisted-company treatment, disclosures and director-share grants are covered by saved page-level evidence.","No unresolved marker, stale task hash or section-order defect was found."],"corrections_required":false,"corrections":[],"method":"Revalidated current exact-JPG C012/C013 review evidence and all nine task hashes, then audited the full page union and clean 27.4/27.5 boundary."},
+  "source_identity":{"edition":"2024/2025年合格目標","publication_date":"2023-05-04","pdf_sha256":"ba4b33c8881021044b6360bfd10899f1b1f882bda3ccc7df3f1f895e9cc55ba5","content_authority":"designated existing JPGs"}
+}
