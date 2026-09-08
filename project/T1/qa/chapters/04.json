@@ -1,0 +1,18 @@
+{
+  "chapter":"04","status":"pass","unresolved_count":0,
+  "chunks":[
+    {"task":"JPG-T1-C006-S01","chunk_sha256":"4a1d0e57f8d64160ab7c4516afc13f80948d4837bdad55782ddc3cfd2787a158"},
+    {"task":"JPG-T1-C006-S02","chunk_sha256":"fc1bbc725a145b93fadf0d3b8c90255ce40965dff895254aa4e047136950a239"},
+    {"task":"JPG-T1-C006-S03","chunk_sha256":"08d8edb3c5f817c5e71c03636967c3cb406b5c6ca2c0ab8fbc74194817fa09aa"},
+    {"task":"JPG-T1-C006-S04","chunk_sha256":"bed1cd73dc07fc90a039f76728e1ebae1d1f829855e6f055764d6d3d49350db2"},
+    {"task":"JPG-T1-C006-S05","chunk_sha256":"a17936372ae896b3c8846c16371ee10bb34ba2f5d5d0384b827b014ac1c6f087"},
+    {"task":"JPG-T1-C006-S06","chunk_sha256":"9f174169dfc305545636a68c90c380aa0f799366807a333d466b6ff8c34945c0"},
+    {"task":"JPG-T1-C007-S01","chunk_sha256":"ce7b528d466f216277e8a4feea1780057b4ae302503d82e670547728b3591d8a"},
+    {"task":"JPG-T1-C007-S02","chunk_sha256":"2998f07c189f842941afcd113361ff1081b7e18011b1d58f9471cfb130d03cba"}
+  ],
+  "title":"損益会計","qa_issue":162,"source_id":"T1","reviewed_on":"2026-09-08","reviewer_model":"GPT-5.6 Sol",
+  "scope":{"physical_range":"T1:077-T1:106","included_range":"T1:077-T1:106","excluded_pages":[]},
+  "review_basis":[{"batch":"JPG-T1-C006","fragment":"project/T1/fragments/JPG-T1-C006.json","fragment_blob_sha":"e75adf5506f09a10ab179b3b10b0e0ded821bcc6","review":"project/T1/reviews/JPG-T1-C006.json"},{"batch":"JPG-T1-C007","fragment":"project/T1/fragments/JPG-T1-C007.json","fragment_blob_sha":"de4b4fb586c954c4a52fc8c2d0633d3428739090","review":"project/T1/reviews/JPG-T1-C007.json"}],
+  "chapter_review":{"page_coverage":"pass","section_order":"pass: 04.1 -> 04.2 -> 04.3 -> 04.4 -> 04.5 -> 04.6 -> 04.7 -> 04.8","continuations":"not_applicable","boundary_review":"pass: C006 ends section 04.6 on T1:097; C007 starts section 04.7 on T1:098. Its current review additionally verifies 04.7 ends on T1:100 before the 04.8 banner and 04.8 continues through T1:106 without spillover.","findings":["All 30 physical pages are represented by current exact-JPG review evidence.","Cross-batch order is monotonic and no continuation, duplicate page owner, stale reviewed hash or unresolved marker is recorded."],"corrections_required":false,"corrections":[],"method":"Revalidated current exact-JPG batch evidence and task hashes, then audited chapter-wide order and the C006/C007 boundary."},
+  "source_identity":{"edition":"2024/2025年合格目標","publication_date":"2023-01-23","pdf_sha256":"c09d9d91ce39de787cab04e146719d95b638134399d57112802ffacfa67243f3","content_authority":"designated existing JPGs"}
+}
