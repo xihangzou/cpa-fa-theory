@@ -1,0 +1,25 @@
+{
+  "chapter": "02",
+  "status": "pass",
+  "unresolved_count": 0,
+  "chunks": [
+    {"task":"JPG-T1-C003-S01","chunk_sha256":"d95698bdc2c3e44471d29afca5aaeab4b6f172bb4ec6631d00bd0abf8b1c63fb"},
+    {"task":"JPG-T1-C003-S02","chunk_sha256":"0ed4c37c9c264f37baa994c33ce46a3c668eb7545681f668e93c091866ba8dac"},
+    {"task":"JPG-T1-C003-S03","chunk_sha256":"616bea4663832178bb5ce672c102e4023a8866554b32268d4031bc5dab49d2ae"},
+    {"task":"JPG-T1-C003-S04","chunk_sha256":"1fc30136f411822bb6f4e5129db645c22cc5dcd222da5c7bcc7e3f94555b1c65"},
+    {"task":"JPG-T1-C003-S05","chunk_sha256":"3e1e77aeef2cc010f4ef2ceb0f50dac04a4c8c0c0d6983bebf85934a34705d63"},
+    {"task":"JPG-T1-C003-S06","chunk_sha256":"f180cdc3bbb62cc0a4151d16dc1ff0daad3a55963e6113f7edc2f48d7a39909c"},
+    {"task":"JPG-T1-C003-S07","chunk_sha256":"e195b8b7c220115fea3dc312b5ca577f5736fd3bcc906c5594d81efb2e55c823"},
+    {"task":"JPG-T1-C003-S08","chunk_sha256":"eaf79920aec7cc0ebfa0aeaa54866c8efafbfccceefa0bfc73bd41b47c672234"},
+    {"task":"JPG-T1-C004-S01","chunk_sha256":"bf2f2fdd00a0dbc49f06df34b18800ccd09a361b0304219fd2483f581055be41"}
+  ],
+  "title":"一般原則",
+  "qa_issue":161,
+  "source_id":"T1",
+  "reviewed_on":"2026-09-08",
+  "reviewer_model":"GPT-5.6 Sol",
+  "scope":{"physical_range":"T1:041-T1:066","included_range":"T1:041-T1:065","excluded_pages":[{"page":"T1:066","reason":"Blank chapter-end MEMO page with no learner content."}]},
+  "review_basis":[{"batch":"JPG-T1-C003","fragment":"project/T1/fragments/JPG-T1-C003.json","fragment_blob_sha":"3beb2294d1ead4ccf502e0a0c48976efc6490560","review":"project/T1/reviews/JPG-T1-C003.json"},{"batch":"JPG-T1-C004","fragment":"project/T1/fragments/JPG-T1-C004.json","fragment_blob_sha":"7240cc4ec4ef71bba781fa82bdc85f17b0692624","review":"project/T1/reviews/JPG-T1-C004.json"}],
+  "chapter_review":{"page_coverage":"pass: all included pages T1:041-T1:065 are covered by current PASS batch evidence; T1:066 is explicitly excluded","section_order":"pass: 02.1 -> 02.2 -> 02.3 -> 02.4 -> 02.5 -> 02.6 -> 02.7 -> 02.8 -> 02.9","continuations":"not_applicable","boundary_review":"pass: C003 ends with section 02.8 on T1:061 and C004 starts section 02.9 on T1:062; no return, duplicate processing page or cross-boundary source object is recorded","findings":["The chapter-wide union is complete across C003 and C004.","Current reviewed section hashes are ordered and no unresolved marker or stale approval is recorded."],"corrections_required":false,"corrections":[],"method":"Revalidated current exact-JPG page-review evidence and chunk hashes, then audited the cross-batch chapter union and section boundary."},
+  "source_identity":{"edition":"2024/2025年合格目標","publication_date":"2023-01-23","pdf_sha256":"c09d9d91ce39de787cab04e146719d95b638134399d57112802ffacfa67243f3","content_authority":"designated existing JPGs"}
+}
